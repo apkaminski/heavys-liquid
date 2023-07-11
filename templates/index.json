@@ -35,14 +35,14 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/headphoneshaevys-4.jpg",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/headphoneshaevys-4_292ec2cf-78c2-4ff3-bdd7-707a06ec88ad.jpg",
+        "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
-        "image_behavior": "zoom-in",
+        "image_behavior": "fixed",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
