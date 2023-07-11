@@ -330,25 +330,39 @@
             "heading_size": "h1"
           }
         },
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-1": {
-          "type": "text",
+        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967": {
+          "type": "icon-with-text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "layout": "vertical",
+            "icon_1": "check_mark",
+            "heading_1": "The Drivers",
+            "description_1": "Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges. Enjoy a superior listening experience characterized by exceptional clarity, richness, and depth."
           }
         },
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-2": {
-          "type": "button",
+        "66e14d12-5ecf-4694-ae84-78bddc050c66": {
+          "type": "icon-with-text",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "layout": "vertical",
+            "icon_1": "heart",
+            "heading_1": "<strong>The MasterMind<\/strong>",
+            "description_1": "A team of enthusiastic metal heads, engineered and led by Axel Grell,father of the HD series, with over 3 decades in the audio industry."
+          }
+        },
+        "c641f485-c30e-4ac3-822e-7caa35a87b2f": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "heart",
+            "heading_1": "Natural sound field",
+            "description_1": "Our ears are specifically designed to perceive sounds originating from the frontal direction. Heavys patent-pending technology has not one, but four speakers on each side, placed in a way that allows sound to enter our inner ear in a manner optimized for each individual ear."
           }
         }
       },
       "block_order": [
         "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-1",
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-2"
+        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
+        "66e14d12-5ecf-4694-ae84-78bddc050c66",
+        "c641f485-c30e-4ac3-822e-7caa35a87b2f"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/6481f85ae17560371fb05df6_headphones_haevys-6_1.png",
