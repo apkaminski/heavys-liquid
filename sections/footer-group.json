@@ -15,14 +15,14 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
+            "heading": "INFO",
             "menu": "footer-info"
           }
         },
         "b6964a98-04cb-41e2-911f-33e4af2d5502": {
           "type": "link_list",
           "settings": {
-            "heading": "Policies",
+            "heading": "POLICIES",
             "menu": "footer"
           }
         }
