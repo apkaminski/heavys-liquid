@@ -19,18 +19,18 @@
             "menu": "footer-info"
           }
         },
-        "footer-2": {
-          "type": "text",
+        "b6964a98-04cb-41e2-911f-33e4af2d5502": {
+          "type": "link_list",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Policies",
+            "menu": "footer"
           }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "footer-2"
+        "b6964a98-04cb-41e2-911f-33e4af2d5502"
       ],
       "settings": {
         "color_scheme": "accent-1",
