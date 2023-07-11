@@ -25,12 +25,20 @@
             "heading": "POLICIES",
             "menu": "footer-policies"
           }
+        },
+        "caae6918-beaf-4033-a5de-7bb680a2f7d9": {
+          "type": "text",
+          "settings": {
+            "heading": "CONTACT",
+            "subtext": "<p>support@heavys.com<\/p><p>contact us<\/p>"
+          }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "b6964a98-04cb-41e2-911f-33e4af2d5502"
+        "b6964a98-04cb-41e2-911f-33e4af2d5502",
+        "caae6918-beaf-4033-a5de-7bb680a2f7d9"
       ],
       "settings": {
         "color_scheme": "accent-1",
