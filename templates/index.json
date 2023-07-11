@@ -6,26 +6,26 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "heading": "<strong>Headphones Engineered For Heavy Metal<\/strong>",
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Metal-loud headphones with 2 frequency ranges and 4 drivers so you can listen to metal the way it’s meant to be heard.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_label_1": "Buy Now",
+            "button_link_1": "shopify:\/\/products\/heavys-headphones-2",
             "button_style_secondary_1": true,
-            "button_label_2": "",
+            "button_label_2": "Learn More",
             "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
