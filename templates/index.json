@@ -44,8 +44,8 @@
         "color_scheme": "inverse",
         "image_behavior": "fixed",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
