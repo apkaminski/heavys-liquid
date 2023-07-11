@@ -187,8 +187,8 @@
         "f983dcff-ff20-43c4-8c52-596455709ebd"
       ],
       "settings": {
-        "caption": "FAQs",
-        "heading": "Collapsible content",
+        "caption": "",
+        "heading": "FAQs",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
