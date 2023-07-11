@@ -60,6 +60,11 @@
       <span class="h4 inline-richtext">
         {{- block.settings.heading_1 -}}
       </span>
+      {%- unless description_1 ==empty -%}
+        <span class="p inline-richtext">
+          {{- block.settings.description_1 -}}
+        </span>
+      {%- endunless -%}
     </li>
   {%- endunless -%}
   {%- unless heading_2_empty -%}
