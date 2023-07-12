@@ -356,13 +356,23 @@
             "heading_1": "Natural sound field",
             "description_1": "Our ears are specifically designed to perceive sounds originating from the frontal direction. Heavys patent-pending technology has not one, but four speakers on each side, placed in a way that allows sound to enter our inner ear in a manner optimized for each individual ear."
           }
+        },
+        "39bf155e-c4c1-488e-b59e-b28704d805a4": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "heart",
+            "heading_1": "Attention to Details",
+            "description_1": "Equipped with noise cancellation, premium earcups, wired\/wirelessoptions, prolonged play time, build-in microphone and more..."
+          }
         }
       },
       "block_order": [
         "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
         "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
         "66e14d12-5ecf-4694-ae84-78bddc050c66",
-        "c641f485-c30e-4ac3-822e-7caa35a87b2f"
+        "c641f485-c30e-4ac3-822e-7caa35a87b2f",
+        "39bf155e-c4c1-488e-b59e-b28704d805a4"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/6481f85ae17560371fb05df6_headphones_haevys-6_1.png",
