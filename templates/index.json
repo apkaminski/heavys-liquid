@@ -377,7 +377,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/6481f85ae17560371fb05df6_headphones_haevys-6_1.png",
         "height": "large",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
