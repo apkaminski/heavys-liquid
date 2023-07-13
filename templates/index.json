@@ -298,8 +298,8 @@
       ],
       "settings": {
         "product": "shell-bundle-1",
-        "color_scheme": "",
-        "secondary_background": true,
+        "color_scheme": "inverse",
+        "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": false,
         "secondary_image": "shopify:\/\/shop_images\/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
@@ -308,7 +308,7 @@
         "image_zoom": "none",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 0,
+        "padding_top": 80,
         "padding_bottom": 80
       }
     },
