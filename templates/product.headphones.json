@@ -151,11 +151,41 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "63f502e6-2b1f-446a-ba33-c228db2481e0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14884059381834__63f502e6-2b1f-446a-ba33-c228db2481e0-168923659060cb20b7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Best Features",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059381834__63f502e6-2b1f-446a-ba33-c228db2481e0-168923659060cb20b7-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-07-13_at_10.37.41.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
     }
   },
   "order": [
     "main",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
-    "related-products"
+    "related-products",
+    "63f502e6-2b1f-446a-ba33-c228db2481e0"
   ]
 }
