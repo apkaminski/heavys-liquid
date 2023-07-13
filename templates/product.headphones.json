@@ -200,7 +200,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "USB",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>USB-C socket for charging and digital in<\/p>",
             "page": ""
           }
