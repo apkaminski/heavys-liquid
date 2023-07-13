@@ -10,13 +10,6 @@
             "heading_size": "h1"
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Metal-loud headphones with 2 frequency ranges and 4 drivers so you can listen to metal the way it’s meant to be heard.",
-            "text_style": "body"
-          }
-        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -26,6 +19,13 @@
             "button_label_2": "Learn More",
             "button_link_2": "#shopify-section-template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282",
             "button_style_secondary_2": true
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Metal-loud headphones with 2 frequency ranges and 4 drivers so you can listen to metal the way it’s meant to be heard.",
+            "text_style": "body"
           }
         },
         "6a74b5f8-5938-400c-b2df-8c2c462089fb": {
@@ -38,14 +38,14 @@
       },
       "block_order": [
         "heading",
-        "text",
         "button",
+        "text",
         "6a74b5f8-5938-400c-b2df-8c2c462089fb"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/L1050092_14dbfd0d-92b8-491d-bd86-77d26752de15.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "large",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
