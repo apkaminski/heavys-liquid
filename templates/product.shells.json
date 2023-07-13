@@ -122,7 +122,7 @@
         "product": "{{ product.metafields.heavys_custom.band.value.bundle_product.value }}",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "secondary_background": false,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": false,
         "media_fit": "contain",
         "media_position": "left",
