@@ -150,7 +150,7 @@
         "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "{{ product.metafields.heavys_custom.band.value.band_description.value }}",
             "text_style": "body"
           }
         },
