@@ -58,7 +58,9 @@
 <section class='color-{{ section.settings.color_scheme }} {% if section.settings.secondary_background %}background-secondary{% else %}gradient{% endif %}'>
   <div class='page-width section-{{ section.id }}-padding{% if section.settings.secondary_background %} isolate{% endif %}'>
     <div class='featured-product product product--{{ section.settings.media_size }} grid grid--1-col gradient color-{{ section.settings.color_scheme }} product--{{ section.settings.media_position }}{% if section.settings.secondary_background == false %} isolate{% endif %} {% if product.media.size > 0 or section.settings.product == blank %}grid--2-col-tablet{% else %}product--no-media{% endif %}'>
+
       <div class='grid__item product__media-wrapper{% if section.settings.media_position == 'right' %} medium-hide large-up-hide{% endif %}'>
+       
         <media-gallery
           id='MediaGallery-{{ section.id }}'
           role='region'
@@ -69,10 +71,25 @@
             id='GalleryViewer-{{ section.id }}'
             class='product__media-list{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}'
           >
+            {%- if section.settings.secondary_image != blank -%}
+        
+              {%- assign widths = '165, 360, 535, 750, 1070, 1500' -%}
+              {%- capture sizes -%}
+                (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px,
+                (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)
+              {%- endcapture -%}
+              <div class="media__secondary twcss-w-1/2">
+                {{
+                  section.settings.secondary_image
+                  | image_url: width: 1500
+                  | image_tag: loading: 'lazy', sizes: sizes, widths: widths
+                }}
+              </div>
+            {%- endif -%}
             {%- if section.settings.product != blank -%}
               {%- if product.selected_or_first_available_variant.featured_media != null -%}
                 {%- assign media = product.selected_or_first_available_variant.featured_media -%}
-                <div class='product__media-item' data-media-id='{{ section.id }}-{{ media.id }}'>
+                <div class='product__media-item{%- if section.settings.secondary_image != blank -%} twcss-w-1/2{%- endif -%}' data-media-id='{{ section.id }}-{{ media.id }}'>
                   {% render 'product-thumbnail',
                     media: media,
                     position: 'featured',
@@ -1404,6 +1421,11 @@
       "id": "constrain_to_viewport",
       "default": true,
       "label": "t:sections.main-product.settings.constrain_to_viewport.label"
+    },
+    {
+      "type": "image_picker",
+      "id": "secondary_image",
+      "label": "Secondary Image"
     },
     {
       "type": "select",
