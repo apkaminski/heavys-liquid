@@ -159,6 +159,51 @@
             "row_content": "<p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance<\/p>",
             "page": ""
           }
+        },
+        "4e02c51b-77f2-4550-bbb4-ace39c555df5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Modes",
+            "icon": "none",
+            "row_content": "<p>Wired Pure Passive, BT Passive, BT ANC, BT Transparent<\/p>",
+            "page": ""
+          }
+        },
+        "2d3347e7-bf1e-4cfe-91fc-354014fa8734": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Max SPL",
+            "icon": "none",
+            "row_content": "<p>According to IEC 62368-1<\/p>",
+            "page": ""
+          }
+        },
+        "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Voice Pick up",
+            "icon": "none",
+            "row_content": "<p>2 microphone end-fire array<\/p>",
+            "page": ""
+          }
+        },
+        "28c887b6-3d0d-45fb-bbd9-260a24339e8f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Controls",
+            "icon": "none",
+            "row_content": "<p>Volume up \/ down, play \/ pause, next \/ previous song, take \/ decline \/ end a call<\/p>",
+            "page": ""
+          }
+        },
+        "0640185d-f352-442b-9b4e-ce6844cc6853": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "USB",
+            "icon": "check_mark",
+            "row_content": "<p>USB-C socket for charging and digital in<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -170,7 +215,12 @@
         "bae46afd-53ac-45c9-b84e-a55a7f94ea3f",
         "79321c10-0039-4431-9e91-49bb9a38d1af",
         "e2e4d849-dd34-4954-920f-6f389b7fe144",
-        "81e7d9a4-097f-43fc-ae29-369ba5279d73"
+        "81e7d9a4-097f-43fc-ae29-369ba5279d73",
+        "4e02c51b-77f2-4550-bbb4-ace39c555df5",
+        "2d3347e7-bf1e-4cfe-91fc-354014fa8734",
+        "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b",
+        "28c887b6-3d0d-45fb-bbd9-260a24339e8f",
+        "0640185d-f352-442b-9b4e-ce6844cc6853"
       ],
       "settings": {
         "caption": "",
