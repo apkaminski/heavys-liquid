@@ -43,17 +43,17 @@
         "6a74b5f8-5938-400c-b2df-8c2c462089fb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/headphoneshaevys-4_292ec2cf-78c2-4ff3-bdd7-707a06ec88ad.jpg",
-        "image_overlay_opacity": 20,
+        "image": "shopify:\/\/shop_images\/headphoneshaevys.png",
+        "image_overlay_opacity": 60,
         "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
-        "image_behavior": "zoom-in",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "afe8820a-9e66-4dc8-9751-860686858282": {
