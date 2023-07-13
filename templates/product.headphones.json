@@ -73,7 +73,7 @@
         "hide_variants": true,
         "enable_video_looping": true,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 36
       }
     },
     "9ee22153-1421-49ae-ae56-fe473b7fbe10": {
@@ -228,11 +228,11 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "",
+        "color_scheme": "background-2",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 80,
+        "padding_bottom": 80
       }
     },
     "38a080f0-6b69-497b-9ef6-70faa02de6c7": {
