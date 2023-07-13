@@ -134,6 +134,64 @@
         "padding_bottom": 36
       }
     },
+    "89a118c0-27aa-4e50-a67f-aca584e69125": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-0",
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-1",
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-2",
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3",
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-5"
+      ],
+      "settings": {
+        "product": "shell-bundle-1",
+        "color_scheme": "inverse",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "secondary_image": "shopify:\/\/shop_images\/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -150,35 +208,6 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 28
-      }
-    },
-    "63f502e6-2b1f-446a-ba33-c228db2481e0": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14884059381834__63f502e6-2b1f-446a-ba33-c228db2481e0-168923659060cb20b7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Best Features",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--14884059381834__63f502e6-2b1f-446a-ba33-c228db2481e0-168923659060cb20b7-0"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-07-13_at_10.37.41.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "inverse",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 80,
-        "padding_bottom": 80
       }
     },
     "1b0f7520-3efd-466f-baa3-a8cf59012ca8": {
@@ -246,8 +275,8 @@
   "order": [
     "main",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
+    "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products",
-    "63f502e6-2b1f-446a-ba33-c228db2481e0",
     "1b0f7520-3efd-466f-baa3-a8cf59012ca8"
   ]
 }
