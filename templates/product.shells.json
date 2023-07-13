@@ -1,55 +1,5 @@
 {
   "sections": {
-    "a2f22575-69f0-4c0b-a1c4-de27d0909e95": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--14884059414602__a2f22575-69f0-4c0b-a1c4-de27d0909e95-16892750756f12b54e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "{{ product.metafields.heavys_custom.band.value.name.value }}",
-            "heading_size": "h1"
-          }
-        },
-        "template--14884059414602__a2f22575-69f0-4c0b-a1c4-de27d0909e95-16892750756f12b54e-1": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.heavys_custom.band.value.band_description.value }}",
-            "text_style": "body"
-          }
-        },
-        "template--14884059414602__a2f22575-69f0-4c0b-a1c4-de27d0909e95-16892750756f12b54e-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Buy Now",
-            "button_link_1": "#buy",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14884059414602__a2f22575-69f0-4c0b-a1c4-de27d0909e95-16892750756f12b54e-0",
-        "template--14884059414602__a2f22575-69f0-4c0b-a1c4-de27d0909e95-16892750756f12b54e-1",
-        "template--14884059414602__a2f22575-69f0-4c0b-a1c4-de27d0909e95-16892750756f12b54e-2"
-      ],
-      "settings": {
-        "image": "{{ product.metafields.heavys_custom.band.value.headphones_image.value }}",
-        "image_2": "{{ product.metafields.heavys_custom.band.value.band_logo.value }}",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "bottom-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -113,10 +63,10 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
-        "gallery_layout": "stacked",
+        "gallery_layout": "thumbnail",
         "media_position": "left",
         "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
@@ -194,7 +144,6 @@
     }
   },
   "order": [
-    "a2f22575-69f0-4c0b-a1c4-de27d0909e95",
     "main",
     "23bdb07e-77f8-419c-9568-b7766935372a",
     "related-products"
