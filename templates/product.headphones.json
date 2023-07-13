@@ -76,49 +76,6 @@
         "padding_bottom": 12
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -136,11 +93,69 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "38a080f0-6b69-497b-9ef6-70faa02de6c7": {
+      "type": "multirow",
+      "blocks": {
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6481f85ae17560371fb05df6_headphones_haevys-6_1.png",
+            "caption": "",
+            "heading": "The Drivers",
+            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges. Enjoy a superior listening experience characterized by exceptional clarity, richness, and depth.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6481f02a2564fe8b135f478c_headphoneshaevys-3_4429e6cb-0d05-4d30-9856-9d976b24d9ac.png",
+            "caption": "",
+            "heading": "Natural sound field",
+            "text": "<p>Our ears are specifically designed to perceive sounds originating from the frontal direction. Heavys patent-pending technology has not one, but four speakers on each side, placed in a way that allows sound to enter our inner ear in a manner optimized for each individual ear.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6481f02b77ecb95156ca18a3_headphoneshaevys-5.png",
+            "caption": "",
+            "heading": "Attention to Details",
+            "text": "<p>Equipped with noise cancellation, premium earcups, wired\/wireless<br\/>options, prolonged play time, build-in microphone and more...<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0",
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1",
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "multicolumn",
-    "related-products"
+    "related-products",
+    "38a080f0-6b69-497b-9ef6-70faa02de6c7"
   ]
 }
