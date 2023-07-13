@@ -6,14 +6,14 @@
         "template--14884059414602__a2f22575-69f0-4c0b-a1c4-de27d0909e95-16892750756f12b54e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "{{ product.metafields.heavys_custom.band.value.name.value }}",
             "heading_size": "h1"
           }
         },
         "template--14884059414602__a2f22575-69f0-4c0b-a1c4-de27d0909e95-16892750756f12b54e-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "{{ product.metafields.heavys_custom.band.value.band_description.value }}",
             "text_style": "body"
           }
         },
@@ -35,15 +35,17 @@
         "template--14884059414602__a2f22575-69f0-4c0b-a1c4-de27d0909e95-16892750756f12b54e-2"
       ],
       "settings": {
+        "image": "{{ product.metafields.heavys_custom.band.value.headphones_image.value }}",
+        "image_2": "{{ product.metafields.heavys_custom.band.value.band_logo.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
