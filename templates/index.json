@@ -192,117 +192,6 @@
         "padding_bottom": 80
       }
     },
-    "a259a103-10d9-404b-84c4-de542413e278": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Will there be a Heavys mobile app?",
-            "icon": "none",
-            "row_content": "<p>Certainly, we are currently developing an app that will enable the management of specific headphone features and incorporate some exciting new advancements in the near future.<\/p>",
-            "page": ""
-          }
-        },
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "When will my pre-order be shipped?",
-            "icon": "none",
-            "row_content": "<p><strong>Orders before April 5th -<\/strong> We started shipping for orders that were made before April 5th. Orders are sent depending on your order location, order time, and order content. H1H backorders will be shipped out gradually over a period of 3 months [May-July]<strong>. <\/strong>You will receive another email with the tracking number as your order is shipped.<\/p><p><strong>New orders -<\/strong> If you plan to buy it now, the current estimation is August 2023. Please note that this is an estimate, as you're pre-ordering the product, and production delays could arise. You will receive another email with the tracking number as your order is shipped.<\/p>",
-            "page": ""
-          }
-        },
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What’s in the box?",
-            "icon": "none",
-            "row_content": "<p>With your purchase, you will get a tech-packed brand new pair of Heavys black headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates.<\/p><p>If you want to listen in wired mode through an AUX connection, you can purchase AUX cables as addons. Heavys offers 2 lengths of 3.5 mm AUX cables: normal length 1.3 meters (~4.25 ft) or extra long 3 meters (~9.85 ft).<\/p>",
-            "page": ""
-          }
-        },
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is Firmware?",
-            "icon": "none",
-            "row_content": "<p>Firmware refers to the software that is integrated into your headphones. Just like any other software, firmware can be updated to improve functionality and add new features. We periodically release firmware updates for your Heavys to ensure that you continue to enjoy optimal performance and premium sound quality. Don't worry. Updating your firmware is a straightforward process that we've made as easy as possible.<\/p>",
-            "page": ""
-          }
-        },
-        "b4a1429a-224f-48fd-a2b7-0c4b808e42f8": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How will Heavys sound when listening to other music genres?",
-            "icon": "none",
-            "row_content": "<p>Heavys headphones are designed to be great headphones at an affordable price for any music genre.<\/p><p>They pack strong spec and technological innovation that helps create a great all-around set of headphones. As we are geared for heavy music, the features complement that (such as loudness enhancement w\/o hearing damage), but that does not mean you will not have an awesome listening experience in other musical environments.<\/p>",
-            "page": ""
-          }
-        },
-        "e63ec509-8cc2-42f8-8422-902902dc18d7": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Does shipping costs cover local taxes and fees?",
-            "icon": "none",
-            "row_content": "<p>For taxes, every country has its own taxes and procedures. You are responsible for paying any taxes or specific country duties, if applicable, in your country or state as with any other consumer electronic goods ordered online.<\/p>",
-            "page": ""
-          }
-        },
-        "9813ee02-ba68-479f-b348-3918c537e656": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How is the battery life?",
-            "icon": "none",
-            "row_content": "<p>Our battery lasts 50 hours without ANC (Noise-canceling, aka Hell Blocker), and 40hrs with ANC.<br\/>Like any electrical device, extreme cold may damage the battery, we do not recommend taking the headphones out to temperatures below -20℃.<\/p>",
-            "page": ""
-          }
-        },
-        "85e1abbc-881b-498e-9307-51095af8a63f": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How do I replace the shells?",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "f983dcff-ff20-43c4-8c52-596455709ebd": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Do you have more questions?",
-            "icon": "none",
-            "row_content": "<p>Email support@heavys.com for any additional questions!<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2",
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-3",
-        "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
-        "e63ec509-8cc2-42f8-8422-902902dc18d7",
-        "9813ee02-ba68-479f-b348-3918c537e656",
-        "85e1abbc-881b-498e-9307-51095af8a63f",
-        "f983dcff-ff20-43c4-8c52-596455709ebd"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "FAQs",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
       "type": "featured-blog",
       "settings": {
@@ -422,6 +311,117 @@
         "padding_top": 80,
         "padding_bottom": 80
       }
+    },
+    "a259a103-10d9-404b-84c4-de542413e278": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will there be a Heavys mobile app?",
+            "icon": "none",
+            "row_content": "<p>Certainly, we are currently developing an app that will enable the management of specific headphone features and incorporate some exciting new advancements in the near future.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When will my pre-order be shipped?",
+            "icon": "none",
+            "row_content": "<p><strong>Orders before April 5th -<\/strong> We started shipping for orders that were made before April 5th. Orders are sent depending on your order location, order time, and order content. H1H backorders will be shipped out gradually over a period of 3 months [May-July]<strong>. <\/strong>You will receive another email with the tracking number as your order is shipped.<\/p><p><strong>New orders -<\/strong> If you plan to buy it now, the current estimation is August 2023. Please note that this is an estimate, as you're pre-ordering the product, and production delays could arise. You will receive another email with the tracking number as your order is shipped.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s in the box?",
+            "icon": "none",
+            "row_content": "<p>With your purchase, you will get a tech-packed brand new pair of Heavys black headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates.<\/p><p>If you want to listen in wired mode through an AUX connection, you can purchase AUX cables as addons. Heavys offers 2 lengths of 3.5 mm AUX cables: normal length 1.3 meters (~4.25 ft) or extra long 3 meters (~9.85 ft).<\/p>",
+            "page": ""
+          }
+        },
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Firmware?",
+            "icon": "none",
+            "row_content": "<p>Firmware refers to the software that is integrated into your headphones. Just like any other software, firmware can be updated to improve functionality and add new features. We periodically release firmware updates for your Heavys to ensure that you continue to enjoy optimal performance and premium sound quality. Don't worry. Updating your firmware is a straightforward process that we've made as easy as possible.<\/p>",
+            "page": ""
+          }
+        },
+        "b4a1429a-224f-48fd-a2b7-0c4b808e42f8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How will Heavys sound when listening to other music genres?",
+            "icon": "none",
+            "row_content": "<p>Heavys headphones are designed to be great headphones at an affordable price for any music genre.<\/p><p>They pack strong spec and technological innovation that helps create a great all-around set of headphones. As we are geared for heavy music, the features complement that (such as loudness enhancement w\/o hearing damage), but that does not mean you will not have an awesome listening experience in other musical environments.<\/p>",
+            "page": ""
+          }
+        },
+        "e63ec509-8cc2-42f8-8422-902902dc18d7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does shipping costs cover local taxes and fees?",
+            "icon": "none",
+            "row_content": "<p>For taxes, every country has its own taxes and procedures. You are responsible for paying any taxes or specific country duties, if applicable, in your country or state as with any other consumer electronic goods ordered online.<\/p>",
+            "page": ""
+          }
+        },
+        "9813ee02-ba68-479f-b348-3918c537e656": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How is the battery life?",
+            "icon": "none",
+            "row_content": "<p>Our battery lasts 50 hours without ANC (Noise-canceling, aka Hell Blocker), and 40hrs with ANC.<br\/>Like any electrical device, extreme cold may damage the battery, we do not recommend taking the headphones out to temperatures below -20℃.<\/p>",
+            "page": ""
+          }
+        },
+        "85e1abbc-881b-498e-9307-51095af8a63f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I replace the shells?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "f983dcff-ff20-43c4-8c52-596455709ebd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have more questions?",
+            "icon": "none",
+            "row_content": "<p>Email support@heavys.com for any additional questions!<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-3",
+        "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
+        "e63ec509-8cc2-42f8-8422-902902dc18d7",
+        "9813ee02-ba68-479f-b348-3918c537e656",
+        "85e1abbc-881b-498e-9307-51095af8a63f",
+        "f983dcff-ff20-43c4-8c52-596455709ebd"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
     }
   },
   "order": [
@@ -429,9 +429,9 @@
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "featured_collection",
     "video",
-    "a259a103-10d9-404b-84c4-de542413e278",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "afe8820a-9e66-4dc8-9751-860686858282",
-    "22f700d7-1789-4b38-8eaf-9328d16ca0fd"
+    "22f700d7-1789-4b38-8eaf-9328d16ca0fd",
+    "a259a103-10d9-404b-84c4-de542413e278"
   ]
 }
