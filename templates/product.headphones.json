@@ -180,12 +180,74 @@
         "padding_top": 80,
         "padding_bottom": 80
       }
+    },
+    "1b0f7520-3efd-466f-baa3-a8cf59012ca8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14884059381834__1b0f7520-3efd-466f-baa3-a8cf59012ca8-168923819714fc6c83-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Type",
+            "icon": "none",
+            "row_content": "<p>Full size around-the-ear headphone<\/p>",
+            "page": ""
+          }
+        },
+        "template--14884059381834__1b0f7520-3efd-466f-baa3-a8cf59012ca8-168923819714fc6c83-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14884059381834__1b0f7520-3efd-466f-baa3-a8cf59012ca8-168923819714fc6c83-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14884059381834__1b0f7520-3efd-466f-baa3-a8cf59012ca8-168923819714fc6c83-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059381834__1b0f7520-3efd-466f-baa3-a8cf59012ca8-168923819714fc6c83-0",
+        "template--14884059381834__1b0f7520-3efd-466f-baa3-a8cf59012ca8-168923819714fc6c83-1",
+        "template--14884059381834__1b0f7520-3efd-466f-baa3-a8cf59012ca8-168923819714fc6c83-2",
+        "template--14884059381834__1b0f7520-3efd-466f-baa3-a8cf59012ca8-168923819714fc6c83-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
     "related-products",
-    "63f502e6-2b1f-446a-ba33-c228db2481e0"
+    "63f502e6-2b1f-446a-ba33-c228db2481e0",
+    "1b0f7520-3efd-466f-baa3-a8cf59012ca8"
   ]
 }
