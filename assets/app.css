@@ -517,6 +517,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   display: flex;
 }
 
-.twcss-w-1\/2 {
-  width: 50%;
+.twcss-w-3\/5 {
+  width: 60%;
 }
