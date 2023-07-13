@@ -69,7 +69,7 @@
         >
           <div
             id='GalleryViewer-{{ section.id }}'
-            class='product__media-list{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}'
+            class='product__media-list twcss-flex{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}'
           >
             {%- if section.settings.secondary_image != blank -%}
         
@@ -89,7 +89,10 @@
             {%- if section.settings.product != blank -%}
               {%- if product.selected_or_first_available_variant.featured_media != null -%}
                 {%- assign media = product.selected_or_first_available_variant.featured_media -%}
-                <div class='product__media-item{%- if section.settings.secondary_image != blank -%} twcss-w-1/2{%- endif -%}' data-media-id='{{ section.id }}-{{ media.id }}'>
+                {%- if section.settings.secondary_image != blank -%}
+                  <div class="product__media-wrapper twcss-w-1/2">
+                {%-  endif -%}
+                <div class="product__media-item" data-media-id='{{ section.id }}-{{ media.id }}'>
                   {% render 'product-thumbnail',
                     media: media,
                     position: 'featured',
@@ -136,6 +139,9 @@
                 </div>
               </div>
             {%- endif -%}
+            {%- if section.settings.secondary_image != blank -%}
+            </div>
+            {%-  endif -%}
           </div>
           {%- if first_3d_model -%}
             <button
