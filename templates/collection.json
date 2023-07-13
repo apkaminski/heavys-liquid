@@ -60,6 +60,13 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
           }
+        },
+        "54767c84-3de7-4bf5-92e9-f83dc355b677": {
+          "type": "text",
+          "settings": {
+            "text": "Feel the power of personalization with Heavys Shells™. Transform your headphones with a variety of designs and styles. Shred out in style with Heavys.",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -67,7 +74,8 @@
         "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-1",
         "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-2",
         "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-3",
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-5"
+        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-5",
+        "54767c84-3de7-4bf5-92e9-f83dc355b677"
       ],
       "settings": {
         "product": "shell-bundle-1",
