@@ -1,6 +1,6 @@
 <section
   id="MainProduct-{{ section.id }}"
-  class="page-width section-{{ section.id }}-padding"
+  class="page-width section-{{ section.id }}-padding color-{{ section.settings.color_scheme }}"
   data-section="{{ section.id }}"
 >
   {{ 'section-main-product.css' | asset_url | stylesheet_tag }}
@@ -59,7 +59,7 @@
     <div class="grid__item product__media-wrapper{% if section.settings.media_position == 'right' %} medium-hide large-up-hide{% endif %}">
       {% render 'product-media-gallery', variant_images: variant_images %}
     </div>
-    <div class="product__info-wrapper grid__item{% if settings.page_width > 1400 and section.settings.media_size == "small" %} product__info-wrapper--extra-padding{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+    <div class="product__info-wrapper grid__item{% if settings.page_width > 1400 and section.settings.media_size == "small" %} product__info-wrapper--extra-padding{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %} color-{{ section.settings.color_scheme }}">
       <product-info
         id="ProductInfo-{{ section.id }}"
         data-section="{{ section.id }}"
@@ -1901,6 +1901,12 @@
     }
   ],
   "settings": [
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "background-1"
+    },
     {
       "type": "checkbox",
       "id": "enable_sticky_info",

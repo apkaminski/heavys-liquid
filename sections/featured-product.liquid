@@ -90,7 +90,7 @@
               {%- if product.selected_or_first_available_variant.featured_media != null -%}
                 {%- assign media = product.selected_or_first_available_variant.featured_media -%}
                 {%- if section.settings.secondary_image != blank -%}
-                  <div class="product__media-wrapper twcss-w-3/5 ">
+                  <div class="product__media-wrapper twcss-w-3/5">
                 {%-  endif -%}
                 <div class="product__media-item" data-media-id='{{ section.id }}-{{ media.id }}'>
                   {% render 'product-thumbnail',
