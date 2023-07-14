@@ -2,6 +2,40 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "76ffe667-d89c-4967-9e77-454b74fef48b": {
+      "type": "newsletter",
+      "blocks": {
+        "sections--14883182575690__76ffe667-d89c-4967-9e77-454b74fef48b-16893279786f00efd8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe now to get notified on special early bird opportunities",
+            "heading_size": "h1"
+          }
+        },
+        "sections--14883182575690__76ffe667-d89c-4967-9e77-454b74fef48b-16893279786f00efd8-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        },
+        "sections--14883182575690__76ffe667-d89c-4967-9e77-454b74fef48b-16893279786f00efd8-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>By subscribing you are not committing to anything but rather getting a heads up. Further explanation will be provided and you may always unsubscribe.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "sections--14883182575690__76ffe667-d89c-4967-9e77-454b74fef48b-16893279786f00efd8-0",
+        "sections--14883182575690__76ffe667-d89c-4967-9e77-454b74fef48b-16893279786f00efd8-2",
+        "sections--14883182575690__76ffe667-d89c-4967-9e77-454b74fef48b-16893279786f00efd8-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -42,7 +76,7 @@
       ],
       "settings": {
         "color_scheme": "inverse",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": false,
         "show_social": true,
@@ -57,6 +91,7 @@
     }
   },
   "order": [
+    "76ffe667-d89c-4967-9e77-454b74fef48b",
     "footer"
   ]
 }
