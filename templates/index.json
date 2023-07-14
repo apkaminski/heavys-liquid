@@ -344,40 +344,6 @@
         "padding_bottom": 80
       }
     },
-    "22f700d7-1789-4b38-8eaf-9328d16ca0fd": {
-      "type": "newsletter",
-      "blocks": {
-        "template--14883182903370__22f700d7-1789-4b38-8eaf-9328d16ca0fd-168914907944520acb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe now to get notified on special early bird opportunities",
-            "heading_size": "h1"
-          }
-        },
-        "template--14883182903370__22f700d7-1789-4b38-8eaf-9328d16ca0fd-168914907944520acb-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        },
-        "template--14883182903370__22f700d7-1789-4b38-8eaf-9328d16ca0fd-168914907944520acb-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>By subscribing you are not committing to anything but rather getting a heads up. Further explanation will be provided and you may always unsubscribe.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__22f700d7-1789-4b38-8eaf-9328d16ca0fd-168914907944520acb-0",
-        "template--14883182903370__22f700d7-1789-4b38-8eaf-9328d16ca0fd-168914907944520acb-2",
-        "template--14883182903370__22f700d7-1789-4b38-8eaf-9328d16ca0fd-168914907944520acb-1"
-      ],
-      "settings": {
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "full_width": true,
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
     "a259a103-10d9-404b-84c4-de542413e278": {
       "type": "collapsible-content",
       "blocks": {
@@ -488,7 +454,6 @@
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
-    "22f700d7-1789-4b38-8eaf-9328d16ca0fd",
     "a259a103-10d9-404b-84c4-de542413e278"
   ]
 }
