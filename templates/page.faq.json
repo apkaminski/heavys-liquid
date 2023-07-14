@@ -127,10 +127,146 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "e58bbbcb-3cfb-4130-8683-b5d4b3338a01": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I replace the shells?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What shells designs are available?",
+            "icon": "none",
+            "row_content": "<p>Check out the available designs on the <a href=\"\/collections\/shells\" title=\"Shells\">Shells Collection<\/a><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-0",
+        "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1"
+      ],
+      "settings": {
+        "caption": "FAQ",
+        "heading": "Shells",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "05a222a6-4024-4a56-a83f-4c517de5457f": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does shipping costs cover local taxes and fees?",
+            "icon": "none",
+            "row_content": "<p>For taxes, every country has its own taxes and procedures. You are responsible for paying any taxes or specific country duties, if applicable, in your country or state as with any other consumer electronic goods ordered online.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0"
+      ],
+      "settings": {
+        "caption": "FAQ",
+        "heading": "Shipping & Taxes",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d57daec0-b334-4704-81c6-4018c4dbec41": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I combine orders so that they ship together?",
+            "icon": "none",
+            "row_content": "<p>At this time, we can not combine orders. If you wish to order extra headphones or an add-on, please create a new order.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I did not receive a tracking number for my order.",
+            "icon": "none",
+            "row_content": "<p>You'll receive an email with tracking info once we ship your order. <\/p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0",
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-1",
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2",
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-3"
+      ],
+      "settings": {
+        "caption": "FAQ",
+        "heading": "Orders",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "13db89f4-7cd1-4e43-85a2-b8c0a616da49"
+    "13db89f4-7cd1-4e43-85a2-b8c0a616da49",
+    "e58bbbcb-3cfb-4130-8683-b5d4b3338a01",
+    "05a222a6-4024-4a56-a83f-4c517de5457f",
+    "d57daec0-b334-4704-81c6-4018c4dbec41"
   ]
 }
