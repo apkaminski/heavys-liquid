@@ -314,6 +314,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Engineered by Industry Veteran Axel Grell",
         "heading_size": "h1",
