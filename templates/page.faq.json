@@ -320,18 +320,63 @@
         "9e97d138-2974-4b88-bb60-8bd2170d6b86": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "What Bluetooth version is used?",
+            "icon": "none",
+            "row_content": "<p>5.1<\/p>",
             "page": ""
           }
         },
         "f032f6c0-7267-4ade-9286-2654f74e534a": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "What is Heavys frequency range?",
+            "icon": "none",
+            "row_content": "<p>Frequency range: 5 Hz to 46 kHz.<\/p>",
+            "page": ""
+          }
+        },
+        "b312d676-f2a2-42e9-825e-6cc24ae1c0af": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What Codecs are supported?",
+            "icon": "none",
+            "row_content": "<p>SBC, AAC, aptX adaptive, LHDC.<\/p>",
+            "page": ""
+          }
+        },
+        "4d1357ba-f0ee-4b05-b1da-f557f42264da": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will they connect to a PC using the USB-C cable?",
+            "icon": "none",
+            "row_content": "<p>Yes.<\/p>",
+            "page": ""
+          }
+        },
+        "0de8b74c-0669-476c-84f9-2c43e26913f8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the THD?",
+            "icon": "none",
+            "row_content": "<p>THD at 100 dB SPL, 1 kHz: &gt;0.05%*<\/p>",
+            "page": ""
+          }
+        },
+        "651ce809-f810-4a98-8052-e6b5ab36143a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are Heavys wired or wireless?",
+            "icon": "none",
+            "row_content": "<p>You can use and listen to Heavys, both wired and wireless. Heavys supports 5.1 BLE Bluetooth but is also wired in through USB-C or AUX 3.5mm.<\/p>",
+            "page": ""
+          }
+        },
+        "dbd6db4f-7106-45b1-8cae-f8ae04ab2ce6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will the ear pads be replaceable?",
+            "icon": "none",
+            "row_content": "<p>Yes, you will be able to order them from us and replace them by yourself. The head pad is planned to be replaceable, but you’ll need to ship the headphones to us. Keep in mind they are not available at this time.<\/p>",
             "page": ""
           }
         }
@@ -345,7 +390,12 @@
         "42fd642e-0529-44e3-b84b-ff50d513fcd1",
         "8cb2d958-da05-451c-8665-4e07843dbdae",
         "9e97d138-2974-4b88-bb60-8bd2170d6b86",
-        "f032f6c0-7267-4ade-9286-2654f74e534a"
+        "f032f6c0-7267-4ade-9286-2654f74e534a",
+        "b312d676-f2a2-42e9-825e-6cc24ae1c0af",
+        "4d1357ba-f0ee-4b05-b1da-f557f42264da",
+        "0de8b74c-0669-476c-84f9-2c43e26913f8",
+        "651ce809-f810-4a98-8052-e6b5ab36143a",
+        "dbd6db4f-7106-45b1-8cae-f8ae04ab2ce6"
       ],
       "settings": {
         "caption": "FAQ",
