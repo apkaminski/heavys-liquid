@@ -45,16 +45,16 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/shells_bg.png",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "product-grid": {
