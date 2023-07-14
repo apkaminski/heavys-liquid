@@ -6,9 +6,131 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "13db89f4-7cd1-4e43-85a2-b8c0a616da49": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have a built-in microphone?",
+            "icon": "none",
+            "row_content": "<p>Yes, built in microphone is included.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the different Heavys operation modes?",
+            "icon": "none",
+            "row_content": "<p><strong>Wired Pure Passive - <\/strong>Analog Aux \/ USB type C connection with no Noise cancelation.<\/p><p><strong>Bluetooth Passive - <\/strong>Bluetooth connection without Noise cancelation.<\/p><p><strong>Bluetooth ANC - <\/strong>Bluetooth connection with active noise cancelation.<\/p><p><strong>Bluetooth Transparent - <\/strong>This mode lets you better hear your surroundings without removing your headphones.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How to update the Firmware?",
+            "icon": "none",
+            "row_content": "<p>*At this time, updates are available on Windows operating system only.<\/p><p>1.Download the firmware update (We will send you an email).<\/p><p>2.Connect headphones to your computer with the included USB cable.<\/p><p>3.Double-click the HEAVYS UPDATER icon to launch the program.<\/p><p>Updated.exe<\/p><p>4. Follow the on-screen instructions to update the firmware.<\/p><p>5.Wait for a success message before disconnecting from your computer.<\/p><p>6.Enjoy your new upgraded Heavys headphones.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will there be a Heavys mobile app?",
+            "icon": "none",
+            "row_content": "<p>Certainly, we are currently developing an app that will enable the management of specific headphone features and incorporate some exciting new advancements in the near future.<\/p>",
+            "page": ""
+          }
+        },
+        "6618d46a-824f-4b85-9a52-eab0cf34ade9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s in the box?",
+            "icon": "none",
+            "row_content": "<p>With your purchase, you will get a tech-packed brand new pair of Heavys black headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates.<\/p><p>If you want to listen in wired mode through an AUX connection, you can purchase AUX cables as addons. Heavys offers 2 lengths of 3.5 mm AUX cables: normal length 1.3 meters (~4.25 ft) or extra long 3 meters (~9.85 ft).<\/p>",
+            "page": ""
+          }
+        },
+        "d601a59c-bb25-4f5e-ba81-d41ad64f7534": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Heavys offer a Carry \/ Travel case",
+            "icon": "none",
+            "row_content": "<p>Yes, we do. It is available for purchase on <a href=\"\/products\/heavys-case-2\" title=\"Heavys Case\">our online store<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "8f16f7e5-db78-4538-ad54-132cef8d7088": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Firmware?",
+            "icon": "none",
+            "row_content": "<p>Firmware refers to the software that is integrated into your headphones. Just like any other software, firmware can be updated to improve functionality and add new features. We periodically release firmware updates for your Heavys to ensure that you continue to enjoy optimal performance and premium sound quality. Don't worry. Updating your firmware is a straightforward process that we've made as easy as possible.<\/p>",
+            "page": ""
+          }
+        },
+        "caa28194-cf5e-4f55-beb6-65bcc811a043": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I make phone calls with Heavys?",
+            "icon": "none",
+            "row_content": "<p>Yes, a built-in microphone for calls and voice commands is included.<\/p>",
+            "page": ""
+          }
+        },
+        "79ca05cd-f122-46f7-9c23-f1a2bf2862b4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What cables are included and what cables can we purchase as add-ons?",
+            "icon": "none",
+            "row_content": "<p>Cable included: USB-C to USB-C 1.4 meters (~4.59 ft for charging and wired mode listening & Firmware updated).<\/p><p>Addon cables you can purchase: <a href=\"\/products\/standard-aux-cable-1-3m-4-25ft-1\" title=\"Standard Aux Cable 1.3m (4.25ft)\">SHORT AUX 3.5mm 1.3 meters (~4.25 ft)<\/a> ; <a href=\"\/products\/long-aux-cable-3m-9-25ft-1\" title=\"Long Aux Cable 3m (9.25ft)\">LONG AUX 3.5mm 3 meters (~9.85 ft)<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "0cd5c109-17fd-485b-bc12-a762e66a3f0b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-0",
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-1",
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-2",
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-3",
+        "6618d46a-824f-4b85-9a52-eab0cf34ade9",
+        "d601a59c-bb25-4f5e-ba81-d41ad64f7534",
+        "8f16f7e5-db78-4538-ad54-132cef8d7088",
+        "caa28194-cf5e-4f55-beb6-65bcc811a043",
+        "79ca05cd-f122-46f7-9c23-f1a2bf2862b4",
+        "0cd5c109-17fd-485b-bc12-a762e66a3f0b"
+      ],
+      "settings": {
+        "caption": "FAQ",
+        "heading": "The Product",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "13db89f4-7cd1-4e43-85a2-b8c0a616da49"
   ]
 }
