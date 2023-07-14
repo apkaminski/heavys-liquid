@@ -224,13 +224,109 @@
         "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2": {
           "type": "collapsible_row",
           "settings": {
+            "heading": "When will my pre-order be shipped?",
+            "icon": "none",
+            "row_content": "<p><strong>Orders before April 5th -<\/strong> We started shipping for orders that were made before April 5th. Orders are sent depending on your order location, order time, and order content. H1H backorders will be shipped out gradually over a period of 3 months [May-July]<strong>. <\/strong>You will receive another email with the tracking number as your order is shipped.<\/p><p><strong>New orders -<\/strong> If you plan to buy it now, the current estimation is August 2023. Please note that this is an estimate, as you're pre-ordering the product, and production delays could arise. You will receive another email with the tracking number as your order is shipped.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0",
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-1",
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2"
+      ],
+      "settings": {
+        "caption": "FAQ",
+        "heading": "Orders",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I wear my glasses when using the Heavys Headphones?",
+            "icon": "none",
+            "row_content": "<p>Yes, you can wear your glasses with the headphones. However, to ensure good bass quality, the cushions should be positioned somewhat close to your ears, which may create some pressure. But don't worry, the pressure will be evenly distributed around your ears and the cushions are designed to be super soft for maximum comfort.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are you going to implement LDAC support?",
+            "icon": "none",
+            "row_content": "<p>LDAC is not supported.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much Heavys headphones weigh?",
+            "icon": "none",
+            "row_content": "<p>Weight: 255 g \/ 9 oz<\/p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How is the battery life?",
+            "icon": "none",
+            "row_content": "<p>Our battery lasts 50 hours without ANC (Noise-canceling, aka Hell Blocker), and 40hrs with ANC.<br\/>Like any electrical device, extreme cold may damage the battery, we do not recommend taking the headphones out to temperatures below -20℃.<\/p>",
+            "page": ""
+          }
+        },
+        "290681a0-1cd5-4692-a622-331bf732aeed": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the earcup size",
+            "icon": "none",
+            "row_content": "<p>The depth at the rear side will be 28 mm (1.1 Inches) which should be enough for most ears.<\/p>",
+            "page": ""
+          }
+        },
+        "42fd642e-0529-44e3-b84b-ff50d513fcd1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How is the battery life in extreme heat?",
+            "icon": "none",
+            "row_content": "<p>At 55℃ (131 F) a full battery charge will last 90% time compared to a controlled temperature.<\/p>",
+            "page": ""
+          }
+        },
+        "8cb2d958-da05-451c-8665-4e07843dbdae": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does the USB cable include an analog or digital signal?",
+            "icon": "none",
+            "row_content": "<p>The USB-C socket is for charging and digital data exchange.  It is designed to be a digital input to the internal DAC. The analog input is a balanced 2.5mm 4-pole socket.<\/p><p>The built-in DAC will be driven by a Mac or PC,  an iPad with USB-C, or an Android Smartphone or Tablet using a USB cable. An iPhone or iPad without USB-C can be used with a dedicated adapter.<\/p>",
+            "page": ""
+          }
+        },
+        "9e97d138-2974-4b88-bb60-8bd2170d6b86": {
+          "type": "collapsible_row",
+          "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
           }
         },
-        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-3": {
+        "f032f6c0-7267-4ade-9286-2654f74e534a": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
@@ -241,14 +337,19 @@
         }
       },
       "block_order": [
-        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0",
-        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-1",
-        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2",
-        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-3"
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-0",
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-1",
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-2",
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-3",
+        "290681a0-1cd5-4692-a622-331bf732aeed",
+        "42fd642e-0529-44e3-b84b-ff50d513fcd1",
+        "8cb2d958-da05-451c-8665-4e07843dbdae",
+        "9e97d138-2974-4b88-bb60-8bd2170d6b86",
+        "f032f6c0-7267-4ade-9286-2654f74e534a"
       ],
       "settings": {
         "caption": "FAQ",
-        "heading": "Orders",
+        "heading": "Tech \/ Spec",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "row",
@@ -267,6 +368,7 @@
     "13db89f4-7cd1-4e43-85a2-b8c0a616da49",
     "e58bbbcb-3cfb-4130-8683-b5d4b3338a01",
     "05a222a6-4024-4a56-a83f-4c517de5457f",
-    "d57daec0-b334-4704-81c6-4018c4dbec41"
+    "d57daec0-b334-4704-81c6-4018c4dbec41",
+    "0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c"
   ]
 }
