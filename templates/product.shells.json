@@ -206,7 +206,7 @@
         "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "button_label_1": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shell",
             "button_link_1": "#top",
             "button_style_secondary_1": false,
             "button_label_2": "",
