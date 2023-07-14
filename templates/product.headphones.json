@@ -62,7 +62,7 @@
         "description"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "accent-2",
         "enable_sticky_info": true,
         "media_size": "medium",
         "constrain_to_viewport": true,
