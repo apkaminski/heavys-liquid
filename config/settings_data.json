@@ -7,7 +7,7 @@
     "heading_scale": 100,
     "type_body_font": "roboto_condensed_n4",
     "body_scale": 100,
-    "page_width": 1420,
+    "page_width": 1400,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 16,
@@ -177,7 +177,7 @@
       },
       "accent-2": {
         "settings": {
-          "background": "#fff",
+          "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
           "button": "#63d48a",
