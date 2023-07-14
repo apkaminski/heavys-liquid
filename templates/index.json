@@ -314,12 +314,12 @@
     },
     "video": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "heading": "Engineered by Industry Veteran Axel Grell",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=VK17xvT-nwE",
+        "video": "shopify:\/\/files\/videos\/Behind Heavys Tech | Axel Grell Interview.mp4",
+        "video_url": "",
         "cover_image": "shopify:\/\/shop_images\/6404722a27be9b1574ca8cfd_axel_1_c7635053-4a5d-437e-aa6c-2b33920043d0.jpg",
         "description": "",
         "full_width": false,
@@ -445,6 +445,15 @@
             "page": ""
           }
         },
+        "85e1abbc-881b-498e-9307-51095af8a63f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I replace the shells?",
+            "icon": "none",
+            "row_content": "",
+            "page": "how-do-i-replace-the-shells"
+          }
+        },
         "f983dcff-ff20-43c4-8c52-596455709ebd": {
           "type": "collapsible_row",
           "settings": {
@@ -463,6 +472,7 @@
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
         "e63ec509-8cc2-42f8-8422-902902dc18d7",
         "9813ee02-ba68-479f-b348-3918c537e656",
+        "85e1abbc-881b-498e-9307-51095af8a63f",
         "f983dcff-ff20-43c4-8c52-596455709ebd"
       ],
       "settings": {
