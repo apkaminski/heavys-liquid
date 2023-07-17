@@ -262,6 +262,10 @@
         "template--14886113804362__ceb01346-9f93-48d8-adbf-ab68978ea4d5-16895909772107956b-1",
         "template--14886113804362__ceb01346-9f93-48d8-adbf-ab68978ea4d5-16895909772107956b-2"
       ],
+      "custom_css": [
+        ".multicolumn.background-primary .multicolumn-card {background-color: #181818;}",
+        " .media{border-top: 1px dashed #fa5853; border-bottom: 1px dashed #fa5853;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
