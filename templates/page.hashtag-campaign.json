@@ -75,19 +75,11 @@
             "text": "<p>All you need to do is to share on social media a video of you and your Heavys, tag us and use the hashtag of the campaign.<\/p><p>1. Share a video of your experience on social media<\/p><p>2. Tag <strong>@Heavysaudio<\/strong> in the post<\/p><p>3. Post the hashtags in the post:<strong>#Heavys #Unboxing<\/strong><\/p>",
             "text_style": "body"
           }
-        },
-        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-0",
-        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-1",
-        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-2"
+        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/hashtag-post.jpg",
@@ -120,8 +112,9 @@
         "template--14886113804362__b0928976-b8e9-41f5-a3ca-54f76ad4b17f-16895909772107956b-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/img-2.png",
+            "title": "Before \/ after",
+            "text": "<p>Heavys videos<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -129,8 +122,9 @@
         "template--14886113804362__b0928976-b8e9-41f5-a3ca-54f76ad4b17f-16895909772107956b-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/img-3.png",
+            "title": "Unboxing",
+            "text": "<p>videos<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -138,8 +132,9 @@
         "51d1e6f7-a29c-4d60-b0e5-50b1d21af714": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/img-4.png",
+            "title": "Any other video",
+            "text": "<p>you come up with<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -152,20 +147,20 @@
         "51d1e6f7-a29c-4d60-b0e5-50b1d21af714"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Check out video examples",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 80
       }
     }
   },
