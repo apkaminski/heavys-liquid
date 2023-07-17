@@ -2,13 +2,112 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "34920aac-e1d7-4dcc-87ab-aac4b4536d0a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14886113804362__34920aac-e1d7-4dcc-87ab-aac4b4536d0a-168959064190b9e274-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>🤘 Horns up Horns up Horns up 🤘<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14886113804362__34920aac-e1d7-4dcc-87ab-aac4b4536d0a-168959064190b9e274-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our quest for domination of the ultimate metal listening experience is finally realized!<br\/>‍<br\/>From the bottom of our black hearts, we thank the heavys community for your mind-blowing support.<br\/><br\/>As a token of our appreciation we wanted to <strong>give something back<\/strong>, and support our metal partners while doing so.<\/p>"
+          }
+        },
+        "template--14886113804362__34920aac-e1d7-4dcc-87ab-aac4b4536d0a-168959064190b9e274-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "8f53a533-0ecf-41da-8984-c45a296c698d": {
+          "type": "caption",
+          "settings": {
+            "caption": "*By participating in the hashtag campaign you agree to the terms and conditions (see details below)",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--14886113804362__34920aac-e1d7-4dcc-87ab-aac4b4536d0a-168959064190b9e274-0",
+        "template--14886113804362__34920aac-e1d7-4dcc-87ab-aac4b4536d0a-168959064190b9e274-1",
+        "template--14886113804362__34920aac-e1d7-4dcc-87ab-aac4b4536d0a-168959064190b9e274-2",
+        "8f53a533-0ecf-41da-8984-c45a296c698d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d01e6e52-b9dd-4681-8026-33398244ad2b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How does it work?",
+            "heading_size": "h1"
+          }
+        },
+        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All you need to do is to share on social media a video of you and your Heavys, tag us and use the hashtag of the campaign.<\/p><p>1. Share a video of your experience on social media<\/p><p>2. Tag <strong>@Heavysaudio<\/strong> in the post<\/p><p>3. Post the hashtags in the post:<strong>#Heavys #Unboxing<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-0",
+        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-1",
+        "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hashtag-post.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "34920aac-e1d7-4dcc-87ab-aac4b4536d0a",
+    "d01e6e52-b9dd-4681-8026-33398244ad2b"
   ]
 }
