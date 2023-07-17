@@ -123,7 +123,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 20
       }
     },
     "b0928976-b8e9-41f5-a3ca-54f76ad4b17f": {
@@ -220,7 +220,7 @@
         "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 20
       }
     },
     "ceb01346-9f93-48d8-adbf-ab68978ea4d5": {
