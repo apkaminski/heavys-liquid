@@ -1389,7 +1389,10 @@ a.product__text {
   height: var(--icon-size);
   width: var(--icon-size);
 }
-
+.icon-with-text .icon .stroke {
+  fill: none;
+  stroke: rgb(var(--color-foreground));
+}
 .icon-with-text--horizontal .icon,
 .icon-with-text--horizontal img {
   margin-bottom: var(--icon-spacing);

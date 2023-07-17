@@ -2897,6 +2897,11 @@ details-disclosure > details {
   background: var(--gradient-background);
   background-attachment: fixed;
 }
+.icon .stroke {
+  fill: none;
+  stroke: CanvasText;
+  stroke-miterlimit: 10;
+}
 
 @media screen and (forced-colors: active) {
   .icon {
