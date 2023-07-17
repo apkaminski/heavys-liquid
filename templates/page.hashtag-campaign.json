@@ -86,7 +86,7 @@
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "",
@@ -264,7 +264,7 @@
       ],
       "custom_css": [
         ".multicolumn.background-primary .multicolumn-card {background-color: #181818;}",
-        " .media{border-top: 1px dashed #fa5853; border-bottom: 1px dashed #fa5853;}"
+        ".media {border-top: 1px dashed #fa5853; border-bottom: 1px dashed #fa5853;}"
       ],
       "settings": {
         "title": "",
