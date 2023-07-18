@@ -414,21 +414,65 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "9a8acc7b-e800-4375-babb-b1db42f5ecb1": {
+          "type": "column",
+          "settings": {
+            "icon": "barcode",
+            "title": "50 hours play time",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "65b42d82-acc4-41e8-aa6b-9a65cf151134": {
+          "type": "column",
+          "settings": {
+            "icon": "headset",
+            "title": "Japanese SteelFlexible Headband",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8041cf07-1630-4520-9b8c-916dc33762d7": {
+          "type": "column",
+          "settings": {
+            "icon": "build",
+            "title": "Engineered in Germany",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a98f09b9-f13e-43fe-8e23-76fa02548618": {
+          "type": "column",
+          "settings": {
+            "icon": "reload",
+            "title": "Patent Pending",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0",
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1",
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2",
-        "25ebce84-0801-436c-ac34-74ace415f590"
+        "25ebce84-0801-436c-ac34-74ace415f590",
+        "9a8acc7b-e800-4375-babb-b1db42f5ecb1",
+        "65b42d82-acc4-41e8-aa6b-9a65cf151134",
+        "8041cf07-1630-4520-9b8c-916dc33762d7",
+        "a98f09b9-f13e-43fe-8e23-76fa02548618"
       ],
       "settings": {
         "title": "The best <strong>features<\/strong>",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 4,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "Button label",
         "button_link": "",
