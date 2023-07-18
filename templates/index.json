@@ -414,6 +414,17 @@
             "page": ""
           }
         },
+        "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6": {
+          "type": "video_collapsible_row",
+          "settings": {
+            "heading": "How do I replace the shells?",
+            "row_content": "",
+            "icon": "none",
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/How to replace Heavys Shells-(1080p).mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
         "f983dcff-ff20-43c4-8c52-596455709ebd": {
           "type": "collapsible_row",
           "settings": {
@@ -432,6 +443,7 @@
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
         "e63ec509-8cc2-42f8-8422-902902dc18d7",
         "9813ee02-ba68-479f-b348-3918c537e656",
+        "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
         "f983dcff-ff20-43c4-8c52-596455709ebd"
       ],
       "settings": {
@@ -445,6 +457,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
         "padding_top": 80,
         "padding_bottom": 80
       }
