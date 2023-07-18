@@ -2903,6 +2903,15 @@ details-disclosure > details {
   stroke-miterlimit: 10;
 }
 
+.icon.background {
+  background: rgb(var(--color-button));
+  width: 5rem;
+  height: 5rem;
+  padding: 1rem;
+  margin: 0 auto 1rem auto;
+  border-radius: 1rem;
+}
+
 @media screen and (forced-colors: active) {
   .icon {
     color: CanvasText;
