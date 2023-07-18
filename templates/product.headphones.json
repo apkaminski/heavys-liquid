@@ -77,6 +77,64 @@
         "padding_bottom": 36
       }
     },
+    "38a080f0-6b69-497b-9ef6-70faa02de6c7": {
+      "type": "multirow",
+      "blocks": {
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/headphoneshaevys-_1.jpg",
+            "caption": "",
+            "heading": "The Drivers",
+            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges. Enjoy a superior listening experience characterized by exceptional clarity, richness, and depth.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6481f02a2564fe8b135f478c_headphoneshaevys-3.png",
+            "caption": "",
+            "heading": "Natural sound field",
+            "text": "<p>Our ears are specifically designed to perceive sounds originating from the frontal direction. Heavys patent-pending technology has not one, but four speakers on each side, placed in a way that allows sound to enter our inner ear in a manner optimized for each individual ear.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6481f02b77ecb95156ca18a3_headphoneshaevys-5.png",
+            "caption": "",
+            "heading": "Attention to Details",
+            "text": "<p>Equipped with noise cancellation, premium earcups, wired\/wireless<br\/>options, prolonged play time, build-in microphone and more...<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0",
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1",
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d": {
       "type": "multicolumn",
       "blocks": {
@@ -352,64 +410,6 @@
         "padding_bottom": 80
       }
     },
-    "38a080f0-6b69-497b-9ef6-70faa02de6c7": {
-      "type": "multirow",
-      "blocks": {
-        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/headphoneshaevys-_1.jpg",
-            "caption": "",
-            "heading": "The Drivers",
-            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges. Enjoy a superior listening experience characterized by exceptional clarity, richness, and depth.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6481f02a2564fe8b135f478c_headphoneshaevys-3.png",
-            "caption": "",
-            "heading": "Natural sound field",
-            "text": "<p>Our ears are specifically designed to perceive sounds originating from the frontal direction. Heavys patent-pending technology has not one, but four speakers on each side, placed in a way that allows sound to enter our inner ear in a manner optimized for each individual ear.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6481f02b77ecb95156ca18a3_headphoneshaevys-5.png",
-            "caption": "",
-            "heading": "Attention to Details",
-            "text": "<p>Equipped with noise cancellation, premium earcups, wired\/wireless<br\/>options, prolonged play time, build-in microphone and more...<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0",
-        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1",
-        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "89a118c0-27aa-4e50-a67f-aca584e69125": {
       "type": "featured-product",
       "blocks": {
@@ -489,9 +489,9 @@
   },
   "order": [
     "main",
+    "38a080f0-6b69-497b-9ef6-70faa02de6c7",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
-    "38a080f0-6b69-497b-9ef6-70faa02de6c7",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products"
   ]
