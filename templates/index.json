@@ -194,6 +194,15 @@
             "heading_1": "Attention to Details",
             "description_1": "Equipped with noise cancellation, premium earcups, wired\/wirelessoptions, prolonged play time, build-in microphone and more..."
           }
+        },
+        "ce6f598c-3642-4832-ae69-c3fa478353da": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "branch",
+            "heading_1": "Test",
+            "description_1": "Add a tagline"
+          }
         }
       },
       "block_order": [
@@ -201,7 +210,8 @@
         "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
         "66e14d12-5ecf-4694-ae84-78bddc050c66",
         "c641f485-c30e-4ac3-822e-7caa35a87b2f",
-        "39bf155e-c4c1-488e-b59e-b28704d805a4"
+        "39bf155e-c4c1-488e-b59e-b28704d805a4",
+        "ce6f598c-3642-4832-ae69-c3fa478353da"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/6481f85ae17560371fb05df6_headphones_haevys-6_1.png",
@@ -211,7 +221,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,

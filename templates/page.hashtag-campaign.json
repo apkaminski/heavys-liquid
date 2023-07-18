@@ -133,6 +133,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/img-1.png",
+            "icon": "none",
             "title": "Reaction video",
             "text": "<p>of your first time experiencing Heavys<\/p>",
             "link_label": "",
@@ -143,6 +144,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/img-2.png",
+            "icon": "none",
             "title": "Before \/ after",
             "text": "<p>Heavys videos<\/p>",
             "link_label": "",
@@ -153,6 +155,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/img-3.png",
+            "icon": "none",
             "title": "Unboxing",
             "text": "<p>videos<\/p>",
             "link_label": "",
@@ -163,6 +166,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/img-4.png",
+            "icon": "none",
             "title": "Any other video",
             "text": "<p>you come up with<\/p>",
             "link_label": "",
@@ -230,6 +234,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/prize-1_2472fdce-0b10-4ae5-86d8-a4cdb34c778f.png",
+            "icon": "check_mark",
             "title": "<strong>$100 Voucher<\/strong>",
             "text": "<p><strong>BlastbeatsVinylOwned <\/strong><\/p><p>and operated by a true hardcore metal head shipping all across the US<\/p>",
             "link_label": "",
@@ -240,6 +245,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/prize-2_f1109265-0519-4bdd-aaae-aec6069509d4.png",
+            "icon": "check_mark",
             "title": "<strong>$150 Voucher<\/strong>",
             "text": "<p><strong>Heavys Store<\/strong><\/p><p>on your next purchase at Heavys!<\/p>",
             "link_label": "",
@@ -250,6 +256,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/prize-3_9d0ca3c1-29a3-44dc-8296-e99ea6b7dc77.png",
+            "icon": "check_mark",
             "title": "<strong>$100 Voucher<\/strong>",
             "text": "<p><strong>Revolver Magazine<\/strong><\/p><p>With the cool dudes at Rev M's online store<\/p>",
             "link_label": "",
