@@ -94,8 +94,134 @@
                     role="region"
                     aria-labelledby="Summary-{{ block.id }}-{{ section.id }}"
                   >
-                    {{ block.settings.row_content }}
-                    {{ block.settings.page.content }}
+                    {% case block.type %}
+                      {% when "collapsible_row" %}
+                        {{ block.settings.row_content }}
+                        {{ block.settings.page.content }}
+                      {% when "video_collapsible_row" %}
+                        {{ block.settings.row_content }}
+                        {%- liquid
+                          assign video_id = block.settings.video.id | default: block.settings.video_url.id
+                          assign video_alt = block.settings.video.alt | default: block.settings.description
+                          assign alt = 'sections.video.load_video' | t: description: video_alt | escape
+                          assign poster = block.settings.video.preview_image | default: block.settings.cover_image
+                        
+                          if block.settings.video != null
+                            assign ratio_diff = block.settings.video.aspect_ratio | minus: poster.aspect_ratio | abs
+                            if ratio_diff < 0.01 and ratio_diff > 0
+                              assign fix_ratio = true
+                            endif
+                          endif
+                        -%}
+                        
+                        {%- capture sizes -%}
+                          {% if block.settings.full_width -%}
+                            100vw
+                          {%- else -%}
+                            (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 }}px, (min-width: 750px)
+                            calc(100vw - 10rem), 100vw
+                          {%- endif %}
+                        {%- endcapture -%}
+
+                        <noscript>
+                          <div
+                            class="video-section__media"
+                            {% if poster != null %}
+                              style="--ratio-percent: {{ 1 | divided_by: poster.aspect_ratio | times: 100 }}%;"
+                            {% endif %}
+                          >
+                            {%- if block.settings.video == null and block.settings.video_url != null -%}
+                              <a
+                                href="{{ block.settings.video_url }}"
+                                class="video-section__poster media media--transparent{% if poster == null %} video-section__placeholder{% endif %}"
+                              >
+                                {%- if poster != null -%}
+                                  {{
+                                    poster
+                                    | image_url: width: 3840
+                                    | image_tag:
+                                      loading: 'lazy',
+                                      sizes: sizes,
+                                      widths: '375, 750, 1100, 1500, 1780, 2000, 3000, 3840',
+                                      alt: alt
+                                  }}
+                                {%- else -%}
+                                  {{ 'hero-apparel-3' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
+                                {%- endif -%}
+                              </a>
+                            {%- else -%}
+                              {{
+                                block.settings.video
+                                | video_tag: image_size: '1100x', loop: section.settings.enable_video_looping, controls: true, muted: false
+                              }}
+                            {%- endif -%}
+                          </div>
+                        </noscript>
+                        <deferred-media
+                          class="video-section__media deferred-media no-js-hidden gradient global-media-settings{% if block.settings.full_width %} global-media-settings--full-width{% endif %}{% if fix_ratio %} media-fit-cover{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+                          data-media-id="{{ video_id }}"
+                          {% if poster != null %}
+                            style="--ratio-percent: {{ 1 | divided_by: poster.aspect_ratio | times: 100 }}%;"
+                          {% endif %}
+                        >
+                          <button
+                            id="Deferred-Poster-Modal-{{ video_id }}"
+                            class="video-section__poster media deferred-media__poster media--landscape"
+                            type="button"
+                            aria-label="{{ alt }}"
+                          >
+                            {%- if poster != null -%}
+                              {{
+                                poster
+                                | image_url: width: 3840
+                                | image_tag: loading: 'lazy', sizes: sizes, widths: '375, 750, 1100, 1500, 1780, 2000, 3000, 3840', alt: alt
+                              }}
+                            {%- else -%}
+                              {{ 'hero-apparel-3' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
+                            {%- endif -%}
+                            <span class="deferred-media__poster-button motion-reduce">
+                              {%- render 'icon-play' -%}
+                            </span>
+                          </button>
+                          <template>
+                            {%- if block.settings.video == null and block.settings.video_url != null -%}
+                              {%- liquid
+                                assign loop = ''
+                                if block.settings.enable_video_looping
+                                  assign loop = '&loop=1&playlist=' | append: video_id
+                                endif
+                              -%}
+                              {%- if block.settings.video_url.type == 'youtube' -%}
+                                <iframe
+                                  src="https://www.youtube.com/embed/{{ video_id }}?enablejsapi=1&autoplay=1{{ loop }}"
+                                  class="js-youtube"
+                                  allow="autoplay; encrypted-media"
+                                  allowfullscreen
+                                  title="{{ block.settings.description | escape }}"
+                                ></iframe>
+                              {%- else -%}
+                                <iframe
+                                  src="https://player.vimeo.com/video/{{ video_id }}?autoplay=1{{ loop }}"
+                                  class="js-vimeo"
+                                  allow="autoplay; encrypted-media"
+                                  allowfullscreen
+                                  title="{{ block.settings.description | escape }}"
+                                ></iframe>
+                              {%- endif -%}
+                            {%- else -%}
+                              {{
+                                block.settings.video
+                                | video_tag:
+                                  image_size: '1100x',
+                                  autoplay: true,
+                                  loop: block.settings.enable_video_looping,
+                                  controls: true,
+                                  muted: false
+                              }}
+                            {%- endif -%}
+                          </template>
+                        </deferred-media>
+                  {% endcase %}
                   </div>
                 </details>
               </div>
@@ -103,6 +229,14 @@
           </div>
         </div>
       </div>
+      {% if section.settings.footer_button_link != blank and section.settings.footer_button_label != blank %}
+        <div class="collapsible-content__footer twcss-flex">
+          <a href='{{ section.settings.footer_button_link }}' class='link table__footer-link animate-arrow twcss-mx-auto'>
+            {{ section.settings.footer_button_label }}
+            {% render 'icon-arrow' %}
+          </a>
+        </div>
+      {% endif %}
     </div>
   </div>
 </div>
@@ -255,6 +389,18 @@
     {
       "type": "header",
       "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "text",
+      "id": "footer_button_label",
+      "default": "Button label",
+      "label": "t:sections.image-banner.blocks.buttons.settings.button_label_1.label",
+      "info": "Footer label"
+    },
+    {
+      "type": "url",
+      "id": "footer_button_link",
+      "label": "Footer link"
     },
     {
       "type": "range",
@@ -482,6 +628,232 @@
           "type": "page",
           "id": "page",
           "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.page.label"
+        }
+      ]
+    },
+    {
+      "type": "video_collapsible_row",
+      "name": "Video Collapsable Row",
+      "settings": [
+        {
+          "type": "text",
+          "id": "heading",
+          "default": "Collapsible row",
+          "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.heading.label",
+          "info": "t:sections.collapsible_content.blocks.collapsible_row.settings.heading.info"
+        },
+        {
+          "type": "richtext",
+          "id": "row_content",
+          "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.row_content.label"
+        },
+        {
+          "type": "select",
+          "id": "icon",
+          "options": [
+            {
+              "value": "none",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__1.label"
+            },
+            {
+              "value": "apple",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__2.label"
+            },
+            {
+              "value": "banana",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__3.label"
+            },
+            {
+              "value": "bottle",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__4.label"
+            },
+            {
+              "value": "box",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__5.label"
+            },
+            {
+              "value": "carrot",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__6.label"
+            },
+            {
+              "value": "chat_bubble",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__7.label"
+            },
+            {
+              "value": "check_mark",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__8.label"
+            },
+            {
+              "value": "clipboard",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__9.label"
+            },
+            {
+              "value": "dairy",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__10.label"
+            },
+            {
+              "value": "dairy_free",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__11.label"
+            },
+            {
+              "value": "dryer",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__12.label"
+            },
+            {
+              "value": "eye",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__13.label"
+            },
+            {
+              "value": "fire",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__14.label"
+            },
+            {
+              "value": "gluten_free",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__15.label"
+            },
+            {
+              "value": "heart",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__16.label"
+            },
+            {
+              "value": "iron",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__17.label"
+            },
+            {
+              "value": "leaf",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__18.label"
+            },
+            {
+              "value": "leather",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__19.label"
+            },
+            {
+              "value": "lightning_bolt",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__20.label"
+            },
+            {
+              "value": "lipstick",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__21.label"
+            },
+            {
+              "value": "lock",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__22.label"
+            },
+            {
+              "value": "map_pin",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__23.label"
+            },
+            {
+              "value": "nut_free",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__24.label"
+            },
+            {
+              "value": "pants",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__25.label"
+            },
+            {
+              "value": "paw_print",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__26.label"
+            },
+            {
+              "value": "pepper",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__27.label"
+            },
+            {
+              "value": "perfume",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__28.label"
+            },
+            {
+              "value": "plane",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__29.label"
+            },
+            {
+              "value": "plant",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__30.label"
+            },
+            {
+              "value": "price_tag",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__31.label"
+            },
+            {
+              "value": "question_mark",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__32.label"
+            },
+            {
+              "value": "recycle",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__33.label"
+            },
+            {
+              "value": "return",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__34.label"
+            },
+            {
+              "value": "ruler",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__35.label"
+            },
+            {
+              "value": "serving_dish",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__36.label"
+            },
+            {
+              "value": "shirt",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__37.label"
+            },
+            {
+              "value": "shoe",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__38.label"
+            },
+            {
+              "value": "silhouette",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__39.label"
+            },
+            {
+              "value": "snowflake",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__40.label"
+            },
+            {
+              "value": "star",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__41.label"
+            },
+            {
+              "value": "stopwatch",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__42.label"
+            },
+            {
+              "value": "truck",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__43.label"
+            },
+            {
+              "value": "washing",
+              "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.options__44.label"
+            }
+          ],
+          "default": "check_mark",
+          "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.icon.label"
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_video_looping",
+          "label": "t:sections.video.settings.enable_video_looping.label",
+          "default": false
+        },
+        {
+          "type": "video",
+          "id": "video",
+          "label": "t:sections.video.settings.video.label"
+        },
+        {
+          "type": "video_url",
+          "id": "video_url",
+          "accept": ["youtube", "vimeo"],
+          "default": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+          "label": "t:sections.video.settings.video_url.label",
+          "info": "t:sections.video.settings.video_url.info"
+        },
+        {
+          "type": "image_picker",
+          "id": "cover_image",
+          "label": "t:sections.video.settings.cover_image.label"
         }
       ]
     }
