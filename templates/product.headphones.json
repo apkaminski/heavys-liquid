@@ -120,7 +120,7 @@
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2"
       ],
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "medium",
         "heading_size": "h1",
         "text_style": "body",
