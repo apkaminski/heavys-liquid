@@ -457,8 +457,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "footer_button_label": "Button label",
-        "footer_button_link": "",
+        "footer_button_label": "All FAQs",
+        "footer_button_link": "shopify:\/\/pages\/faqs",
         "padding_top": 80,
         "padding_bottom": 80
       }
