@@ -249,6 +249,34 @@
         "show_text_below": true
       }
     },
+    "463cf269-3e55-4128-838b-822482a855bf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Collaborations & Collections | Heavys Shells™<\/strong>",
+        "heading_size": "h1",
+        "description": "<p>Learn about our past collaborations with brands and artists, and check out our special limited-edition collections.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shells",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "inverse",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -273,6 +301,7 @@
     "243990a3-4122-461a-b6d3-04139fdb26fc",
     "14d62ff5-687e-49d9-813c-54bfbf115c37",
     "23bdb07e-77f8-419c-9568-b7766935372a",
+    "463cf269-3e55-4128-838b-822482a855bf",
     "related-products"
   ]
 }
