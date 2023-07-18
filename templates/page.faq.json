@@ -124,6 +124,8 @@
         "open_first_collapsible_row": true,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -131,13 +133,15 @@
     "e58bbbcb-3cfb-4130-8683-b5d4b3338a01": {
       "type": "collapsible-content",
       "blocks": {
-        "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-0": {
-          "type": "collapsible_row",
+        "e6a4a8f5-5eed-40d3-b75f-c44700f9e25d": {
+          "type": "video_collapsible_row",
           "settings": {
             "heading": "How do I replace the shells?",
-            "icon": "none",
             "row_content": "",
-            "page": ""
+            "icon": "none",
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/How to replace Heavys Shells-(1080p).mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
         },
         "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1": {
@@ -151,7 +155,7 @@
         }
       },
       "block_order": [
-        "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-0",
+        "e6a4a8f5-5eed-40d3-b75f-c44700f9e25d",
         "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1"
       ],
       "settings": {
@@ -165,6 +169,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -196,6 +202,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -247,6 +255,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -408,6 +418,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -449,6 +461,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
