@@ -172,7 +172,7 @@
         "a98f09b9-f13e-43fe-8e23-76fa02548618"
       ],
       "custom_css": [
-        "h2{text-align:center}"
+        "h2 {margin:0 auto 2rem auto;}"
       ],
       "settings": {
         "title": "The best <strong>features<\/strong>",
