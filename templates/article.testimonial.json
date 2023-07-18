@@ -2,6 +2,10 @@
   "sections": {
     "1de8a418-0d7f-4a49-908a-c72176522d1b": {
       "type": "video",
+      "custom_css": [
+        "h2 {text-align: center;}",
+        "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
+      ],
       "settings": {
         "heading": "{{ article.title }}",
         "heading_size": "h1",
