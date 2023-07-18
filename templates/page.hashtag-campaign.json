@@ -234,7 +234,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/prize-1_2472fdce-0b10-4ae5-86d8-a4cdb34c778f.png",
-            "icon": "check_mark",
+            "icon": "none",
             "title": "<strong>$100 Voucher<\/strong>",
             "text": "<p><strong>BlastbeatsVinylOwned <\/strong><\/p><p>and operated by a true hardcore metal head shipping all across the US<\/p>",
             "link_label": "",
@@ -245,7 +245,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/prize-2_f1109265-0519-4bdd-aaae-aec6069509d4.png",
-            "icon": "check_mark",
+            "icon": "none",
             "title": "<strong>$150 Voucher<\/strong>",
             "text": "<p><strong>Heavys Store<\/strong><\/p><p>on your next purchase at Heavys!<\/p>",
             "link_label": "",
@@ -256,7 +256,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/prize-3_9d0ca3c1-29a3-44dc-8296-e99ea6b7dc77.png",
-            "icon": "check_mark",
+            "icon": "none",
             "title": "<strong>$100 Voucher<\/strong>",
             "text": "<p><strong>Revolver Magazine<\/strong><\/p><p>With the cool dudes at Rev M's online store<\/p>",
             "link_label": "",
