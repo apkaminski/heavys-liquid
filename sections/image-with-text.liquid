@@ -25,25 +25,43 @@
           style="padding-bottom: {{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100 }}%;"
         {% endif %}
       >
-        {%- if section.settings.image != blank -%}
-          {%- if section.settings.image_behavior == 'ambient' or section.settings.image_behavior == 'zoom-in' -%}
-            {%- assign widths = '198, 432, 642, 900, 1284, 1800' -%}
-            {%- capture sizes -%}
-              (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 1.6667 }}px,
-              (min-width: 750px) calc((100vw - 130px) / 1.667), calc((100vw - 50px) / 1.667)
-            {%- endcapture -%}
-          {%- else -%}
+        {%- if section.settings.image != blank or section.settings.video != blank  -%}
+
+          {% if section.settings.video != blank  %}
             {%- assign widths = '165, 360, 535, 750, 1070, 1500' -%}
             {%- capture sizes -%}
               (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px,
               (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)
             {%- endcapture -%}
+            {% render 'video-component', 
+              video: section.settings.video, 
+              video_url: section.settings.video_url,
+              cover_image: section.settings.image,
+              description: section.settings.description,
+              full_width: section.settings.full_width,
+              enable_video_looping: section.settings.enable_video_looping,
+              autoplay: section.settings.autoplay
+            %}
+          {% else %}
+            {%- if section.settings.image_behavior == 'ambient' or section.settings.image_behavior == 'zoom-in' -%}
+              {%- assign widths = '198, 432, 642, 900, 1284, 1800' -%}
+              {%- capture sizes -%}
+                (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 1.6667 }}px,
+                (min-width: 750px) calc((100vw - 130px) / 1.667), calc((100vw - 50px) / 1.667)
+              {%- endcapture -%}
+            {%- else -%}
+              {%- assign widths = '165, 360, 535, 750, 1070, 1500' -%}
+              {%- capture sizes -%}
+                (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px,
+                (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)
+              {%- endcapture -%}
+            {%- endif -%}
+            {{
+              section.settings.image
+              | image_url: width: 1500
+              | image_tag: loading: 'lazy', sizes: sizes, widths: widths
+            }}
           {%- endif -%}
-          {{
-            section.settings.image
-            | image_url: width: 1500
-            | image_tag: loading: 'lazy', sizes: sizes, widths: widths
-          }}
         {%- else -%}
           {{ 'detailed-apparel-1' | placeholder_svg_tag: 'placeholder-svg' }}
         {%- endif -%}
@@ -109,6 +127,24 @@
       "type": "image_picker",
       "id": "image",
       "label": "t:sections.image-with-text.settings.image.label"
+    },
+    
+    {
+      "type": "video",
+      "id": "video",
+      "label": "t:sections.video.settings.video.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_video_looping",
+      "label": "t:sections.video.settings.enable_video_looping.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "autoplay",
+      "label": "Autoplay video",
+      "default": false
     },
     {
       "type": "select",

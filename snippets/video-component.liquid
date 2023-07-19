@@ -14,22 +14,25 @@
     if autoplay 
         assign muted = true
         assign controls = false
+        assign playback_mode = "autoplay"
     else
         assign muted = false
         assign controls = true
+        assign playback_mode = "button"
     endif
     
 -%}
 
-
-{%- capture sizes -%}
-  {% if full_width -%}
-    100vw
-  {%- else -%}
-    (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 }}px, (min-width: 750px)
-    calc(100vw - 10rem), 100vw
-  {%- endif %}
-{%- endcapture -%}
+{% if sizes == blank %}
+  {%- capture sizes -%}
+    {% if full_width -%}
+      100vw
+    {%- else -%}
+      (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 }}px, (min-width: 750px)
+      calc(100vw - 10rem), 100vw
+    {%- endif %}
+  {%- endcapture -%}
+{%- endif %}
 
 <noscript>
     <div
@@ -76,6 +79,7 @@
       id="Deferred-Poster-Modal-{{ video_id }}"
       class="video-section__poster media deferred-media__poster media--landscape"
       type="button"
+      data-playback-mode="{{playback_mode}}"
       aria-label="{{ alt }}"
     >
       {%- if poster != null -%}
@@ -125,8 +129,8 @@
             image_size: '1100x',
             autoplay: true,
             loop: enable_video_looping,
-            controls: true,
-            muted: false
+            controls: controls,
+            muted: muted
         }}
       {%- endif -%}
     </template>

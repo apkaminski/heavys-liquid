@@ -674,11 +674,36 @@ class DeferredMedia extends HTMLElement {
     super();
     const poster = this.querySelector('[id^="Deferred-Poster-"]');
     if (!poster) return;
-    poster.addEventListener('click', this.loadContent.bind(this));
+    const playbackMode = poster.dataset.playbackMode;
+    if (playbackMode === 'button') {
+      poster.addEventListener('click', this.loadContent.bind(this));
+    } else {
+      const observer = new IntersectionObserver(
+        this.onIntersection.bind(this),
+        {
+          rootMargin: '0px 0px -50px 0px',
+        },
+      );
+      observer.observe(poster);
+    }
+  }
+
+  onIntersection(elements, observer) {
+    elements.forEach((element, index) => {
+      const elementTarget = element.target;
+      if (element.isIntersecting) {
+        console.log('element in viewport');
+        this.loadContent();
+        observer.unobserve(elementTarget);
+      } else {
+        console.log('no longer in viewport');
+      }
+    });
   }
 
   loadContent(focus = true) {
     window.pauseAllMedia();
+    console.log('initializing playback');
     if (!this.getAttribute('loaded')) {
       const content = document.createElement('div');
       content.appendChild(
