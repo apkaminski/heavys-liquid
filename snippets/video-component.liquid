@@ -87,9 +87,11 @@
       {%- else -%}
         {{ 'hero-apparel-3' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
       {%- endif -%}
-      <span class="deferred-media__poster-button motion-reduce">
-        {%- render 'icon-play' -%}
-      </span>
+      {%- if autoplay != true -%}
+        <span class="deferred-media__poster-button motion-reduce">
+            {%- render 'icon-play' -%}
+        </span>
+      {%- endif -%}
     </button>
     <template>
       {%- if video == null and video_url != null -%}
