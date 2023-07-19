@@ -10,7 +10,17 @@
         assign fix_ratio = true
       endif
     endif
+
+    if autoplay 
+        assign muted = true
+        assign controls = false
+    else
+        assign muted = false
+        assign controls = true
+    endif
+    
 -%}
+
 
 {%- capture sizes -%}
   {% if full_width -%}
@@ -50,7 +60,7 @@
       {%- else -%}
         {{
           video
-          | video_tag: image_size: '1100x', loop: enable_video_looping, controls: true, muted: false
+          | video_tag: image_size: '1100x', loop: enable_video_looping, controls: controls, muted: muted, autoplay: autoplay
         }}
       {%- endif -%}
     </div>

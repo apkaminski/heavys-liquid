@@ -36,7 +36,8 @@
         cover_image: section.settings.cover_image,
         description: section.settings.description,
         full_width: section.settings.full_width,
-        enable_video_looping: section.settings.enable_video_looping
+        enable_video_looping: section.settings.enable_video_looping,
+        autoplay: section.settings.autoplay
     %}
   </div>
 </div>
@@ -80,6 +81,12 @@
       "type": "checkbox",
       "id": "enable_video_looping",
       "label": "t:sections.video.settings.enable_video_looping.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "autoplay",
+      "label": "Autoplay video",
       "default": false
     },
     {
