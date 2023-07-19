@@ -43,14 +43,14 @@
         "6a74b5f8-5938-400c-b2df-8c2c462089fb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/L1050092_14dbfd0d-92b8-491d-bd86-77d26752de15.jpg",
+        "image": "shopify:\/\/shop_images\/L1050092_14dbfd0d-92b8-491d-bd86-77d26752de15.webp",
         "image_overlay_opacity": 20,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
