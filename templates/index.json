@@ -322,6 +322,7 @@
         "heading": "Engineered by Industry Veteran Axel Grell",
         "heading_size": "h1",
         "enable_video_looping": false,
+        "autoplay": true,
         "video": "shopify:\/\/files\/videos\/Behind Heavys Tech | Axel Grell Interview.mp4",
         "video_url": "",
         "description": "",
@@ -421,6 +422,7 @@
             "row_content": "",
             "icon": "none",
             "enable_video_looping": false,
+            "autoplay": false,
             "video": "shopify:\/\/files\/videos\/How to replace Heavys Shells-(1080p).mp4",
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
