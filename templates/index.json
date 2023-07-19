@@ -325,7 +325,7 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video": "shopify:\/\/files\/videos\/Behind Heavys Tech | Axel Grell Interview.mp4",
-        "autoplay": true,
+        "autoplay": false,
         "video_url": "",
         "description": "",
         "full_width": false,
