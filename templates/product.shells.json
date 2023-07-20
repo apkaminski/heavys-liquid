@@ -140,6 +140,7 @@
     },
     "14d62ff5-687e-49d9-813c-54bfbf115c37": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14884059414602__14d62ff5-687e-49d9-813c-54bfbf115c37-16892777323ba36126-0": {
           "type": "text",
@@ -190,7 +191,7 @@
       ],
       "settings": {
         "product": "{{ product.metafields.heavys_custom.band.value.bundle_product.value }}",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "color_scheme": "inverse",
         "secondary_background": false,
         "media_size": "small",
         "constrain_to_viewport": false,
