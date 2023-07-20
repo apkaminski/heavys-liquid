@@ -144,7 +144,16 @@ function pauseAllMedia() {
   document.querySelectorAll('.js-vimeo').forEach((video) => {
     video.contentWindow.postMessage('{"method":"pause"}', '*');
   });
-  document.querySelectorAll('video').forEach((video) => video.pause());
+  document.querySelectorAll('video').forEach((video) => {
+    console.log(
+      'video.parentElement.dataset.playbackMode',
+      video.parentElement.dataset.playbackMode,
+    );
+    if (video.parentElement.dataset.playbackMode !== 'autoplay') {
+      video.pause();
+    }
+  });
+
   document.querySelectorAll('product-model').forEach((model) => {
     if (model.modelViewerUI) model.modelViewerUI.pause();
   });
@@ -673,6 +682,8 @@ class DeferredMedia extends HTMLElement {
   constructor() {
     super();
     const poster = this.querySelector('[id^="Deferred-Poster-"]');
+    let deferredElement = null;
+
     if (!poster) return;
     const playbackMode = poster.dataset.playbackMode;
     if (playbackMode === 'button') {
@@ -681,7 +692,7 @@ class DeferredMedia extends HTMLElement {
       const observer = new IntersectionObserver(
         this.onIntersection.bind(this),
         {
-          rootMargin: '0px 0px -50px 0px',
+          rootMargin: '50px',
         },
       );
       observer.observe(poster);
@@ -692,18 +703,14 @@ class DeferredMedia extends HTMLElement {
     elements.forEach((element, index) => {
       const elementTarget = element.target;
       if (element.isIntersecting) {
-        console.log('element in viewport');
-        this.loadContent();
+        this.deferredElement = this.loadContent();
         observer.unobserve(elementTarget);
-      } else {
-        console.log('no longer in viewport');
       }
     });
   }
 
   loadContent(focus = true) {
     window.pauseAllMedia();
-    console.log('initializing playback');
     if (!this.getAttribute('loaded')) {
       const content = document.createElement('div');
       content.appendChild(
@@ -724,6 +731,9 @@ class DeferredMedia extends HTMLElement {
         // force autoplay for safari
         deferredElement.play();
       }
+      return deferredElement;
+    } else {
+      return null;
     }
   }
 }

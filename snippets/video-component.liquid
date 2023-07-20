@@ -39,7 +39,7 @@
       class="video-section__media"
       {% if poster != null %}
         style="--ratio-percent: {{ 1 | divided_by: poster.aspect_ratio | times: 100 }}%;"
-      {% endif %}
+      {% endif %} 
     >
       {%- if video == null and video_url != null -%}
         <a
@@ -69,8 +69,9 @@
     </div>
   </noscript>
   <deferred-media
-    class="video-section__media deferred-media no-js-hidden gradient global-media-settings{% if full_width %} global-media-settings--full-width{% endif %}{% if fix_ratio %} media-fit-cover{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+    class="video-section__media deferred-media no-js-hidden gradient global-media-settings{% if full_width %} global-media-settings--full-width{% endif %}{% if fix_ratio %} media-fit-cover{% endif %}{% if animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
     data-media-id="{{ video_id }}"
+    data-playback-mode="{{ playback_mode }}"
     {% if poster != null %}
       style="--ratio-percent: {{ 1 | divided_by: poster.aspect_ratio | times: 100 }}%;"
     {% endif %}
