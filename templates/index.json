@@ -42,6 +42,9 @@
         "text",
         "6a74b5f8-5938-400c-b2df-8c2c462089fb"
       ],
+      "custom_css": [
+        ".banner__text:last-child {color: #63d48a;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/L1050092_14dbfd0d-92b8-491d-bd86-77d26752de15.webp",
         "image_overlay_opacity": 20,
