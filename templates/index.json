@@ -59,66 +59,6 @@
         "show_text_below": true
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Headphones Engineered For Heavy Metal<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Pre Order Now",
-            "button_link_1": "shopify:\/\/products\/headphones-case-aux-2",
-            "button_style_secondary_1": false,
-            "button_label_2": "Learn More",
-            "button_link_2": "#shopify-section-template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282",
-            "button_style_secondary_2": true
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Metal-loud headphones with 2 frequency ranges and 4 drivers so you can listen to metal the way it’s meant to be heard.",
-            "text_style": "body"
-          }
-        },
-        "6a74b5f8-5938-400c-b2df-8c2c462089fb": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Over 12,000 metalheads already ordered a pair.<\/strong>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "button",
-        "text",
-        "6a74b5f8-5938-400c-b2df-8c2c462089fb"
-      ],
-      "custom_css": [
-        ".banner__text:last-child {color: #63d48a;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/L1050092_14dbfd0d-92b8-491d-bd86-77d26752de15.webp",
-        "image_overlay_opacity": 20,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
       "type": "featured-product",
       "blocks": {
@@ -200,7 +140,7 @@
       "settings": {
         "product": "headphones-case-aux-2",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "secondary_background": true,
+        "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -533,7 +473,6 @@
   },
   "order": [
     "67addfa2-3f6c-49af-b090-a76c76f0a133",
-    "image_banner",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "video",
     "afe8820a-9e66-4dc8-9751-860686858282",
