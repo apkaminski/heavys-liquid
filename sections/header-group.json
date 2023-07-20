@@ -8,8 +8,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Heavys are now shipping!",
-            "link": ""
+            "text": "Pre-order now, save 15%!",
+            "link": "shopify:\/\/products\/headphones-case-aux"
           }
         }
       },
@@ -17,7 +17,7 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,
