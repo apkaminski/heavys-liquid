@@ -329,7 +329,7 @@
         "video_url": "",
         "description": "",
         "full_width": false,
-        "color_scheme": "accent-1",
+        "color_scheme": "inverse",
         "padding_top": 80,
         "padding_bottom": 80
       }
