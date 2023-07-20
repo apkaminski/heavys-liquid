@@ -17,8 +17,8 @@
             "button_link_1": "shopify:\/\/products\/headphones-case-aux",
             "button_style_secondary_1": false,
             "button_label_2": "Learn More",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_link_2": "#shopify-section-template--14883182903370__video",
+            "button_style_secondary_2": true
           }
         },
         "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-text-1": {
@@ -41,6 +41,9 @@
         "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-buttons-1",
         "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-text-1",
         "1ee73108-ab18-4b39-b64f-a749e0a1147f"
+      ],
+      "custom_css": [
+        ".banner__text:last-child {color: #63d48a;}"
       ],
       "settings": {
         "video": "shopify:\/\/files\/videos\/explosion earcup for black background 60fps v1.mp4",
