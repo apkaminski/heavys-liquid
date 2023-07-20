@@ -76,7 +76,7 @@
         "3c23034f-010d-42d2-9612-934582f53664"
       ],
       "settings": {
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "color_scheme": "inverse",
         "enable_sticky_info": true,
         "media_size": "large",
         "constrain_to_viewport": true,
@@ -123,6 +123,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/64047b54ec8bf739cb6676cc_3.jpg",
+        "enable_video_looping": false,
+        "autoplay": false,
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
