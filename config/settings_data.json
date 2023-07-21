@@ -116,6 +116,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/heavys-logo.png",
     "checkout_logo_position": "center",
     "checkout_body_background_color": "#121212",
+    "checkout_input_background_color_mode": "transparent",
     "checkout_sidebar_background_color": "#000000",
     "checkout_heading_font": "Roboto",
     "checkout_body_font": "Roboto",
