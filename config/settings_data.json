@@ -117,6 +117,7 @@
     "checkout_logo_position": "center",
     "checkout_body_background_color": "#121212",
     "checkout_sidebar_background_color": "#000000",
+    "checkout_heading_font": "Roboto",
     "checkout_body_font": "Roboto",
     "checkout_accent_color": "#f3f3f3",
     "checkout_button_color": "#63d48a",
