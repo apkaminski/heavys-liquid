@@ -115,9 +115,11 @@
     "cart_drawer_collection": "frontpage",
     "checkout_logo_image": "shopify:\/\/shop_images\/6404722a27be9b76a1ca8d31_logo_1.svg",
     "checkout_logo_position": "center",
+    "checkout_body_background_color": "#121212",
     "checkout_body_font": "Roboto",
     "checkout_accent_color": "#63d48a",
     "checkout_button_color": "#63d48a",
+    "checkout_error_color": "#ff8f8f",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
