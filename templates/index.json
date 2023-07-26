@@ -121,7 +121,7 @@
         "1e5b4491-9672-44d4-88a9-c9c7a954c53f": {
           "type": "text",
           "settings": {
-            "text": "Estimated shipment August 2023",
+            "text": "Estimated shipment August 2023 <a href=\"\/pages\/pre-order-disclaimer\" target=\"_blank\" title=\"Pre order disclaimer\">Preorder Disclamer<\/a>",
             "text_style": "body"
           }
         },
