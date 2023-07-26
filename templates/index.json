@@ -127,6 +127,7 @@
         },
         "0ae82755-f50e-44bf-8c27-98711f9cc84f": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"\/pages\/pre-order-disclaimer\" target=\"_blank\" title=\"Pre order disclaimer\"><span style=\"text-decoration:underline\">pre-order disclaimer<\/span><\/a>",
             "text_style": "body"
