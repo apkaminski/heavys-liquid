@@ -132,6 +132,13 @@
             "text": "<a href=\"\/pages\/pre-order-disclaimer\" target=\"_blank\" title=\"Pre order disclaimer\"><span style=\"text-decoration:underline\">pre-order disclaimer<\/span><\/a>",
             "text_style": "body"
           }
+        },
+        "606d60f6-e539-42f2-8520-8a32f3af2dcf": {
+          "type": "popup",
+          "settings": {
+            "text": "Pre Order Disclamer",
+            "page": "pre-order-disclaimer"
+          }
         }
       },
       "block_order": [
@@ -144,7 +151,8 @@
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-6",
         "b51b00a5-07c0-4cc6-91bb-a27b9b386d49",
         "1e5b4491-9672-44d4-88a9-c9c7a954c53f",
-        "0ae82755-f50e-44bf-8c27-98711f9cc84f"
+        "0ae82755-f50e-44bf-8c27-98711f9cc84f",
+        "606d60f6-e539-42f2-8520-8a32f3af2dcf"
       ],
       "settings": {
         "product": "headphones-case-aux-2",
