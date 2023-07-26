@@ -375,6 +375,15 @@
             "page": ""
           }
         },
+        "c98382a4-1cbd-42f1-939d-d81040442092": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When will I get my Heavys Headphones",
+            "icon": "none",
+            "row_content": "<p>The Heavys are set to begin shipping in May 2023 however if you plan to buy it now the current estimation is August 2023. Please note that this is an estimate, as you're pre-ordering the product and production delays could arise.<\/p>",
+            "page": ""
+          }
+        },
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2": {
           "type": "collapsible_row",
           "settings": {
@@ -445,6 +454,7 @@
       "block_order": [
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
+        "c98382a4-1cbd-42f1-939d-d81040442092",
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2",
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-3",
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
