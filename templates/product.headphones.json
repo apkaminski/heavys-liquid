@@ -49,6 +49,13 @@
           "type": "description",
           "settings": {
           }
+        },
+        "a7e2b515-a7e7-419b-bc66-4d08967bb6a3": {
+          "type": "popup",
+          "settings": {
+            "text": "Pre Order Disclamer",
+            "page": "pre-order-disclaimer"
+          }
         }
       },
       "block_order": [
@@ -59,7 +66,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "a7e2b515-a7e7-419b-bc66-4d08967bb6a3"
       ],
       "settings": {
         "color_scheme": "inverse",
