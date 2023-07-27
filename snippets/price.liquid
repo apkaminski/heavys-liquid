@@ -17,12 +17,12 @@
     assign target = product
   endif
 
-  assign compare_at_price = target.compare_at_price
+  assign compare_at_price = target.compare_at_price 
+  assign compare_at_price_float = target.compare_at_price | times: 1.0 
   assign price = target.price | default: 1999
   assign available = target.available | default: false
   assign money_price = price | money
-  assign percentage = compare_at_price | minus: price 
-  assign percentage = percentage | times:100 | divided_by: compare_at_price 
+  assign percentage = compare_at_price_float | minus: price | times:100 | divided_by: compare_at_price_float | round 
 
   if settings.currency_code_enabled
     assign money_price = price | money_with_currency
@@ -32,7 +32,6 @@
     assign money_price = 'products.product.price.from_price_html' | t: price: money_price
   endif
 -%}
-
 <div
   class="
     price
