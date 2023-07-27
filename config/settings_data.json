@@ -113,7 +113,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "frontpage",
-    "checkout_logo_image": "shopify:\/\/shop_images\/heavys_logo_black.svg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/heavys_logo_black.png",
     "checkout_logo_position": "center",
     "checkout_body_background_color": "#ffffff",
     "checkout_input_background_color_mode": "transparent",
