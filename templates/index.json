@@ -375,24 +375,6 @@
     "a259a103-10d9-404b-84c4-de542413e278": {
       "type": "collapsible-content",
       "blocks": {
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Will there be a Heavys mobile app?",
-            "icon": "none",
-            "row_content": "<p>Certainly, we are currently developing an app that will enable the management of specific headphone features and incorporate some exciting new advancements in the near future.<\/p>",
-            "page": ""
-          }
-        },
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "When will my pre-order be shipped?",
-            "icon": "none",
-            "row_content": "<p><strong>Orders before April 5th -<\/strong> We started shipping for orders that were made before April 5th. Orders are sent depending on your order location, order time, and order content. H1H backorders will be shipped out gradually over a period of 3 months [May-July]<strong>. <\/strong>You will receive another email with the tracking number as your order is shipped.<\/p><p><strong>New orders -<\/strong> If you plan to buy it now, the current estimation is August 2023. Please note that this is an estimate, as you're pre-ordering the product, and production delays could arise. You will receive another email with the tracking number as your order is shipped.<\/p>",
-            "page": ""
-          }
-        },
         "c98382a4-1cbd-42f1-939d-d81040442092": {
           "type": "collapsible_row",
           "settings": {
@@ -408,6 +390,24 @@
             "heading": "What’s in the box?",
             "icon": "none",
             "row_content": "<p>With your purchase, you will get a tech-packed brand new pair of Heavys black headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates.<\/p><p>If you want to listen in wired mode through an AUX connection, you can purchase AUX cables as addons. Heavys offers 2 lengths of 3.5 mm AUX cables: normal length 1.3 meters (~4.25 ft) or extra long 3 meters (~9.85 ft).<\/p>",
+            "page": ""
+          }
+        },
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will there be a Heavys mobile app?",
+            "icon": "none",
+            "row_content": "<p>Certainly, we are currently developing an app that will enable the management of specific headphone features and incorporate some exciting new advancements in the near future.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When will my pre-order be shipped?",
+            "icon": "none",
+            "row_content": "<p><strong>Orders before April 5th -<\/strong> We started shipping for orders that were made before April 5th. Orders are sent depending on your order location, order time, and order content. H1H backorders will be shipped out gradually over a period of 3 months [May-July]<strong>. <\/strong>You will receive another email with the tracking number as your order is shipped.<\/p><p><strong>New orders -<\/strong> If you plan to buy it now, the current estimation is August 2023. Please note that this is an estimate, as you're pre-ordering the product, and production delays could arise. You will receive another email with the tracking number as your order is shipped.<\/p>",
             "page": ""
           }
         },
@@ -470,10 +470,10 @@
         }
       },
       "block_order": [
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
         "c98382a4-1cbd-42f1-939d-d81040442092",
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-3",
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
         "e63ec509-8cc2-42f8-8422-902902dc18d7",
