@@ -1032,6 +1032,11 @@ a.product__text {
   width: 100%;
 }
 
+.product-popup-modal__content-info > p,
+.product-popup-modal__content-info > h1 {
+  margin-bottom: 2rem;
+}
+
 @media screen and (max-width: 749px) {
   .product-popup-modal__content-info > * {
     max-height: 100%;
