@@ -205,54 +205,6 @@
         "padding_bottom": 80
       }
     },
-    "23bdb07e-77f8-419c-9568-b7766935372a": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "{{ product.metafields.heavys_custom.band.value.name.value }}",
-            "heading_size": "h1"
-          }
-        },
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.heavys_custom.band.value.band_description.value }}",
-            "text_style": "body"
-          }
-        },
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shell",
-            "button_link_1": "#top",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0",
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1",
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-2"
-      ],
-      "settings": {
-        "image": "{{ product.metafields.heavys_custom.band.value.image.value }}",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "image_behavior": "zoom-in",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "463cf269-3e55-4128-838b-822482a855bf": {
       "type": "featured-collection",
       "settings": {
@@ -304,7 +256,6 @@
     "main",
     "243990a3-4122-461a-b6d3-04139fdb26fc",
     "14d62ff5-687e-49d9-813c-54bfbf115c37",
-    "23bdb07e-77f8-419c-9568-b7766935372a",
     "463cf269-3e55-4128-838b-822482a855bf",
     "related-products"
   ]
