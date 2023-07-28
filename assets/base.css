@@ -3534,7 +3534,8 @@ details-disclosure > details {
 .product-popup-modal__content-info h2,
 .product-popup-modal__content-info h3,
 #MainContent .article-template__content h2,
-#MainContent .article-template__content h3 {
+#MainContent .article-template__content h3,
+.product-popup-modal__content-info h2 {
   margin-bottom: 1rem;
 }
 #MainContent .shopify-policy__container .shopify-policy__body p,
@@ -3543,7 +3544,7 @@ details-disclosure > details {
 #MainContent .article-template__content p,
 #MainContent .article-template__content ul,
 #MainContent .article-template__content ol,
-#MainContent .article-template__content p {
+.product-popup-modal__content-info p {
   margin-bottom: 2rem;
 }
 #MainContent .shopify-policy__container .shopify-policy__body ol li,
