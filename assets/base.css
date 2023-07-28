@@ -3531,6 +3531,8 @@ details-disclosure > details {
 }
 #MainContent .shopify-policy__container .shopify-policy__body h2,
 #MainContent .shopify-policy__container .shopify-policy__body h3,
+.product-popup-modal__content-info h2,
+.product-popup-modal__content-info h3,
 #MainContent .article-template__content h2,
 #MainContent .article-template__content h3 {
   margin-bottom: 1rem;
@@ -3540,7 +3542,8 @@ details-disclosure > details {
 #MainContent .shopify-policy__container .shopify-policy__body ol,
 #MainContent .article-template__content p,
 #MainContent .article-template__content ul,
-#MainContent .article-template__content ol {
+#MainContent .article-template__content ol,
+#MainContent .article-template__content p {
   margin-bottom: 2rem;
 }
 #MainContent .shopify-policy__container .shopify-policy__body ol li,
