@@ -47,15 +47,26 @@
           class="video-section__poster media media--transparent{% if poster == null %} video-section__placeholder{% endif %}"
         >
           {%- if poster != null -%}
-            {{
-              poster
-              | image_url: width: 3840
-              | image_tag:
-                loading: 'lazy',
-                sizes: sizes,
-                widths: '375, 750, 1100, 1500, 1780, 2000, 3000, 3840',
-                alt: alt
-            }}
+            {% if lazy_load_cover == false %}
+              {{
+                poster
+                | image_url: width: 3840
+                | image_tag:
+                  sizes: sizes,
+                  widths: '375, 750, 1100, 1500, 1780, 2000, 3000, 3840',
+                  alt: alt
+              }}
+            {% else %}
+              {{
+                poster
+                | image_url: width: 3840
+                | image_tag:
+                  loading: 'lazy',
+                  sizes: sizes,
+                  widths: '375, 750, 1100, 1500, 1780, 2000, 3000, 3840',
+                  alt: alt
+              }}
+            {% endif %}
           {%- else -%}
             {{ 'hero-apparel-3' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
           {%- endif -%}
