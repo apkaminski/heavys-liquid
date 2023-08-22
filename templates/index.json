@@ -244,17 +244,17 @@
         "39bf155e-c4c1-488e-b59e-b28704d805a4"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/3D_Render_NoBackGround_Square.mp4",
+        "image": "shopify:\/\/shop_images\/heavys-h1h-headphones-9.png",
         "enable_video_looping": true,
         "autoplay": true,
-        "height": "medium",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "image_behavior": "sticky",
+        "image_behavior": "zoom-in",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
