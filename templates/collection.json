@@ -77,6 +77,7 @@
         "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-5",
         "54767c84-3de7-4bf5-92e9-f83dc355b677"
       ],
+      "disabled": true,
       "settings": {
         "product": "shell-bundle-1",
         "color_scheme": "inverse",
