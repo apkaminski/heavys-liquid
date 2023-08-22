@@ -247,7 +247,7 @@
         "image": "shopify:\/\/shop_images\/heavys-h1h-headphones-9.png",
         "enable_video_looping": false,
         "autoplay": false,
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
