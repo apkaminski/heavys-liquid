@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Pre-order now, save 15%!",
+            "text": "Pre-order Now!",
             "link": "shopify:\/\/products\/headphones-case-aux"
           }
         }
