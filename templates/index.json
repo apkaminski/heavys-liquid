@@ -136,7 +136,7 @@
         "d64b265a-b60e-4e2b-aaa6-9a83dd379edb": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"\/pages\/pre-order-disclaimer\" title=\"Pre order disclaimer\">Pre-Order Disclaimer<\/a>",
+            "text": "<a href=\"\/pages\/pre-order-disclaimer\" title=\"Pre order disclaimer\"><u>Pre-Order Disclaimer<\/u><\/a>",
             "text_style": "body"
           }
         }
