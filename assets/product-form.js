@@ -93,7 +93,12 @@ if (!customElements.get('product-form')) {
             }
             //klavyo event
             var _learnq = window._learnq || [];
-            _learnq.push(['track', 'Added to Cart', response]);
+            var item = {
+              price: response.final_line_price / 100,
+              title: response.title,
+              image: response.image,
+            };
+            _learnq.push(['track', 'Added to Cart', item]);
           })
           .catch((e) => {
             console.error(e);
