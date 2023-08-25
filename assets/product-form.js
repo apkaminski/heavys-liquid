@@ -100,7 +100,7 @@ if (!customElements.get('product-form')) {
               URL: 'https://www.heavys.com/products/' + response.url,
               brand: response.vendor,
               image: response.image,
-              compareAtPrice: response.original_price,
+              compareAtPrice: '$' + response.original_price / 100,
             };
             _learnq.push(['track', 'Added to Cart', item]);
           })
