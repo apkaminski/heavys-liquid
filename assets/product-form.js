@@ -97,7 +97,7 @@ if (!customElements.get('product-form')) {
               price: '$' + response.final_price / 100,
               name: response.title,
               productID: response.product_id,
-              URL: 'https:wwww.heavys.com/products/' + response.url,
+              URL: 'https://www.heavys.com/products/' + response.url,
               brand: response.vendor,
               image: response.image,
             };
