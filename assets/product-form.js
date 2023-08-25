@@ -101,8 +101,6 @@ if (!customElements.get('product-form')) {
               brand: response.vendor,
               image: response.image,
             };
-            console.log(item);
-
             _learnq.push(['track', 'Added to Cart', item]);
           })
           .catch((e) => {
