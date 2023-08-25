@@ -94,7 +94,7 @@ if (!customElements.get('product-form')) {
             //klavyo event
             var _learnq = window._learnq || [];
             var item = {
-              price: response.final_line_price / 100,
+              price: response.final_price / 100,
               title: response.title,
               image: response.image,
             };
