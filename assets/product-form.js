@@ -91,6 +91,9 @@ if (!customElements.get('product-form')) {
             } else {
               this.cart.renderContents(response);
             }
+            //klavyo event
+            var _learnq = window._learnq || [];
+            _learnq.push(['track', 'Added to Cart', response]);
           })
           .catch((e) => {
             console.error(e);
