@@ -94,11 +94,15 @@ if (!customElements.get('product-form')) {
             //klavyo event
             var _learnq = window._learnq || [];
             var item = {
-              price: response.final_price / 100,
-              title: response.title,
+              price: '$' + response.final_price / 100,
+              name: response.title,
+              productID: response.product_id,
+              URL: 'https:wwww.heavys.com/products/' + response.url,
+              brand: response.vendor,
               image: response.image,
-              url: 'https:wwww.heavys.com/products/' + response.url,
             };
+            console.log(item);
+
             _learnq.push(['track', 'Added to Cart', item]);
           })
           .catch((e) => {
