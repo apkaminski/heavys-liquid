@@ -89,8 +89,14 @@
                   {{ block.shopify_attributes }}
                 >
                   {%- if block.settings.text != blank -%}
-                    {%- if block.settings.link != blank and block.settings.behaviour_type == "link" -%}
+                    {%- if block.settings.link != blank or block.settings.behaviour_type == "klavyo_popup" -%}
                       <a
+                        {% if block.settings.behaviour_type == "klavyo_popup" and block.settings.klavyo_desktop_id != blank %}
+                          onclick="launchKlavyoPopup(event,'{{block.settings.klavyo_desktop_id | strip | default:null}}','{{block.settings.klavyo_mobile_id | strip | default:null}}')"
+                          href="/"
+                        {% else %}
+                         href="{{ section.blocks.first.settings.link }}"
+                        {% endif %}
                         href="{{ block.settings.link }}"
                         class="announcement-bar__link link link--text focus-inset animate-arrow"
                       >
@@ -101,7 +107,7 @@
                         {% render 'icon-arrow' %}
                       {%- endif -%}
                     </p>
-                    {%- if block.settings.link != blank and block.settings.behaviour_type == "link" -%}
+                    {%- if block.settings.link != blank or block.settings.behaviour_type == "klavyo_popup" -%}
                       </a>
                     {%- endif -%}
                   {%- endif -%}
