@@ -9,10 +9,7 @@ function getFocusableElements(container) {
 function launchKlavyoPopup(event, _desktopID, _mobileID) {
   event.preventDefault();
   window._klOnsite = window._klOnsite || [];
-  if (
-    _mobileID &&
-    (navigator.userAgentData.mobile || window.innerWidth <= 768)
-  ) {
+  if (_mobileID && window.innerWidth <= 768) {
     console.log('mobile');
     window._klOnsite.push(['openForm', _mobileID]);
   } else {
