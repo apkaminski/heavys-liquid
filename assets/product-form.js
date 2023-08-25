@@ -102,7 +102,7 @@ if (!customElements.get('product-form')) {
               image: response.image,
               compareAtPrice: response.original_price,
             };
-            _learnq.push(['track', 'Added to Cart', response]);
+            _learnq.push(['track', 'Added to Cart', item]);
           })
           .catch((e) => {
             console.error(e);
