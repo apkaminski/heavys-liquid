@@ -24,19 +24,25 @@
         {{ block.shopify_attributes }}
       >
         {%- if section.blocks.first.settings.text != blank -%}
-          {%- if section.blocks.first.settings.link != blank -%}
+          {%- if section.blocks.first.settings.link != blank or section.blocks.first.settings.behaviour_type == "klavyo_popup" -%}
             <a
-              href="{{ section.blocks.first.settings.link }}"
+              {% if section.blocks.first.settings.behaviour_type == "klavyo_popup" and section.blocks.first.settings.klavyo_desktop_id != blank %}
+                onclick="launchKlavyoPopup(event,'{{section.blocks.first.settings.klavyo_desktop_id | strip | default:null}}','{{section.blocks.first.settings.klavyo_mobile_id | strip | default:null}}')"
+                href="/"
+              {% else %}
+               href="{{ section.blocks.first.settings.link }}"
+              {% endif %}
               class="announcement-bar__link link link--text focus-inset animate-arrow"
+
             >
           {%- endif -%}
           <p class="announcement-bar__message h5">
             <span>{{ section.blocks.first.settings.text | escape }}</span>
-            {%- if section.blocks.first.settings.link != blank -%}
+            {%- if section.blocks.first.settings.link != blank or section.blocks.first.settings.behaviour_type == "klavyo_popup" -%}
               {% render 'icon-arrow' %}
             {%- endif -%}
           </p>
-          {%- if section.blocks.first.settings.link != blank -%}
+          {%- if section.blocks.first.settings.link != blank or section.blocks.first.settings.behaviour_type == "link" -%}
             </a>
           {%- endif -%}
         {%- endif -%}
@@ -83,7 +89,7 @@
                   {{ block.shopify_attributes }}
                 >
                   {%- if block.settings.text != blank -%}
-                    {%- if block.settings.link != blank -%}
+                    {%- if block.settings.link != blank and block.settings.behaviour_type == "link" -%}
                       <a
                         href="{{ block.settings.link }}"
                         class="announcement-bar__link link link--text focus-inset animate-arrow"
@@ -91,11 +97,11 @@
                     {%- endif -%}
                     <p class="announcement-bar__message h5">
                       <span>{{ block.settings.text | escape }}</span>
-                      {%- if block.settings.link != blank -%}
+                      {%- if block.settings.link != blank or block.settings.behaviour_type == "klavyo_popup" -%}
                         {% render 'icon-arrow' %}
                       {%- endif -%}
                     </p>
-                    {%- if block.settings.link != blank -%}
+                    {%- if block.settings.link != blank and block.settings.behaviour_type == "link" -%}
                       </a>
                     {%- endif -%}
                   {%- endif -%}
@@ -183,9 +189,37 @@
           "label": "t:sections.announcement-bar.blocks.announcement.settings.text.label"
         },
         {
+          "type": "select",
+          "id": "behaviour_type",
+          "options": [
+            {
+              "value": "link",
+              "label": "Link"
+            },
+            {
+              "value": "klavyo_popup",
+              "label": "Fire Klavyo popup"
+            }
+          ],
+          "default": "link",
+          "label": "On click behaviour"
+        },
+        {
           "type": "url",
           "id": "link",
           "label": "t:sections.announcement-bar.blocks.announcement.settings.link.label"
+        },
+        {
+          "type": "text",
+          "id": "klavyo_desktop_id",
+          "label": "Klavyo signup unit ID",
+          "info": "Enter Klavyo ID for desktop signup unit"
+        },
+        {
+          "type": "text",
+          "id": "klavyo_mobile_id",
+          "label": "Klavyo signup unit ID",
+          "info": "Enter Klavyo ID for mobile signup unit, leave empty if using one for both"
         }
       ]
     }
