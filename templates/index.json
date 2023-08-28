@@ -6,7 +6,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Headphones Engineered For Heavy Metal",
+            "heading": "Headphones <> Engineered For Heavy Metal",
             "heading_size": "h1"
           }
         },
@@ -42,13 +42,12 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-buttons-1",
         "04f68610-3b47-40e3-ba8c-17e974186224"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/HP_Banner_3_1.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "image_behavior": "none",
