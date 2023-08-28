@@ -42,6 +42,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-buttons-1",
         "04f68610-3b47-40e3-ba8c-17e974186224"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/banner_last_hp.png",
         "image_overlay_opacity": 0,
@@ -98,7 +99,6 @@
         "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-text-1",
         "1ee73108-ab18-4b39-b64f-a749e0a1147f"
       ],
-      "disabled": true,
       "custom_css": [
         ".banner__text:last-child {color: #63d48a;}"
       ],
