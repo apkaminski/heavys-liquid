@@ -43,6 +43,9 @@
         "04f68610-3b47-40e3-ba8c-17e974186224"
       ],
       "disabled": true,
+      "custom_css": [
+        ".banner__text:last-child {color: #63d48a;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/hp_12.png",
         "image_overlay_opacity": 10,
