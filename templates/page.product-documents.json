@@ -52,52 +52,55 @@
         "padding_bottom": 52
       }
     },
-    "2245f7c2-b086-4ad9-b0d5-4bf58575deed": {
-      "type": "rich-text",
+    "a439b6cb-ad69-4957-912b-0ed7fb6964d9": {
+      "type": "multicolumn",
       "blocks": {
-        "template--14891902632010__2245f7c2-b086-4ad9-b0d5-4bf58575deed-heading-1": {
-          "type": "heading",
+        "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-1": {
+          "type": "column",
           "settings": {
-            "heading": " <strong>EU Declaration of Conformity <\/strong>",
-            "heading_size": "h1"
+            "icon": "none",
+            "title": "H1H User Guide",
+            "text": "<p>Discover the full range of capabilities and features offered by Heavys' H1H headphones.<\/p>",
+            "link_label": "Download",
+            "link": ""
           }
         },
-        "template--14891902632010__2245f7c2-b086-4ad9-b0d5-4bf58575deed-text-1": {
-          "type": "text",
+        "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-2": {
+          "type": "column",
           "settings": {
-            "text": "<p><strong>A mandatory document for manufacturers and authorized representatives, our EU Declaration of Conformity form ensures compliance.<\/strong><\/p>"
-          }
-        },
-        "template--14891902632010__2245f7c2-b086-4ad9-b0d5-4bf58575deed-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Download",
-            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/HEAVYS_CE_DOC.pdf?v=1690465535",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "icon": "none",
+            "title": "EU Declaration of Conformity ",
+            "text": "<p>A mandatory document for manufacturers and authorized representatives, our EU Declaration of Conformity form ensures compliance.<\/p>",
+            "link_label": "Download",
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/HEAVYS_CE_DOC.pdf?v=1690465535"
           }
         }
       },
       "block_order": [
-        "template--14891902632010__2245f7c2-b086-4ad9-b0d5-4bf58575deed-heading-1",
-        "template--14891902632010__2245f7c2-b086-4ad9-b0d5-4bf58575deed-text-1",
-        "template--14891902632010__2245f7c2-b086-4ad9-b0d5-4bf58575deed-button-1"
+        "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-1",
+        "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-2"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 80
       }
     }
   },
   "order": [
     "main",
     "8f841c1a-bd33-4b45-b1f4-40d72c436423",
-    "2245f7c2-b086-4ad9-b0d5-4bf58575deed"
+    "a439b6cb-ad69-4957-912b-0ed7fb6964d9"
   ]
 }
