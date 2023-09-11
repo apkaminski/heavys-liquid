@@ -31,9 +31,9 @@
         "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How to update the Firmware?",
+            "heading": "Will there be a mobile app?",
             "icon": "none",
-            "row_content": "<p>*At this time, updates are available on Windows operating system only.<\/p><p>1.Download the firmware update (We will send you an email).<\/p><p>2.Connect headphones to your computer with the included USB cable.<\/p><p>3.Double-click the HEAVYS UPDATER icon to launch the program.<\/p><p>Updated.exe<\/p><p>4. Follow the on-screen instructions to update the firmware.<\/p><p>5.Wait for a success message before disconnecting from your computer.<\/p><p>6.Enjoy your new upgraded Heavys headphones.<\/p>",
+            "row_content": "<p>Certainly, we are currently developing an app that will include firmware updates and enable the management of specific headphone features and incorporate some exciting new advancements in the near future. The app will launch towards the end of 2023.<\/p>",
             "page": ""
           }
         },
@@ -51,7 +51,7 @@
           "settings": {
             "heading": "What’s in the box?",
             "icon": "none",
-            "row_content": "<p>With your purchase, you will get a tech-packed brand new pair of Heavys black headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates.<\/p><p>If you want to listen in wired mode through an AUX connection, you can purchase AUX cables as addons. Heavys offers 2 lengths of 3.5 mm AUX cables: normal length 1.3 meters (~4.25 ft) or extra long 3 meters (~9.85 ft).<\/p>",
+            "row_content": "<p>With your purchase, you will get a tech-packed brand new pair of Heavys black headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates.<\/p><p>If you want to listen in wired mode through an AUX connection, you can purchase our AUX cables as add-ons. Heavys offers 2 lengths of 3.5 to 2.5 mm AUX cables: normal length 1.3 meters (~4.25 ft) or extra long 3 meters (~9.85 ft).<\/p>",
             "page": ""
           }
         },
@@ -61,15 +61,6 @@
             "heading": "Does Heavys offer a Carry \/ Travel case",
             "icon": "none",
             "row_content": "<p>Yes, we do. It is available for purchase on <a href=\"\/products\/heavys-case-2\" title=\"Heavys Case\">our online store<\/a>.<\/p>",
-            "page": ""
-          }
-        },
-        "8f16f7e5-db78-4538-ad54-132cef8d7088": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is Firmware?",
-            "icon": "none",
-            "row_content": "<p>Firmware refers to the software that is integrated into your headphones. Just like any other software, firmware can be updated to improve functionality and add new features. We periodically release firmware updates for your Heavys to ensure that you continue to enjoy optimal performance and premium sound quality. Don't worry. Updating your firmware is a straightforward process that we've made as easy as possible.<\/p>",
             "page": ""
           }
         },
@@ -87,7 +78,7 @@
           "settings": {
             "heading": "What cables are included and what cables can we purchase as add-ons?",
             "icon": "none",
-            "row_content": "<p>Cable included: USB-C to USB-C 1.4 meters (~4.59 ft for charging and wired mode listening & Firmware updated).<\/p><p>Addon cables you can purchase: <a href=\"\/products\/standard-aux-cable-1-3m-4-25ft-1\" title=\"Standard Aux Cable 1.3m (4.25ft)\">SHORT AUX 3.5mm 1.3 meters (~4.25 ft)<\/a> ; <a href=\"\/products\/long-aux-cable-3m-9-25ft-1\" title=\"Long Aux Cable 3m (9.25ft)\">LONG AUX 3.5mm 3 meters (~9.85 ft)<\/a>.<\/p>",
+            "row_content": "<p>Cable included: USB-C to USB-C 1.4 meters (~4.59 ft for charging and wired mode listening & Firmware updates).<\/p><p>Addon cables you can purchase: <a href=\"\/products\/standard-aux-cable-1-3m-4-25ft-1\" title=\"Standard Aux Cable 1.3m (4.25ft)\">SHORT AUX 3.5mm 1.3 meters (~4.25 ft)<\/a> ; <a href=\"\/products\/long-aux-cable-3m-9-25ft-1\" title=\"Long Aux Cable 3m (9.25ft)\">LONG AUX 3.5mm 3 meters (~9.85 ft)<\/a>.<\/p>",
             "page": ""
           }
         },
@@ -108,7 +99,6 @@
         "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-3",
         "6618d46a-824f-4b85-9a52-eab0cf34ade9",
         "d601a59c-bb25-4f5e-ba81-d41ad64f7534",
-        "8f16f7e5-db78-4538-ad54-132cef8d7088",
         "caa28194-cf5e-4f55-beb6-65bcc811a043",
         "79ca05cd-f122-46f7-9c23-f1a2bf2862b4",
         "0cd5c109-17fd-485b-bc12-a762e66a3f0b"
@@ -140,6 +130,7 @@
             "row_content": "",
             "icon": "none",
             "enable_video_looping": false,
+            "autoplay": false,
             "video": "shopify:\/\/files\/videos\/How to replace Heavys Shells-(1080p).mp4",
             "video_url": ""
           }
@@ -234,7 +225,7 @@
           "settings": {
             "heading": "When will my pre-order be shipped?",
             "icon": "none",
-            "row_content": "<p><strong>Orders before April 5th -<\/strong> We started shipping for orders that were made before April 5th. Orders are sent depending on your order location, order time, and order content. H1H backorders will be shipped out gradually over a period of 3 months [May-July]<strong>. <\/strong>You will receive another email with the tracking number as your order is shipped.<\/p><p><strong>New orders -<\/strong> If you plan to buy it now, the current estimation is August 2023. Please note that this is an estimate, as you're pre-ordering the product, and production delays could arise. You will receive another email with the tracking number as your order is shipped.<\/p>",
+            "row_content": "<p>Orders are sent depending on your order location, order time, and order content. H1H backorders are shipping gradually<\/p><p>Most pre-orders were shipped and all will be heading out by September 2023. You will receive another email with the tracking number as your order is shipped.<\/p>",
             "page": ""
           }
         }
@@ -279,15 +270,6 @@
             "heading": "Are you going to implement LDAC support?",
             "icon": "none",
             "row_content": "<p>LDAC is not supported.<\/p>",
-            "page": ""
-          }
-        },
-        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How much Heavys headphones weigh?",
-            "icon": "none",
-            "row_content": "<p>Weight: 255 g \/ 9 oz<\/p>",
             "page": ""
           }
         },
@@ -394,7 +376,6 @@
       "block_order": [
         "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-0",
         "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-1",
-        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-2",
         "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-3",
         "290681a0-1cd5-4692-a622-331bf732aeed",
         "42fd642e-0529-44e3-b84b-ff50d513fcd1",
