@@ -484,6 +484,7 @@
         "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3",
         "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-5"
       ],
+      "disabled": true,
       "settings": {
         "product": "shell-bundle-1",
         "color_scheme": "inverse",
@@ -502,6 +503,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h1",
