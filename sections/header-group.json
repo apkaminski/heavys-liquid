@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Enjoy a $40 Discount on Heavys Headphones!",
+            "text": "Save $40 Today!",
             "behaviour_type": "klavyo_popup",
             "link": "shopify:\/\/products\/headphones-case-aux",
             "klavyo_desktop_id": "S3Eqqe",
