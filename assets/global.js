@@ -1457,3 +1457,7 @@ class ProductRecommendations extends HTMLElement {
 }
 
 customElements.define('product-recommendations', ProductRecommendations);
+//custom module functions
+function expandMasonry(elem) {
+  elem.closest('.masonry').classList.add('expanded');
+}
