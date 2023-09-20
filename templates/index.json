@@ -529,6 +529,85 @@
         "padding_top": 80,
         "padding_bottom": 80
       }
+    },
+    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0": {
+      "type": "testimonial-grid",
+      "blocks": {
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Luis Bonilla <\/strong>",
+            "label": "",
+            "text": "<p>I was honestly anxious about receiving the headphones but I got them on Monday and I am blown away. These are literally the 4.41 • st headphones that fit my large head comfortably. I hope you make ear d cushions available for replacement in the future. <\/p>"
+          }
+        },
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Jay-WHY FREAKIN' Tait<\/strong>",
+            "label": "",
+            "text": "<p>Received my @heavysaudio headphones today while I was at work. And the sound on it is PHENOMENAL! TOO SWEET! So glad I got these headphones pre ordered months ago after seeing an ad for them. #Heavys #Unboxink, <\/p>"
+          }
+        },
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>evan_havener<\/strong>",
+            "label": "",
+            "text": "<p>got my pair and tested it for a solid day, amazing sound quality, fits my head really snug, was definitely worth the wait <\/p>"
+          }
+        },
+        "e61acb64-e5a3-477d-8c01-8dd4be4d8dc2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Gavin Leys<\/strong>",
+            "label": "",
+            "text": "<p>As a recent receiver of my pair, I just wanted to pass on how good these are for anyone thinking of getting a pair. I've got quite a few well regarded headphones, Grado HF-1, Beyerdynamic DT770's, Denon 2000's etc. None convey Metal music with the accuracy, tone, presentation and authority of the HEAVYS. (Awesome bass speed, impact & depth) They sound great at all listening levels, and surprisingly good for other genre's of music, Highly recommended.<\/p>"
+          }
+        },
+        "4c5c9ca1-0777-4716-84cd-b90cecbd620a": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Roman_w03<\/strong>",
+            "label": "",
+            "text": "<p>I got mine today, honestly I'd say it was worth the wait. The noise cancellation is some of the best I've had, and the build quality is far better than expected <\/p>"
+          }
+        },
+        "17fa18f4-ba0a-49c7-b49a-954c765467ac": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Joe Traina<\/strong>",
+            "label": "",
+            "text": "<p>So, barring how goofy these look on me (albeit, I think that's a ME problem '-;) they SOUND AMAZING.<\/p><p>I'm an over the ear headphone junkie. I'm embarrassed to say how many pairs I own. After tuning these with Wavelet, I can listen to EVERY genre of music I enjoy with these. I mean from acoustic, 80s cheese rock, Metallica, Tool, Beastie Boys, worship music, DMB, 311, grunge....etc... it ALL passes the test. And not just barely; they rival some of my big boys.<\/p>"
+          }
+        },
+        "6925f2de-5bf2-44a2-9c23-4994081a1121": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Iris G Magee <\/strong>",
+            "label": "",
+            "text": "<p>\"These Heavys arrived today, and holy shitballs nre they loud AF, sound is amazing, and they feel super sturdy! Hell of an upgrade from my pair of Sennheisers! I,<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-1",
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-2",
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-3",
+        "e61acb64-e5a3-477d-8c01-8dd4be4d8dc2",
+        "4c5c9ca1-0777-4716-84cd-b90cecbd620a",
+        "17fa18f4-ba0a-49c7-b49a-954c765467ac",
+        "6925f2de-5bf2-44a2-9c23-4994081a1121"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "heading_size": "h1",
+        "button_label": "View more",
+        "button_link": "",
+        "color_scheme": "inverse",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
     }
   },
   "order": [
@@ -540,6 +619,7 @@
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
     "featured_collection",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
-    "a259a103-10d9-404b-84c4-de542413e278"
+    "a259a103-10d9-404b-84c4-de542413e278",
+    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0"
   ]
 }
