@@ -533,28 +533,44 @@
     "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0": {
       "type": "testimonial-grid",
       "blocks": {
+        "a2f3f744-d1ba-4ce2-bbcd-cda4a9aa7b2e": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>David J.<\/strong>",
+            "label": "",
+            "text": "<p>\"Just got mine. Oh man. Definitely worth the wait. Thee best headphones I've ever listened to. And trust me I've been through a lot.\"<\/p>"
+          }
+        },
+        "9015703c-1c51-474d-a59b-13f207099ae8": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Matt N.<\/strong>",
+            "label": "",
+            "text": "<p>\"I've got mine. Give your ears some time to adjust to them and they're incredible. Especially Atmospheric Black Metal or really anything that has a little more going on. The sound stage of these is fantastic.\"<\/p>"
+          }
+        },
         "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-1": {
           "type": "column",
           "settings": {
-            "title": "<strong>Luis Bonilla <\/strong>",
+            "title": "<strong>Luis B.<\/strong>",
             "label": "",
-            "text": "<p>I was honestly anxious about receiving the headphones but I got them on Monday and I am blown away. These are literally the 4.41 • st headphones that fit my large head comfortably. I hope you make ear d cushions available for replacement in the future. <\/p>"
+            "text": "<p>\"I was honestly anxious about receiving the headphones but I got them on Monday and I am blown away. These are literally the 1st headphones that fit my large head comfortably.\"<\/p>"
           }
         },
         "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-2": {
           "type": "column",
           "settings": {
-            "title": "<strong>Jay-WHY FREAKIN' Tait<\/strong>",
+            "title": "<strong>Jay T.<\/strong>",
             "label": "",
-            "text": "<p>Received my @heavysaudio headphones today while I was at work. And the sound on it is PHENOMENAL! TOO SWEET! So glad I got these headphones pre ordered months ago after seeing an ad for them. #Heavys #Unboxink, <\/p>"
+            "text": "<p>\"Received my @heavysaudio headphones today while I was at work. And the sound on it is PHENOMENAL! TOO SWEET! So glad I got these headphones pre ordered months ago...\"<\/p>"
           }
         },
         "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-3": {
           "type": "column",
           "settings": {
-            "title": "<strong>evan_havener<\/strong>",
+            "title": "<strong>Evan H.<\/strong>",
             "label": "",
-            "text": "<p>got my pair and tested it for a solid day, amazing sound quality, fits my head really snug, was definitely worth the wait <\/p>"
+            "text": "<p>\"Got my pair and tested it for a solid day, amazing sound quality, fits my head really snug, was definitely worth the wait.\"<\/p>"
           }
         },
         "e61acb64-e5a3-477d-8c01-8dd4be4d8dc2": {
@@ -620,25 +636,11 @@
             "label": "",
             "text": "<p>Vo Davos they are incredible they make me speechless lt-w well done at #heavys <\/p>"
           }
-        },
-        "9015703c-1c51-474d-a59b-13f207099ae8": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Matt Nofzinger <\/strong>",
-            "label": "",
-            "text": "<p>I've got mine. Give your ears some time to adjust to them and they're incredible. <\/p><p>Especially Atmospheric Black Metal or really anything that has a little more going on. The sound stage of these is fantastic. <\/p>"
-          }
-        },
-        "a2f3f744-d1ba-4ce2-bbcd-cda4a9aa7b2e": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>David Jimerson <\/strong>",
-            "label": "",
-            "text": "<p>Just got mine. Oh man. Definitely worth the wait. Thee best headphones I've ever listened to. And trust me I've been through a lot. <\/p>"
-          }
         }
       },
       "block_order": [
+        "a2f3f744-d1ba-4ce2-bbcd-cda4a9aa7b2e",
+        "9015703c-1c51-474d-a59b-13f207099ae8",
         "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-1",
         "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-2",
         "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-3",
@@ -649,9 +651,7 @@
         "3c048e80-5368-4ed7-b58c-0e7c9420b16c",
         "2c3cac86-c507-4a1a-a7cf-7c3151e16b01",
         "9535e083-f501-42c5-bbe4-74a921ff078f",
-        "0564a057-ebc0-4147-96ac-b8239a591c66",
-        "9015703c-1c51-474d-a59b-13f207099ae8",
-        "a2f3f744-d1ba-4ce2-bbcd-cda4a9aa7b2e"
+        "0564a057-ebc0-4147-96ac-b8239a591c66"
       ],
       "settings": {
         "title": "Customer Reviews",
@@ -659,7 +659,7 @@
         "button_label": "View more",
         "button_link": "",
         "color_scheme": "inverse",
-        "padding_top": 80,
+        "padding_top": 60,
         "padding_bottom": 80
       }
     }
