@@ -414,7 +414,7 @@
           "settings": {
             "heading": "What is included in my Warranty?",
             "icon": "none",
-            "row_content": "<p>We offer a one-year limited warranty on all of our headphones, please review our full warranty page<\/p>",
+            "row_content": "<p>We offer a one-year limited warranty on all of our headphones, please review our full warranty page.<\/p>",
             "page": ""
           }
         },
