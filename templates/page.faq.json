@@ -61,7 +61,7 @@
           "settings": {
             "heading": "Does Heavys offer a Carry \/ Travel case",
             "icon": "none",
-            "row_content": "<p>Yes, we do. It is available for purchase on <a href=\"\/products\/heavys-case-2\" title=\"Heavys Case\">our online store<\/a>.<\/p>",
+            "row_content": "<p>Yes, we do. It is available for purchase on <a href=\"https:\/\/www.heavys.com\/products\/heavys-case-2\"><span style=\"text-decoration:underline\">our online store<\/span><\/a>.<\/p>",
             "page": ""
           }
         },
