@@ -41,9 +41,9 @@
           "type": "collapsible_row",
           "disabled": true,
           "settings": {
-            "heading": "Will there be a mobile app?",
+            "heading": "Can I connect Heavys to my iPhone or Android Phone?",
             "icon": "none",
-            "row_content": "<p>Certainly, we are currently developing an app that will include firmware updates and enable the management of specific headphone features and incorporate some exciting new advancements in the near future. The app will launch towards the end of 2023.<\/p>",
+            "row_content": "<p>Absolutely. Heavys comes Bluetooth enabled and you can easily connect it with any phone or device that supports Bluetooth.<\/p>",
             "page": ""
           }
         },
