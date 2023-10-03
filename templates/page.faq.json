@@ -127,7 +127,7 @@
           "type": "video_collapsible_row",
           "settings": {
             "heading": "How do I replace the shells?",
-            "row_content": "<p>The shell is attached by four grooves in the H1H headphones located on the outside of the cup. In order to detach the shell, place your thumb on one side for leverage and use your middle and index fingers on the other side to pull the shell off the cup.<\/p><p>In order to mount the new shell, place it in the same place as the old one and push until you hear a click.<\/p><p>Watch our <a href=\"https:\/\/www.heavys.com\/pages\/shells-instructions#shopify-section-template--14913730510922__c7389838-0e52-4a89-92b8-2df2effa4e8d\"><span style=\"text-decoration:underline\">demo<\/span><\/a><\/p>",
+            "row_content": "<p>The shell is attached by four grooves in the H1H headphones located on the outside of the cup. In order to detach the shell, place your thumb on one side for leverage and use your middle and index fingers on the other side to pull the shell off the cup.<\/p><p>In order to mount the new shell, place it in the same place as the old one and push until you hear a click.<\/p>",
             "icon": "none",
             "enable_video_looping": false,
             "autoplay": false,
@@ -137,6 +137,7 @@
         },
         "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "What shells designs are available?",
             "icon": "none",
@@ -177,10 +178,20 @@
             "row_content": "<p>For taxes, every country has its own taxes and procedures. You are responsible for paying any taxes or specific country duties, if applicable, in your country or state as with any other consumer electronic goods ordered online.<\/p>",
             "page": ""
           }
+        },
+        "63c90da5-968f-415c-942b-2f07ac954a94": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will you ship to Russia or Ukraine?",
+            "icon": "none",
+            "row_content": "<p>Unfortunately we currently can not ship to Russia and Ukraine.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0"
+        "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0",
+        "63c90da5-968f-415c-942b-2f07ac954a94"
       ],
       "settings": {
         "caption": "FAQ",
