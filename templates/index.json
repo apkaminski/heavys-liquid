@@ -618,7 +618,7 @@
           "type": "video_collapsible_row",
           "settings": {
             "heading": "How do I replace the shells?",
-            "row_content": "",
+            "row_content": "<p>The shell is attached by four grooves in the H1H headphones located on the outside of the cup. In order to detach the shell, place your thumb on one side for leverage and use your middle and index fingers on the other side to pull the shell off the cup.<\/p><p>In order to mount the new shell, place it in the same place as the old one and push until you hear a click.<\/p>",
             "icon": "none",
             "enable_video_looping": false,
             "autoplay": false,
