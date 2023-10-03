@@ -279,7 +279,7 @@
           "settings": {
             "heading": "How is the battery life?",
             "icon": "none",
-            "row_content": "<p>Our battery lasts 50 hours without ANC (Noise-canceling, aka Hell Blocker), and 40hrs with ANC.<br\/>Like any electrical device, extreme cold may damage the battery, we do not recommend taking the headphones out to temperatures below -20℃.<\/p>",
+            "row_content": "<p>Our battery lasts 50 hours without ANC (Noise-canceling, aka Hell Blocker), and 40hrs with ANC.Like any electrical device, extreme cold may damage the battery, so we do not recommend taking the headphones out to temperatures below -20℃.<\/p>",
             "page": ""
           }
         },
@@ -360,7 +360,7 @@
           "settings": {
             "heading": "Are Heavys wired or wireless?",
             "icon": "none",
-            "row_content": "<p>You can use and listen to Heavys, both wired and wireless. Heavys supports 5.1 BLE Bluetooth but is also wired in through USB-C or AUX 3.5mm.<\/p>",
+            "row_content": "<p>You can use and listen to Heavys, both wired and wireless. Heavys supports 5.1 BLE Bluetooth but is also wired in through USB-C or AUX 3.5 to 2.5mm.<\/p>",
             "page": ""
           }
         },
