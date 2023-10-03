@@ -24,7 +24,7 @@
           "settings": {
             "heading": "What are the different Heavys operation modes?",
             "icon": "none",
-            "row_content": "<p><strong>Wired Pure Passive - <\/strong>Analog Aux \/ USB type C connection with no Noise cancelation.<\/p><p><strong>Bluetooth Passive - <\/strong>Bluetooth connection without Noise cancelation.<\/p><p><strong>Bluetooth ANC - <\/strong>Bluetooth connection with active noise cancelation.<\/p><p><strong>Bluetooth Transparent - <\/strong>This mode lets you better hear your surroundings without removing your headphones.<\/p>",
+            "row_content": "<p><strong>Passive Analog Mode<\/strong> - Analog cable connected with headphones off, no noise cancellation or button control, analog signal goes directly to the drivers. <\/p><p><strong>Analog Active Mode <\/strong>- analog cable connected with headphones on, signal goes to internal ADC, noise cancellation is available, but no controls.   <\/p><p><strong>USB-C Passive Mode <\/strong>- USB-C cable connected with headphones off, no ANC or controls, Hi res uncompressed digital signal from USB-C to internal DAC only. <\/p><p><strong>USBC Active Mode<\/strong> - USB-C cable connected with headphones on, ANC and controls are available, uncompressed Hi res digital signal from USB-C to internal DAC. <\/p><p><strong>Bluetooth Passive Mode<\/strong> - Bluetooth connection without Noise cancellation.<\/p><p><strong>Bluetooth ANC Mode<\/strong> - Bluetooth connection with active noise cancellation.<\/p><p><strong>Bluetooth Transparent Mode <\/strong>- This mode lets you better hear your surroundings without removing your headphones.<\/p>",
             "page": ""
           }
         },
