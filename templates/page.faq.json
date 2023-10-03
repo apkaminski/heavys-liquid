@@ -39,7 +39,6 @@
         },
         "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-2": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
             "heading": "Can I connect Heavys to my iPhone or Android Phone?",
             "icon": "none",
@@ -128,7 +127,7 @@
           "type": "video_collapsible_row",
           "settings": {
             "heading": "How do I replace the shells?",
-            "row_content": "",
+            "row_content": "<p>The shell is attached by four grooves in the H1H headphones located on the outside of the cup. In order to detach the shell, place your thumb on one side for leverage and use your middle and index fingers on the other side to pull the shell off the cup.<\/p><p>In order to mount the new shell, place it in the same place as the old one and push until you hear a click.<\/p><p>Watch our <a href=\"https:\/\/www.heavys.com\/pages\/shells-instructions#shopify-section-template--14913730510922__c7389838-0e52-4a89-92b8-2df2effa4e8d\"><span style=\"text-decoration:underline\">demo<\/span><\/a><\/p>",
             "icon": "none",
             "enable_video_looping": false,
             "autoplay": false,
