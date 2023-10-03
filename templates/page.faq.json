@@ -28,19 +28,20 @@
             "page": ""
           }
         },
-        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-2": {
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will there be a mobile app?",
+            "heading": "Will there be a Heavys mobile app?",
             "icon": "none",
             "row_content": "<p>Certainly, we are currently developing an app that will include firmware updates and enable the management of specific headphone features and incorporate some exciting new advancements in the near future. The app will launch towards the end of 2023.<\/p>",
             "page": ""
           }
         },
-        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-3": {
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-2": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
-            "heading": "Will there be a Heavys mobile app?",
+            "heading": "Will there be a mobile app?",
             "icon": "none",
             "row_content": "<p>Certainly, we are currently developing an app that will include firmware updates and enable the management of specific headphone features and incorporate some exciting new advancements in the near future. The app will launch towards the end of 2023.<\/p>",
             "page": ""
@@ -51,7 +52,7 @@
           "settings": {
             "heading": "What’s in the box?",
             "icon": "none",
-            "row_content": "<p>With your purchase, you will get a tech-packed brand new pair of Heavys black headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates.<\/p><p>If you want to listen in wired mode through an AUX connection, you can purchase our AUX cables as add-ons. Heavys offers 2 lengths of 3.5 to 2.5 mm AUX cables: normal length 1.3 meters (~4.25 ft) or extra long 3 meters (~9.85 ft).<\/p>",
+            "row_content": "<p>With your purchase, you will get a tech-packed brand new pair of Heavys black headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates.<\/p><p>If you want to listen in wired mode through an AUX connection, you can purchase our AUX cables as add-ons. Heavys offers 2 lengths of 3.5 to 2.5 mm AUX cables: normal length 1.3 meters (~4.25 ft) or extra long 3 meters (~9.85 ft).<\/p><p>For additional accessories such as a travel case, visit here: <a href=\"https:\/\/www.heavys.com\/collections\/frontpage\"><span style=\"text-decoration:underline\">https:\/\/www.heavys.com\/collections\/frontpage<\/span><\/a><\/p>",
             "page": ""
           }
         },
@@ -95,8 +96,8 @@
       "block_order": [
         "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-0",
         "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-1",
-        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-2",
         "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-3",
+        "template--14885345820746__13db89f4-7cd1-4e43-85a2-b8c0a616da49-1689329197ec6dd353-2",
         "6618d46a-824f-4b85-9a52-eab0cf34ade9",
         "d601a59c-bb25-4f5e-ba81-d41ad64f7534",
         "caa28194-cf5e-4f55-beb6-65bcc811a043",
