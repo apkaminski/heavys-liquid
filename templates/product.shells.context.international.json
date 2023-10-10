@@ -4,5 +4,43 @@
     "market": "international"
   },
   "sections": {
-  }
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "buy_buttons": {
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "d193cd1b-c1e9-435e-bd9b-92c049795294": {
+          "type": "preorder_buttons",
+          "settings": {
+            "klavyo_desktop_id": "YyZgLn",
+            "klavyo_mobile_id": "TMcm4k"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "3c23034f-010d-42d2-9612-934582f53664",
+        "d193cd1b-c1e9-435e-bd9b-92c049795294"
+      ]
+    }
+  },
+  "order": [
+    "main",
+    "243990a3-4122-461a-b6d3-04139fdb26fc",
+    "14d62ff5-687e-49d9-813c-54bfbf115c37",
+    "23bdb07e-77f8-419c-9568-b7766935372a",
+    "463cf269-3e55-4128-838b-822482a855bf",
+    "related-products"
+  ]
 }
