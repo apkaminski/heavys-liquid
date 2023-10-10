@@ -20,7 +20,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Pre Order Now",
+            "button_label_1": "Buy Now",
             "button_link_1": "shopify:\/\/products\/headphones-case-aux",
             "button_style_secondary_1": false,
             "button_label_2": "Learn More",
