@@ -351,6 +351,13 @@
                   product_form_id: product_form_id,
                   section_id: section.id
                 -%}
+              {%- when 'preorder_buttons' -%}
+                {%- render 'preorder-buttons',
+                  block: block,
+                  product: product,
+                  product_form_id: product_form_id,
+                  section_id: section.id
+                -%}
               {%- when 'custom_liquid' -%}
                 {{ block.settings.custom_liquid }}
               {%- when 'rating' -%}
@@ -779,6 +786,25 @@
           "default": true,
           "label": "t:sections.main-product.blocks.buy_buttons.settings.show_gift_card_recipient.label",
           "info": "t:sections.main-product.blocks.buy_buttons.settings.show_gift_card_recipient.info"
+        }
+      ]
+    },
+    {
+      "type": "preorder_buttons",
+      "name": "t:sections.featured-product.blocks.preorder_buttons.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "klavyo_desktop_id",
+          "label": "Klavyo signup unit ID",
+          "info": "Enter Klavyo ID for desktop signup unit"
+        },
+        {
+          "type": "text",
+          "id": "klavyo_mobile_id",
+          "label": "Klavyo signup unit ID",
+          "info": "Enter Klavyo ID for mobile signup unit, leave empty if using one for both"
         }
       ]
     },
