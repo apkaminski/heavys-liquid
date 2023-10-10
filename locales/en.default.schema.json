@@ -856,6 +856,15 @@
             }
           }
         },
+        "preorder_buttons": {
+          "name": "Preorder buttons",
+          "settings": {
+            "show_dynamic_checkout": {
+              "label": "Show dynamic checkout buttons",
+              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+            }
+          }
+        },
         "sku": {
           "name": "SKU",
           "settings": {
@@ -1986,6 +1995,9 @@
               "info": "Allows buyers to send gift cards on a scheduled date along with a personal message. [Learn more](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
             }
           }
+        },
+        "preorder_buttons": {
+          "name": "Preorder buttons"
         },
         "pickup_availability": {
           "name": "Pickup availability"
