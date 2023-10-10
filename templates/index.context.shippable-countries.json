@@ -5,6 +5,7 @@
   },
   "sections": {
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
+      "disabled": false,
       "settings": {
       },
       "blocks": {
@@ -14,6 +15,49 @@
           }
         }
       }
+    },
+    "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
+      "settings": {
+      },
+      "blocks": {
+        "3db7e878-c4b4-4d89-abd4-9e95f8073084": {
+          "type": "preorder_buttons",
+          "settings": {
+            "klavyo_desktop_id": "YyZgLn",
+            "klavyo_mobile_id": "TMcm4k"
+          }
+        },
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5": {
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0",
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-1",
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-2",
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-3",
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-4",
+        "3db7e878-c4b4-4d89-abd4-9e95f8073084",
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5",
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-6",
+        "b51b00a5-07c0-4cc6-91bb-a27b9b386d49",
+        "1e5b4491-9672-44d4-88a9-c9c7a954c53f",
+        "606d60f6-e539-42f2-8520-8a32f3af2dcf"
+      ]
     }
-  }
+  },
+  "order": [
+    "448a8e28-57fb-42ea-8901-668a4f53b4f9",
+    "67addfa2-3f6c-49af-b090-a76c76f0a133",
+    "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
+    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0",
+    "video",
+    "afe8820a-9e66-4dc8-9751-860686858282",
+    "70bfa058-95e2-422e-9d16-7ffff8e8e689",
+    "featured_collection",
+    "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
+    "a259a103-10d9-404b-84c4-de542413e278"
+  ]
 }

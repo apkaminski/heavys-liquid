@@ -4,5 +4,18 @@
     "market": "shippable-countries"
   },
   "sections": {
+    "announcement-bar": {
+      "settings": {
+      },
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Notify Me When Avaliable In My Country",
+            "klavyo_desktop_id": "YyZgLn",
+            "klavyo_mobile_id": "TMcm4k"
+          }
+        }
+      }
+    }
   }
 }
