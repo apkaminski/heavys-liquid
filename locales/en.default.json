@@ -106,7 +106,7 @@
   },
   "products": {
     "product": {
-      "add_to_cart": "Pre Order Now",
+      "add_to_cart": "Buy Now",
       "pre_order": "Notify me when avaliable",
       "choose_options": "Choose options",
       "choose_product_options": "Choose options for {{ product_name }}",
