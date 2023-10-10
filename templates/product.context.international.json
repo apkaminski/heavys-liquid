@@ -4,5 +4,38 @@
     "market": "international"
   },
   "sections": {
-  }
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "buy_buttons": {
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "e279bfc1-de43-4d7d-b217-6078c4962002": {
+          "type": "preorder_buttons",
+          "settings": {
+            "klavyo_desktop_id": "YyZgLn",
+            "klavyo_mobile_id": "TMcm4k"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "e279bfc1-de43-4d7d-b217-6078c4962002",
+        "buy_buttons",
+        "description"
+      ]
+    }
+  },
+  "order": [
+    "main",
+    "related-products"
+  ]
 }
