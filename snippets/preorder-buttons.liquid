@@ -78,7 +78,7 @@
               {%- if product.selected_or_first_available_variant.available == false or quantity_rule_soldout -%}
                 {{ 'products.product.sold_out' | t }}
               {%- else -%}
-                {{ 'products.product.pre-order' | t }}
+                {{ 'products.product.pre_order' | t }}
               {%- endif -%}
             </span>
           </button>
