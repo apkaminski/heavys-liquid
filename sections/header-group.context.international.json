@@ -4,5 +4,18 @@
     "market": "international"
   },
   "sections": {
+    "announcement-bar": {
+      "settings": {
+      },
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "klavyo_desktop_id": "YyZgLn",
+            "klavyo_mobile_id": "TMcm4k",
+            "text": "Get notified when Heavy's become available in your country"
+          }
+        }
+      }
+    }
   }
 }
