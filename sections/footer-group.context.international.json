@@ -4,5 +4,12 @@
     "market": "international"
   },
   "sections": {
+    "bcd3bbac-d671-45e8-9af5-287eefa8e028": {
+      "settings": {
+        "custom_liquid": "<div class=\"klaviyo-form-RVeKrH\"><\/div>"
+      },
+      "blocks": {
+      }
+    }
   }
 }
