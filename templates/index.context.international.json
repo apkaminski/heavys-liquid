@@ -18,7 +18,8 @@
           "settings": {
             "button_label_1": "Subscribe Now!",
             "button_label_2": "Learn More",
-            "button_link_2": "shopify:\/\/products\/headphones-case-aux"
+            "button_link_2": "shopify:\/\/products\/headphones-case-aux",
+            "button_style_secondary_1": false
           }
         }
       }
