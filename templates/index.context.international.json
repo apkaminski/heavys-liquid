@@ -22,7 +22,12 @@
             "button_link_2": "shopify:\/\/products\/headphones-case-aux"
           }
         }
-      }
+      },
+      "block_order": [
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-buttons-1"
+      ]
     },
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
       "disabled": false,
