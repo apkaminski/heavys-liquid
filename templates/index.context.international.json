@@ -5,6 +5,7 @@
   },
   "sections": {
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
+      "disabled": false,
       "settings": {
       },
       "blocks": {
@@ -13,10 +14,16 @@
             "button_label_1": "Learn More",
             "button_label_2": ""
           }
+        },
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
+          "settings": {
+            "heading": "Headphones Engineered For Heavy Metal"
+          }
         }
       }
     },
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
+      "disabled": false,
       "settings": {
       },
       "blocks": {

@@ -5,14 +5,15 @@
   },
   "sections": {
     "announcement-bar": {
+      "disabled": false,
       "settings": {
       },
       "blocks": {
         "announcement-bar-0": {
           "settings": {
+            "text": "Heavys Alert: Don't Miss Out!",
             "klavyo_desktop_id": "YyZgLn",
-            "klavyo_mobile_id": "TMcm4k",
-            "text": "Get notified when Heavy's become available in your country"
+            "klavyo_mobile_id": "TMcm4k"
           }
         }
       }
