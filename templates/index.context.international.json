@@ -57,6 +57,7 @@
       ]
     },
     "a259a103-10d9-404b-84c4-de542413e278": {
+      "disabled": false,
       "settings": {
       },
       "blocks": {
@@ -65,8 +66,23 @@
             "heading": "Why are Heavys not available in my country?",
             "row_content": "<p>At present, Heavys are only available in the US, Australia, and Japan. However, we are excited to announce that the list of countries will expand within the next 30 days. For the latest updates on availability, please subscribe to our newsletter. Stay tuned!<\/p>"
           }
+        },
+        "e63ec509-8cc2-42f8-8422-902902dc18d7": {
+          "disabled": true,
+          "settings": {
+          }
         }
-      }
+      },
+      "block_order": [
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2",
+        "e63ec509-8cc2-42f8-8422-902902dc18d7",
+        "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
+        "9813ee02-ba68-479f-b348-3918c537e656",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
+        "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
+        "f983dcff-ff20-43c4-8c52-596455709ebd"
+      ]
     }
   },
   "order": [
