@@ -17,9 +17,9 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-buttons-1": {
           "settings": {
             "button_label_1": "Subscribe Now!",
+            "button_style_secondary_1": false,
             "button_label_2": "Learn More",
-            "button_link_2": "shopify:\/\/products\/headphones-case-aux",
-            "button_style_secondary_1": false
+            "button_link_2": "shopify:\/\/products\/headphones-case-aux"
           }
         }
       }
@@ -55,6 +55,18 @@
         "1e5b4491-9672-44d4-88a9-c9c7a954c53f",
         "606d60f6-e539-42f2-8520-8a32f3af2dcf"
       ]
+    },
+    "a259a103-10d9-404b-84c4-de542413e278": {
+      "settings": {
+      },
+      "blocks": {
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
+          "settings": {
+            "heading": "Why are Heavys not available in my country?",
+            "row_content": "<p>At present, Heavys are only available in the US, Australia, and Japan. However, we are excited to announce that the list of countries will expand within the next 30 days. For the latest updates on availability, please subscribe to our newsletter. Stay tuned!<\/p>"
+          }
+        }
+      }
     }
   },
   "order": [
