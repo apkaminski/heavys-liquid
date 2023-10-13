@@ -4,6 +4,28 @@
     "market": "international"
   },
   "sections": {
+    "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
+      "disabled": false,
+      "settings": {
+      },
+      "blocks": {
+        "9e6a28af-df13-42cc-8854-856f3399b99f": {
+          "type": "button_klavyo",
+          "settings": {
+            "button_label": "Sign Up Now",
+            "klavyo_desktop_id": "YyZgLn",
+            "klavyo_mobile_id": "TMcm4k",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
+        "9e6a28af-df13-42cc-8854-856f3399b99f",
+        "a031264a-5813-402f-80ac-e07a014522ca"
+      ]
+    },
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
       "disabled": false,
       "settings": {
@@ -69,27 +91,12 @@
         "f983dcff-ff20-43c4-8c52-596455709ebd"
       ]
     },
-    "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
-      "disabled": false,
+    "afe8820a-9e66-4dc8-9751-860686858282": {
       "settings": {
+        "scroll_anchor": "product-features"
       },
       "blocks": {
-        "9e6a28af-df13-42cc-8854-856f3399b99f": {
-          "type": "button_klavyo",
-          "settings": {
-            "button_label": "Sign Up Now",
-            "klavyo_desktop_id": "YyZgLn",
-            "klavyo_mobile_id": "TMcm4k",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
-        "9e6a28af-df13-42cc-8854-856f3399b99f",
-        "a031264a-5813-402f-80ac-e07a014522ca"
-      ]
+      }
     }
   },
   "order": [
