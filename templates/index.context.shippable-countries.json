@@ -4,13 +4,6 @@
     "market": "shippable-countries"
   },
   "sections": {
-    "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
-      "disabled": false,
-      "settings": {
-      },
-      "blocks": {
-      }
-    }
   },
   "order": [
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
