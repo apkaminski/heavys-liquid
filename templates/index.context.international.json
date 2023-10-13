@@ -17,6 +17,11 @@
             "klavyo_mobile_id": "TMcm4k",
             "button_style_secondary": false
           }
+        },
+        "a031264a-5813-402f-80ac-e07a014522ca": {
+          "settings": {
+            "anchor": "product-features"
+          }
         }
       },
       "block_order": [
@@ -92,6 +97,7 @@
       ]
     },
     "afe8820a-9e66-4dc8-9751-860686858282": {
+      "disabled": false,
       "settings": {
         "scroll_anchor": "product-features"
       },
