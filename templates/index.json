@@ -17,22 +17,28 @@
             "text_style": "body"
           }
         },
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-buttons-1": {
-          "type": "buttons",
+        "92710901-502d-46f4-ad7f-15409e0614f2": {
+          "type": "button",
           "settings": {
-            "button_label_1": "Buy Now",
-            "button_link_1": "shopify:\/\/products\/headphones-case-aux",
-            "button_style_secondary_1": false,
-            "button_label_2": "Learn More",
-            "button_link_2": "#shopify-section-template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7",
-            "button_style_secondary_2": true
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/heavys-headphones-1",
+            "button_style_secondary": false
+          }
+        },
+        "a031264a-5813-402f-80ac-e07a014522ca": {
+          "type": "button_anchor",
+          "settings": {
+            "button_label": "Learn More",
+            "anchor": "heavys-featured",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-buttons-1"
+        "92710901-502d-46f4-ad7f-15409e0614f2",
+        "a031264a-5813-402f-80ac-e07a014522ca"
       ],
       "custom_css": [
         ".banner__text:last-child {color: #63d48a;}"
@@ -48,7 +54,8 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": true,
+        "scroll_anchor": ""
       }
     },
     "67addfa2-3f6c-49af-b090-a76c76f0a133": {
@@ -108,7 +115,8 @@
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "mobile_content_alignment": "center",
-        "show_text_below": true
+        "show_text_below": true,
+        "scroll_anchor": ""
       }
     },
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
@@ -210,7 +218,8 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 80,
-        "padding_bottom": 80
+        "padding_bottom": 80,
+        "scroll_anchor": "heavys-featured"
       }
     },
     "afe8820a-9e66-4dc8-9751-860686858282": {
@@ -281,7 +290,8 @@
         "image_behavior": "sticky",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 36,
+        "scroll_anchor": ""
       }
     },
     "video": {
@@ -301,7 +311,8 @@
         "full_width": false,
         "color_scheme": "inverse",
         "padding_top": 80,
-        "padding_bottom": 80
+        "padding_bottom": 80,
+        "scroll_anchor": ""
       }
     },
     "70bfa058-95e2-422e-9d16-7ffff8e8e689": {
@@ -368,7 +379,8 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 80,
-        "padding_bottom": 80
+        "padding_bottom": 80,
+        "scroll_anchor": ""
       }
     },
     "featured_collection": {
@@ -519,7 +531,8 @@
         "footer_button_label": "All FAQs",
         "footer_button_link": "shopify:\/\/pages\/faqs",
         "padding_top": 80,
-        "padding_bottom": 80
+        "padding_bottom": 80,
+        "scroll_anchor": ""
       }
     },
     "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0": {
@@ -652,7 +665,8 @@
         "button_link": "",
         "color_scheme": "inverse",
         "padding_top": 60,
-        "padding_bottom": 80
+        "padding_bottom": 80,
+        "scroll_anchor": ""
       }
     }
   },
