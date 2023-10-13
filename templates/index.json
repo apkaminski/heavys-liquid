@@ -21,7 +21,7 @@
           "type": "button",
           "settings": {
             "button_label": "Buy Now",
-            "button_link": "shopify:\/\/products\/heavys-headphones-1",
+            "button_link": "shopify:\/\/products\/headphones-case-aux",
             "button_style_secondary": false
           }
         },
