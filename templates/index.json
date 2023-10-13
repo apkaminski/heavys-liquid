@@ -58,67 +58,6 @@
         "scroll_anchor": ""
       }
     },
-    "67addfa2-3f6c-49af-b090-a76c76f0a133": {
-      "type": "video-banner",
-      "blocks": {
-        "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Headphones Engineered For Heavy Metal",
-            "heading_size": "h1"
-          }
-        },
-        "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Pre Order Now",
-            "button_link_1": "shopify:\/\/products\/headphones-case-aux",
-            "button_style_secondary_1": false,
-            "button_label_2": "Learn More",
-            "button_link_2": "#shopify-section-template--14883182903370__video",
-            "button_style_secondary_2": true
-          }
-        },
-        "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Metal-loud headphones with 2 frequency ranges and 8 drivers so you can listen to metal the way it’s meant to be heard.",
-            "text_style": "body"
-          }
-        },
-        "1ee73108-ab18-4b39-b64f-a749e0a1147f": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Over 12,000 metalheads already ordered a pair.<\/strong>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-heading-1",
-        "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-buttons-1",
-        "template--14883182903370__67addfa2-3f6c-49af-b090-a76c76f0a133-text-1",
-        "1ee73108-ab18-4b39-b64f-a749e0a1147f"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".banner__text:last-child {color: #63d48a;}"
-      ],
-      "settings": {
-        "video": "shopify:\/\/files\/videos\/explosion earcup for black background 60fps v1.mp4",
-        "enable_video_looping": true,
-        "autoplay": true,
-        "image_overlay_opacity": 20,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "mobile_content_alignment": "center",
-        "show_text_below": true,
-        "scroll_anchor": ""
-      }
-    },
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
       "type": "featured-product",
       "blocks": {
@@ -672,7 +611,6 @@
   },
   "order": [
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
-    "67addfa2-3f6c-49af-b090-a76c76f0a133",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "afe8820a-9e66-4dc8-9751-860686858282",
     "video",
