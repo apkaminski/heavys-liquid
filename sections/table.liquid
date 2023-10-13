@@ -1,3 +1,4 @@
+{% render 'scroll-anchor', scroll_anchor: section.settings.scroll_anchor %}
 {{ 'component-table.css' | asset_url | stylesheet_tag }}
 {{ 'collapsible-content.css' | asset_url | stylesheet_tag }}
 
@@ -500,7 +501,13 @@
           "type": "page",
           "id": "page",
           "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.page.label"
-        }
+        },
+        {
+          "type": "text",
+          "id": "scroll_anchor",
+          "label": "Section ID",
+          "info": "Set as to target scrolling from other sections"
+        }    
       ]
     }
   ],

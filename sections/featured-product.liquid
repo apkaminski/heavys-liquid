@@ -1,3 +1,5 @@
+
+{% render 'scroll-anchor', scroll_anchor: section.settings.scroll_anchor %}
 {{ 'section-main-product.css' | asset_url | stylesheet_tag }}
 {{ 'section-featured-product.css' | asset_url | stylesheet_tag }}
 {{ 'component-accordion.css' | asset_url | stylesheet_tag }}
@@ -1758,7 +1760,14 @@
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
       "default": 36
+    },
+    {
+      "type": "text",
+      "id": "scroll_anchor",
+      "label": "Section ID",
+      "info": "Set as to target scrolling from other sections"
     }
+
   ],
   "presets": [
     {

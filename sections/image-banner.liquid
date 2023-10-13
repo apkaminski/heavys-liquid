@@ -1,3 +1,4 @@
+{% render 'scroll-anchor', scroll_anchor: section.settings.scroll_anchor %}
 {{ 'section-image-banner.css' | asset_url | stylesheet_tag }}
 
 {%- if section.settings.image_height == 'adapt' and section.settings.image != blank -%}
@@ -126,36 +127,61 @@
             <div class="banner__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
               <p>{{ block.settings.text }}</p>
             </div>
-          {%- when 'buttons' -%}
+          {%- when 'button' -%}
             <div
-              class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_label_2 != blank %} banner__buttons--multiple{% endif %}"
+              class="banner__buttons"
               {{ block.shopify_attributes }}
             >
-              {%- if block.settings.button_label_1 != blank -%}
+              {%- if block.settings.button_label != blank -%}
                 <a
-                  {% if block.settings.button_link_1 == blank %}
+                  {% if block.settings.button_link == blank %}
                     role="link" aria-disabled="true"
                   {% else %}
-                    href="{{ block.settings.button_link_1 }}"
+                    href="{{ block.settings.button_link }}"
                   {% endif %}
-                  class="button{% if block.settings.button_style_secondary_1 %} button--secondary{% else %} button--primary{% endif %}"
+                  class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"
                 >
-                  {{- block.settings.button_label_1 | escape -}}
-                </a>
-              {%- endif -%}
-              {%- if block.settings.button_label_2 != blank -%}
-                <a
-                  {% if block.settings.button_link_2 == blank %}
-                    role="link" aria-disabled="true"
-                  {% else %}
-                    href="{{ block.settings.button_link_2 }}"
-                  {% endif %}
-                  class="button{% if block.settings.button_style_secondary_2 %} button--secondary{% else %} button--primary{% endif %}"
-                >
-                  {{- block.settings.button_label_2 | escape -}}
+                  {{- block.settings.button_label | escape -}}
                 </a>
               {%- endif -%}
             </div>
+          {%- when 'button_anchor' -%}
+            <div
+              class="banner__buttons"
+              {{ block.shopify_attributes }}
+            >
+              {%- if block.settings.button_label != blank -%}
+                <a
+                  {% if block.settings.anchor == blank %}
+                    role="link" aria-disabled="true"
+                  {% else %}
+                    href="#{{ block.settings.anchor }}"
+                  {% endif %}
+                  class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"
+                >
+                  {{- block.settings.button_label | escape -}}
+                </a>
+              {%- endif -%}
+            </div>
+            {%- when 'button_klavyo' -%}
+              <div
+                class="banner__buttons"
+                {{ block.shopify_attributes }}
+              >
+                {%- if block.settings.button_label != blank -%}
+                  <a
+                    {% if block.settings.settings.klavyo_desktop_id != blank %}
+                      role="link" aria-disabled="true"
+                    {% else %}
+                      onclick="launchKlavyoPopup(event,'{{block.settings.klavyo_desktop_id | strip | default:null}}','{{block.settings.klavyo_mobile_id | strip | default:null}}')"
+                      href="/"
+                    {% endif %}
+                    class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"
+                  >
+                    {{- block.settings.button_label | escape -}}
+                  </a>
+                {%- endif -%}
+              </div>
         {%- endcase -%}
       {%- endfor -%}
     </div>
@@ -355,6 +381,12 @@
       "id": "show_text_below",
       "default": true,
       "label": "t:sections.image-banner.settings.show_text_below.label"
+    },
+    {
+      "type": "text",
+      "id": "scroll_anchor",
+      "label": "Section ID",
+      "info": "Set as to target scrolling from other sections"
     }
   ],
   "blocks": [
@@ -425,45 +457,82 @@
       ]
     },
     {
-      "type": "buttons",
-      "name": "t:sections.image-banner.blocks.buttons.name",
-      "limit": 1,
+      "type": "button",
+      "name": "Button",
+      "limit": 2,
       "settings": [
         {
           "type": "text",
-          "id": "button_label_1",
+          "id": "button_label",
           "default": "Button label",
-          "label": "t:sections.image-banner.blocks.buttons.settings.button_label_1.label",
-          "info": "t:sections.image-banner.blocks.buttons.settings.button_label_1.info"
+          "label": "Button label"
         },
         {
           "type": "url",
-          "id": "button_link_1",
-          "label": "t:sections.image-banner.blocks.buttons.settings.button_link_1.label"
+          "id": "button_link",
+          "label": "Button link"
         },
         {
           "type": "checkbox",
-          "id": "button_style_secondary_1",
+          "id": "button_style_secondary",
           "default": false,
-          "label": "t:sections.image-banner.blocks.buttons.settings.button_style_secondary_1.label"
+          "label": "Use outline button style"
+        }
+      ]
+    },
+    {
+      "type": "button_anchor",
+      "name": "Button with Anchor",
+      "limit": 2,
+      "settings": [
+        {
+          "type": "text",
+          "id": "button_label",
+          "default": "Button label",
+          "label": "Button label"
         },
         {
           "type": "text",
-          "id": "button_label_2",
-          "default": "Button label",
-          "label": "t:sections.image-banner.blocks.buttons.settings.button_label_2.label",
-          "info": "t:sections.image-banner.blocks.buttons.settings.button_label_2.info"
-        },
-        {
-          "type": "url",
-          "id": "button_link_2",
-          "label": "t:sections.image-banner.blocks.buttons.settings.button_link_2.label"
+          "id": "anchor",
+          "label": "Anchor",
+          "info": "Set the ID of section you want to scroll to"
         },
         {
           "type": "checkbox",
-          "id": "button_style_secondary_2",
+          "id": "button_style_secondary",
           "default": false,
-          "label": "t:sections.image-banner.blocks.buttons.settings.button_style_secondary_2.label"
+          "label": "Use outline button style"
+        }
+      ]
+    },
+    {
+      "type": "button_klavyo",
+      "name": "Button with Klavyo Popup",
+      "limit": 2,
+      "settings": [
+        {
+          "type": "text",
+          "id": "button_label",
+          "default": "Button label",
+          "label": "Button label"
+        },
+        {
+          "type": "text",
+          "id": "klavyo_desktop_id",
+          "label": "Klavyo signup unit ID",
+          "info": "Enter Klavyo ID for desktop signup unit"
+        },
+        {
+          "type": "text",
+          "id": "klavyo_mobile_id",
+          "label": "Klavyo signup unit ID",
+          "info": "Enter Klavyo ID for mobile signup unit, leave empty if using one for both"
+        },
+        {
+          "type": "checkbox",
+          "id": "button_style_secondary",
+          "default": false,
+          "label": "Use outline button style"
         }
       ]
     }
@@ -479,7 +548,7 @@
           "type": "text"
         },
         {
-          "type": "buttons"
+          "type": "button"
         }
       ]
     }

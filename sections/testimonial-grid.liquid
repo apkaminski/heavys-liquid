@@ -1,3 +1,4 @@
+{% render 'scroll-anchor', scroll_anchor: section.settings.scroll_anchor %}
 {{ 'section-masonry.css' | asset_url | stylesheet_tag }}
 {{ 'component-slider.css' | asset_url | stylesheet_tag }}
 
@@ -180,6 +181,12 @@
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
       "default": 36
+    },
+    {
+      "type": "text",
+      "id": "scroll_anchor",
+      "label": "Section ID",
+      "info": "Set as to target scrolling from other sections"
     }
   ],
   "blocks": [
