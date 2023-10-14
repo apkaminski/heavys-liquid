@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Grab Yours Today and Get $20 Off!",
+            "text": "Grab Yours Today and Get $40 Off!",
             "behaviour_type": "klavyo_popup",
             "link": "shopify:\/\/products\/headphones-case-aux",
             "klavyo_desktop_id": "S3Eqqe",
