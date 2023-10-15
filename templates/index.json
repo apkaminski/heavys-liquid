@@ -3,10 +3,17 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
+        "1140a5d8-8a08-4969-8003-cc546ee025cb": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Now Avaiable!<\/strong>",
+            "text_style": "subtitle"
+          }
+        },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Headphones Engineered For Heavy Metal: Now Available!",
+            "heading": "Headphones Engineered For Heavy Metal",
             "heading_size": "h1"
           }
         },
@@ -35,13 +42,14 @@
         }
       },
       "block_order": [
+        "1140a5d8-8a08-4969-8003-cc546ee025cb",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
         "a031264a-5813-402f-80ac-e07a014522ca"
       ],
       "custom_css": [
-        ".banner__text:last-child {color: #63d48a;}"
+        ".banner__text:first-child {color: #63d48a;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/HP_banner_1.jpg",
