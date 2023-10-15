@@ -120,8 +120,8 @@
         "1e5b4491-9672-44d4-88a9-c9c7a954c53f": {
           "type": "text",
           "settings": {
-            "text": "Ships Immediately - delivery in 2-5 days.",
-            "text_style": "body"
+            "text": "Ships Immediately",
+            "text_style": "subtitle"
           }
         },
         "606d60f6-e539-42f2-8520-8a32f3af2dcf": {
