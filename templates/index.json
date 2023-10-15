@@ -49,7 +49,7 @@
         "a031264a-5813-402f-80ac-e07a014522ca"
       ],
       "custom_css": [
-        ".banner__text:first-child {color: #63d48a;}"
+        ".banner__text:first-child {color: #63d48a; font-size: 26px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/HP_banner_1.jpg",
