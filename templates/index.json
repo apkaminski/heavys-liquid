@@ -49,7 +49,7 @@
         "a031264a-5813-402f-80ac-e07a014522ca"
       ],
       "custom_css": [
-        ".banner__text:first-child {color: #FFFFFF; font-size: 26px;}"
+        ".banner__text:first-child {color: #ffffff; font-size: 26px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/HP_banner_1.jpg",
@@ -604,7 +604,7 @@
         "heading_size": "h2",
         "button_label": "View more",
         "button_link": "",
-        "color_scheme": "inverse",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "padding_top": 60,
         "padding_bottom": 80,
         "scroll_anchor": ""
