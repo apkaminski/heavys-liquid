@@ -163,6 +163,51 @@
         "scroll_anchor": "heavys-featured"
       }
     },
+    "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "What top industry professionals have to say...",
+        "heading_size": "h1",
+        "blog": "testimonials",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Welcome to <strong>HEAVYS<\/strong> store",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 6,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
     "video": {
       "type": "video",
       "custom_css": [
@@ -180,140 +225,6 @@
         "full_width": false,
         "color_scheme": "inverse",
         "padding_top": 80,
-        "padding_bottom": 80,
-        "scroll_anchor": ""
-      }
-    },
-    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0": {
-      "type": "testimonial-grid",
-      "blocks": {
-        "a2f3f744-d1ba-4ce2-bbcd-cda4a9aa7b2e": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>David J.<\/strong>",
-            "label": "",
-            "text": "<p>\"Just got mine. Oh man. Definitely worth the wait. Thee best headphones I've ever listened to. And trust me I've been through a lot.\"<\/p>"
-          }
-        },
-        "9015703c-1c51-474d-a59b-13f207099ae8": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Matt N.<\/strong>",
-            "label": "",
-            "text": "<p>\"I've got mine. Give your ears some time to adjust to them and they're incredible. Especially Atmospheric Black Metal or really anything that has a little more going on. The sound stage of these is fantastic.\"<\/p>"
-          }
-        },
-        "4c5c9ca1-0777-4716-84cd-b90cecbd620a": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Roman W.<\/strong>",
-            "label": "",
-            "text": "<p>\"I got mine today, honestly I'd say it was worth the wait. The noise cancellation is some of the best I've had, and the build quality is far better than expected\"<\/p>"
-          }
-        },
-        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Luis B.<\/strong>",
-            "label": "",
-            "text": "<p>\"I was honestly anxious about receiving the headphones but I got them on Monday and I am blown away. These are literally the 1st headphones that fit my large head comfortably.\"<\/p>"
-          }
-        },
-        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Jay T.<\/strong>",
-            "label": "",
-            "text": "<p>\"Received my @heavysaudio headphones today while I was at work. And the sound on it is PHENOMENAL! TOO SWEET! So glad I got these headphones pre ordered months ago...\"<\/p>"
-          }
-        },
-        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Evan H.<\/strong>",
-            "label": "",
-            "text": "<p>\"Got my pair and tested it for a solid day, amazing sound quality, fits my head really snug, was definitely worth the wait.\"<\/p>"
-          }
-        },
-        "e61acb64-e5a3-477d-8c01-8dd4be4d8dc2": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Gavin L.<\/strong>",
-            "label": "",
-            "text": "<p>\"As a recent receiver of my pair, I just wanted to pass on how good these are for anyone thinking of getting a pair. I've got quite a few well regarded headphones, Grado HF-1, Beyerdynamic DT770's, Denon 2000's etc. None convey Metal music with the accuracy, tone, presentation and authority of the HEAVYS. (Awesome bass speed, impact & depth) They sound great at all listening levels, and surprisingly good for other genre's of music, Highly recommended.\"<\/p>"
-          }
-        },
-        "17fa18f4-ba0a-49c7-b49a-954c765467ac": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Joe T.<\/strong>",
-            "label": "",
-            "text": "<p>\"So, barring how goofy these look on me (albeit, I think that's a ME problem '-;) they SOUND AMAZING. I'm an over the ear headphone junkie. I'm embarrassed to say how many pairs I own. After tuning these with Wavelet, I can listen to EVERY genre of music I enjoy with these. I mean from acoustic, 80s cheese rock, Metallica, Tool, Beastie Boys, worship music, DMB, 311, grunge....etc... it ALL passes the test. And not just barely; they rival some of my big boys.\"<\/p>"
-          }
-        },
-        "6925f2de-5bf2-44a2-9c23-4994081a1121": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Iris M.<\/strong>",
-            "label": "",
-            "text": "<p>\"These Heavys arrived today, and holy shitballs nre they loud AF, sound is amazing, and they feel super sturdy! Hell of an upgrade from my pair of Sennheisers! I,<\/p>"
-          }
-        },
-        "3c048e80-5368-4ed7-b58c-0e7c9420b16c": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>@liquidcosmosphoto<\/strong>",
-            "label": "",
-            "text": "<p>Too all of my metalheads friends al iu followers - get thes @heavysaudio headphones ASAP! Everything about them is beyond perfect - especially if you have elephant ears, like me. Soft and comfy, no pressure on my earlobes, easy controls, but most important - THE SOUND IS FUCKING UNREAL! I've used pro-level studio headphones in my days (have to confess, it's been a while since I've recorded anything) nd these headphones are on-par with the best of best! @ingested latest album delivered an unforgettable maiden experience - it almost felt like I'm in the studio next to the console listening to the final mix! THANK YOU @heavysaudio for this incredible piece of technology! THANK YOU @ingested and @the_slam_king for all of the love and some of the heaviest metal on this planet! THANK YOU @callofthevoidphoto for always delivering dope shit<\/p>"
-          }
-        },
-        "2c3cac86-c507-4a1a-a7cf-7c3151e16b01": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Tyler L.<\/strong>",
-            "label": "",
-            "text": "<p>\"Received mine today. The sound is incredible and not overwhelming at all. They accentuate individual instruments\/ vox well and really compliment well-produced songs. I've listened to Infant Annihilator, Slaughter To Prevail, Lorna Shore, Lorde, Juice Wrld, and Post Malone so far and am yet to be disappointed.\"<\/p>"
-          }
-        },
-        "9535e083-f501-42c5-bbe4-74a921ff078f": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>@zachgateshere<\/strong>",
-            "label": "",
-            "text": "<p>\"Worth repeating that these are the real fucking deal. I haven't touched my Audeze, Grado, or Senns since they came in. It absolutely sounds like listening to big ass amps at a concert. I plug them in when I'm at my desktop and go wireless everywhere else.<\/p><p>Got my new Heavys Heavy Metal Headphones out and charging. Going to fire them up for the first time with Polaris FATALISM that should drop tonight at 9 P.M. in California. Been waiting years for this one! \"<\/p>"
-          }
-        },
-        "0564a057-ebc0-4147-96ac-b8239a591c66": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Gaiti H.<\/strong>",
-            "label": "",
-            "text": "<p>\"Vo Davos they are incredible they make me speechless lt-w well done at #heavys \"<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "a2f3f744-d1ba-4ce2-bbcd-cda4a9aa7b2e",
-        "9015703c-1c51-474d-a59b-13f207099ae8",
-        "4c5c9ca1-0777-4716-84cd-b90cecbd620a",
-        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-1",
-        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-2",
-        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-3",
-        "e61acb64-e5a3-477d-8c01-8dd4be4d8dc2",
-        "17fa18f4-ba0a-49c7-b49a-954c765467ac",
-        "6925f2de-5bf2-44a2-9c23-4994081a1121",
-        "3c048e80-5368-4ed7-b58c-0e7c9420b16c",
-        "2c3cac86-c507-4a1a-a7cf-7c3151e16b01",
-        "9535e083-f501-42c5-bbe4-74a921ff078f",
-        "0564a057-ebc0-4147-96ac-b8239a591c66"
-      ],
-      "settings": {
-        "title": "<strong>Customer Reviews<\/strong>",
-        "heading_size": "h1",
-        "button_label": "View more",
-        "button_link": "",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "padding_top": 60,
         "padding_bottom": 80,
         "scroll_anchor": ""
       }
@@ -458,51 +369,6 @@
         "scroll_anchor": ""
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Welcome to <strong>HEAVYS<\/strong> store",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "frontpage",
-        "products_to_show": 6,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
-    "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "What top industry professionals have to say...",
-        "heading_size": "h1",
-        "blog": "testimonials",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
     "a259a103-10d9-404b-84c4-de542413e278": {
       "type": "collapsible-content",
       "blocks": {
@@ -609,17 +475,151 @@
         "padding_bottom": 80,
         "scroll_anchor": ""
       }
+    },
+    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0": {
+      "type": "testimonial-grid",
+      "blocks": {
+        "a2f3f744-d1ba-4ce2-bbcd-cda4a9aa7b2e": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>David J.<\/strong>",
+            "label": "",
+            "text": "<p>\"Just got mine. Oh man. Definitely worth the wait. Thee best headphones I've ever listened to. And trust me I've been through a lot.\"<\/p>"
+          }
+        },
+        "9015703c-1c51-474d-a59b-13f207099ae8": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Matt N.<\/strong>",
+            "label": "",
+            "text": "<p>\"I've got mine. Give your ears some time to adjust to them and they're incredible. Especially Atmospheric Black Metal or really anything that has a little more going on. The sound stage of these is fantastic.\"<\/p>"
+          }
+        },
+        "4c5c9ca1-0777-4716-84cd-b90cecbd620a": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Roman W.<\/strong>",
+            "label": "",
+            "text": "<p>\"I got mine today, honestly I'd say it was worth the wait. The noise cancellation is some of the best I've had, and the build quality is far better than expected\"<\/p>"
+          }
+        },
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Luis B.<\/strong>",
+            "label": "",
+            "text": "<p>\"I was honestly anxious about receiving the headphones but I got them on Monday and I am blown away. These are literally the 1st headphones that fit my large head comfortably.\"<\/p>"
+          }
+        },
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Jay T.<\/strong>",
+            "label": "",
+            "text": "<p>\"Received my @heavysaudio headphones today while I was at work. And the sound on it is PHENOMENAL! TOO SWEET! So glad I got these headphones pre ordered months ago...\"<\/p>"
+          }
+        },
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Evan H.<\/strong>",
+            "label": "",
+            "text": "<p>\"Got my pair and tested it for a solid day, amazing sound quality, fits my head really snug, was definitely worth the wait.\"<\/p>"
+          }
+        },
+        "e61acb64-e5a3-477d-8c01-8dd4be4d8dc2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Gavin L.<\/strong>",
+            "label": "",
+            "text": "<p>\"As a recent receiver of my pair, I just wanted to pass on how good these are for anyone thinking of getting a pair. I've got quite a few well regarded headphones, Grado HF-1, Beyerdynamic DT770's, Denon 2000's etc. None convey Metal music with the accuracy, tone, presentation and authority of the HEAVYS. (Awesome bass speed, impact & depth) They sound great at all listening levels, and surprisingly good for other genre's of music, Highly recommended.\"<\/p>"
+          }
+        },
+        "17fa18f4-ba0a-49c7-b49a-954c765467ac": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Joe T.<\/strong>",
+            "label": "",
+            "text": "<p>\"So, barring how goofy these look on me (albeit, I think that's a ME problem '-;) they SOUND AMAZING. I'm an over the ear headphone junkie. I'm embarrassed to say how many pairs I own. After tuning these with Wavelet, I can listen to EVERY genre of music I enjoy with these. I mean from acoustic, 80s cheese rock, Metallica, Tool, Beastie Boys, worship music, DMB, 311, grunge....etc... it ALL passes the test. And not just barely; they rival some of my big boys.\"<\/p>"
+          }
+        },
+        "6925f2de-5bf2-44a2-9c23-4994081a1121": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Iris M.<\/strong>",
+            "label": "",
+            "text": "<p>\"These Heavys arrived today, and holy shitballs nre they loud AF, sound is amazing, and they feel super sturdy! Hell of an upgrade from my pair of Sennheisers! I,<\/p>"
+          }
+        },
+        "3c048e80-5368-4ed7-b58c-0e7c9420b16c": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>@liquidcosmosphoto<\/strong>",
+            "label": "",
+            "text": "<p>Too all of my metalheads friends al iu followers - get thes @heavysaudio headphones ASAP! Everything about them is beyond perfect - especially if you have elephant ears, like me. Soft and comfy, no pressure on my earlobes, easy controls, but most important - THE SOUND IS FUCKING UNREAL! I've used pro-level studio headphones in my days (have to confess, it's been a while since I've recorded anything) nd these headphones are on-par with the best of best! @ingested latest album delivered an unforgettable maiden experience - it almost felt like I'm in the studio next to the console listening to the final mix! THANK YOU @heavysaudio for this incredible piece of technology! THANK YOU @ingested and @the_slam_king for all of the love and some of the heaviest metal on this planet! THANK YOU @callofthevoidphoto for always delivering dope shit<\/p>"
+          }
+        },
+        "2c3cac86-c507-4a1a-a7cf-7c3151e16b01": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Tyler L.<\/strong>",
+            "label": "",
+            "text": "<p>\"Received mine today. The sound is incredible and not overwhelming at all. They accentuate individual instruments\/ vox well and really compliment well-produced songs. I've listened to Infant Annihilator, Slaughter To Prevail, Lorna Shore, Lorde, Juice Wrld, and Post Malone so far and am yet to be disappointed.\"<\/p>"
+          }
+        },
+        "9535e083-f501-42c5-bbe4-74a921ff078f": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>@zachgateshere<\/strong>",
+            "label": "",
+            "text": "<p>\"Worth repeating that these are the real fucking deal. I haven't touched my Audeze, Grado, or Senns since they came in. It absolutely sounds like listening to big ass amps at a concert. I plug them in when I'm at my desktop and go wireless everywhere else.<\/p><p>Got my new Heavys Heavy Metal Headphones out and charging. Going to fire them up for the first time with Polaris FATALISM that should drop tonight at 9 P.M. in California. Been waiting years for this one! \"<\/p>"
+          }
+        },
+        "0564a057-ebc0-4147-96ac-b8239a591c66": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Gaiti H.<\/strong>",
+            "label": "",
+            "text": "<p>\"Vo Davos they are incredible they make me speechless lt-w well done at #heavys \"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "a2f3f744-d1ba-4ce2-bbcd-cda4a9aa7b2e",
+        "9015703c-1c51-474d-a59b-13f207099ae8",
+        "4c5c9ca1-0777-4716-84cd-b90cecbd620a",
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-1",
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-2",
+        "template--14883182903370__c37cf046-4cfa-4662-8d7f-5d35c1ace3b0-column-3",
+        "e61acb64-e5a3-477d-8c01-8dd4be4d8dc2",
+        "17fa18f4-ba0a-49c7-b49a-954c765467ac",
+        "6925f2de-5bf2-44a2-9c23-4994081a1121",
+        "3c048e80-5368-4ed7-b58c-0e7c9420b16c",
+        "2c3cac86-c507-4a1a-a7cf-7c3151e16b01",
+        "9535e083-f501-42c5-bbe4-74a921ff078f",
+        "0564a057-ebc0-4147-96ac-b8239a591c66"
+      ],
+      "settings": {
+        "title": "<strong>Customer Reviews<\/strong>",
+        "heading_size": "h1",
+        "button_label": "View more",
+        "button_link": "",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "padding_top": 60,
+        "padding_bottom": 80,
+        "scroll_anchor": ""
+      }
     }
   },
   "order": [
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
+    "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
+    "featured_collection",
     "video",
-    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0",
     "afe8820a-9e66-4dc8-9751-860686858282",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
-    "featured_collection",
-    "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
-    "a259a103-10d9-404b-84c4-de542413e278"
+    "a259a103-10d9-404b-84c4-de542413e278",
+    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0"
   ]
 }
