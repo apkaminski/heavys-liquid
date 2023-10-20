@@ -102,7 +102,7 @@
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
         },
