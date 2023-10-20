@@ -5,12 +5,13 @@
   },
   "sections": {
     "announcement-bar": {
+      "disabled": false,
       "settings": {
       },
       "blocks": {
         "announcement-bar-0": {
           "settings": {
-            "text": "Save $40 Off Today!"
+            "text": "Save $40 Today!"
           }
         }
       }
