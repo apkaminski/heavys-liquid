@@ -221,7 +221,7 @@
       ],
       "settings": {
         "product": "headphones-case-aux",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "color_scheme": "inverse",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
