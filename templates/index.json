@@ -3,13 +3,6 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
-        "1140a5d8-8a08-4969-8003-cc546ee025cb": {
-          "type": "text",
-          "settings": {
-            "text": "<a href=\"\/products\/headphones-case-aux\" title=\"Heavys H1H Headphones\">Now Available!<\/a>",
-            "text_style": "subtitle"
-          }
-        },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
@@ -42,7 +35,6 @@
         }
       },
       "block_order": [
-        "1140a5d8-8a08-4969-8003-cc546ee025cb",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
