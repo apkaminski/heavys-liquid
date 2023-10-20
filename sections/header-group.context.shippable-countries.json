@@ -4,5 +4,16 @@
     "market": "shippable-countries"
   },
   "sections": {
+    "announcement-bar": {
+      "settings": {
+      },
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Save $40 Off Today!"
+          }
+        }
+      }
+    }
   }
 }
