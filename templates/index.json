@@ -256,23 +256,6 @@
         "scroll_anchor": ""
       }
     },
-    "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "What top industry professionals have to say...",
-        "heading_size": "h1",
-        "blog": "testimonials",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -297,6 +280,23 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "What top industry professionals have to say...",
+        "heading_size": "h1",
+        "blog": "testimonials",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
         "padding_top": 80,
         "padding_bottom": 80
       }
@@ -616,8 +616,8 @@
     "afe8820a-9e66-4dc8-9751-860686858282",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "video",
-    "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "featured_collection",
+    "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
     "a259a103-10d9-404b-84c4-de542413e278",
     "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0"
