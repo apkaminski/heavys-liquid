@@ -14,10 +14,6 @@
   width: 100%;
 }
 
-.featured-product .product__media-item:not(:first-child) {
-  display: none;
-}
-
 .featured-product .placeholder-svg {
   display: block;
   height: auto;
@@ -51,6 +47,10 @@
 
   .background-secondary .featured-product {
     padding: 5rem;
+  }
+  .featured-product .product__media-item:not(.is-active),
+  .featured-product .product__media-item:not(.is-active) {
+    display: none;
   }
 }
 
