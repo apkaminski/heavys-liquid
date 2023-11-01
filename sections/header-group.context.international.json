@@ -16,7 +16,14 @@
             "klavyo_mobile_id": "TMcm4k"
           }
         }
-      }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ]
     }
-  }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
 }
