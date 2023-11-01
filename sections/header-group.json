@@ -14,16 +14,27 @@
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
+        },
+        "c661b616-d206-4921-bb07-e52a225a4f84": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free shipping from $99!",
+            "behaviour_type": "link",
+            "link": "shopify:\/\/collections\/frontpage",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "c661b616-d206-4921-bb07-e52a225a4f84"
       ],
       "settings": {
         "color_scheme": "accent-1",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5
       }
     },
