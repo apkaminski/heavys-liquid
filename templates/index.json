@@ -35,6 +35,7 @@
         },
         "433eb302-5fcb-4915-88d2-22aa7b3e26ad": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Over 15,000 metalheads are already rockin' out<\/strong>",
             "text_style": "body"
