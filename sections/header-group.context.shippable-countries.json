@@ -14,7 +14,14 @@
             "text": "Save $25 Today!"
           }
         }
-      }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ]
     }
-  }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
 }
