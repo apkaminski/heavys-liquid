@@ -178,13 +178,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "1e5b4491-9672-44d4-88a9-c9c7a954c53f": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Includes a Premium Travel Case and AUX Cable<\/strong>",
-            "text_style": "body"
-          }
-        },
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-6": {
           "type": "share",
           "disabled": true,
@@ -224,7 +217,6 @@
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-3",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-4",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5",
-        "1e5b4491-9672-44d4-88a9-c9c7a954c53f",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-6",
         "b51b00a5-07c0-4cc6-91bb-a27b9b386d49",
         "0a1dc52c-9f16-4aff-8138-1f799065fc86"
