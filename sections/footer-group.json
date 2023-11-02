@@ -2,15 +2,6 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "087d9aae-0def-47a2-ace6-96b0bcfd5040": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
-        "color_scheme": "inverse",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "bcd3bbac-d671-45e8-9af5-287eefa8e028": {
       "type": "custom-liquid",
       "settings": {
@@ -111,7 +102,6 @@
     }
   },
   "order": [
-    "087d9aae-0def-47a2-ace6-96b0bcfd5040",
     "bcd3bbac-d671-45e8-9af5-287eefa8e028",
     "76ffe667-d89c-4967-9e77-454b74fef48b",
     "footer"
