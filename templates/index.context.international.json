@@ -33,7 +33,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "<strong>Over 15,000 metalheads are already rockin' out<\/strong>",
+            "text": "<strong>Over 15,000 metalheads are already rockin' out.<\/strong>",
             "text_style": "body"
           }
         }
