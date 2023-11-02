@@ -28,13 +28,22 @@
           "settings": {
             "anchor": "product-features"
           }
+        },
+        "7e215f70-935a-4baa-8855-ba5ce7b62eb3": {
+          "type": "text",
+          "disabled": false,
+          "settings": {
+            "text": "<strong>Over 15,000 metalheads are already rockin' out<\/strong>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "9e6a28af-df13-42cc-8854-856f3399b99f",
-        "a031264a-5813-402f-80ac-e07a014522ca"
+        "a031264a-5813-402f-80ac-e07a014522ca",
+        "7e215f70-935a-4baa-8855-ba5ce7b62eb3"
       ]
     },
     "afe8820a-9e66-4dc8-9751-860686858282": {
