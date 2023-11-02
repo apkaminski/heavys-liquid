@@ -49,21 +49,6 @@
           "type": "description",
           "settings": {
           }
-        },
-        "bdceaa45-709a-41fa-bf7f-0502ae641d00": {
-          "type": "text",
-          "settings": {
-            "text": "Ships Immediately",
-            "text_style": "subtitle"
-          }
-        },
-        "a7e2b515-a7e7-419b-bc66-4d08967bb6a3": {
-          "type": "popup",
-          "disabled": true,
-          "settings": {
-            "text": "Pre Order Disclamer",
-            "page": "pre-order-disclaimer"
-          }
         }
       },
       "block_order": [
@@ -74,9 +59,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "bdceaa45-709a-41fa-bf7f-0502ae641d00",
-        "a7e2b515-a7e7-419b-bc66-4d08967bb6a3"
+        "description"
       ],
       "settings": {
         "color_scheme": "inverse",
@@ -511,8 +494,9 @@
         "secondary_image": "shopify:\/\/shop_images\/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
         "media_fit": "contain",
         "media_position": "left",
+        "gallery_layout": "stacked",
         "image_zoom": "none",
-        "hide_variants": false,
+        "mobile_thumbnails": "hide",
         "enable_video_looping": false,
         "padding_top": 80,
         "padding_bottom": 80,
