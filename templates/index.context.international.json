@@ -109,22 +109,6 @@
         "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
         "f983dcff-ff20-43c4-8c52-596455709ebd"
       ]
-    },
-    "8b51c1a8-0b71-4289-9671-4406b55202d3": {
-      "type": "custom-liquid",
-      "disabled": false,
-      "settings": {
-        "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
-        "color_scheme": "inverse",
-        "header-c6bc0c4c8ee7c61aae9710a488aa19e1": null,
-        "padding_top": 40,
-        "padding_bottom": 52
-      },
-      "blocks": {
-      },
-      "block_order": [
-
-      ]
     }
   },
   "order": [
@@ -136,7 +120,6 @@
     "featured_collection",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278",
-    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0",
-    "8b51c1a8-0b71-4289-9671-4406b55202d3"
+    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0"
   ]
 }
