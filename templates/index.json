@@ -32,22 +32,13 @@
             "anchor": "heavys-featured",
             "button_style_secondary": true
           }
-        },
-        "433eb302-5fcb-4915-88d2-22aa7b3e26ad": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<strong>Over 15,000 metalheads are already rockin' out.<\/strong>",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
-        "a031264a-5813-402f-80ac-e07a014522ca",
-        "433eb302-5fcb-4915-88d2-22aa7b3e26ad"
+        "a031264a-5813-402f-80ac-e07a014522ca"
       ],
       "custom_css": [
         ".banner__text:last-child {color: #000000;}"
