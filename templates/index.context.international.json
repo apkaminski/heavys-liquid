@@ -62,6 +62,23 @@
           "disabled": true,
           "settings": {
           }
+        },
+        "eabcbd2d-7eae-4836-bd99-17cbfe2dba2e": {
+          "type": "icon-with-text",
+          "disabled": false,
+          "settings": {
+            "layout": "vertical",
+            "header-6f534669432a9efc053e4a106b5c8ba3": null,
+            "icon_1": "check_mark",
+            "image_1": null,
+            "heading_1": "Eco-friendly case designed for heavy metal enthusiasts seeking both style and protection",
+            "icon_2": "none",
+            "image_2": null,
+            "heading_2": "",
+            "icon_3": "none",
+            "image_3": null,
+            "heading_3": ""
+          }
         }
       },
       "block_order": [
@@ -73,7 +90,8 @@
         "894984f1-7c70-4605-8196-1619fc4c16c9",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-6",
-        "b51b00a5-07c0-4cc6-91bb-a27b9b386d49"
+        "b51b00a5-07c0-4cc6-91bb-a27b9b386d49",
+        "eabcbd2d-7eae-4836-bd99-17cbfe2dba2e"
       ]
     },
     "a259a103-10d9-404b-84c4-de542413e278": {
