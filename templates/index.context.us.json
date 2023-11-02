@@ -4,5 +4,29 @@
     "market": "us"
   },
   "sections": {
-  }
+    "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
+      "settings": {
+      },
+      "blocks": {
+      },
+      "block_order": [
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
+        "92710901-502d-46f4-ad7f-15409e0614f2",
+        "a031264a-5813-402f-80ac-e07a014522ca"
+      ]
+    }
+  },
+  "order": [
+    "448a8e28-57fb-42ea-8901-668a4f53b4f9",
+    "afe8820a-9e66-4dc8-9751-860686858282",
+    "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
+    "video",
+    "featured_collection",
+    "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
+    "70bfa058-95e2-422e-9d16-7ffff8e8e689",
+    "a259a103-10d9-404b-84c4-de542413e278",
+    "c37cf046-4cfa-4662-8d7f-5d35c1ace3b0",
+    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f"
+  ]
 }
