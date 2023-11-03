@@ -49,30 +49,6 @@
           "type": "description",
           "settings": {
           }
-        },
-        "51e4ae9a-e8eb-49af-a5be-c724fdea3774": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "check_mark",
-            "heading_1": "World’s first headphones built for Metal Fans to mimic live music",
-            "icon_2": "check_mark",
-            "heading_2": "8 Drivers with patented placement to create optimal sound fields",
-            "icon_3": "check_mark",
-            "heading_3": "5 microphones, 50 hours of battery life, Bluetooth 5.1, HellBlocker™ noise cancellation technology"
-          }
-        },
-        "9f792eee-f914-48fa-acaa-13ab6a8af24f": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "box",
-            "heading_1": "Inside the Box: Heavys H1H Headphones, Travel Case, Audio Cable, USB-C Charging Cable",
-            "icon_2": "none",
-            "heading_2": "",
-            "icon_3": "none",
-            "heading_3": ""
-          }
         }
       },
       "block_order": [
@@ -83,9 +59,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "51e4ae9a-e8eb-49af-a5be-c724fdea3774",
-        "9f792eee-f914-48fa-acaa-13ab6a8af24f"
+        "description"
       ],
       "settings": {
         "color_scheme": "inverse",
