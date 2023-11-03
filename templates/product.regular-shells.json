@@ -79,7 +79,7 @@
       "settings": {
         "color_scheme": "inverse",
         "enable_sticky_info": true,
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "thumbnail",
@@ -136,12 +136,12 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 36,
+        "scroll_anchor": ""
       }
     },
     "14d62ff5-687e-49d9-813c-54bfbf115c37": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "template--14884059414602__14d62ff5-687e-49d9-813c-54bfbf115c37-16892777323ba36126-0": {
           "type": "text",
@@ -190,6 +190,7 @@
         "template--14884059414602__14d62ff5-687e-49d9-813c-54bfbf115c37-16892777323ba36126-5",
         "149f11e0-ffa2-4edd-a7b3-6f646490272c"
       ],
+      "disabled": true,
       "settings": {
         "product": "{{ product.metafields.heavys_custom.band.value.bundle_product.value }}",
         "color_scheme": "inverse",
@@ -198,11 +199,13 @@
         "constrain_to_viewport": false,
         "media_fit": "contain",
         "media_position": "left",
+        "gallery_layout": "stacked",
         "image_zoom": "none",
-        "hide_variants": false,
+        "mobile_thumbnails": "hide",
         "enable_video_looping": false,
         "padding_top": 80,
-        "padding_bottom": 80
+        "padding_bottom": 80,
+        "scroll_anchor": ""
       }
     },
     "463cf269-3e55-4128-838b-822482a855bf": {
