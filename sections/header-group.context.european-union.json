@@ -4,5 +4,21 @@
     "market": "european-union"
   },
   "sections": {
+    "announcement-bar": {
+      "settings": {
+      },
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Save €25 Today!"
+          }
+        },
+        "c661b616-d206-4921-bb07-e52a225a4f84": {
+          "settings": {
+            "text": "Free shipping from €99!"
+          }
+        }
+      }
+    }
   }
 }
