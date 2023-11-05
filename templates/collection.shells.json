@@ -25,23 +25,11 @@
             "text": "Feel the power of personalization with Heavys Shells™. Transform your headphones with a variety of designs and styles. Shred out in style with Heavys.",
             "text_style": "body"
           }
-        },
-        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Shells",
-            "button_link_1": "#shopify-section-template--14884895096906__product-grid",
-            "button_style_secondary_1": false,
-            "button_label_2": "Shop Bundles",
-            "button_link_2": "#shopify-section-template--14884895096906__105281a3-4f40-4f4d-8756-77f2f604254d",
-            "button_style_secondary_2": true
-          }
         }
       },
       "block_order": [
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0",
-        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1",
-        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-2"
+        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/shells-bg.jpg",
@@ -54,7 +42,8 @@
         "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": false
+        "show_text_below": false,
+        "scroll_anchor": ""
       }
     },
     "product-grid": {
@@ -64,7 +53,7 @@
         "columns_desktop": 5,
         "image_ratio": "portrait",
         "image_shape": "default",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
@@ -135,11 +124,13 @@
         "secondary_image": "shopify:\/\/shop_images\/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
         "media_fit": "contain",
         "media_position": "left",
+        "gallery_layout": "stacked",
         "image_zoom": "none",
-        "hide_variants": false,
+        "mobile_thumbnails": "hide",
         "enable_video_looping": false,
         "padding_top": 80,
-        "padding_bottom": 80
+        "padding_bottom": 80,
+        "scroll_anchor": ""
       }
     },
     "114f30e8-a586-4bff-a5ee-5f2406ca42d4": {
@@ -174,6 +165,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/64047b54ec8bf739cb6676cc_3.jpg",
+        "enable_video_looping": false,
+        "autoplay": false,
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -184,7 +177,8 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 36,
+        "scroll_anchor": ""
       }
     }
   },
