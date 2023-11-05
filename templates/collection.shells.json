@@ -34,7 +34,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/shells-bg.jpg",
         "image_overlay_opacity": 50,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
