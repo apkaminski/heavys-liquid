@@ -312,7 +312,7 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
         },
@@ -332,10 +332,9 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
         "34192509-a141-444e-8c17-ddc78b10c075"
       ],
-      "disabled": true,
       "settings": {
         "product": "shell-bundle",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "color_scheme": "inverse",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": false,
