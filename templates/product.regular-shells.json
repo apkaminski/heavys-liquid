@@ -211,7 +211,7 @@
     "463cf269-3e55-4128-838b-822482a855bf": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Collaborations & Collections | Heavys Shells™<\/strong>",
+        "title": "<strong>Heavys Shells™<\/strong>",
         "heading_size": "h1",
         "description": "<p>Learn about our past collaborations with brands and artists, and check out our special limited-edition collections.<\/p>",
         "show_description": false,
@@ -238,6 +238,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h1",
