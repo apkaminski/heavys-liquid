@@ -84,6 +84,7 @@
         "template--14883183099978__2ef10c05-50bb-4395-b76b-910b427275f2-buy_buttons-1",
         "template--14883183099978__2ef10c05-50bb-4395-b76b-910b427275f2-share-1"
       ],
+      "disabled": true,
       "settings": {
         "product": "shell-bundle",
         "color_scheme": "",
