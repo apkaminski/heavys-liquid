@@ -36,7 +36,7 @@
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "type": "text",
           "settings": {
-            "text": "Holiday Special: Save $50!",
+            "text": "<strong>Holiday Special: Save $50!<\/strong>",
             "text_style": "body"
           }
         }
