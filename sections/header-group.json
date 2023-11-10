@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Subscribe and Save $25!",
             "behaviour_type": "klavyo_popup",
@@ -31,7 +32,7 @@
         "c661b616-d206-4921-bb07-e52a225a4f84"
       ],
       "settings": {
-        "color_scheme": "accent-1",
+        "color_scheme": "inverse",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": true,

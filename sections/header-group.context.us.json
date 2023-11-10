@@ -4,5 +4,12 @@
     "market": "us"
   },
   "sections": {
+    "announcement-bar": {
+      "settings": {
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4"
+      },
+      "blocks": {
+      }
+    }
   }
 }
