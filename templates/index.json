@@ -32,16 +32,24 @@
             "anchor": "heavys-featured",
             "button_style_secondary": true
           }
+        },
+        "c3297d8d-04d1-4ea9-89ce-a046d231e76c": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Save $50 on Heavys Headphones Today!<\/strong>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
-        "a031264a-5813-402f-80ac-e07a014522ca"
+        "a031264a-5813-402f-80ac-e07a014522ca",
+        "c3297d8d-04d1-4ea9-89ce-a046d231e76c"
       ],
       "custom_css": [
-        ".banner__text:last-child {color: #000000;}"
+        ".banner__text:last-child {color: #81d192;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/HP_banner_1.jpg",
