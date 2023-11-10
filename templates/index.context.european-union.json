@@ -4,5 +4,16 @@
     "market": "european-union"
   },
   "sections": {
+    "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
+      "settings": {
+      },
+      "blocks": {
+        "c3297d8d-04d1-4ea9-89ce-a046d231e76c": {
+          "settings": {
+            "text": "<strong>Save €50 on Heavys Headphones Today!<\/strong>"
+          }
+        }
+      }
+    }
   }
 }
