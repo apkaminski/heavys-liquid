@@ -49,7 +49,7 @@
         "77f6cc15-abe2-4982-9d14-67dd1808ca94"
       ],
       "custom_css": [
-
+        ".banner__text:last-child {color: #63d48a;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/HP_banner_1.jpg",
