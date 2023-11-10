@@ -8,8 +8,17 @@
       "settings": {
       },
       "blocks": {
+        "7c5915ad-cca0-45f5-86e8-d3f639c2399b": {
+          "type": "text",
+          "disabled": false,
+          "settings": {
+            "text": "<strong>Holiday Special: Save $50 on Heavys Headphones!<\/strong>",
+            "text_style": "body"
+          }
+        }
       },
       "block_order": [
+        "7c5915ad-cca0-45f5-86e8-d3f639c2399b",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
