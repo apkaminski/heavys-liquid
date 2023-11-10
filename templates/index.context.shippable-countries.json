@@ -4,13 +4,13 @@
     "market": "shippable-countries"
   },
   "sections": {
-    "f04912e5-1e33-4b8d-a989-d901ac3575b8": {
+    "1a2f388c-7312-4093-a7cc-13509b8a3f1f": {
       "type": "custom-liquid",
       "disabled": false,
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
-        "color_scheme": "inverse",
-        "header-8522ba5f8878b9410a35e2a806eb5c05": null,
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "header-49adb8a74ac98d9bc5322a5186817a98": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -20,13 +20,13 @@
 
       ]
     },
-    "1a2f388c-7312-4093-a7cc-13509b8a3f1f": {
+    "f04912e5-1e33-4b8d-a989-d901ac3575b8": {
       "type": "custom-liquid",
       "disabled": false,
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "header-b1f924c54f9982122d6807aa19e1c441": null,
+        "color_scheme": "inverse",
+        "header-b60f86d08f213ddd70f3f332d582ac1c": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -35,6 +35,17 @@
       "block_order": [
 
       ]
+    },
+    "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
+      "settings": {
+      },
+      "blocks": {
+        "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
+          "settings": {
+            "text": "<strong>Holiday Special: Save $50 Today!<\/strong>"
+          }
+        }
+      }
     }
   },
   "order": [
