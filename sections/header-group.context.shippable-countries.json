@@ -10,6 +10,7 @@
       },
       "blocks": {
         "announcement-bar-0": {
+          "disabled": false,
           "settings": {
             "text": "Save $25 Today!"
           }
