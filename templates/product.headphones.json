@@ -551,6 +551,15 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "abf547a8-0873-499b-8d6e-be74117143d0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- TrustBox widget - Product Reviews SEO -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5717796816f630043868e2e8\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"700px\" data-style-width=\"100%\" data-theme=\"dark\" data-sku=\"Bundle,bundle,heavys-headphones\" data-name=\"Heavys H1H Headphones Bundle\" data-review-languages=\"en\" data-star-color=\"#63d48a\" data-no-reviews=\"hide\" data-fullwidth=\"true\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -561,6 +570,7 @@
     "16f898dd-b420-419f-a03d-a8d3092e6811",
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
-    "related-products"
+    "related-products",
+    "abf547a8-0873-499b-8d6e-be74117143d0"
   ]
 }
