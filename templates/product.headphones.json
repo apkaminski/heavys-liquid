@@ -79,6 +79,7 @@
     },
     "abf547a8-0873-499b-8d6e-be74117143d0": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         "iframe {margin: 0 auto; padding-right: 5rem; padding-left: 5rem; max-width: 140rem;}"
       ],
