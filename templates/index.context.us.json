@@ -24,6 +24,14 @@
         "92710901-502d-46f4-ad7f-15409e0614f2",
         "a031264a-5813-402f-80ac-e07a014522ca"
       ]
+    },
+    "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
+      "settings": {
+        "padding_top": 48,
+        "padding_bottom": 52
+      },
+      "blocks": {
+      }
     }
   },
   "order": [
