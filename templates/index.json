@@ -20,7 +20,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "Experience headphones crafted for heavy metal. Featuring 2 frequency ranges and 8 drivers, dive into your metal tracks the way they deserve to be heard.",
+            "text": "Save $50 on Heavys Headphones",
             "text_style": "body"
           }
         },
@@ -34,6 +34,7 @@
         },
         "a031264a-5813-402f-80ac-e07a014522ca": {
           "type": "button_anchor",
+          "disabled": true,
           "settings": {
             "button_label": "Learn More",
             "anchor": "heavys-featured",
