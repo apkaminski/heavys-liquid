@@ -12,8 +12,8 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "<strong>Holiday Special: Save $50 Today!<\/strong>",
-            "text_style": "body"
+            "text": "<strong>EARLY BLACK FRIDAY DEALS<\/strong>",
+            "text_style": "subtitle"
           }
         }
       },
