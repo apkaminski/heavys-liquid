@@ -34,7 +34,6 @@
         },
         "a031264a-5813-402f-80ac-e07a014522ca": {
           "type": "button_anchor",
-          "disabled": true,
           "settings": {
             "button_label": "Learn More",
             "anchor": "heavys-featured",
