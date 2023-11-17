@@ -7,7 +7,7 @@
           "type": "text",
           "settings": {
             "text": "<strong>EARLY BLACK FRIDAY DEALS<\/strong>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
@@ -44,7 +44,7 @@
         "2cd6b04c-4b3d-4719-952a-97ce3d0cd0fa": {
           "type": "button",
           "settings": {
-            "button_label": "More Deals",
+            "button_label": "Shop Deals",
             "button_link": "shopify:\/\/collections\/black-friday-deals",
             "button_style_secondary": true
           }
