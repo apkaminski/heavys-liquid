@@ -6,7 +6,7 @@
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "type": "text",
           "settings": {
-            "text": "<strong>EARLY BLACK FRIDAY DEALS<\/strong>",
+            "text": "<a href=\"\/collections\/black-friday-deals\" title=\"Black Friday Deals\"><strong>EARLY BLACK FRIDAY DEALS<\/strong><\/a>",
             "text_style": "subtitle"
           }
         },
