@@ -6,8 +6,8 @@
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "type": "text",
           "settings": {
-            "text": "<strong>Holiday Special: Save $50 Today!<\/strong>",
-            "text_style": "body"
+            "text": "<strong>EARLY BLACK FRIDAY DEALS<\/strong>",
+            "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
@@ -58,7 +58,7 @@
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
