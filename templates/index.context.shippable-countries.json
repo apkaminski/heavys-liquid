@@ -10,7 +10,7 @@
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "header-e06b89272150bf32dba9dcd18b4917dc": null,
+        "header-b41b68121f6b4704a0679f126d7e091a": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -26,7 +26,7 @@
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "inverse",
-        "header-94443dd40fd62ea3f1310626427bc044": null,
+        "header-ef6a23a2afee8820f9947e050170778d": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -42,7 +42,7 @@
       "blocks": {
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "settings": {
-            "text": "<strong>EARLY BLACK FRIDAY DEALS<\/strong>"
+            "text": "<a href=\"\/collections\/black-friday-deals\" title=\"Black Friday Deals\"><strong>EARLY BLACK FRIDAY DEALS<\/strong><\/a>"
           }
         }
       }

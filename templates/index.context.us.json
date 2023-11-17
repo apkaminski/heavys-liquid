@@ -4,14 +4,6 @@
     "market": "us"
   },
   "sections": {
-    "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
-      "settings": {
-        "padding_top": 12,
-        "padding_bottom": 12
-      },
-      "blocks": {
-      }
-    },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "settings": {
       },
@@ -20,7 +12,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "<strong>EARLY BLACK FRIDAY DEALS<\/strong>",
+            "text": "<a href=\"\/collections\/black-friday-deals\" title=\"Black Friday Deals\"><strong>EARLY BLACK FRIDAY DEALS<\/strong><\/a>",
             "text_style": "subtitle"
           }
         },
@@ -38,6 +30,14 @@
         "a031264a-5813-402f-80ac-e07a014522ca",
         "2cd6b04c-4b3d-4719-952a-97ce3d0cd0fa"
       ]
+    },
+    "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      },
+      "blocks": {
+      }
     }
   },
   "order": [
