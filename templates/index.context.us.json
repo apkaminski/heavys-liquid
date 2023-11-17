@@ -23,6 +23,11 @@
             "text": "<strong>EARLY BLACK FRIDAY DEALS<\/strong>",
             "text_style": "subtitle"
           }
+        },
+        "2cd6b04c-4b3d-4719-952a-97ce3d0cd0fa": {
+          "settings": {
+            "button_label": "Shop Deals"
+          }
         }
       },
       "block_order": [
