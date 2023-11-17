@@ -564,6 +564,15 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "1a35f1cc-eabb-4dac-a142-6c497d08de65": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- TrustBox widget - Product Mini MultiSource -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"577258fb31f02306e4e3aaf9\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-sku=\"bundle,Bundle\" data-no-reviews=\"hide\" data-scroll-to-list=\"true\" data-style-alignment=\"center\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -575,6 +584,7 @@
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
     "16f898dd-b420-419f-a03d-a8d3092e6811",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
-    "related-products"
+    "related-products",
+    "1a35f1cc-eabb-4dac-a142-6c497d08de65"
   ]
 }
