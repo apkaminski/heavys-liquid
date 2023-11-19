@@ -15,11 +15,6 @@
             "text": "<a href=\"\/collections\/black-friday-deals\" title=\"Black Friday Deals\"><strong>EARLY BLACK FRIDAY DEALS<\/strong><\/a>",
             "text_style": "subtitle"
           }
-        },
-        "2cd6b04c-4b3d-4719-952a-97ce3d0cd0fa": {
-          "settings": {
-            "button_label": "Shop Deals"
-          }
         }
       },
       "block_order": [
@@ -27,8 +22,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
-        "a031264a-5813-402f-80ac-e07a014522ca",
-        "2cd6b04c-4b3d-4719-952a-97ce3d0cd0fa"
+        "a031264a-5813-402f-80ac-e07a014522ca"
       ]
     },
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
