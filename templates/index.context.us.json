@@ -12,7 +12,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "<a href=\"\/collections\/black-friday-deals\" title=\"Black Friday Deals\"><strong>EARLY BLACK FRIDAY DEALS<\/strong><\/a>",
+            "text": "<strong>EARLY BLACK FRIDAY DEALS<\/strong>",
             "text_style": "subtitle"
           }
         }
