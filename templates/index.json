@@ -53,10 +53,10 @@
         ".banner__text:first-child {color: #63d48a;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BFCM_2.jpg",
+        "image": "shopify:\/\/shop_images\/banner.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-right",
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
