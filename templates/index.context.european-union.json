@@ -13,8 +13,13 @@
       "blocks": {
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "settings": {
-            "text": "<strong>HOLIDAY DEALS ARE HERE<\/strong>",
+            "text": "<strong>METAL MADNESS SALE<\/strong>",
             "text_style": "subtitle"
+          }
+        },
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
+          "settings": {
+            "heading": "€100 OFF ALL HEAVYS BUNDLES"
           }
         }
       }
