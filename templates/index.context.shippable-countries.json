@@ -10,7 +10,7 @@
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "header-0d2b3bb8ea06b1c8610153271870c3c4": null,
+        "header-86cc40abc743ee29d87d89a3e5fdc1fc": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -26,7 +26,7 @@
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "inverse",
-        "header-900b27fb3e7c3923dda1c54626ae872c": null,
+        "header-a6f9d80fbf4f5fac404cf597ab6a32d1": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -42,7 +42,7 @@
       "blocks": {
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "settings": {
-            "text": "<strong>HOLIDAY DEALS ARE HERE<\/strong>"
+            "text": "<strong>METAL MADNESS SALE<\/strong>"
           }
         }
       }
