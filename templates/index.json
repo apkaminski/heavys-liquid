@@ -6,22 +6,22 @@
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "type": "text",
           "settings": {
-            "text": "<strong>HOLIDAY DEALS ARE HERE<\/strong>",
+            "text": "<strong>METAL MADNESS SALE<\/strong>",
             "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Headphones Engineered For Heavy Metal",
-            "heading_size": "h1"
+            "heading": "$100 OFF ALL HEAVYS BUNDLES",
+            "heading_size": "h0"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "Discover headphones designed for heavy metal. With dual frequency ranges and 8 drivers, experience your metal music as it's meant to be heard.",
-            "text_style": "body"
+            "text": "No Code Needed",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
@@ -53,17 +53,17 @@
         ".banner__text:first-child {color: #63d48a;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/HP_banner_1.jpg",
-        "image_overlay_opacity": 10,
+        "image": "shopify:\/\/shop_images\/BFCM_2.jpg",
+        "image_overlay_opacity": 50,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true,
+        "show_text_below": false,
         "scroll_anchor": ""
       }
     },
