@@ -6,7 +6,7 @@
   "sections": {
     "header": {
       "settings": {
-        "menu": "ca-menu"
+        "menu": "main-menu"
       },
       "blocks": {
       }
