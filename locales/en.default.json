@@ -166,7 +166,7 @@
       "xr_button": "View in your space",
       "xr_button_label": "View in your space, loads item in augmented reality window",
       "include_taxes": "Tax included.",
-      "shipping_policy_html": "<b>FREE<\/b> US\/CA\/AU Shipping on $99+ Orders"
+      "shipping_policy_html": "<i>FREE US\/CA\/AU Shipping on $99+ Orders <\/i>"
     },
     "modal": {
       "label": "Media gallery"
