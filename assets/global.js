@@ -1461,3 +1461,143 @@ customElements.define('product-recommendations', ProductRecommendations);
 function expandMasonry(elem) {
   elem.closest('.masonry').classList.add('expanded');
 }
+
+const configs = {
+  'promotion-bar': {
+    end: (element) => {
+      const $_list = element.closest('.promotion-bar__list');
+      if ($_list.classList.contains('slider--swiper')) {
+        const detail = {
+          swiper_index: parseInt($_list.dataset.swiperIndex),
+          slide_index: parseInt(element.dataset.slideIndex),
+        };
+        document.dispatchEvent(
+          new CustomEvent('sliderRemoveSlide', {
+            ...detail,
+            swiper_element: $_list,
+          }),
+        );
+        document.dispatchEvent(new CustomEvent('sliderUpdate', { detail }));
+      } else {
+        element.closest('.promotion-bar__item').remove();
+        if (!$_list.querySelector('.promotion-bar__item')) {
+          $_list.classList.add('inactive');
+        }
+      }
+    },
+  },
+};
+
+class CountdownTimer {
+  constructor() {
+    console.log('CountdownTimer');
+    this.fetchCountDowns(document.querySelectorAll('.js-timer'));
+  }
+
+  fetchCountDowns(countdowns) {
+    console.log('fetchCountDowns', countdowns);
+    countdowns.forEach((item) => {
+      const { date, cycle, config, localtime } = item.dataset;
+      if (date) {
+        const deadline = this.setDeadline(date, localtime);
+        this.initializeClock(item, deadline, parseInt(cycle), config || false);
+      }
+    });
+  }
+
+  setDeadline(date, localtime) {
+    const utc_offset = '-0400'; // EDT
+    const date_day = date.split(' ')[0].split('-');
+    const date_time = date.split(' ')[1].split(':');
+
+    const year = date_day[0];
+    const month = date_day[1];
+    const day = date_day[2];
+
+    const hour = date_time[0];
+    const minute = date_time[1];
+
+    // const datetime = `${year}-${('0' + month).slice(-2)}-${('0' + day).slice(-2)} ${('0' + hour).slice(-2)}:${('0' + minute).slice(-2)}`;
+    // const datetime_timezone = `${year}-${('0' + month).slice(-2)}-${('0' + day).slice(-2)}T${('0' + hour).slice(-2)}:${('0' + minute).slice(-2)}:59.000${utc_offset}`; // older safari
+    // const datetime_local = `${year}-${('0' + month).slice(-2)}-${('0' + day).slice(-2)} ${('0' + hour).slice(-2)}:${('0' + minute).slice(-2)}:59`
+
+    let datetime = `${year}-${('0' + month).slice(-2)}-${('0' + day).slice(
+      -2,
+    )}`;
+    if (localtime !== 'true') {
+      datetime += `T`;
+    } else {
+      datetime += ` `;
+    }
+    datetime += `${('0' + hour).slice(-2)}:${('0' + minute).slice(-2)}:59`;
+    if (localtime !== 'true') {
+      datetime += `.000${utc_offset}`;
+    }
+    console.log('datetime', `${datetime}:00.000${utc_offset}`);
+    console.log('localtime', localtime, datetime);
+    return new Date(datetime);
+  }
+
+  getTimeRemaining(endtime) {
+    const total = Date.parse(endtime) - Date.parse(new Date());
+    const seconds = Math.floor((total / 1000) % 60);
+    const minutes = Math.floor((total / 1000 / 60) % 60);
+    const hours = Math.floor((total / (1000 * 60 * 60)) % 24);
+    const days = Math.floor(total / (1000 * 60 * 60 * 24));
+
+    return {
+      total,
+      days,
+      hours,
+      minutes,
+      seconds,
+    };
+  }
+
+  initializeClock(element, endtime, cycle, config) {
+    const updateClock = () => {
+      console.log('updateClock', endtime);
+      const t = this.getTimeRemaining(endtime);
+      const label = element.dataset.label || false;
+      if (t.total > 0) {
+        const time = [];
+        if (label) {
+          time.push(label);
+        }
+        if (t.days > 0) {
+          const label_days = t.days == 1 ? 'day' : 'days';
+          time.push(`${t.days} ${label_days}`);
+        }
+        time.push(
+          `${('0' + t.hours).slice(-2)}:${('0' + t.minutes).slice(-2)}:${(
+            '0' + t.seconds
+          ).slice(-2)}`,
+        );
+        console.log('time', time);
+        element.innerHTML = time.join(' ');
+
+        if (!element.classList.contains('active')) {
+          element.classList.add('active');
+        }
+      }
+      if (t.total <= 0) {
+        if (cycle > 0) {
+          endtime.setDate(endtime.getDate() + cycle);
+        } else {
+          element.classList.remove('active');
+          clearInterval(timeinterval);
+          if (config && configs[config] && configs[config].end) {
+            configs[config].end(element);
+          }
+        }
+      }
+    };
+    updateClock();
+    const timeinterval = setInterval(updateClock, 1000);
+  }
+}
+
+const $_countDowns = document.querySelectorAll('.js-timer');
+if ($_countDowns.length) {
+  new CountdownTimer([...$_countDowns]);
+}

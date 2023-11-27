@@ -182,6 +182,12 @@
                   </a>
                 {%- endif -%}
               </div>
+            {%- when 'timer' -%}
+              {%- assign countdown_label = "Ends in" -%}
+              {%- assign datetime = block.settings.year | append: '-' | append: block.settings.month | append: '-' | append: block.settings.day  | append: ' ' | append: block.settings.hour | append: ':' | append: block.settings.minute -%}
+              {%- assign deadline = datetime | date: "%s" | plus: 0 -%}
+              <div class="js-timer" style="min-height: 1.5em;display:inline-block"  data-date="{{datetime}}" data-cycle="{{block.settings.cycle}}" data-label="&nbsp;{{countdown_label}}&nbsp;"></div>
+                               
         {%- endcase -%}
       {%- endfor -%}
     </div>
@@ -533,6 +539,49 @@
           "id": "button_style_secondary",
           "default": false,
           "label": "Use outline button style"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "name": "Timer",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "year",
+          "default": "2021",
+          "label": "Year"
+        },
+        {
+          "type": "text",
+          "id": "month",
+          "default": "12",
+          "label": "Month"
+        },
+        {
+          "type": "text",
+          "id": "day",
+          "default": "31",
+          "label": "Day"
+        },
+        {
+          "type": "text",
+          "id": "hour",
+          "default": "23",
+          "label": "Hour"
+        },
+        {
+          "type": "text",
+          "id": "minute",
+          "default": "59",
+          "label": "Minute"
+        },
+        {
+          "type": "checkbox",
+          "id": "cycle",
+          "default": false,
+          "label": "Cycle"
         }
       ]
     }
