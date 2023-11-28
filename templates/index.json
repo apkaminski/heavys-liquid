@@ -12,6 +12,7 @@
         },
         "9c50aa5f-e67b-41fb-bf96-08c425076220": {
           "type": "timer",
+          "disabled": true,
           "settings": {
             "year": "2023",
             "month": "11",
