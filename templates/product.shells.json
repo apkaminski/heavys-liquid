@@ -206,34 +206,6 @@
         "padding_bottom": 52
       }
     },
-    "463cf269-3e55-4128-838b-822482a855bf": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "<strong>Heavys Shells™ Collection<\/strong>",
-        "heading_size": "h1",
-        "description": "<p>Learn about our past collaborations with brands and artists, and check out our special limited-edition collections.<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "shells",
-        "products_to_show": 12,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
     "243990a3-4122-461a-b6d3-04139fdb26fc": {
       "type": "image-with-text",
       "blocks": {
@@ -282,6 +254,34 @@
         "scroll_anchor": ""
       }
     },
+    "463cf269-3e55-4128-838b-822482a855bf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Heavys Shells™ Collection<\/strong>",
+        "heading_size": "h1",
+        "description": "<p>Learn about our past collaborations with brands and artists, and check out our special limited-edition collections.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shells",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -307,8 +307,8 @@
     "14d62ff5-687e-49d9-813c-54bfbf115c37",
     "23bdb07e-77f8-419c-9568-b7766935372a",
     "60421194-02d3-4142-a101-cab229136e5b",
-    "463cf269-3e55-4128-838b-822482a855bf",
     "243990a3-4122-461a-b6d3-04139fdb26fc",
+    "463cf269-3e55-4128-838b-822482a855bf",
     "related-products"
   ]
 }
