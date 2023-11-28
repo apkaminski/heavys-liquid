@@ -125,7 +125,7 @@
       "settings": {
         "color_scheme": "inverse",
         "enable_sticky_info": true,
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "thumbnail",
