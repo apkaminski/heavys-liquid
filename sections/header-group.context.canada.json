@@ -4,22 +4,22 @@
     "market": "canada"
   },
   "sections": {
+    "header": {
+      "settings": {
+        "menu": "main-menu"
+      },
+      "blocks": {
+      }
+    },
     "announcement-bar": {
       "settings": {
       },
       "blocks": {
         "announcement-bar-0": {
           "settings": {
-            "text": "Subscribe and Save $15 Off"
+            "text": "Subscribe and Save $50 Off"
           }
         }
-      }
-    },
-    "header": {
-      "settings": {
-        "menu": "main-menu"
-      },
-      "blocks": {
       }
     }
   }
