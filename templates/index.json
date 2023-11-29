@@ -17,6 +17,7 @@
         },
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Holiday Special Offer!<\/strong>",
             "text_style": "body"
