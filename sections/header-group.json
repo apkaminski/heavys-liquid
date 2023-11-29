@@ -9,7 +9,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Subscribe and Save $25!",
+            "text": "Subscribe and Save $50!",
             "behaviour_type": "klavyo_popup",
             "link": "shopify:\/\/products\/headphones-case-aux",
             "klavyo_desktop_id": "S3Eqqe",
