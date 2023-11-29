@@ -5,9 +5,8 @@
       "blocks": {
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<strong>CYBER MONDAY DEALS EXTENDED!<\/strong>",
+            "text": "<strong>Holiday Special Offer!<\/strong>",
             "text_style": "subtitle"
           }
         },
@@ -27,7 +26,7 @@
           "type": "heading",
           "settings": {
             "heading": "Headphones Engineered For Heavy Metal",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
