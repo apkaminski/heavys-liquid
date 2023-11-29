@@ -10,7 +10,7 @@
       "blocks": {
         "7c5915ad-cca0-45f5-86e8-d3f639c2399b": {
           "type": "text",
-          "disabled": false,
+          "disabled": true,
           "settings": {
             "text": "<strong>CYBER MONDAY DEALS EXTENDED!<\/strong>",
             "text_style": "subtitle"
