@@ -28,15 +28,58 @@
         "image": "{{ product.metafields.heavys_custom.band.value.image.value }}",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "top-center",
+        "desktop_content_position": "top-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true,
         "scroll_anchor": ""
+      }
+    },
+    "be4805c2-025c-4ff7-be0e-c9a17287274f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Personalize your Heavys Headphones with {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition interchangeable Shells™.  Shred out in style with Heavys Complete 'Headphones + Shells Bundle'<\/p>"
+          }
+        },
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "button_link": "shopify:\/\/products\/kamelot-shells",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-heading-1",
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-text-1",
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "main": {
@@ -322,6 +365,7 @@
   },
   "order": [
     "23bdb07e-77f8-419c-9568-b7766935372a",
+    "be4805c2-025c-4ff7-be0e-c9a17287274f",
     "main",
     "d56df3ea-0917-4b74-8f1b-60fa2a51a86f",
     "14d62ff5-687e-49d9-813c-54bfbf115c37",
