@@ -53,7 +53,7 @@
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Personalize your Heavys Headphones with {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells™.  Shred out in style with Heavys Complete 'Headphones + Shells Bundle' (Shells are interchangeable)<\/p>"
+            "text": "<p>Personalize your Heavys Headphones with {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells™.  Shred out in style with Heavys Complete 'Headphones + Shells Bundle' <\/p>"
           }
         },
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1": {
