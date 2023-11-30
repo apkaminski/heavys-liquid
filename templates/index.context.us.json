@@ -10,9 +10,9 @@
       "blocks": {
         "7c5915ad-cca0-45f5-86e8-d3f639c2399b": {
           "type": "text",
-          "disabled": true,
+          "disabled": false,
           "settings": {
-            "text": "<strong>CYBER MONDAY DEALS EXTENDED!<\/strong>",
+            "text": "<strong>HOLIDAY SPECIAL<\/strong>",
             "text_style": "subtitle"
           }
         }

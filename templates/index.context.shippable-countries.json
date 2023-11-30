@@ -10,7 +10,7 @@
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "header-41dae8b86142ea78916761b6e4a5b70a": null,
+        "header-a2741ccdc33f9f9bb2cfc4821b50258e": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -26,7 +26,7 @@
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "inverse",
-        "header-bd99bce5907649705bf948c4916bc40a": null,
+        "header-77282a2a75f3531e9a529ae5bca812fb": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -42,7 +42,7 @@
       "blocks": {
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "settings": {
-            "text": "<strong>CYBER MONDAY DEALS EXTENDED!<\/strong>"
+            "text": "<strong>HOLIDAY SPECIAL<\/strong>"
           }
         }
       }
