@@ -9,8 +9,8 @@
       "disabled": false,
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "header-a2741ccdc33f9f9bb2cfc4821b50258e": null,
+        "color_scheme": "background-1",
+        "header-ac3199536d159356540224a39eea4a00": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -26,7 +26,7 @@
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "inverse",
-        "header-77282a2a75f3531e9a529ae5bca812fb": null,
+        "header-9f2cf9ac9abadb80247d3ebdccd5a40a": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -55,8 +55,8 @@
     "afe8820a-9e66-4dc8-9751-860686858282",
     "video",
     "1a2f388c-7312-4093-a7cc-13509b8a3f1f",
-    "featured_collection",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
+    "featured_collection",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278",
     "5f55603e-1a1a-4f83-8f50-04a7f62ec5c0",
