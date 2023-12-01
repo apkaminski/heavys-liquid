@@ -490,8 +490,8 @@
       "settings": {
         "custom_liquid": "<!-- TrustBox widget - Product Reviews Carousel -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"60f537b5b0f1639de1fe048c\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"140px\" data-style-width=\"100%\" data-theme=\"light\" data-schema-type=\"Product\" data-sku=\"Bundle\" data-review-languages=\"en\" data-no-reviews=\"hide\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
         "color_scheme": "",
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "89a118c0-27aa-4e50-a67f-aca584e69125": {
