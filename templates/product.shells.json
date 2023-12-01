@@ -146,12 +146,6 @@
             "image_ratio": "portrait",
             "enable_quick_add": true
           }
-        },
-        "e4b9f2ab-746f-4ba6-a395-7330bf20327d": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -163,8 +157,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "3c23034f-010d-42d2-9612-934582f53664",
-        "e4b9f2ab-746f-4ba6-a395-7330bf20327d"
+        "3c23034f-010d-42d2-9612-934582f53664"
       ],
       "settings": {
         "color_scheme": "inverse",
