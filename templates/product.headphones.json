@@ -93,7 +93,7 @@
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "custom_liquid": "<P >\n<pre style=\"font-family:montserrat\" > <b>  Join our community, use #HEAVYS<\/b><\/pre><\/p><\/br><div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "padding_top": 40,
         "padding_bottom": 52
