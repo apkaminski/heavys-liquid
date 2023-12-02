@@ -138,11 +138,10 @@
         },
         "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
             "heading": "What shells designs are available?",
             "icon": "none",
-            "row_content": "<p>Check out the available designs on the <a href=\"\/collections\/shells\" title=\"Shells\">Shells Collection<\/a><\/p>",
+            "row_content": "<p>Shells are designed to be interchangeable.  You can collect multiple shells to customize your headphones as you please. Check out the available designs on the <a href=\"\/collections\/shells\" title=\"Shells\">Shells Collection <\/a><\/p>",
             "page": ""
           }
         }
