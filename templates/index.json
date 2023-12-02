@@ -334,7 +334,14 @@
         "34192509-a141-444e-8c17-ddc78b10c075": {
           "type": "text",
           "settings": {
-            "text": "<strong>Inside the Box<\/strong>: Original Heavys Shells +  Selected set of Shells, Heavys H1H Headphones, Eco-Friendly Travel Case, Audio Cable, USB-C Charging Cable. <strong>Shells are replaceable<\/strong>. You can collect multiple 'Snap-On' Shells to customize your Headphones",
+            "text": "<strong>Inside the Box<\/strong>: Your selected pair of Shells, Heavys H1H Headphones +  Heavys Replaceable Shells, Premium Travel Case, Audio Cable, USB-C Charging Cable.",
+            "text_style": "body"
+          }
+        },
+        "466a3438-7ac9-4d52-9bdc-41fd9ab3a652": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Shells are replaceable<\/strong>. You can collect multiple 'Snap-On' Shells to style your Headphones.  Personalize your HEAVYS with <a href=\"\/collections\/shells\" title=\"Shells\">Official Shells<\/a> from your favorite artist",
             "text_style": "body"
           }
         }
@@ -345,7 +352,8 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
-        "34192509-a141-444e-8c17-ddc78b10c075"
+        "34192509-a141-444e-8c17-ddc78b10c075",
+        "466a3438-7ac9-4d52-9bdc-41fd9ab3a652"
       ],
       "settings": {
         "product": "shell-bundle",
