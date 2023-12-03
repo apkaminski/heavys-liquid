@@ -161,6 +161,48 @@
         "padding_bottom": 36,
         "scroll_anchor": ""
       }
+    },
+    "bcde66c3-9962-4a71-9872-554e060a4611": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tell us which design you would like to see next",
+            "heading_size": "h2"
+          }
+        },
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Send us an email to support@heavys.com and let us know which artist's design you are interested in<\/p>"
+          }
+        },
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Let Us Know",
+            "button_link": "mailto:support@heavys.com",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1",
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1",
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -168,6 +210,7 @@
     "55782d96-8b7d-40a9-8370-87b6338da840",
     "product-grid",
     "105281a3-4f40-4f4d-8756-77f2f604254d",
-    "a1ea452e-4aa5-4832-96ea-0936f092c98d"
+    "a1ea452e-4aa5-4832-96ea-0936f092c98d",
+    "bcde66c3-9962-4a71-9872-554e060a4611"
   ]
 }
