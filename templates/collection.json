@@ -186,6 +186,7 @@
     },
     "05ca1d9a-85d9-416e-bd50-f460ea46eeb1": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
