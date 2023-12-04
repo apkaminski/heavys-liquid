@@ -80,15 +80,6 @@
         "scroll_anchor": ""
       }
     },
-    "48c9e88a-91d3-4cab-a910-20390d9b7e6a": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/heavystrustpilotstars.png?v=1701682441\" alt=\"heavys trustpilot\" width=\"300px\"><\/img><\/center>",
-        "color_scheme": "",
-        "padding_top": 8,
-        "padding_bottom": 4
-      }
-    },
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
       "type": "custom-liquid",
       "disabled": true,
@@ -97,6 +88,15 @@
         "color_scheme": "",
         "padding_top": 12,
         "padding_bottom": 12
+      }
+    },
+    "48c9e88a-91d3-4cab-a910-20390d9b7e6a": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/heavystrustpilotstars.png?v=1701682441\" alt=\"heavys trustpilot\" width=\"300px\"><\/img><\/center>",
+        "color_scheme": "",
+        "padding_top": 8,
+        "padding_bottom": 4
       }
     },
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
@@ -550,8 +550,8 @@
   },
   "order": [
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
-    "48c9e88a-91d3-4cab-a910-20390d9b7e6a",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
+    "48c9e88a-91d3-4cab-a910-20390d9b7e6a",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "afe8820a-9e66-4dc8-9751-860686858282",
     "video",
