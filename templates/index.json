@@ -536,6 +536,15 @@
         "padding_top": 12,
         "padding_bottom": 28
       }
+    },
+    "295ac786-073c-4c51-8917-2f0ee55f959b": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center><b>Excellent<\/b><img src=\"\" width=\"250px\"><\/img><img src=\"\" width=\"250px\"><\/img><\/center>",
+        "color_scheme": "background-1",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
     }
   },
   "order": [
@@ -549,6 +558,7 @@
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278",
-    "5f55603e-1a1a-4f83-8f50-04a7f62ec5c0"
+    "5f55603e-1a1a-4f83-8f50-04a7f62ec5c0",
+    "295ac786-073c-4c51-8917-2f0ee55f959b"
   ]
 }
