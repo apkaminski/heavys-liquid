@@ -536,15 +536,6 @@
         "padding_top": 12,
         "padding_bottom": 28
       }
-    },
-    "48c9e88a-91d3-4cab-a910-20390d9b7e6a": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/heavystrustpilotstars.png?v=1701682441\" alt=\"heavys trustpilot\" width=\"300px\"><\/img><\/center>",
-        "color_scheme": "",
-        "padding_top": 8,
-        "padding_bottom": 4
-      }
     }
   },
   "order": [
@@ -558,7 +549,6 @@
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278",
-    "5f55603e-1a1a-4f83-8f50-04a7f62ec5c0",
-    "48c9e88a-91d3-4cab-a910-20390d9b7e6a"
+    "5f55603e-1a1a-4f83-8f50-04a7f62ec5c0"
   ]
 }
