@@ -379,6 +379,13 @@
             "text": "<strong>Shells are replaceable<\/strong>. You can collect multiple 'Snap-On' Shells to style your Headphones.  Personalize your HEAVYS with <a href=\"\/collections\/shells\" title=\"Shells\">Official Shells<\/a> from your favorite artist",
             "text_style": "body"
           }
+        },
+        "423f7bdf-c059-43cc-9e65-eaf4733f55d8": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Order Today - Get it Before Christmas<\/strong>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -388,7 +395,8 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
         "34192509-a141-444e-8c17-ddc78b10c075",
-        "466a3438-7ac9-4d52-9bdc-41fd9ab3a652"
+        "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
+        "423f7bdf-c059-43cc-9e65-eaf4733f55d8"
       ],
       "settings": {
         "product": "shell-bundle",
