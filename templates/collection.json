@@ -115,7 +115,7 @@
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-title-1": {
           "type": "title",
           "settings": {
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-price-1": {
@@ -127,11 +127,6 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "dropdown"
-          }
-        },
-        "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-quantity_selector-1": {
-          "type": "quantity_selector",
-          "settings": {
           }
         },
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-buy_buttons-1": {
@@ -154,7 +149,6 @@
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-title-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-price-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-variant_picker-1",
-        "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-quantity_selector-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-buy_buttons-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-share-1"
       ],
