@@ -546,10 +546,10 @@
         "iframe {padding: 0 20px; max-width: 100rem; margin: 0 auto;}"
       ],
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n<\/img>\n<\/center>",
         "color_scheme": "",
         "padding_top": 12,
-        "padding_bottom": 28
+        "padding_bottom": 12
       }
     }
   },
