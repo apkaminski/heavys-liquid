@@ -67,19 +67,12 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "ee596f16-3c6e-43e8-a66d-61c6db15df04": {
-          "type": "text",
-          "settings": {
-            "text": "<p>{{ product.metafields.heavys_custom.band.value.band_description.value }}<\/p>"
-          }
         }
       },
       "block_order": [
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-heading-1",
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-text-1",
-        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1",
-        "ee596f16-3c6e-43e8-a66d-61c6db15df04"
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1"
       ],
       "settings": {
         "desktop_content_position": "center",
