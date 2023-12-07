@@ -107,6 +107,7 @@
       "blocks": {
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ section.settings.product.vendor }}",
             "text_style": "uppercase"
@@ -142,6 +143,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "ec020563-d43b-4c4d-81f2-3b84d0329802": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">Shop our complete series of Shells here<\/a>",
+            "text_style": "uppercase"
+          }
         }
       },
       "block_order": [
@@ -150,7 +158,8 @@
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-price-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-variant_picker-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-buy_buttons-1",
-        "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-share-1"
+        "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-share-1",
+        "ec020563-d43b-4c4d-81f2-3b84d0329802"
       ],
       "settings": {
         "product": "shell-bundle",
