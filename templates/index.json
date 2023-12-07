@@ -382,6 +382,7 @@
         },
         "423f7bdf-c059-43cc-9e65-eaf4733f55d8": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "ORDER TODAY, GET IT BEFORE CHRISTMAS!",
             "text_style": "body"
