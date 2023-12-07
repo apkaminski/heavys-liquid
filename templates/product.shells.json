@@ -80,7 +80,7 @@
         "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 0
       }
     },
     "main": {
