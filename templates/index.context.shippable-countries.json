@@ -8,11 +8,11 @@
       "type": "custom-liquid",
       "disabled": false,
       "settings": {
-        "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "custom_liquid": "<h4><center>Join thousands of metal fans rocking out<\/center>\n<\/h4><\/br><div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "background-1",
-        "header-ca196cae17964a6d77245f06906147c3": null,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "header-6c94c66ea76deca1440210669c0c2e67": null,
+        "padding_top": 60,
+        "padding_bottom": 40
       },
       "blocks": {
       },
@@ -26,7 +26,7 @@
       "settings": {
         "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "inverse",
-        "header-b9e40fb19dfc1a12d2b80aa75c7fda1d": null,
+        "header-efb253b55a9b44f9065c2559055c6fc8": null,
         "padding_top": 40,
         "padding_bottom": 52
       },
@@ -45,6 +45,13 @@
             "text": "<strong>HOLIDAY SPECIAL<\/strong>"
           }
         }
+      }
+    },
+    "featured_collection": {
+      "settings": {
+        "heading_size": "h2"
+      },
+      "blocks": {
       }
     }
   },
