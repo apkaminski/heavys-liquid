@@ -315,7 +315,7 @@
         "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-0": {
           "type": "heading",
           "settings": {
-            "heading": "How HEAVYS Shells™ works?",
+            "heading": "How HEAVYS Shells™ work?",
             "heading_size": "h2"
           }
         },
@@ -362,7 +362,7 @@
       "settings": {
         "title": "<strong>Heavys Shells™ Collection<\/strong>",
         "heading_size": "h2",
-        "description": "<p>Check out special limited-edition Shells collection {{ product.metafields.heavys_custom.band.value.customer_ratings | metafield_tag }}<\/p>",
+        "description": "<p>Check out special limited-edition Shells collection<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
