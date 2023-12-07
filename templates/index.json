@@ -335,13 +335,6 @@
     "70bfa058-95e2-422e-9d16-7ffff8e8e689": {
       "type": "featured-product",
       "blocks": {
-        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0": {
-          "type": "text",
-          "settings": {
-            "text": "Personalize with Interchangeable Shells",
-            "text_style": "uppercase"
-          }
-        },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1": {
           "type": "title",
           "settings": {
@@ -351,6 +344,13 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2": {
           "type": "price",
           "settings": {
+          }
+        },
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0": {
+          "type": "text",
+          "settings": {
+            "text": "<em>Personalize with Interchangeable Shells<\/em>",
+            "text_style": "uppercase"
           }
         },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3": {
@@ -397,9 +397,9 @@
         }
       },
       "block_order": [
-        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
         "34192509-a141-444e-8c17-ddc78b10c075",
