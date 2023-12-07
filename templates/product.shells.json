@@ -175,6 +175,7 @@
         "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-1": {
           "type": "column",
           "settings": {
+            "image": "{{ product.metafields.heavys_custom.band.value.shells_in_box.value }}",
             "icon": "none",
             "title": "",
             "text": "",
@@ -185,6 +186,7 @@
         "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-2": {
           "type": "column",
           "settings": {
+            "image": "{{ product.metafields.heavys_custom.band.value.shells_on_headphones.value }}",
             "icon": "none",
             "title": "",
             "text": "",
@@ -195,6 +197,7 @@
         "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-3": {
           "type": "column",
           "settings": {
+            "image": "{{ product.metafields.heavys_custom.band.value.shells_out_of_box.value }}",
             "icon": "none",
             "title": "",
             "text": "",
