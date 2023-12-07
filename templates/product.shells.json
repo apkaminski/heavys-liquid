@@ -362,7 +362,7 @@
       "settings": {
         "title": "<strong>Heavys Shells™ Collection<\/strong>",
         "heading_size": "h2",
-        "description": "<p>Check out special limited-edition Shells collection<\/p>",
+        "description": "<p>Check out special limited-edition Shells collection {{ product.metafields.heavys_custom.band.value.customer_ratings | metafield_tag }}<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
