@@ -264,9 +264,9 @@
     "815d0046-0f23-4a03-94ba-6600a1557261": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "Personalize with Shells",
         "heading_size": "h2",
-        "description": "<p>Personalize with Shells<\/p>",
+        "description": "",
         "show_description": false,
         "description_style": "subtitle",
         "collection": "shells",
