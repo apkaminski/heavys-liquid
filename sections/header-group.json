@@ -28,6 +28,7 @@
         },
         "96fd5599-c253-4ae1-8e88-3485aa697521": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Order Today - Get It Before Christmas",
             "behaviour_type": "link",
