@@ -485,10 +485,10 @@
         "template--14885345820746__a7352f93-1895-43bf-863f-663ea6d0a386-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Get Heavys Headphones Bundles Now",
+            "button_label": "Get Heavys Headphones Bundles",
             "button_link": "shopify:\/\/products\/headphones-case-aux",
             "button_style_secondary": false,
-            "button_label_2": "Heavys Headphone + Shells Bundles",
+            "button_label_2": "See Headphone + Shells Bundles",
             "button_link_2": "shopify:\/\/collections\/shells",
             "button_style_secondary_2": false
           }
