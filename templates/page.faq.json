@@ -146,6 +146,15 @@
             "video_url": ""
           }
         },
+        "113250ba-6546-4f0f-bb49-758220311096": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are Heavys Shells",
+            "icon": "none",
+            "row_content": "<p>Heavys Shells are an innovative way to personalize your Headphones with custom designs and artist collaborations. Shells utilize an interchangeable  'Mix & Match' method. You can collect as many shells as you want and swap them out through a simple snap-on system.<\/p>",
+            "page": ""
+          }
+        },
         "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1": {
           "type": "collapsible_row",
           "settings": {
@@ -158,6 +167,7 @@
       },
       "block_order": [
         "e6a4a8f5-5eed-40d3-b75f-c44700f9e25d",
+        "113250ba-6546-4f0f-bb49-758220311096",
         "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1"
       ],
       "settings": {
