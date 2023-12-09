@@ -280,7 +280,7 @@
       ],
       "settings": {
         "heading": "Engineered by Industry Legend Axel Grell",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
         "autoplay": false,
