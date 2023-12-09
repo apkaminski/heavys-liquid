@@ -75,7 +75,7 @@
           "type": "text",
           "settings": {
             "heading": "CONTACT",
-            "subtext": "<p>support@heavys.com<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a><\/p>"
+            "subtext": "<p><a href=\"\/pages\/faqs\" title=\"FAQs\">FAQ<\/a><\/p><p><a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a><\/p><p>support@heavys.com<\/p><p><\/p>"
           }
         }
       },
