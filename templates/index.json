@@ -336,13 +336,6 @@
     "70bfa058-95e2-422e-9d16-7ffff8e8e689": {
       "type": "featured-product",
       "blocks": {
-        "423f7bdf-c059-43cc-9e65-eaf4733f55d8": {
-          "type": "text",
-          "settings": {
-            "text": "Add an Interchangeable Design",
-            "text_style": "body"
-          }
-        },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1": {
           "type": "title",
           "settings": {
@@ -384,20 +377,28 @@
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652": {
           "type": "text",
           "settings": {
-            "text": "<strong>Shells are interchangeable<\/strong>. You can collect multiple 'Snap-On' Shells to style your Headphones.  Personalize your HEAVYS with <a href=\"\/collections\/shells\" title=\"Shells\">Official Shells<\/a> from your favorite artists.",
+            "text": "<strong>Shells are interchangeable<\/strong>. You can collect multiple 'Snap-On' Shells as Mix & Match to style your Headphones.  Personalize your HEAVYS with <a href=\"\/collections\/shells\" title=\"Shells\">Official Shells<\/a> from your favorite artists.",
             "text_style": "body"
           }
         },
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"\/collections\/shells\" title=\"Shells\">See Our Full Range of Artist Collabs HERE<\/a>",
+            "text_style": "body"
+          }
+        },
+        "423f7bdf-c059-43cc-9e65-eaf4733f55d8": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Add an Interchangeable Design",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "423f7bdf-c059-43cc-9e65-eaf4733f55d8",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
@@ -405,7 +406,8 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
         "34192509-a141-444e-8c17-ddc78b10c075",
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
-        "35a9e3d3-5d6f-4b64-964c-53cb874465a7"
+        "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
+        "423f7bdf-c059-43cc-9e65-eaf4733f55d8"
       ],
       "settings": {
         "product": "shell-bundle",
