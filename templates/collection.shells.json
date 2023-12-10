@@ -145,6 +145,23 @@
         "scroll_anchor": ""
       }
     },
+    "a1ea452e-4aa5-4832-96ea-0936f092c98d": {
+      "type": "video",
+      "settings": {
+        "heading": "How HEAVYS Shells™ works?",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/1BD13D11-C57B-4311-AF7D-92645166489F.mov",
+        "autoplay": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "HEAVYS HEADPHONES SHELLS",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
+    },
     "bcde66c3-9962-4a71-9872-554e060a4611": {
       "type": "rich-text",
       "blocks": {
@@ -187,23 +204,6 @@
         "padding_bottom": 52
       }
     },
-    "a1ea452e-4aa5-4832-96ea-0936f092c98d": {
-      "type": "video",
-      "settings": {
-        "heading": "How HEAVYS Shells™ works?",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/1BD13D11-C57B-4311-AF7D-92645166489F.mov",
-        "autoplay": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "HEAVYS HEADPHONES SHELLS",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      }
-    },
     "107e7e69-e4fa-4ba1-9d0b-f7259d1289f3": {
       "type": "custom-liquid",
       "settings": {
@@ -219,8 +219,8 @@
     "55782d96-8b7d-40a9-8370-87b6338da840",
     "product-grid",
     "105281a3-4f40-4f4d-8756-77f2f604254d",
-    "bcde66c3-9962-4a71-9872-554e060a4611",
     "a1ea452e-4aa5-4832-96ea-0936f092c98d",
+    "bcde66c3-9962-4a71-9872-554e060a4611",
     "107e7e69-e4fa-4ba1-9d0b-f7259d1289f3"
   ]
 }
