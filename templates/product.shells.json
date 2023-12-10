@@ -315,7 +315,7 @@
         "2e53b314-bb46-48ce-8c15-ddce6bbec802": {
           "type": "row-with-video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/Explo mp4.mp4",
+            "video": "shopify:\/\/files\/videos\/explosion.mp4",
             "video_url": "",
             "enable_video_looping": true,
             "autoplay": true,
@@ -329,7 +329,7 @@
         "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/heavys-h1h-headphones-13.png",
+            "image": "shopify:\/\/shop_images\/heavys-h1h-headphones-4_ee1dc0b7-00b2-4d14-b3b0-d885a35f3786.webp",
             "caption": "",
             "heading": "Natural Sound Field",
             "text": "<p>Our ears are naturally designed to pick up sound that originates in front of us. Heavys unique, patented technology utilizes 8 drivers, four of which, are positioned to the front of the ear. The result in an optimal entry to the inner ear and the most natural sound experience possible.<\/p>",
@@ -356,15 +356,15 @@
       ],
       "settings": {
         "image_height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
+        "section_color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "row_color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "mobile_content_alignment": "center",
         "padding_top": 32,
         "padding_bottom": 32,
