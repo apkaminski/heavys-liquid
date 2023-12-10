@@ -19,7 +19,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Save $100 On All Heavys Bundles!",
+            "text": "Get your order by Christmas with Express Shipping",
             "behaviour_type": "link",
             "link": "shopify:\/\/products\/headphones-case-aux",
             "klavyo_desktop_id": "",
