@@ -412,6 +412,68 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "7bdbd5c0-c846-4438-9b98-823f59d10006": {
+      "type": "multirow",
+      "blocks": {
+        "2e53b314-bb46-48ce-8c15-ddce6bbec802": {
+          "type": "row-with-video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/Explo mp4.mp4",
+            "video_url": "",
+            "enable_video_looping": false,
+            "autoplay": false,
+            "caption": "",
+            "heading": "Multiple Drivers",
+            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges. Enjoy a superior listening experience characterized by exceptional clarity, richness, and depth.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heavys-h1h-headphones-13.png",
+            "caption": "",
+            "heading": "Natural Sound Field",
+            "text": "<p>Our ears are naturally designed to pick up sound that originates in front of us. Heavys unique, patented technology utilizes 8 drivers, four of which, are positioned to the front of the ear. The result in an optimal entry to the inner ear and the most natural sound experience possible.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heavys-h1h-headphones-7_5c252a3b-d619-4419-86ae-da133126cff9_1.png",
+            "caption": "heavys headphones details",
+            "heading": "Attention to Details",
+            "text": "<p>Equipped with noise cancellation, premium earcups, wired\/wireless options, prolonged play time, built-in microphone and more...<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "2e53b314-bb46-48ce-8c15-ddce6bbec802",
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-2",
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
     }
   },
   "order": [
@@ -424,6 +486,7 @@
     "243990a3-4122-461a-b6d3-04139fdb26fc",
     "463cf269-3e55-4128-838b-822482a855bf",
     "d56df3ea-0917-4b74-8f1b-60fa2a51a86f",
-    "related-products"
+    "related-products",
+    "7bdbd5c0-c846-4438-9b98-823f59d10006"
   ]
 }
