@@ -28,6 +28,7 @@
         },
         "9ec61ed8-5812-41e3-a97f-fb5fda9169f6": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Get It By XMas with Express Shipping",
             "behaviour_type": "link",
