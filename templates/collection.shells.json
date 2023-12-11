@@ -180,6 +180,7 @@
         },
         "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Let Us Know",
             "button_link": "mailto:support@heavys.com",
