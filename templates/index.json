@@ -25,7 +25,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "SAVE $70 ON ALL HEAVYS BUNDLES",
+            "heading": "SAVE $80 ON ALL HEAVYS BUNDLES",
             "heading_size": "h1"
           }
         },
@@ -120,7 +120,7 @@
         "7560db2d-df1e-46d3-89e5-e5fb2faab6e4": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            text-transform: uppercase;\n            font-size: 12px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Order Today, get it before Christmas!<\/h1>\n<\/body>\n<\/html>"
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            text-transform: uppercase;\n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Get it Before Christmas with Express Shipping!<\/h1>\n<\/body>\n<\/html>"
           }
         },
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-4": {
