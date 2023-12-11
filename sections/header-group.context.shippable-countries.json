@@ -10,7 +10,7 @@
       },
       "blocks": {
         "announcement-bar-0": {
-          "disabled": false,
+          "disabled": true,
           "settings": {
             "text": "Subscribe and Save $15 Off"
           }
