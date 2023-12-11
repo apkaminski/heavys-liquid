@@ -18,7 +18,6 @@
         },
         "c661b616-d206-4921-bb07-e52a225a4f84": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Save $80 on All Heavys Bundles",
             "behaviour_type": "link",
@@ -46,9 +45,9 @@
       ],
       "settings": {
         "color_scheme": "background-2",
-        "show_line_separator": true,
+        "show_line_separator": false,
         "show_social": false,
-        "auto_rotate": true,
+        "auto_rotate": false,
         "change_slides_speed": 5
       }
     },
