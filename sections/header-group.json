@@ -19,9 +19,9 @@
         "c661b616-d206-4921-bb07-e52a225a4f84": {
           "type": "announcement",
           "settings": {
-            "text": "Save $80 on All Heavys Bundles",
+            "text": "Save $80 on All Shells Bundles",
             "behaviour_type": "link",
-            "link": "shopify:\/\/products\/headphones-case-aux",
+            "link": "",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
