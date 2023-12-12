@@ -272,6 +272,18 @@
         "scroll_anchor": ""
       }
     },
+    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".pad {padding-right: 5px; padding-left: 5px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h1><center>Join thousands of Metal fans rocking out <\/center><\/h4><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 60,
+        "padding_bottom": 40
+      }
+    },
     "1822983c-d804-432b-b929-cf75b46b294e": {
       "type": "rich-text",
       "blocks": {
@@ -409,18 +421,6 @@
         "padding_top": 60,
         "padding_bottom": 60,
         "scroll_anchor": ""
-      }
-    },
-    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f": {
-      "type": "custom-liquid",
-      "custom_css": [
-        ".pad {padding-right: 5px; padding-left: 5px;}"
-      ],
-      "settings": {
-        "custom_liquid": "<h1><center>Join thousands of Metal fans rocking out <\/center><\/h4><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 60,
-        "padding_bottom": 40
       }
     },
     "video": {
@@ -624,9 +624,9 @@
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "afe8820a-9e66-4dc8-9751-860686858282",
+    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
-    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "video",
     "featured_collection",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",

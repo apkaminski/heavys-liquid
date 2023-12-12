@@ -4,6 +4,53 @@
     "market": "us"
   },
   "sections": {
+    "cb5bbbc5-c8de-492e-a1b4-7464403bb8b6": {
+      "type": "rich-text",
+      "disabled": false,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "full_width": true,
+        "header-a13e79f60d37bcc961eb35679ef6e607": null,
+        "padding_top": 24,
+        "padding_bottom": 12
+      },
+      "blocks": {
+        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-heading-1": {
+          "type": "heading",
+          "disabled": false,
+          "settings": {
+            "heading": "Enhance Your Listening Experience Inside & Out",
+            "heading_size": "h2"
+          }
+        },
+        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-heading-1",
+        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-text-1",
+        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-button-1"
+      ]
+    },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "settings": {
       },
@@ -49,53 +96,6 @@
           }
         }
       }
-    },
-    "cb5bbbc5-c8de-492e-a1b4-7464403bb8b6": {
-      "type": "rich-text",
-      "disabled": false,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "full_width": true,
-        "header-5e6f3eb16ea41c68acd41dae15e83b8d": null,
-        "padding_top": 24,
-        "padding_bottom": 12
-      },
-      "blocks": {
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-heading-1": {
-          "type": "heading",
-          "disabled": false,
-          "settings": {
-            "heading": "Enhance Your Listening Experience Inside & Out",
-            "heading_size": "h2"
-          }
-        },
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-heading-1",
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-text-1",
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-button-1"
-      ]
     }
   },
   "order": [
@@ -103,9 +103,9 @@
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "afe8820a-9e66-4dc8-9751-860686858282",
+    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "cb5bbbc5-c8de-492e-a1b4-7464403bb8b6",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
-    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "video",
     "featured_collection",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
