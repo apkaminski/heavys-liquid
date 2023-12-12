@@ -26,9 +26,10 @@
         },
         "template--14886113804362__34920aac-e1d7-4dcc-87ab-aac4b4536d0a-168959064190b9e274-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
-            "button_label": "Watch video",
-            "button_link": "#shopify-section-template--14913730510922__c7389838-0e52-4a89-92b8-2df2effa4e8d",
+            "button_label": "Get Shells",
+            "button_link": "shopify:\/\/collections\/shells",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -47,7 +48,7 @@
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 28
       }
     },
     "c7389838-0e52-4a89-92b8-2df2effa4e8d": {
@@ -59,7 +60,7 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/1BD13D11-C57B-4311-AF7D-92645166489F.mov",
+        "video": "shopify:\/\/files\/videos\/1206 (1).mp4",
         "autoplay": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
