@@ -72,7 +72,7 @@
         "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-1": {
           "type": "text",
           "settings": {
-            "text": "<p>All you need to do is to share on social media a video of you and your Heavys, tag us and use the hashtag of the campaign.<\/p><p>1. Share a video of your experience on social media<\/p><p>2. Tag <strong>@Heavysaudio<\/strong> in the post<\/p><p>3. Post the hashtags in the post:<strong>#HeavysHeadphones<\/strong><\/p>",
+            "text": "<p>All you need to do is to share on social media a video\/image of you and your Heavys, tag us and use the hashtag of the campaign.<\/p><p>1. Share a video of your experience on social media<\/p><p>2. Tag <strong>@Heavysaudio<\/strong> in the post<\/p><p>3. Post the hashtags in the post:<strong>#HeavysHeadphones<\/strong><\/p>",
             "text_style": "body"
           }
         }
@@ -82,7 +82,7 @@
         "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/hashtag-post.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-12-13_at_18.18.52.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
