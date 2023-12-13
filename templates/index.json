@@ -278,7 +278,7 @@
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<h2><center>Join thousands of Metal fans Already Headbanging <\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "custom_liquid": "<h2><center>Join thousands of metal fans rocking out<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "background-1",
         "padding_top": 24,
         "padding_bottom": 40
@@ -366,7 +366,7 @@
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652": {
           "type": "text",
           "settings": {
-            "text": "<strong>Boost with 'Mix & Match' designs.  <\/strong>Personalize your headphones with various <a href=\"\/collections\/shells\" title=\"Shells\">Official Interchangeable Shells<\/a> from your favorite artists. (snaps on the external side of ear-cups)",
+            "text": "Personalize your headphones with various <a href=\"\/collections\/shells\" title=\"Shells\">Official Interchangeable Shells<\/a> from your favorite artists. (snaps on the external side of ear-cups)",
             "text_style": "body"
           }
         },
