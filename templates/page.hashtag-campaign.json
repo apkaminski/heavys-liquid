@@ -111,7 +111,7 @@
         "template--14886113804362__6d20f2ab-29b5-4869-aa13-742e67c3a817-168959064190b9e274-0": {
           "type": "heading",
           "settings": {
-            "heading": "VIDEO EXAMPLES",
+            "heading": "CONTENT IDEAS",
             "heading_size": "h1"
           }
         }
@@ -170,7 +170,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/img-4.png",
             "icon": "none",
-            "title": "Any other video",
+            "title": "Any other Video\/Image",
             "text": "<p>you come up with<\/p>",
             "link_label": "",
             "link": ""
