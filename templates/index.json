@@ -447,7 +447,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Hear the Difference",
+        "title": "Welcome to HEAVYS Store",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -475,7 +475,7 @@
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Top industry professionals Love Heavys...",
+        "heading": "Hear the Difference with Top Industry Professionals",
         "heading_size": "h1",
         "blog": "testimonials",
         "post_limit": 3,
