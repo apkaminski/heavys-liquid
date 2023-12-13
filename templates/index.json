@@ -268,7 +268,7 @@
         "image_behavior": "sticky",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_bottom": 20,
         "scroll_anchor": ""
       }
     },
@@ -475,7 +475,7 @@
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
       "type": "featured-blog",
       "settings": {
-        "heading": "What top industry professionals have to say...",
+        "heading": "Top industry professionals Love Heavys...",
         "heading_size": "h1",
         "blog": "testimonials",
         "post_limit": 3,
