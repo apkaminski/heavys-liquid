@@ -324,6 +324,49 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "52738f41-55ed-4e2d-bb9f-72b0e3bcc831": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14886113804362__52738f41-55ed-4e2d-bb9f-72b0e3bcc831-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Show Heavys Headphones & Shells",
+            "heading_size": "h2"
+          }
+        },
+        "template--14886113804362__52738f41-55ed-4e2d-bb9f-72b0e3bcc831-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--14886113804362__52738f41-55ed-4e2d-bb9f-72b0e3bcc831-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/frontpage",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14886113804362__52738f41-55ed-4e2d-bb9f-72b0e3bcc831-heading-1",
+        "template--14886113804362__52738f41-55ed-4e2d-bb9f-72b0e3bcc831-text-1",
+        "template--14886113804362__52738f41-55ed-4e2d-bb9f-72b0e3bcc831-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -334,6 +377,7 @@
     "b0928976-b8e9-41f5-a3ca-54f76ad4b17f",
     "1b5a4b14-bd61-4f49-8134-9b3cf60a163c",
     "ceb01346-9f93-48d8-adbf-ab68978ea4d5",
-    "54dc4b7c-6696-43ba-89e9-a23f3fe19b59"
+    "54dc4b7c-6696-43ba-89e9-a23f3fe19b59",
+    "52738f41-55ed-4e2d-bb9f-72b0e3bcc831"
   ]
 }
