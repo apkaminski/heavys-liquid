@@ -10,6 +10,17 @@
       },
       "blocks": {
       }
+    },
+    "footer": {
+      "settings": {
+      },
+      "blocks": {
+        "caae6918-beaf-4033-a5de-7bb680a2f7d9": {
+          "settings": {
+            "subtext": "<p><a href=\"\/pages\/faqs\" title=\"FAQs\">FAQ<\/a><\/p><p><a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a><\/p><p><a href=\"mailto:support@heavys.com\" target=\"_blank\" title=\"mailto:support@heavys.com\">support@heavys.com<\/a><\/p><p>Signup for Special Offers<\/p><p><\/p>"
+          }
+        }
+      }
     }
   }
 }
