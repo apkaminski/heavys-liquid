@@ -75,7 +75,7 @@
           "type": "text",
           "settings": {
             "heading": "CONTACT",
-            "subtext": "<p><a href=\"\/pages\/faqs\" title=\"FAQs\">FAQ<\/a><\/p><p><a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a><\/p><p><a href=\"mailto:support@heavys.com\" title=\"mailto:support@heavys.com\">support@heavys.com\\<\/a><\/p><p>Signup for Special Offers<\/p><p><\/p>"
+            "subtext": "<p><a href=\"\/pages\/faqs\" title=\"FAQs\">FAQ<\/a><\/p><p><a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a><\/p><p><a href=\"mailto:support@heavys.com\" title=\"mailto:support@heavys.com\">support@heavys.com<\/a><\/p><p>Signup for Special Offers<\/p><p><\/p>"
           }
         }
       },
