@@ -2,16 +2,17 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 20
       }
     },
     "form": {
       "type": "contact-form",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
+        "heading": "Contact HEAVYS Support or Sign UP Below",
+        "heading_size": "h2",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
