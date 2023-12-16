@@ -11,15 +11,6 @@
         "padding_bottom": 40
       }
     },
-    "a6f40a8d-7b44-45ee-a00a-46c32c3f313f": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"klaviyo-form-WsMGEi\"><\/div>",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "76ffe667-d89c-4967-9e77-454b74fef48b": {
       "type": "newsletter",
       "blocks": {
@@ -112,7 +103,6 @@
   },
   "order": [
     "bcd3bbac-d671-45e8-9af5-287eefa8e028",
-    "a6f40a8d-7b44-45ee-a00a-46c32c3f313f",
     "76ffe667-d89c-4967-9e77-454b74fef48b",
     "footer"
   ]
