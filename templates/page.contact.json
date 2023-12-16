@@ -19,9 +19,8 @@
     },
     "06ef57f8-5ae4-4f8a-a03a-f7f56d9b49a3": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
-        "custom_liquid": "<iframe><div class=\"klaviyo-form-Vhcff4\"><\/div><\/iframe>",
+        "custom_liquid": "<div class=\"klaviyo-form-Vhcff4\"><\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40
