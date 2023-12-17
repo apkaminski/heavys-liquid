@@ -19,7 +19,7 @@
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "settings": {
-            "heading": "SAVE €80 ON ALL HEAVYS BUNDLES"
+            "heading": "SAVE €70 ON ALL HEAVYS BUNDLES"
           }
         },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
@@ -34,6 +34,11 @@
         "product": "copy-of-heavys-h1h-headphones-bundle"
       },
       "blocks": {
+        "0a1dc52c-9f16-4aff-8138-1f799065fc86": {
+          "settings": {
+            "heading_1": "Eco-friendly Travel Case designed for heavy metal enthusiasts seeking style and protection, Audio Cable included"
+          }
+        }
       }
     }
   }
