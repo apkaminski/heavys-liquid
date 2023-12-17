@@ -4,5 +4,16 @@
     "market": "european-union"
   },
   "sections": {
+    "55782d96-8b7d-40a9-8370-87b6338da840": {
+      "settings": {
+      },
+      "blocks": {
+        "5ea13d60-3e48-4f92-a391-a8b58718dbc8": {
+          "settings": {
+            "text": "<strong>Holiday Special - Save $80 on Shell Bundles<\/strong>"
+          }
+        }
+      }
+    }
   }
 }
