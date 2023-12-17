@@ -12,14 +12,14 @@
         "content_alignment": "center",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "full_width": true,
-        "header-a13e79f60d37bcc961eb35679ef6e607": null,
+        "header-0eaf59fe701a67976f686b4c93c30b1d": null,
         "padding_top": 24,
         "padding_bottom": 12
       },
       "blocks": {
         "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-heading-1": {
           "type": "heading",
-          "disabled": false,
+          "disabled": true,
           "settings": {
             "heading": "Enhance Your Listening Experience Inside & Out",
             "heading_size": "h2"
@@ -27,9 +27,9 @@
         },
         "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-text-1": {
           "type": "text",
-          "disabled": true,
+          "disabled": false,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<h2>Enhance Your Listening Experience Inside & Out<\/h2>"
           }
         },
         "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-button-1": {
