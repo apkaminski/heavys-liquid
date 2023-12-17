@@ -22,15 +22,15 @@
             "text_style": "subtitle"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special<\/h1>\n<\/body>\n<\/html>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
           }
         },
         "variant_picker": {
@@ -61,8 +61,8 @@
         "vendor",
         "title",
         "caption",
-        "price",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
+        "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
