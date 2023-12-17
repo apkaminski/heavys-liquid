@@ -17,9 +17,8 @@
         },
         "c661b616-d206-4921-bb07-e52a225a4f84": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Save $80 on All Headphone Bundles",
+            "text": "Free Shipping on Orders over 99$",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
