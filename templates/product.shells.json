@@ -258,10 +258,9 @@
         },
         "94d76b70-4141-496c-b683-487490dcb35e": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
-            "button_link": "shopify:\/\/products\/kamelot-shells",
+            "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
