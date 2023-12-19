@@ -239,6 +239,50 @@
         "scroll_anchor": ""
       }
     },
+    "e836ee92-247c-4b1b-a750-8b108bc417dd": {
+      "type": "rich-text",
+      "blocks": {
+        "4dd55ba9-3276-48c6-bc11-2981b4a549bc": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "0013955e-afe9-424b-9c91-bf7988f0704f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.heavys_custom.band.value.band_description.value }}<\/p>"
+          }
+        },
+        "94d76b70-4141-496c-b683-487490dcb35e": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "button_link": "shopify:\/\/products\/kamelot-shells",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "4dd55ba9-3276-48c6-bc11-2981b4a549bc",
+        "0013955e-afe9-424b-9c91-bf7988f0704f",
+        "94d76b70-4141-496c-b683-487490dcb35e"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 16
+      }
+    },
     "14d62ff5-687e-49d9-813c-54bfbf115c37": {
       "type": "featured-product",
       "blocks": {
@@ -491,6 +535,7 @@
     "be4805c2-025c-4ff7-be0e-c9a17287274f",
     "main",
     "e3ca781b-9d44-4c07-909d-7da66958b19c",
+    "e836ee92-247c-4b1b-a750-8b108bc417dd",
     "14d62ff5-687e-49d9-813c-54bfbf115c37",
     "60421194-02d3-4142-a101-cab229136e5b",
     "243990a3-4122-461a-b6d3-04139fdb26fc",
