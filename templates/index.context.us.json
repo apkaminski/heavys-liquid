@@ -12,7 +12,7 @@
         "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
-        "header-d27a42c38a68732f286bbad2b0ee4ce7": null,
+        "header-15d5e627282a361a1372c821cc5bdf88": null,
         "padding_top": 40,
         "padding_bottom": 12
       },
@@ -59,7 +59,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "<strong>METAL MADNESS HOLIDAY SPECIAL<\/strong>",
+            "text": "<strong>Listen To Metal Like Never Before<\/strong>",
             "text_style": "subtitle"
           }
         },
