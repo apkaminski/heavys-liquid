@@ -76,6 +76,15 @@
         "padding_bottom": 36
       }
     },
+    "107e7e69-e4fa-4ba1-9d0b-f7259d1289f3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n<\/img>\n<\/center>",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "a1ea452e-4aa5-4832-96ea-0936f092c98d": {
       "type": "video",
       "settings": {
@@ -91,58 +100,6 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "scroll_anchor": "videoshells"
-      }
-    },
-    "bcde66c3-9962-4a71-9872-554e060a4611": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tell us which design you would like to see next",
-            "heading_size": "h2"
-          }
-        },
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com<\/a> and let us know which artist's design you are interested in. <a href=\"\/pages\/contact\" title=\"Contact\">CLICK HERE TO Sign<\/a> up to know when the next Shell Collab Drops!<\/p>"
-          }
-        },
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Let Us Know",
-            "button_link": "mailto:support@heavys.com",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1",
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1",
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "107e7e69-e4fa-4ba1-9d0b-f7259d1289f3": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n<\/img>\n<\/center>",
-        "color_scheme": "",
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "105281a3-4f40-4f4d-8756-77f2f604254d": {
@@ -212,15 +169,58 @@
         "padding_bottom": 80,
         "scroll_anchor": ""
       }
+    },
+    "bcde66c3-9962-4a71-9872-554e060a4611": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tell us which design you would like to see next",
+            "heading_size": "h2"
+          }
+        },
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com<\/a> and let us know which artist's design you are interested in. PLUS - <a href=\"\/pages\/contact\" title=\"Contact\">CLICK HERE to Sign<\/a> up to know when the next Shell Collab Drops!<\/p>"
+          }
+        },
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Let Us Know",
+            "button_link": "mailto:support@heavys.com",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1",
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1",
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "banner",
     "55782d96-8b7d-40a9-8370-87b6338da840",
     "product-grid",
-    "a1ea452e-4aa5-4832-96ea-0936f092c98d",
-    "bcde66c3-9962-4a71-9872-554e060a4611",
     "107e7e69-e4fa-4ba1-9d0b-f7259d1289f3",
-    "105281a3-4f40-4f4d-8756-77f2f604254d"
+    "a1ea452e-4aa5-4832-96ea-0936f092c98d",
+    "105281a3-4f40-4f4d-8756-77f2f604254d",
+    "bcde66c3-9962-4a71-9872-554e060a4611"
   ]
 }
