@@ -36,10 +36,10 @@
         "bddec82c-46ac-4ec0-b185-ade0eb540505": {
           "type": "timer",
           "settings": {
-            "year": "2021",
+            "year": "2023",
             "month": "12",
-            "day": "31",
-            "hour": "23",
+            "day": "23",
+            "hour": "10",
             "minute": "59",
             "cycle": true
           }
