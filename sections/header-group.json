@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Subscribe and Save $15 Off",
             "behaviour_type": "klavyo_popup",
@@ -18,7 +19,7 @@
         "c661b616-d206-4921-bb07-e52a225a4f84": {
           "type": "announcement",
           "settings": {
-            "text": "Free Shipping on Orders over $99",
+            "text": "",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
