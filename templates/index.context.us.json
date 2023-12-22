@@ -12,7 +12,7 @@
         "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
-        "header-b13c750f643f1a5cd93cb7df9faa099f": null,
+        "header-11d8ccc41d193c97a004d92f3ec44748": null,
         "padding_top": 40,
         "padding_bottom": 12
       },
@@ -59,7 +59,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "<strong>CHRISTMAS FLASH SALE- 24 HOURS<\/strong>",
+            "text": "<strong>CHRISTMAS FLASH SALE<\/strong>",
             "text_style": "subtitle"
           }
         },
@@ -71,8 +71,8 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "disabled": true,
           "settings": {
-            "text_style": "caption-with-letter-spacing",
-            "text": "<strong>No code Neccesary<\/strong>"
+            "text": "<strong>No code Neccesary<\/strong>",
+            "text_style": "caption-with-letter-spacing"
           }
         }
       },
