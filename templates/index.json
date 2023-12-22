@@ -21,7 +21,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<strong>HOLIDAY SPECIAL - No code Neccesary<\/strong>",
+            "text": "<strong>No code Necessary<\/strong>",
             "text_style": "caption-with-letter-spacing"
           }
         },
