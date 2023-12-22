@@ -32,12 +32,24 @@
             "text": "Feel the power of personalization with Heavys Shells™. Enhance your listening experience inside & out through various 'snap-on' interchangeable designs",
             "text_style": "body"
           }
+        },
+        "bddec82c-46ac-4ec0-b185-ade0eb540505": {
+          "type": "timer",
+          "settings": {
+            "year": "2021",
+            "month": "12",
+            "day": "31",
+            "hour": "23",
+            "minute": "59",
+            "cycle": true
+          }
         }
       },
       "block_order": [
         "5ea13d60-3e48-4f92-a391-a8b58718dbc8",
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0",
-        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1"
+        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1",
+        "bddec82c-46ac-4ec0-b185-ade0eb540505"
       ],
       "custom_css": [
         ".banner__text:first-child {color: #63d48a;}"
