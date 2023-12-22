@@ -3,22 +3,22 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
+        "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
+          "type": "text",
+          "settings": {
+            "text": "CHRISTMAS FLASH SALE",
+            "text_style": "subtitle"
+          }
+        },
         "9c50aa5f-e67b-41fb-bf96-08c425076220": {
           "type": "timer",
           "settings": {
             "year": "2023",
             "month": "12",
             "day": "23",
-            "hour": "10",
+            "hour": "23",
             "minute": "59",
             "cycle": true
-          }
-        },
-        "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
-          "type": "text",
-          "settings": {
-            "text": "CHRISTMAS FLASH SALE",
-            "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
@@ -55,8 +55,8 @@
         }
       },
       "block_order": [
-        "9c50aa5f-e67b-41fb-bf96-08c425076220",
         "77f6cc15-abe2-4982-9d14-67dd1808ca94",
+        "9c50aa5f-e67b-41fb-bf96-08c425076220",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
