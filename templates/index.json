@@ -38,10 +38,10 @@
           "settings": {
             "year": "2023",
             "month": "12",
-            "day": "22",
-            "hour": "23",
+            "day": "23",
+            "hour": "11",
             "minute": "59",
-            "cycle": false
+            "cycle": true
           }
         },
         "a031264a-5813-402f-80ac-e07a014522ca": {
