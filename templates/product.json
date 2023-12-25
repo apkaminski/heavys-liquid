@@ -49,6 +49,19 @@
           "type": "description",
           "settings": {
           }
+        },
+        "39618244-ac1d-4c30-8adb-0110c7854ac2": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 5,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
         }
       },
       "block_order": [
@@ -59,7 +72,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "39618244-ac1d-4c30-8adb-0110c7854ac2"
       ],
       "settings": {
         "color_scheme": "inverse",
@@ -99,7 +113,7 @@
     "4c128cdd-7b09-4958-a9c3-24a9f4c2bd5e": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<P style=\"font-family:montserrat;font-size:14px;color:#b9b9b9;\" ><center><b>Join thousands of metal fans already headbanging<\/b><\/center><\/p><\/br><div data-name=\"onstipe\" class=\"wbctA\" style=\"width:100%;height:100%;overflow:hidden;\"><script defer src=\"https:\/\/onstipe.com\/web\/js\/webembed.js\" type=\"text\/javascript\"><\/script><div class=\"wbctB\" data-val=\"lxk26\"><\/div><\/div>",
+        "custom_liquid": "<h2><center><b>Join thousands of metal fans already headbanging<\/b><\/center><\/h2><\/br><div data-name=\"onstipe\" class=\"wbctA\" style=\"width:100%;height:100%;overflow:hidden;\"><script defer src=\"https:\/\/onstipe.com\/web\/js\/webembed.js\" type=\"text\/javascript\"><\/script><div class=\"wbctB\" data-val=\"lxk26\"><\/div><\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
