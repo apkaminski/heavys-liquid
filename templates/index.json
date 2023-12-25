@@ -15,10 +15,10 @@
           "settings": {
             "year": "2023",
             "month": "12",
-            "day": "24",
+            "day": "25",
             "hour": "23",
             "minute": "59",
-            "cycle": true
+            "cycle": false
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
