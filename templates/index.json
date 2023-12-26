@@ -5,34 +5,24 @@
       "blocks": {
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Listen To Metal Like Never Before<\/strong>",
             "text_style": "subtitle"
           }
         },
-        "9c50aa5f-e67b-41fb-bf96-08c425076220": {
-          "type": "timer",
-          "settings": {
-            "year": "2023",
-            "month": "12",
-            "day": "26",
-            "hour": "11",
-            "minute": "59",
-            "cycle": false
-          }
-        },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "SAVE $100 ON ALL HEADPHONE BUNDLES",
+            "heading": "Headphones Engineered for Heavy Metal",
             "heading_size": "h1"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "<strong>No code needed<\/strong>",
-            "text_style": "caption-with-letter-spacing"
+            "text": "<strong>Listen To Metal Like Never Before<\/strong>",
+            "text_style": "subtitle"
           }
         },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
@@ -51,15 +41,26 @@
             "anchor": "heavys-featured",
             "button_style_secondary": true
           }
+        },
+        "9c50aa5f-e67b-41fb-bf96-08c425076220": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "12",
+            "day": "26",
+            "hour": "11",
+            "minute": "59",
+            "cycle": false
+          }
         }
       },
       "block_order": [
         "77f6cc15-abe2-4982-9d14-67dd1808ca94",
-        "9c50aa5f-e67b-41fb-bf96-08c425076220",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
-        "a031264a-5813-402f-80ac-e07a014522ca"
+        "a031264a-5813-402f-80ac-e07a014522ca",
+        "9c50aa5f-e67b-41fb-bf96-08c425076220"
       ],
       "custom_css": [
         ".banner__text:first-child {color: #63d48a;}"
