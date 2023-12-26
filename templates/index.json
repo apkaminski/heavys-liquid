@@ -5,7 +5,6 @@
       "blocks": {
         "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "BOXING DAY SALE",
             "text_style": "subtitle"
@@ -31,6 +30,7 @@
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Listen To Metal Like Never Before<\/strong>",
             "text_style": "subtitle"
