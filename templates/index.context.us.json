@@ -12,7 +12,7 @@
         "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
-        "header-e15cf1f92644c1693e7025bbad582251": null,
+        "header-3bb491334dcbc344b5f7473be193e671": null,
         "padding_top": 40,
         "padding_bottom": 12
       },
@@ -59,7 +59,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "'New Year New Gear'  Deal",
+            "text": "'New Year New Gear'  Deals",
             "text_style": "subtitle"
           }
         },
