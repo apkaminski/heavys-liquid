@@ -12,7 +12,7 @@
         "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
-        "header-45a9f284d1c2d6ca18d83b846f924aae": null,
+        "header-e15cf1f92644c1693e7025bbad582251": null,
         "padding_top": 40,
         "padding_bottom": 12
       },
@@ -57,9 +57,9 @@
       "blocks": {
         "7c5915ad-cca0-45f5-86e8-d3f639c2399b": {
           "type": "text",
-          "disabled": true,
+          "disabled": false,
           "settings": {
-            "text": "<strong>BOXING DAY SALE<\/strong>",
+            "text": "'New Year New Gear'  Special",
             "text_style": "subtitle"
           }
         },
