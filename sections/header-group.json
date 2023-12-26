@@ -7,7 +7,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Subscribe and Save $15 Off",
             "behaviour_type": "klavyo_popup",
