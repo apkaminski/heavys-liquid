@@ -12,6 +12,13 @@
     "55782d96-8b7d-40a9-8370-87b6338da840": {
       "type": "image-banner",
       "blocks": {
+        "42862296-1b37-490a-bc46-babf848ace8b": {
+          "type": "text",
+          "settings": {
+            "text": "'New Year New Gear'  Special",
+            "text_style": "body"
+          }
+        },
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0": {
           "type": "heading",
           "settings": {
@@ -28,6 +35,7 @@
         }
       },
       "block_order": [
+        "42862296-1b37-490a-bc46-babf848ace8b",
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0",
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1"
       ],
