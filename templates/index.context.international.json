@@ -94,6 +94,12 @@
       "settings": {
       },
       "blocks": {
+        "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
+          "disabled": false,
+          "settings": {
+            "text": "Be the First to Know When HEAVYS is available in your Country"
+          }
+        },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "settings": {
             "heading": "Headphones Engineered For Heavy Metal"
@@ -102,7 +108,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "disabled": false,
           "settings": {
-            "text": "BE THE FIRST TO KNOW WHEN HEAVYS IS COMING TO YOUR COUNTRY!"
+            "text": "<strong>Listen To Metal Like Never Before <\/strong>"
           }
         },
         "9e6a28af-df13-42cc-8854-856f3399b99f": {
@@ -118,11 +124,6 @@
         "a031264a-5813-402f-80ac-e07a014522ca": {
           "settings": {
             "anchor": "product-features"
-          }
-        },
-        "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
-          "settings": {
-            "text": "<strong>Listen To Metal Like Never Before <\/strong>"
           }
         }
       },
