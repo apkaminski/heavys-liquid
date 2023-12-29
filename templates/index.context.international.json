@@ -4,6 +4,51 @@
     "market": "international"
   },
   "sections": {
+    "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
+      "disabled": false,
+      "settings": {
+      },
+      "blocks": {
+        "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
+          "settings": {
+            "text": "<strong>Listen To Metal Like Never Before <\/strong>"
+          }
+        },
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
+          "settings": {
+            "heading": "Headphones Engineered For Heavy Metal"
+          }
+        },
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
+          "disabled": false,
+          "settings": {
+            "text": "BE THE FIRST TO KNOW WHEN HEAVYS IS COMING TO YOUR COUNTRY!"
+          }
+        },
+        "9e6a28af-df13-42cc-8854-856f3399b99f": {
+          "type": "button_klavyo",
+          "disabled": false,
+          "settings": {
+            "button_label": "Sign Up Now",
+            "klavyo_desktop_id": "YyZgLn",
+            "klavyo_mobile_id": "TMcm4k",
+            "button_style_secondary": false
+          }
+        },
+        "a031264a-5813-402f-80ac-e07a014522ca": {
+          "settings": {
+            "anchor": "product-features"
+          }
+        }
+      },
+      "block_order": [
+        "77f6cc15-abe2-4982-9d14-67dd1808ca94",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
+        "9e6a28af-df13-42cc-8854-856f3399b99f",
+        "a031264a-5813-402f-80ac-e07a014522ca"
+      ]
+    },
     "afe8820a-9e66-4dc8-9751-860686858282": {
       "disabled": false,
       "settings": {
@@ -35,7 +80,7 @@
           "disabled": false,
           "settings": {
             "layout": "vertical",
-            "header-7b1ab94bc706716ee2327d89e5102eb8": null,
+            "header-be6763104262bbecb875f3e6e3daef24": null,
             "icon_1": "check_mark",
             "image_1": null,
             "heading_1": "Eco-friendly case designed for heavy metal enthusiasts seeking both style and protection",
@@ -89,50 +134,35 @@
         "f983dcff-ff20-43c4-8c52-596455709ebd"
       ]
     },
-    "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
-      "disabled": false,
+    "70bfa058-95e2-422e-9d16-7ffff8e8e689": {
       "settings": {
       },
       "blocks": {
-        "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
-          "disabled": false,
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5": {
+          "disabled": true,
           "settings": {
-            "text": "Be the First to Know When HEAVYS is available in your Country"
           }
         },
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
-          "settings": {
-            "heading": "Headphones Engineered For Heavy Metal"
-          }
-        },
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
+        "1ab86361-6a49-416d-90a0-d27bc19cafc2": {
+          "type": "preorder_buttons",
           "disabled": false,
           "settings": {
-            "text": "<strong>Listen To Metal Like Never Before <\/strong>"
-          }
-        },
-        "9e6a28af-df13-42cc-8854-856f3399b99f": {
-          "type": "button_klavyo",
-          "disabled": false,
-          "settings": {
-            "button_label": "Sign Up Now",
             "klavyo_desktop_id": "YyZgLn",
-            "klavyo_mobile_id": "TMcm4k",
-            "button_style_secondary": false
-          }
-        },
-        "a031264a-5813-402f-80ac-e07a014522ca": {
-          "settings": {
-            "anchor": "product-features"
+            "klavyo_mobile_id": "TMcm4k"
           }
         }
       },
       "block_order": [
-        "77f6cc15-abe2-4982-9d14-67dd1808ca94",
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
-        "9e6a28af-df13-42cc-8854-856f3399b99f",
-        "a031264a-5813-402f-80ac-e07a014522ca"
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1",
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
+        "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
+        "34192509-a141-444e-8c17-ddc78b10c075",
+        "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
+        "423f7bdf-c059-43cc-9e65-eaf4733f55d8",
+        "1ab86361-6a49-416d-90a0-d27bc19cafc2"
       ]
     }
   },
