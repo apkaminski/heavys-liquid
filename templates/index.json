@@ -508,7 +508,7 @@
           "settings": {
             "heading": "When will my order be shipped?",
             "icon": "none",
-            "row_content": "<p>Good news! Heavys are in stock and ready for immediate shipment! As soon as you place your order, we'll process it swiftly. <\/p>",
+            "row_content": "<p>Good news! Heavys are in stock and ready for immediate shipment! As soon as you place your order, we'll process it swiftly.  <\/p><p>Delivery times vary between countries. Please note import and customs process within your country may delay delivery date<\/p>",
             "page": ""
           }
         },
