@@ -9,12 +9,6 @@
       "settings": {
       },
       "blocks": {
-        "announcement-bar-0": {
-          "disabled": false,
-          "settings": {
-            "text": "Subscribe and Save $40 Off"
-          }
-        }
       },
       "block_order": [
         "announcement-bar-0",
