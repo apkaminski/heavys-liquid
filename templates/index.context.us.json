@@ -25,6 +25,14 @@
         "a031264a-5813-402f-80ac-e07a014522ca",
         "9c50aa5f-e67b-41fb-bf96-08c425076220"
       ]
+    },
+    "1822983c-d804-432b-b929-cf75b46b294e": {
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center"
+      },
+      "blocks": {
+      }
     }
   },
   "order": [
