@@ -4,53 +4,6 @@
     "market": "us"
   },
   "sections": {
-    "cb5bbbc5-c8de-492e-a1b4-7464403bb8b6": {
-      "type": "rich-text",
-      "disabled": false,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "inverse",
-        "full_width": true,
-        "header-b4aad9af8dafeed357b5e60f0be2d17b": null,
-        "padding_top": 40,
-        "padding_bottom": 12
-      },
-      "blocks": {
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Enhance Your Listening Experience Inside & Out",
-            "heading_size": "h2"
-          }
-        },
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-text-1": {
-          "type": "text",
-          "disabled": false,
-          "settings": {
-            "text": "<h2>Upgrade Your Sound & Elevate Your Style<\/h2>"
-          }
-        },
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-heading-1",
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-text-1",
-        "template--14945818738762__cb5bbbc5-c8de-492e-a1b4-7464403bb8b6-button-1"
-      ]
-    },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "settings": {
       },
@@ -72,13 +25,6 @@
         "a031264a-5813-402f-80ac-e07a014522ca",
         "9c50aa5f-e67b-41fb-bf96-08c425076220"
       ]
-    },
-    "70bfa058-95e2-422e-9d16-7ffff8e8e689": {
-      "settings": {
-        "padding_top": 0
-      },
-      "blocks": {
-      }
     }
   },
   "order": [
@@ -88,7 +34,7 @@
     "afe8820a-9e66-4dc8-9751-860686858282",
     "video",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
-    "cb5bbbc5-c8de-492e-a1b4-7464403bb8b6",
+    "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
     "featured_collection",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
