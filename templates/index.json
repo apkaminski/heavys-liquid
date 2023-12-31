@@ -321,7 +321,7 @@
         "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Upgrade Your Sound and Elevate Your Style with HEAVYS + Shells<\/h2>"
+            "text": "<h2>Upgrade Your Sound and Elevate Your Style<\/h2>"
           }
         },
         "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-button-1": {
@@ -441,7 +441,7 @@
         "image_zoom": "none",
         "mobile_thumbnails": "show",
         "enable_video_looping": false,
-        "padding_top": 40,
+        "padding_top": 20,
         "padding_bottom": 60,
         "scroll_anchor": ""
       }
