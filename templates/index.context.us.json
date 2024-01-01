@@ -25,14 +25,6 @@
         "a031264a-5813-402f-80ac-e07a014522ca",
         "9c50aa5f-e67b-41fb-bf96-08c425076220"
       ]
-    },
-    "1822983c-d804-432b-b929-cf75b46b294e": {
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center"
-      },
-      "blocks": {
-      }
     }
   },
   "order": [
@@ -40,10 +32,10 @@
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "afe8820a-9e66-4dc8-9751-860686858282",
-    "video",
-    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
+    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
+    "video",
     "featured_collection",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278",
