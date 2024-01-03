@@ -64,7 +64,7 @@
         "9c50aa5f-e67b-41fb-bf96-08c425076220"
       ],
       "custom_css": [
-        ".banner__text:first-child {color: #63d48a;}"
+        ".banner__text {color: #63d48a;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner.jpg",
