@@ -611,6 +611,15 @@
         "padding_top": 12,
         "padding_bottom": 12
       }
+    },
+    "784e0fc0-4d63-438c-8513-d833e6301424": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\" height=\"30px\" a=https:\/\/www.trustpilot.com\/review\/www.heavys.com?stars=5\">\n<\/img>\n<\/center>",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
     }
   },
   "order": [
@@ -625,6 +634,7 @@
     "featured_collection",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278",
-    "5f55603e-1a1a-4f83-8f50-04a7f62ec5c0"
+    "5f55603e-1a1a-4f83-8f50-04a7f62ec5c0",
+    "784e0fc0-4d63-438c-8513-d833e6301424"
   ]
 }
