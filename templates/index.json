@@ -202,6 +202,15 @@
         "scroll_anchor": "heavys-featured"
       }
     },
+    "d8162b2b-efc2-4ce5-ab3f-2e696a3b1e4e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- TrustBox widget - Micro Combo -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6ffb0d04a076446a9af\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"20px\" data-style-width=\"100%\" data-theme=\"light\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
+        "color_scheme": "inverse",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "afe8820a-9e66-4dc8-9751-860686858282": {
       "type": "image-with-text",
       "blocks": {
@@ -613,6 +622,7 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
+    "d8162b2b-efc2-4ce5-ab3f-2e696a3b1e4e",
     "afe8820a-9e66-4dc8-9751-860686858282",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
