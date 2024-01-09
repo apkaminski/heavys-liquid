@@ -57,6 +57,12 @@
           "type": "description",
           "settings": {
           }
+        },
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- TrustBox widget - Product Mini -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"54d39695764ea907c0f34825\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-sku=\"Bundle\" data-no-reviews=\"hide\" data-scroll-to-list=\"true\" data-style-alignment=\"center\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
+          }
         }
       },
       "block_order": [
@@ -68,7 +74,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d"
       ],
       "settings": {
         "color_scheme": "inverse",
@@ -83,15 +90,6 @@
         "hide_variants": true,
         "enable_video_looping": true,
         "padding_top": 40,
-        "padding_bottom": 20
-      }
-    },
-    "1a35f1cc-eabb-4dac-a142-6c497d08de65": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n<\/img>\n<\/center>",
-        "color_scheme": "background-1",
-        "padding_top": 20,
         "padding_bottom": 20
       }
     },
@@ -640,7 +638,6 @@
   },
   "order": [
     "main",
-    "1a35f1cc-eabb-4dac-a142-6c497d08de65",
     "abf547a8-0873-499b-8d6e-be74117143d0",
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
