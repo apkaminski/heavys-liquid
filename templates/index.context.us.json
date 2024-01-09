@@ -8,22 +8,14 @@
       "settings": {
       },
       "blocks": {
-        "7c5915ad-cca0-45f5-86e8-d3f639c2399b": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<a href=\"\/products\/headphones-case-aux\" title=\"Heavys H1H Headphones Bundle\">'New Year New Gear'  Deals<\/a>",
-            "text_style": "body"
-          }
-        }
       },
       "block_order": [
-        "7c5915ad-cca0-45f5-86e8-d3f639c2399b",
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
         "a031264a-5813-402f-80ac-e07a014522ca",
-        "9c50aa5f-e67b-41fb-bf96-08c425076220"
+        "9c50aa5f-e67b-41fb-bf96-08c425076220",
+        "77f6cc15-abe2-4982-9d14-67dd1808ca94"
       ]
     }
   },
