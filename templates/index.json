@@ -37,7 +37,7 @@
           "type": "button_anchor",
           "settings": {
             "button_label": "Learn more",
-            "anchor": "heavys-featured",
+            "anchor": "heavys-info",
             "button_style_secondary": true
           }
         },
@@ -279,7 +279,7 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 20,
-        "scroll_anchor": ""
+        "scroll_anchor": "heavys-info"
       }
     },
     "1822983c-d804-432b-b929-cf75b46b294e": {
