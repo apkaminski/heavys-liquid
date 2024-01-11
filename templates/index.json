@@ -10,19 +10,18 @@
             "text_style": "subtitle"
           }
         },
-        "77f6cc15-abe2-4982-9d14-67dd1808ca94": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<a href=\"\/products\/headphones-case-aux\" target=\"_blank\" title=\"Heavys H1H Headphones Bundle\">'New Year New Gear' Deals<\/a>",
-            "text_style": "body"
-          }
-        },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
             "heading": "Long Weekend Sale - Save $50 Off All Bundles",
             "heading_size": "h1"
+          }
+        },
+        "text_bitp7e": {
+          "type": "text",
+          "settings": {
+            "text": "No Code Needed",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
@@ -57,8 +56,8 @@
       },
       "block_order": [
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
-        "77f6cc15-abe2-4982-9d14-67dd1808ca94",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
+        "text_bitp7e",
         "92710901-502d-46f4-ad7f-15409e0614f2",
         "a031264a-5813-402f-80ac-e07a014522ca",
         "9c50aa5f-e67b-41fb-bf96-08c425076220"
