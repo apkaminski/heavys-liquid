@@ -11,9 +11,9 @@
         "announcement-bar-0": {
           "disabled": false,
           "settings": {
-            "text": "Subscribe and Save $15 Off",
-            "klavyo_mobile_id": "YifBA5",
-            "klavyo_desktop_id": "USr7es"
+            "text": "Subscribe to Save €13 Off",
+            "klavyo_desktop_id": "USr7es",
+            "klavyo_mobile_id": "YifBA5"
           }
         },
         "c661b616-d206-4921-bb07-e52a225a4f84": {
