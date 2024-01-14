@@ -6,7 +6,7 @@
   "sections": {
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "custom_css": [
-        ".banner__text {color: #63d48a;}"
+        ".banner__text {color: #bdbdbd;}"
       ],
       "settings": {
       },
