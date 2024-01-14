@@ -113,9 +113,8 @@
         },
         "3714af50-7b42-4b1a-ad0a-210e26eb9c7c": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<em>Get our Replaceable shells as an Add on or Get the complete Bundle for a new pair of Headphones<\/em>",
+            "text": "<em>Get our Replaceable shells as an Add on or Get the complete Bundle for a new pair of Headphones<\/em>{{ product.metafields.heavys_custom.band.value.customer_ratings | metafield_tag }}",
             "text_style": "body"
           }
         },
