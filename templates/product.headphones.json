@@ -285,8 +285,8 @@
             "icon": "reload",
             "title": "Patent Pending",
             "text": "",
-            "link_label": "Shop Now",
-            "link": "shopify:\/\/products\/headphones-case-aux"
+            "link_label": "Add to Cart",
+            "link": "https:\/\/www.heavys.com\/cart\/add\/40037785272394"
           }
         }
       },
