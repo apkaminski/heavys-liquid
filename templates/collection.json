@@ -221,6 +221,7 @@
     },
     "0dde38c7-efdb-4a95-8d03-ea499ddbc60c": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n<\/img>\n<\/center>",
         "color_scheme": "",
