@@ -282,8 +282,8 @@
             "icon": "reload",
             "title": "Patent Pending",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/products\/headphones-case-aux"
           }
         }
       },
