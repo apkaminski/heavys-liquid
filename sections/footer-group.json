@@ -2,6 +2,15 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "custom_liquid_NtmXKT": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center><a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com?stars=5\" target=\"blank\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\" height=\"30px\"> <\/a>\n<\/img>\n<\/center>",
+        "color_scheme": "background-1",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "bcd3bbac-d671-45e8-9af5-287eefa8e028": {
       "type": "custom-liquid",
       "settings": {
@@ -102,6 +111,7 @@
     }
   },
   "order": [
+    "custom_liquid_NtmXKT",
     "bcd3bbac-d671-45e8-9af5-287eefa8e028",
     "76ffe667-d89c-4967-9e77-454b74fef48b",
     "footer"
