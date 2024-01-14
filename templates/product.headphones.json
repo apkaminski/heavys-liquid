@@ -473,6 +473,16 @@
             "page": "",
             "scroll_anchor": ""
           }
+        },
+        "collapsible_row_qcBcz6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "",
+            "icon": "none",
+            "row_content": "<p><a href=\"https:\/\/www.heavys.com\/cart\/add\/40037785272394\" title=\"https:\/\/www.heavys.com\/cart\/add\/40037785272394\">Add To Cart Now<\/a><\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
         }
       },
       "block_order": [
@@ -490,7 +500,8 @@
         "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b",
         "28c887b6-3d0d-45fb-bbd9-260a24339e8f",
         "0640185d-f352-442b-9b4e-ce6844cc6853",
-        "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3"
+        "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3",
+        "collapsible_row_qcBcz6"
       ],
       "settings": {
         "caption": "",
