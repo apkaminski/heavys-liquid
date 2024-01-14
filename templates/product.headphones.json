@@ -119,9 +119,12 @@
       "block_order": [
         "template--14884059381834__140ffd4e-59cc-42be-82cf-cf3274153e91-heading-1"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "full_width": true,
         "padding_top": 20,
