@@ -114,8 +114,8 @@
         "3714af50-7b42-4b1a-ad0a-210e26eb9c7c": {
           "type": "text",
           "settings": {
-            "text": "<em>Rated  <\/em>{{ product.metafields.heavys_custom.band.value.customer_ratings | metafield_tag }}",
-            "text_style": "body"
+            "text": "<em>Customers Rated This Product 4.7\/5<\/em>",
+            "text_style": "subtitle"
           }
         },
         "variant_picker": {
