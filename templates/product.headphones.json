@@ -46,15 +46,15 @@
             "show_gift_card_recipient": true
           }
         },
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<!-- TrustBox widget - Product Mini -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"54d39695764ea907c0f34825\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"dark\" data-sku=\"Bundle\" data-no-reviews=\"hide\" data-scroll-to-list=\"true\" data-style-alignment=\"left\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
+          }
+        },
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- TrustBox widget - Product Mini -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"54d39695764ea907c0f34825\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"dark\" data-sku=\"Bundle\" data-no-reviews=\"hide\" data-scroll-to-list=\"true\" data-style-alignment=\"center\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
           }
         },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
@@ -73,8 +73,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "description",
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
       ],
       "settings": {
