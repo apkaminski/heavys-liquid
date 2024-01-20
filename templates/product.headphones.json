@@ -473,16 +473,6 @@
             "page": "",
             "scroll_anchor": ""
           }
-        },
-        "collapsible_row_qcBcz6": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "",
-            "icon": "none",
-            "row_content": "<p><a href=\"https:\/\/www.heavys.com\/cart\/add\/40037785272394\" title=\"https:\/\/www.heavys.com\/cart\/add\/40037785272394\">Add To Cart Now<\/a><\/p>",
-            "page": "",
-            "scroll_anchor": ""
-          }
         }
       },
       "block_order": [
@@ -500,8 +490,7 @@
         "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b",
         "28c887b6-3d0d-45fb-bbd9-260a24339e8f",
         "0640185d-f352-442b-9b4e-ce6844cc6853",
-        "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3",
-        "collapsible_row_qcBcz6"
+        "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3"
       ],
       "settings": {
         "caption": "For MetalHeads By MetalHeads",
@@ -512,8 +501,8 @@
         "color_scheme": "background-2",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
-        "footer_button_label": "Button label",
-        "footer_button_link": "shopify:\/\/products\/headphones-case-aux",
+        "footer_button_label": "Add to Cart Now",
+        "footer_button_link": "https:\/\/www.heavys.com\/cart\/add\/40037785272394",
         "padding_top": 80,
         "padding_bottom": 80
       }
