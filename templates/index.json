@@ -254,7 +254,7 @@
             "layout": "vertical",
             "icon_1": "diamond",
             "heading_1": "We Don't Miss Details ",
-            "description_1": "Hell Blocker(TM) noise cancellation, 50 hours of continuous play battery life, 5 microphones, ultra-soft, replaceable earcups, Bluetooth synchs with any phone or device, plus a wired option, custom designs. And yes, ALL music genres will sound great with HEAVYS."
+            "description_1": "Hell Blocker(TM) active noise cancellation, 50 hours of battery life, 5 microphones, transparency mode, ultra-soft replaceable ear-cups, Bluetooth synchs with any phone or device, a wired option, custom designs. And yes, ALL music genres will sound great with HEAVYS."
           }
         }
       },
@@ -494,21 +494,21 @@
     "a259a103-10d9-404b-84c4-de542413e278": {
       "type": "collapsible-content",
       "blocks": {
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What’s in the box?",
-            "icon": "none",
-            "row_content": "<p>With your purchase, of <strong>Heavys Headphones Bundle <\/strong>you will get a tech-packed brand new pair of Heavys H1H black Headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates. Also included in the bundle, is a Premium Travel Case and 1.3 meters (~4.25 ft) Aux Cable.<\/p><p>Our <strong>Heavys Shells Bundle<\/strong> includes everything in the regular bundle + your selected pair of custom designed shells.<\/p><p>If you purchase <strong>Headphones Only<\/strong>, you will get new pair of Heavys H1H black headphones<strong> <\/strong>with a triple-purpose USB-C cable. You can still purchase our 3.5 to 2.5 mm AUX cable or accessories such as a travel case, here: <a href=\"https:\/\/www.heavys.com\/collections\/frontpage\"><span style=\"text-decoration:underline\">https:\/\/www.heavys.com\/collections\/frontpage<\/span><\/a><\/p><p>For a full Overview <a href=\"\/blogs\/testimonials\/heavys-h1h-headphones-product-info\" target=\"_blank\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">visit here<\/a><\/p>",
-            "page": ""
-          }
-        },
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
           "type": "collapsible_row",
           "settings": {
             "heading": "When will my order be shipped and delivered?",
             "icon": "none",
             "row_content": "<p>Good news! Heavys are in stock and ready for immediate shipment! As soon as you place your order, we'll process it swiftly.  <\/p><p>Delivery times vary between countries. Please note import and customs process within your country may delay delivery date<\/p>",
+            "page": ""
+          }
+        },
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s in the box?",
+            "icon": "none",
+            "row_content": "<p>With your purchase, of <strong>Heavys Headphones Bundle <\/strong>you will get a tech-packed brand new pair of Heavys H1H black Headphones. The headphones arrive with a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates. Also included in the bundle, is a Premium Travel Case and 1.3 meters (~4.25 ft) Aux Cable.<\/p><p>Our <strong>Heavys Shells Bundle<\/strong> includes everything in the regular bundle + your selected pair of custom designed shells.<\/p><p>If you purchase <strong>Headphones Only<\/strong>, you will get new pair of Heavys H1H black headphones<strong> <\/strong>with a triple-purpose USB-C cable. You can still purchase our 3.5 to 2.5 mm AUX cable or accessories such as a travel case, here: <a href=\"https:\/\/www.heavys.com\/collections\/frontpage\"><span style=\"text-decoration:underline\">https:\/\/www.heavys.com\/collections\/frontpage<\/span><\/a><\/p><p>For a full Overview <a href=\"\/blogs\/testimonials\/heavys-h1h-headphones-product-info\" target=\"_blank\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">visit here<\/a><\/p>",
             "page": ""
           }
         },
@@ -580,8 +580,8 @@
         }
       },
       "block_order": [
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2",
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2",
         "e63ec509-8cc2-42f8-8422-902902dc18d7",
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
         "9813ee02-ba68-479f-b348-3918c537e656",
