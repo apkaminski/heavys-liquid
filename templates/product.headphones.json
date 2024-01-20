@@ -504,16 +504,16 @@
         "collapsible_row_qcBcz6"
       ],
       "settings": {
-        "caption": "",
+        "caption": "For MetalHeads By MetalHeads",
         "heading": "Heavys <strong>Specification<\/strong>",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "none",
+        "layout": "section",
         "color_scheme": "background-2",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "footer_button_label": "Button label",
-        "footer_button_link": "",
+        "footer_button_link": "shopify:\/\/products\/headphones-case-aux",
         "padding_top": 80,
         "padding_bottom": 80
       }
