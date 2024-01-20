@@ -124,7 +124,7 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "footer_button_label": "Button label",
+        "footer_button_label": "",
         "footer_button_link": "",
         "padding_top": 36,
         "padding_bottom": 36,
