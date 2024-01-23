@@ -51,8 +51,15 @@
           "settings": {
           }
         },
+        "custom_liquid_7DbLHT": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- TrustBox widget - Micro Combo -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6ffb0d04a076446a9af\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"20px\" data-style-width=\"100%\" data-theme=\"dark\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com?stars=5\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
+          }
+        },
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<!-- TrustBox widget - Product Mini -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"54d39695764ea907c0f34825\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"dark\" data-sku=\"Bundle\" data-no-reviews=\"hide\" data-scroll-to-list=\"true\" data-style-alignment=\"center\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
           }
@@ -74,6 +81,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "custom_liquid_7DbLHT",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
       ],
