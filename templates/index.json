@@ -283,27 +283,6 @@
         "scroll_anchor": "heavys-info"
       }
     },
-    "video": {
-      "type": "video",
-      "custom_css": [
-        "h2 {text-align: center;}",
-        "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
-      ],
-      "settings": {
-        "heading": "Engineered by Legend Axel Grell",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
-        "autoplay": false,
-        "video_url": "",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "inverse",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "scroll_anchor": "axelvid"
-      }
-    },
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f": {
       "type": "custom-liquid",
       "custom_css": [
@@ -474,6 +453,27 @@
         "padding_bottom": 36
       }
     },
+    "video": {
+      "type": "video",
+      "custom_css": [
+        "h2 {text-align: center;}",
+        "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
+      ],
+      "settings": {
+        "heading": "Engineered by Legend Axel Grell",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
+        "autoplay": false,
+        "video_url": "",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "inverse",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "scroll_anchor": "axelvid"
+      }
+    },
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
       "type": "featured-blog",
       "settings": {
@@ -615,11 +615,11 @@
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "d8162b2b-efc2-4ce5-ab3f-2e696a3b1e4e",
     "afe8820a-9e66-4dc8-9751-860686858282",
-    "video",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
     "featured_collection",
+    "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278"
   ]
