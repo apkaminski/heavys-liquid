@@ -34,13 +34,18 @@
       "settings": {
       },
       "blocks": {
+        "text_bitp7e": {
+          "settings": {
+            "text_style": "subtitle"
+          }
+        }
       },
       "block_order": [
         "9c50aa5f-e67b-41fb-bf96-08c425076220",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
-        "92710901-502d-46f4-ad7f-15409e0614f2",
         "text_bitp7e",
+        "92710901-502d-46f4-ad7f-15409e0614f2",
         "a031264a-5813-402f-80ac-e07a014522ca"
       ]
     }
