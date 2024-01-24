@@ -6,7 +6,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "<em>“These headphones are incredible and have changed the way I listen to music” - Josh M.<\/em>",
+            "text": "<strong>Experience Metal Like Never Before<\/strong>",
             "text_style": "subtitle"
           }
         },
@@ -63,7 +63,7 @@
         "9c50aa5f-e67b-41fb-bf96-08c425076220"
       ],
       "custom_css": [
-        ".banner__text {color: #bdbdbd;}"
+
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner.jpg",
