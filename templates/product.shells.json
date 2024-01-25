@@ -86,13 +86,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "3714af50-7b42-4b1a-ad0a-210e26eb9c7c": {
-          "type": "text",
-          "settings": {
-            "text": "<em>Recent Customers Rated This Product 4.8\/5<\/em>",
-            "text_style": "body"
-          }
-        },
         "vendor": {
           "type": "text",
           "disabled": true,
@@ -153,7 +146,6 @@
         }
       },
       "block_order": [
-        "3714af50-7b42-4b1a-ad0a-210e26eb9c7c",
         "vendor",
         "title",
         "price",
