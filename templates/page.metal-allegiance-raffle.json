@@ -21,7 +21,7 @@
     "custom_liquid_yxJbXE": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center<<iframe src=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScJgzTxF-628FpKOqRIadEWnb3cWy-0e10Qn-dPaTuLxrFEiQ\/viewform?embedded=true\" width=\"440\" height=\"1073\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…<\/iframe><\/center>",
+        "custom_liquid": "<center><iframe src=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScJgzTxF-628FpKOqRIadEWnb3cWy-0e10Qn-dPaTuLxrFEiQ\/viewform?embedded=true\" width=\"440\" height=\"1073\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…<\/iframe><\/center>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
