@@ -5,6 +5,7 @@
       "blocks": {
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>EXPERIENCE METAL THE WAY ITS MEANT TO BE HEARD<\/strong>",
             "text_style": "caption-with-letter-spacing"
@@ -13,8 +14,8 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Engineered For Heavy Metal",
-            "heading_size": "h1"
+            "heading": "<strong>EXPERIENCE METAL THE WAY ITS MEANT TO BE HEARD<\/strong>",
+            "heading_size": "h2"
           }
         },
         "text_bitp7e": {
