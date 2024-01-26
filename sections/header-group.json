@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Subscribe to Save $25 Off",
             "behaviour_type": "klavyo_popup",
@@ -17,11 +18,10 @@
         },
         "c661b616-d206-4921-bb07-e52a225a4f84": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "",
+            "text": "$80 OFF Heavys Headphones - Shop Now!",
             "behaviour_type": "link",
-            "link": "",
+            "link": "shopify:\/\/products\/headphones-case-aux",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -31,7 +31,6 @@
         "announcement-bar-0",
         "c661b616-d206-4921-bb07-e52a225a4f84"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "background-2",
         "show_line_separator": false,
