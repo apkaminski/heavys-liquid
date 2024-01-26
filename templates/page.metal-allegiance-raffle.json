@@ -8,6 +8,50 @@
         "padding_bottom": 20
       }
     },
+    "rich_text_V38DL7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Pedipr": {
+          "type": "heading",
+          "settings": {
+            "heading": "NAMM RAFFLE",
+            "heading_size": "h2"
+          }
+        },
+        "text_tf9wY7": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_tDyeyn": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Pedipr",
+        "text_tf9wY7",
+        "button_tDyeyn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "06ef57f8-5ae4-4f8a-a03a-f7f56d9b49a3": {
       "type": "custom-liquid",
       "settings": {
@@ -59,6 +103,7 @@
   },
   "order": [
     "main",
+    "rich_text_V38DL7",
     "06ef57f8-5ae4-4f8a-a03a-f7f56d9b49a3",
     "custom_liquid_yxJbXE",
     "featured_collection_w3JRL3"
