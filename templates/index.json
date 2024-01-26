@@ -6,14 +6,14 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "<strong>METAL IS LOVE<\/strong>",
+            "text": "METAL IS LOVE",
             "text_style": "body"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Get $80 OFF on All HEAVYS Headphones<\/strong>",
+            "heading": "Get $80 OFF on All HEAVYS Headphones",
             "heading_size": "h0"
           }
         },
@@ -21,7 +21,7 @@
           "type": "text",
           "settings": {
             "text": "NO CODE NEEDED",
-            "text_style": "caption-with-letter-spacing"
+            "text_style": "body"
           }
         },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
