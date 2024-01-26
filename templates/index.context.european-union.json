@@ -5,15 +5,18 @@
   },
   "sections": {
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
-      "custom_css": [
-        ".banner__text:first-child {color: #63d48a;}"
-      ],
       "settings": {
       },
       "blocks": {
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "settings": {
-            "heading": "Exeprience Metal The Way It's Meant To Be Heard"
+            "heading": "HEAVYS Headphones for Only €299 Today!",
+            "heading_size": "h0"
+          }
+        },
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
+          "settings": {
+            "text": "LIMITED OFFER"
           }
         }
       }
