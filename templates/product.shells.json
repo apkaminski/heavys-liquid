@@ -107,7 +107,7 @@
         "inventory_TmbFB6": {
           "type": "inventory",
           "settings": {
-            "text_style": "body",
+            "text_style": "uppercase",
             "inventory_threshold": 100,
             "show_inventory_quantity": true
           }
