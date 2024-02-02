@@ -104,6 +104,14 @@
           "settings": {
           }
         },
+        "inventory_TmbFB6": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true
+          }
+        },
         "caption": {
           "type": "text",
           "disabled": true,
@@ -143,26 +151,18 @@
             "image_ratio": "portrait",
             "enable_quick_add": true
           }
-        },
-        "inventory_TmbFB6": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 100,
-            "show_inventory_quantity": true
-          }
         }
       },
       "block_order": [
         "vendor",
         "title",
         "price",
+        "inventory_TmbFB6",
         "caption",
         "variant_picker",
         "buy_buttons",
         "description",
-        "3c23034f-010d-42d2-9612-934582f53664",
-        "inventory_TmbFB6"
+        "3c23034f-010d-42d2-9612-934582f53664"
       ],
       "settings": {
         "color_scheme": "inverse",
