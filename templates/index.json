@@ -111,13 +111,6 @@
           "settings": {
           }
         },
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-3": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button"
-          }
-        },
         "7560db2d-df1e-46d3-89e5-e5fb2faab6e4": {
           "type": "custom_liquid",
           "disabled": true,
@@ -136,13 +129,6 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
-          }
-        },
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-6": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
           }
         },
         "b51b00a5-07c0-4cc6-91bb-a27b9b386d49": {
@@ -174,11 +160,9 @@
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-1",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-2",
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-3",
         "7560db2d-df1e-46d3-89e5-e5fb2faab6e4",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-4",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5",
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-6",
         "b51b00a5-07c0-4cc6-91bb-a27b9b386d49",
         "0a1dc52c-9f16-4aff-8138-1f799065fc86"
       ],
