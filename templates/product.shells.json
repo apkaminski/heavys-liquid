@@ -132,6 +132,7 @@
         },
         "3c23034f-010d-42d2-9612-934582f53664": {
           "type": "complementary",
+          "disabled": true,
           "settings": {
             "block_heading": "Bundle your Shells with headphones",
             "make_collapsible_row": true,
