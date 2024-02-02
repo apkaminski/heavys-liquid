@@ -27,18 +27,18 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
         "inventory_xfpLti": {
           "type": "inventory",
           "settings": {
             "text_style": "uppercase",
             "inventory_threshold": 100,
             "show_inventory_quantity": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
           }
         },
         "quantity_selector": {
@@ -79,8 +79,8 @@
         "title",
         "caption",
         "price",
-        "variant_picker",
         "inventory_xfpLti",
+        "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
