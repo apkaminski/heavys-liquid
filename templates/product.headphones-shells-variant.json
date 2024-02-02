@@ -79,8 +79,8 @@
             "make_collapsible_row": true,
             "icon": "lightning_bolt",
             "product_list_limit": 6,
-            "products_per_page": 4,
-            "pagination_style": "counter",
+            "products_per_page": 2,
+            "pagination_style": "dots",
             "image_ratio": "square",
             "enable_quick_add": true
           }
