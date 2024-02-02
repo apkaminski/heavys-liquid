@@ -64,6 +64,19 @@
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special<\/h1>\n<\/body>\n<\/html>"
           }
+        },
+        "complementary_z4cWLg": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Personalize with Shells",
+            "make_collapsible_row": true,
+            "icon": "lightning_bolt",
+            "product_list_limit": 6,
+            "products_per_page": 2,
+            "pagination_style": "dots",
+            "image_ratio": "portrait",
+            "enable_quick_add": true
+          }
         }
       },
       "block_order": [
@@ -76,7 +89,8 @@
         "description",
         "custom_liquid_7DbLHT",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
+        "complementary_z4cWLg"
       ],
       "settings": {
         "color_scheme": "inverse",
