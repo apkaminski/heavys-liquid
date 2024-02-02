@@ -221,149 +221,6 @@
         "scroll_anchor": ""
       }
     },
-    "696a1674-357d-4c14-9c51-dd1df6898605": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Enhance Your Listening Experience Inside & Out",
-        "heading_size": "h2",
-        "description": "<p>'Mix & Match' as many Shells Designs as you want<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "shells",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "3bc6e762-d1fe-466d-b7f0-232eab03d17d": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0": {
-          "type": "column",
-          "settings": {
-            "icon": "bluetooth",
-            "title": "Bluetooth 5.1",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1": {
-          "type": "column",
-          "settings": {
-            "icon": "branch",
-            "title": "USB-C for charging",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2": {
-          "type": "column",
-          "settings": {
-            "icon": "mic",
-            "title": "Built-in Microphone",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "25ebce84-0801-436c-ac34-74ace415f590": {
-          "type": "column",
-          "settings": {
-            "icon": "disc",
-            "title": "Endless Truck Wheel",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "9a8acc7b-e800-4375-babb-b1db42f5ecb1": {
-          "type": "column",
-          "settings": {
-            "icon": "barcode",
-            "title": "50 hours play time",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "65b42d82-acc4-41e8-aa6b-9a65cf151134": {
-          "type": "column",
-          "settings": {
-            "icon": "headset",
-            "title": "Japanese SteelFlexible Headband",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "8041cf07-1630-4520-9b8c-916dc33762d7": {
-          "type": "column",
-          "settings": {
-            "icon": "build",
-            "title": "Engineered in Germany",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "a98f09b9-f13e-43fe-8e23-76fa02548618": {
-          "type": "column",
-          "settings": {
-            "icon": "reload",
-            "title": "Patent Pending",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0",
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1",
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2",
-        "25ebce84-0801-436c-ac34-74ace415f590",
-        "9a8acc7b-e800-4375-babb-b1db42f5ecb1",
-        "65b42d82-acc4-41e8-aa6b-9a65cf151134",
-        "8041cf07-1630-4520-9b8c-916dc33762d7",
-        "a98f09b9-f13e-43fe-8e23-76fa02548618"
-      ],
-      "custom_css": [
-        "h2 {margin: 0 auto 2rem auto;}"
-      ],
-      "settings": {
-        "title": "The Best Fe<strong>atures<\/strong>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "scroll_anchor": ""
-      }
-    },
     "9ee22153-1421-49ae-ae56-fe473b7fbe10": {
       "type": "table",
       "blocks": {
@@ -550,6 +407,132 @@
         "padding_bottom": 80
       }
     },
+    "3bc6e762-d1fe-466d-b7f0-232eab03d17d": {
+      "type": "multicolumn",
+      "blocks": {
+        "9a8acc7b-e800-4375-babb-b1db42f5ecb1": {
+          "type": "column",
+          "settings": {
+            "icon": "barcode",
+            "title": "50 hours play time",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0": {
+          "type": "column",
+          "settings": {
+            "icon": "bluetooth",
+            "title": "Bluetooth 5.1",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1": {
+          "type": "column",
+          "settings": {
+            "icon": "branch",
+            "title": "USB-C for charging",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a98f09b9-f13e-43fe-8e23-76fa02548618": {
+          "type": "column",
+          "settings": {
+            "icon": "lightning_bolt",
+            "title": "Active Noise Cancellation",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2": {
+          "type": "column",
+          "settings": {
+            "icon": "mic",
+            "title": "5 Built-in Microphones",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_drjTi9": {
+          "type": "column",
+          "settings": {
+            "icon": "radio",
+            "title": "Transparency Mode",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8041cf07-1630-4520-9b8c-916dc33762d7": {
+          "type": "column",
+          "settings": {
+            "icon": "build",
+            "title": "Engineered in Germany",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "65b42d82-acc4-41e8-aa6b-9a65cf151134": {
+          "type": "column",
+          "settings": {
+            "icon": "headset",
+            "title": "SteelFlexible Headband",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "25ebce84-0801-436c-ac34-74ace415f590": {
+          "type": "column",
+          "settings": {
+            "icon": "disc",
+            "title": "Real Volume Wheel",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "9a8acc7b-e800-4375-babb-b1db42f5ecb1",
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0",
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1",
+        "a98f09b9-f13e-43fe-8e23-76fa02548618",
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2",
+        "column_drjTi9",
+        "8041cf07-1630-4520-9b8c-916dc33762d7",
+        "65b42d82-acc4-41e8-aa6b-9a65cf151134",
+        "25ebce84-0801-436c-ac34-74ace415f590"
+      ],
+      "custom_css": [
+        "h2 {margin: 0 auto 2rem auto;}"
+      ],
+      "settings": {
+        "title": "The Best Fe<strong>atures<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "scroll_anchor": ""
+      }
+    },
     "16f898dd-b420-419f-a03d-a8d3092e6811": {
       "type": "video",
       "custom_css": [
@@ -569,6 +552,34 @@
         "padding_top": 40,
         "padding_bottom": 40,
         "scroll_anchor": ""
+      }
+    },
+    "696a1674-357d-4c14-9c51-dd1df6898605": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Enhance Your Listening Experience Inside & Out",
+        "heading_size": "h2",
+        "description": "<p>'Mix & Match' as many Shells Designs as you want<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shells",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "89a118c0-27aa-4e50-a67f-aca584e69125": {
@@ -657,10 +668,10 @@
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
-    "696a1674-357d-4c14-9c51-dd1df6898605",
-    "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
+    "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "16f898dd-b420-419f-a03d-a8d3092e6811",
+    "696a1674-357d-4c14-9c51-dd1df6898605",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products"
   ]
