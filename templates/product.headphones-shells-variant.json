@@ -30,6 +30,7 @@
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "dropdown"
           }
@@ -74,14 +75,14 @@
         "complementary_yPQxbc": {
           "type": "complementary",
           "settings": {
-            "block_heading": "Pairs well with",
-            "make_collapsible_row": false,
-            "icon": "price_tag",
+            "block_heading": "Upgrade to Headphones + Shells Bundle",
+            "make_collapsible_row": true,
+            "icon": "lightning_bolt",
             "product_list_limit": 6,
             "products_per_page": 2,
             "pagination_style": "counter",
             "image_ratio": "square",
-            "enable_quick_add": false
+            "enable_quick_add": true
           }
         }
       },
