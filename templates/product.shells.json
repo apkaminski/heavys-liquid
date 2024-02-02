@@ -132,12 +132,11 @@
         },
         "3c23034f-010d-42d2-9612-934582f53664": {
           "type": "complementary",
-          "disabled": true,
           "settings": {
             "block_heading": "Bundle your Shells with headphones",
             "make_collapsible_row": true,
             "icon": "price_tag",
-            "product_list_limit": 3,
+            "product_list_limit": 2,
             "products_per_page": 2,
             "pagination_style": "counter",
             "image_ratio": "portrait",
