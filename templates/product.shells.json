@@ -275,7 +275,7 @@
         "0013955e-afe9-424b-9c91-bf7988f0704f": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>\"<\/strong><\/em><em> <\/em><em>{{ product.metafields.heavys_custom.band.value.band_description.value }}<\/em><em> <\/em><em><strong>\"<\/strong><\/em><\/p>"
+            "text": "<p><em>{{ product.metafields.heavys_custom.band.value.band_description.value }}<\/em><\/p>"
           }
         },
         "94d76b70-4141-496c-b683-487490dcb35e": {
