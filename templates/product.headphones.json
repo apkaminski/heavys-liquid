@@ -205,6 +205,7 @@
         },
         "25ebce84-0801-436c-ac34-74ace415f590": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "icon": "disc",
             "title": "Real Volume Wheel",
@@ -229,7 +230,7 @@
         "h2 {margin: 0 auto 2rem auto;}"
       ],
       "settings": {
-        "title": "Equipped With",
+        "title": "The Best Features",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
