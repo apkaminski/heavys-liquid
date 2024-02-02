@@ -104,14 +104,6 @@
           "settings": {
           }
         },
-        "inventory_TmbFB6": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "uppercase",
-            "inventory_threshold": 100,
-            "show_inventory_quantity": true
-          }
-        },
         "caption": {
           "type": "text",
           "disabled": true,
@@ -138,6 +130,14 @@
           "settings": {
           }
         },
+        "inventory_TmbFB6": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "uppercase",
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true
+          }
+        },
         "3c23034f-010d-42d2-9612-934582f53664": {
           "type": "complementary",
           "disabled": true,
@@ -157,11 +157,11 @@
         "vendor",
         "title",
         "price",
-        "inventory_TmbFB6",
         "caption",
         "variant_picker",
         "buy_buttons",
         "description",
+        "inventory_TmbFB6",
         "3c23034f-010d-42d2-9612-934582f53664"
       ],
       "settings": {
