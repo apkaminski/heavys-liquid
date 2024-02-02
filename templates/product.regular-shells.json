@@ -36,9 +36,9 @@
         "inventory_xfpLti": {
           "type": "inventory",
           "settings": {
-            "text_style": "body",
+            "text_style": "uppercase",
             "inventory_threshold": 100,
-            "show_inventory_quantity": true
+            "show_inventory_quantity": false
           }
         },
         "quantity_selector": {
