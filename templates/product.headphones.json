@@ -68,7 +68,7 @@
         "complementary_z4cWLg": {
           "type": "complementary",
           "settings": {
-            "block_heading": "Personalize with Shells",
+            "block_heading": "Personalize with Custom Shells",
             "make_collapsible_row": true,
             "icon": "lightning_bolt",
             "product_list_limit": 6,
