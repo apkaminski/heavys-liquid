@@ -86,14 +86,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "inventory_TmbFB6": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "uppercase",
-            "inventory_threshold": 100,
-            "show_inventory_quantity": true
-          }
-        },
         "vendor": {
           "type": "text",
           "disabled": true,
@@ -160,7 +152,6 @@
         }
       },
       "block_order": [
-        "inventory_TmbFB6",
         "vendor",
         "title",
         "price",
