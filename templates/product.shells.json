@@ -86,6 +86,14 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "inventory_TmbFB6": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "uppercase",
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true
+          }
+        },
         "vendor": {
           "type": "text",
           "disabled": true,
@@ -149,17 +157,10 @@
             "image_ratio": "portrait",
             "enable_quick_add": true
           }
-        },
-        "inventory_TmbFB6": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "uppercase",
-            "inventory_threshold": 100,
-            "show_inventory_quantity": true
-          }
         }
       },
       "block_order": [
+        "inventory_TmbFB6",
         "vendor",
         "title",
         "price",
@@ -168,8 +169,7 @@
         "buy_buttons",
         "description",
         "custom_liquid_6txmL4",
-        "3c23034f-010d-42d2-9612-934582f53664",
-        "inventory_TmbFB6"
+        "3c23034f-010d-42d2-9612-934582f53664"
       ],
       "settings": {
         "color_scheme": "inverse",
