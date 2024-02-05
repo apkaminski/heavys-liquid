@@ -610,15 +610,15 @@
             "image": "shopify:\/\/shop_images\/Trustpilot_ratings_4halfstar-RGB-256x48.png",
             "title": "",
             "label": "",
-            "text": "<h4>“No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great”.                        - David Sandate<\/h4>"
+            "text": "<h4><em>“No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great”.                        - David Sandate<\/em><\/h4>"
           }
         },
         "column_V9Niaz": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "",
             "label": "",
-            "text": "<h4><strong>“Heavy AF<\/strong> The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘”<\/h4>"
+            "text": "<h4><em><strong>“Heavy AF<\/strong><\/em><em> The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘”<\/em><\/h4>"
           }
         }
       },
