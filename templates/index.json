@@ -207,6 +207,41 @@
         "padding_bottom": 40
       }
     },
+    "rich_text_dpckBJ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9DfqE6": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em><\/h2>"
+          }
+        },
+        "button_zAqwEW": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_9DfqE6",
+        "button_zAqwEW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
     "afe8820a-9e66-4dc8-9751-860686858282": {
       "type": "image-with-text",
       "blocks": {
@@ -670,6 +705,7 @@
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "d8162b2b-efc2-4ce5-ab3f-2e696a3b1e4e",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
+    "rich_text_dpckBJ",
     "afe8820a-9e66-4dc8-9751-860686858282",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
