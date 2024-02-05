@@ -595,20 +595,28 @@
     "testimonial_grid_4EYENU": {
       "type": "testimonial-grid",
       "blocks": {
+        "column_tE6AWx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em>\"These New Wireless Headphones Are Designed with HEavy Metal Fans In Mind\" - FORBES<\/em><\/p>"
+          }
+        },
+        "column_ebDWcw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p>“Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to” - Christian Rodriguez<\/p>"
+          }
+        },
         "column_yptKyF": {
           "type": "column",
           "settings": {
             "title": "",
             "label": "",
-            "text": "<h5><em><strong>“These headphones are incredible and have changed the way I listen to music”  - Josh Mann<\/strong><\/em><\/h5>"
-          }
-        },
-        "column_94rxY4": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<h4><em>“No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great”.                        - David Sandate<\/em><\/h4>"
+            "text": "<p><em>“These headphones are incredible and have changed the way I listen to music”  - Josh Mann<\/em><\/p>"
           }
         },
         "column_V9Niaz": {
@@ -616,22 +624,40 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<h5><em>“Heavy AF The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘”<\/em><\/h5>"
+            "text": "<p><em>“Heavy AF The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘” - <\/em>Levi Yockey<\/p>"
+          }
+        },
+        "column_PQNGkU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em>“Best pair of headphones I’ve ever owned” -  Mayon A.<\/em><\/p>"
+          }
+        },
+        "column_94rxY4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em>“No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great”.                        - David Sandate<\/em><\/p>"
           }
         }
       },
       "block_order": [
+        "column_tE6AWx",
+        "column_ebDWcw",
         "column_yptKyF",
-        "column_94rxY4",
-        "column_V9Niaz"
+        "column_V9Niaz",
+        "column_PQNGkU",
+        "column_94rxY4"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36,
         "scroll_anchor": ""
