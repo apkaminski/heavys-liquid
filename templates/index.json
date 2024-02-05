@@ -598,10 +598,18 @@
         "column_yptKyF": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Trustpilot_ratings_4halfstar-RGB-128x24.png",
+            "image": "shopify:\/\/shop_images\/Trustpilot_ratings_4halfstar-RGB-256x48.png",
             "title": "",
             "label": "",
             "text": "<h4><em><strong>“These headphones are incredible and have changed the way I listen to music”  - Josh Mann<\/strong><\/em><\/h4>"
+          }
+        },
+        "column_6dRXR9": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "label": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "column_94rxY4": {
@@ -624,6 +632,7 @@
       },
       "block_order": [
         "column_yptKyF",
+        "column_6dRXR9",
         "column_94rxY4",
         "column_V9Niaz"
       ],
