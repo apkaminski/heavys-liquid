@@ -591,6 +591,52 @@
         "padding_bottom": 60,
         "scroll_anchor": ""
       }
+    },
+    "testimonial_grid_4EYENU": {
+      "type": "testimonial-grid",
+      "blocks": {
+        "column_yptKyF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Trustpilot_ratings_4halfstar-RGB-128x24.png",
+            "title": "",
+            "label": "",
+            "text": "<h3><em><strong>“These headphones are incredible and have changed the way I listen to music”  - Josh Mann<\/strong><\/em><\/h3>"
+          }
+        },
+        "column_94rxY4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Trustpilot_ratings_4halfstar-RGB-256x48.png",
+            "title": "",
+            "label": "",
+            "text": "<h3>“No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great”.                        - David Sandate<\/h3>"
+          }
+        },
+        "column_V9Niaz": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "label": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_yptKyF",
+        "column_94rxY4",
+        "column_V9Niaz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
     }
   },
   "order": [
@@ -605,6 +651,7 @@
     "featured_collection",
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
-    "a259a103-10d9-404b-84c4-de542413e278"
+    "a259a103-10d9-404b-84c4-de542413e278",
+    "testimonial_grid_4EYENU"
   ]
 }
