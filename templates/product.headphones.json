@@ -177,7 +177,7 @@
           "type": "column",
           "settings": {
             "icon": "radio",
-            "title": "Transparency Mode",
+            "title": "Transparent Mode",
             "text": "",
             "link_label": "",
             "link": ""
