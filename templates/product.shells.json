@@ -149,13 +149,6 @@
             "image_ratio": "portrait",
             "enable_quick_add": true
           }
-        },
-        "popup_KLLBCX": {
-          "type": "popup",
-          "settings": {
-            "text": "How to Replace Shels",
-            "page": "how-do-i-replace-the-shells"
-          }
         }
       },
       "block_order": [
@@ -167,8 +160,7 @@
         "buy_buttons",
         "description",
         "custom_liquid_6txmL4",
-        "3c23034f-010d-42d2-9612-934582f53664",
-        "popup_KLLBCX"
+        "3c23034f-010d-42d2-9612-934582f53664"
       ],
       "settings": {
         "color_scheme": "inverse",
