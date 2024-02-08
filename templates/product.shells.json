@@ -135,20 +135,6 @@
           "settings": {
             "custom_liquid": "<center><img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-02-03_at_13.25.47.png?v=1706959584 width=\"300px\"><\/img><\/center>"
           }
-        },
-        "3c23034f-010d-42d2-9612-934582f53664": {
-          "type": "complementary",
-          "disabled": true,
-          "settings": {
-            "block_heading": "Bundle your Shells with headphones",
-            "make_collapsible_row": true,
-            "icon": "price_tag",
-            "product_list_limit": 2,
-            "products_per_page": 2,
-            "pagination_style": "counter",
-            "image_ratio": "portrait",
-            "enable_quick_add": true
-          }
         }
       },
       "block_order": [
@@ -159,8 +145,7 @@
         "variant_picker",
         "buy_buttons",
         "description",
-        "custom_liquid_6txmL4",
-        "3c23034f-010d-42d2-9612-934582f53664"
+        "custom_liquid_6txmL4"
       ],
       "settings": {
         "color_scheme": "inverse",
