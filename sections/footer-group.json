@@ -88,13 +88,22 @@
             "heading": "CONTACT",
             "subtext": "<p><a href=\"\/pages\/faqs\" title=\"FAQs\">FAQ<\/a><\/p><p><a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a><\/p><p><a href=\"mailto:support@heavys.com\" title=\"mailto:support@heavys.com\">support@heavys.com<\/a><\/p><p><a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">Signup for Special Offers<\/a><\/p><p><\/p>"
           }
+        },
+        "image_et7kfa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Trustpilot_ratings_4halfstar-RGB-128x24_74a52060-c1a7-45d6-b558-42e40da7421a.png",
+            "image_width": 105,
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
         "b6964a98-04cb-41e2-911f-33e4af2d5502",
-        "caae6918-beaf-4033-a5de-7bb680a2f7d9"
+        "caae6918-beaf-4033-a5de-7bb680a2f7d9",
+        "image_et7kfa"
       ],
       "settings": {
         "color_scheme": "inverse",

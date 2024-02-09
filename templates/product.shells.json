@@ -185,6 +185,77 @@
         "padding_bottom": 40
       }
     },
+    "243990a3-4122-461a-b6d3-04139fdb26fc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How HEAVYS Shells™ work?",
+            "heading_size": "h2"
+          }
+        },
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Collect <strong>Shells<\/strong> to style & personalize your Heavys Headphones<\/p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps;<\/p><p>Detach -&gt; Attach New -&gt; Headbang<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "button_link": "#buy"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-0",
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1",
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shellshowto.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "scroll_anchor": ""
+      }
+    },
+    "rich_text_ijPtUA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rj3DrC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rj3DrC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "e3ca781b-9d44-4c07-909d-7da66958b19c": {
       "type": "multicolumn",
       "blocks": {
@@ -248,14 +319,6 @@
     "e836ee92-247c-4b1b-a750-8b108bc417dd": {
       "type": "rich-text",
       "blocks": {
-        "4dd55ba9-3276-48c6-bc11-2981b4a549bc": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
         "0013955e-afe9-424b-9c91-bf7988f0704f": {
           "type": "text",
           "settings": {
@@ -275,7 +338,6 @@
         }
       },
       "block_order": [
-        "4dd55ba9-3276-48c6-bc11-2981b4a549bc",
         "0013955e-afe9-424b-9c91-bf7988f0704f",
         "94d76b70-4141-496c-b683-487490dcb35e"
       ],
@@ -286,77 +348,6 @@
         "full_width": true,
         "padding_top": 12,
         "padding_bottom": 16
-      }
-    },
-    "rich_text_ijPtUA": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_rj3DrC": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em>",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rj3DrC"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "243990a3-4122-461a-b6d3-04139fdb26fc": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "How HEAVYS Shells™ work?",
-            "heading_size": "h2"
-          }
-        },
-        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Collect <strong>Shells<\/strong> to style & personalize your Heavys Headphones<\/p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps;<\/p><p>1. Detach the current shells<br\/>2. Attach the new shells<br\/>3. Headbang<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
-            "button_link": "#buy"
-          }
-        }
-      },
-      "block_order": [
-        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-0",
-        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1",
-        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/shellshowto.png",
-        "enable_video_looping": false,
-        "autoplay": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "scroll_anchor": ""
       }
     },
     "9df63e1f-45c9-48f7-a296-1f017f30a212": {
@@ -498,10 +489,10 @@
     "main",
     "d56df3ea-0917-4b74-8f1b-60fa2a51a86f",
     "60421194-02d3-4142-a101-cab229136e5b",
+    "243990a3-4122-461a-b6d3-04139fdb26fc",
+    "rich_text_ijPtUA",
     "e3ca781b-9d44-4c07-909d-7da66958b19c",
     "e836ee92-247c-4b1b-a750-8b108bc417dd",
-    "rich_text_ijPtUA",
-    "243990a3-4122-461a-b6d3-04139fdb26fc",
     "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
     "463cf269-3e55-4128-838b-822482a855bf",
