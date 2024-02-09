@@ -18,6 +18,7 @@
         },
         "c661b616-d206-4921-bb07-e52a225a4f84": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "$80 OFF Heavys Headphones - Shop Now!",
             "behaviour_type": "link",
