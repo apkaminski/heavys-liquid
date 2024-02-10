@@ -8,15 +8,15 @@
       "settings": {
       },
       "blocks": {
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
+          "settings": {
+            "text": "LIMITED OFFER"
+          }
+        },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "settings": {
             "heading": "HEAVYS Headphones for Only €299 Today!",
             "heading_size": "h0"
-          }
-        },
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
-          "settings": {
-            "text": "LIMITED OFFER"
           }
         }
       }
@@ -49,6 +49,7 @@
     "video",
     "featured_collection",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
-    "a259a103-10d9-404b-84c4-de542413e278"
+    "a259a103-10d9-404b-84c4-de542413e278",
+    "testimonial_grid_4EYENU"
   ]
 }
