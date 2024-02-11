@@ -512,15 +512,6 @@
     "a259a103-10d9-404b-84c4-de542413e278": {
       "type": "collapsible-content",
       "blocks": {
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "When will my order be shipped",
-            "icon": "none",
-            "row_content": "<p>Heavys are in stock and will ship immediately upon ordering!<\/p><p>Delivery times vary between countries and are presented during checkout<\/p><p>Standard and Express Shipping options are available<\/p>",
-            "page": ""
-          }
-        },
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2": {
           "type": "collapsible_row",
           "settings": {
@@ -535,7 +526,7 @@
           "settings": {
             "heading": "Does shipping costs cover local taxes and fees?",
             "icon": "none",
-            "row_content": "<p>For taxes, every country has its own taxes and procedures. You are responsible for paying any taxes or specific country duties, if applicable, in your country or state as with any other consumer electronic goods ordered online.<\/p>",
+            "row_content": "<p>Every country has its own taxes and procedures. We include tax and VAT in your order. In rare cases, specific country duties, if applicable, will need to be reconciled directly as with any other consumer electronic goods ordered online.<\/p>",
             "page": ""
           }
         },
@@ -563,6 +554,15 @@
             "heading": "Will there be a Heavys mobile app?",
             "icon": "none",
             "row_content": "<p>Certainly, we are currently developing an app that will include firmware updates and enable the management of specific headphone features and incorporate some exciting new advancements in the near future. The app will launch in the first quarter of 2024.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When will my order be shipped",
+            "icon": "none",
+            "row_content": "<p>Heavys are in stock and will ship immediately upon ordering!<\/p><p>Delivery times vary between countries and are presented during checkout<\/p><p>Standard and Express Shipping options are available<\/p>",
             "page": ""
           }
         },
@@ -598,12 +598,12 @@
         }
       },
       "block_order": [
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-2",
         "e63ec509-8cc2-42f8-8422-902902dc18d7",
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
         "9813ee02-ba68-479f-b348-3918c537e656",
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
         "0f05d56b-11bf-41b5-b2a5-faedc288b8a4",
         "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
         "f983dcff-ff20-43c4-8c52-596455709ebd"
