@@ -645,12 +645,12 @@
             "text": "<p><em><strong>“ <\/strong><\/em><em>Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to <\/em><em><strong>”<\/strong><\/em><em> - Christian Rodriguez<\/em><\/p>"
           }
         },
-        "column_yptKyF": {
+        "column_PQNGkU": {
           "type": "column",
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>These headphones are incredible and have changed the way I listen to music <\/em><em><strong>”<\/strong><\/em><em>  - Josh Mann<\/em><\/p>"
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> -  Mayon A.<\/em><\/p>"
           }
         },
         "column_V9Niaz": {
@@ -669,22 +669,22 @@
             "text": "<p><em><strong>“ <\/strong><\/em><em>No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great <\/em><em><strong>”<\/strong><\/em><em>                        - David Sandate<\/em><\/p>"
           }
         },
-        "column_PQNGkU": {
+        "column_yptKyF": {
           "type": "column",
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> -  Mayon A.<\/em><\/p>"
+            "text": "<p><em><strong>“ <\/strong><\/em><em>These headphones are incredible and have changed the way I listen to music <\/em><em><strong>”<\/strong><\/em><em>  - Josh Mann<\/em><\/p>"
           }
         }
       },
       "block_order": [
         "column_tE6AWx",
         "column_ebDWcw",
-        "column_yptKyF",
+        "column_PQNGkU",
         "column_V9Niaz",
         "column_94rxY4",
-        "column_PQNGkU"
+        "column_yptKyF"
       ],
       "settings": {
         "title": "",
