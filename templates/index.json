@@ -505,8 +505,8 @@
         "show_date": false,
         "show_author": false,
         "show_view_all": true,
-        "padding_top": 60,
-        "padding_bottom": 60
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "testimonial_grid_4EYENU": {
