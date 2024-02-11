@@ -267,7 +267,7 @@
             "layout": "vertical",
             "icon_1": "bulb",
             "heading_1": "<strong>The MasterMind<\/strong>",
-            "description_1": "Axel Grell, known as the “Godfather of German Sound”, formed a team of like-minded metalhead engineers to deliver a unique experience to the underserved Metal Community. With over 30 years in the audio industry and 40+ patents, you are experiencing a lifetime of dedication."
+            "description_1": "Axel Grell, known as the “Godfather of German Sound”, formed a team of metalhead engineers to deliver a unique experience to the underserved Metal Community. With over 30 years in the audio industry and 40+ patents, you are experiencing a lifetime of dedication."
           }
         },
         "c641f485-c30e-4ac3-822e-7caa35a87b2f": {
@@ -276,7 +276,7 @@
             "layout": "vertical",
             "icon_1": "radio",
             "heading_1": "Natural Sound Field",
-            "description_1": "Our ears are naturally designed to pick up sound that originates in front of us. Heavys unique, patented technology utilizes 8 drivers, four of which, are positioned to the front of the ear. The result is an optimal entry to the inner ear and the most natural sound experience possible."
+            "description_1": "Our ears are naturally designed to pick up sound that originates in front of us. Heavys unique, patented technology utilizes 8 drivers, four of which, are positioned to the front of the ear, generating the most natural sound experience possible."
           }
         },
         "39bf155e-c4c1-488e-b59e-b28704d805a4": {
@@ -285,7 +285,7 @@
             "layout": "vertical",
             "icon_1": "diamond",
             "heading_1": "Attention to Details",
-            "description_1": "Equipped with Hell Blocker™ active noise cancellation, 50 hours of battery life, 5 microphones, transparency mode, ultra-soft replaceable ear-cups, Bluetooth synchs with any phone or device, a wired option, custom designs. And yes, ALL music genres will sound great with HEAVYS."
+            "description_1": "Equipped with Hell Blocker™ active noise cancellation, 50 hours of battery life, 5 microphones, transparency mode, ultra-soft replaceable ear-cups, Bluetooth 5.1, a wired option, custom designs. And yes, ALL music genres sound great with HEAVYS."
           }
         }
       },
@@ -308,7 +308,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "image_behavior": "sticky",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 20,
         "scroll_anchor": "heavys-info"
