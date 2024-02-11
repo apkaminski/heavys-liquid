@@ -443,6 +443,44 @@
         "scroll_anchor": ""
       }
     },
+    "video": {
+      "type": "video",
+      "custom_css": [
+        "h2 {text-align: center;}",
+        "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
+      ],
+      "settings": {
+        "heading": "Engineered by Legend Axel Grell",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
+        "autoplay": false,
+        "video_url": "",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "scroll_anchor": "axelvid"
+      }
+    },
+    "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Hear the Difference with Top Industry Pros",
+        "heading_size": "h1",
+        "blog": "testimonials",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -471,42 +509,75 @@
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
-      "custom_css": [
-        "h2 {text-align: center;}",
-        "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
+    "testimonial_grid_4EYENU": {
+      "type": "testimonial-grid",
+      "blocks": {
+        "column_tE6AWx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>\" <\/strong><\/em><em>These New Wireless Headphones Are Designed with HEavy Metal Fans In Mind<\/em><em><strong> \" <\/strong><\/em><em>- FORBES<\/em><\/p>"
+          }
+        },
+        "column_ebDWcw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to <\/em><em><strong>”<\/strong><\/em><em> - Christian Rodriguez<\/em><\/p>"
+          }
+        },
+        "column_yptKyF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>“ <\/strong><\/em><em>These headphones are incredible and have changed the way I listen to music <\/em><em><strong>”<\/strong><\/em><em>  - Josh Mann<\/em><\/p>"
+          }
+        },
+        "column_V9Niaz": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Heavy AF The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘 <\/em><em><strong>”<\/strong><\/em><em> - <\/em>Levi Yockey<\/p>"
+          }
+        },
+        "column_94rxY4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>“ <\/strong><\/em><em>No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great <\/em><em><strong>”<\/strong><\/em><em>                        - David Sandate<\/em><\/p>"
+          }
+        },
+        "column_PQNGkU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> -  Mayon A.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_tE6AWx",
+        "column_ebDWcw",
+        "column_yptKyF",
+        "column_V9Niaz",
+        "column_94rxY4",
+        "column_PQNGkU"
       ],
       "settings": {
-        "heading": "Engineered by Legend Axel Grell",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
-        "autoplay": false,
-        "video_url": "",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "inverse",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "scroll_anchor": "axelvid"
-      }
-    },
-    "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Hear the Difference with Top Industry Pros",
-        "heading_size": "h1",
-        "blog": "testimonials",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 60,
-        "padding_bottom": 60
+        "title": "",
+        "heading_size": "h2",
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/products\/headphones-case-aux",
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
       }
     },
     "a259a103-10d9-404b-84c4-de542413e278": {
@@ -625,77 +696,6 @@
         "padding_bottom": 60,
         "scroll_anchor": ""
       }
-    },
-    "testimonial_grid_4EYENU": {
-      "type": "testimonial-grid",
-      "blocks": {
-        "column_tE6AWx": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>\" <\/strong><\/em><em>These New Wireless Headphones Are Designed with HEavy Metal Fans In Mind<\/em><em><strong> \" <\/strong><\/em><em>- FORBES<\/em><\/p>"
-          }
-        },
-        "column_ebDWcw": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to <\/em><em><strong>”<\/strong><\/em><em> - Christian Rodriguez<\/em><\/p>"
-          }
-        },
-        "column_yptKyF": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>These headphones are incredible and have changed the way I listen to music <\/em><em><strong>”<\/strong><\/em><em>  - Josh Mann<\/em><\/p>"
-          }
-        },
-        "column_V9Niaz": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Heavy AF The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘 <\/em><em><strong>”<\/strong><\/em><em> - <\/em>Levi Yockey<\/p>"
-          }
-        },
-        "column_94rxY4": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great <\/em><em><strong>”<\/strong><\/em><em>                        - David Sandate<\/em><\/p>"
-          }
-        },
-        "column_PQNGkU": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> -  Mayon A.<\/em><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "column_tE6AWx",
-        "column_ebDWcw",
-        "column_yptKyF",
-        "column_V9Niaz",
-        "column_94rxY4",
-        "column_PQNGkU"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "button_label": "Shop Now",
-        "button_link": "shopify:\/\/products\/headphones-case-aux",
-        "color_scheme": "background-2",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      }
     }
   },
   "order": [
@@ -708,10 +708,10 @@
     "afe8820a-9e66-4dc8-9751-860686858282",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
-    "featured_collection",
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
-    "a259a103-10d9-404b-84c4-de542413e278",
-    "testimonial_grid_4EYENU"
+    "featured_collection",
+    "testimonial_grid_4EYENU",
+    "a259a103-10d9-404b-84c4-de542413e278"
   ]
 }
