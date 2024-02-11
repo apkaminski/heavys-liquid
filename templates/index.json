@@ -450,7 +450,7 @@
         "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
       ],
       "settings": {
-        "heading": "",
+        "heading": "Engineered by Legend Axel Grell",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
@@ -458,7 +458,7 @@
         "video_url": "",
         "description": "",
         "full_width": false,
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "padding_top": 40,
         "padding_bottom": 40,
         "scroll_anchor": "axelvid"
