@@ -135,6 +135,15 @@
           "settings": {
             "custom_liquid": "<center><img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-02-03_at_13.25.47.png?v=1706959584 width=\"300px\"><\/img><\/center>"
           }
+        },
+        "collapsible_tab_Gt7V3K": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shells Only Includes:",
+            "icon": "check_mark",
+            "content": "<p>2 Ayreon Shells (Shells are Interchangeable)<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -145,7 +154,8 @@
         "variant_picker",
         "buy_buttons",
         "description",
-        "custom_liquid_6txmL4"
+        "custom_liquid_6txmL4",
+        "collapsible_tab_Gt7V3K"
       ],
       "settings": {
         "color_scheme": "inverse",
