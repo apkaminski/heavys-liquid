@@ -141,7 +141,7 @@
           "settings": {
             "heading": "Shells Only Includes:",
             "icon": "check_mark",
-            "content": "<p>2 Ayreon Shells (Shells are Interchangeable)<\/p>",
+            "content": "<p>2 {{ block.settings.page.title }} Shells (Shells are Interchangeable)<\/p>",
             "page": ""
           }
         },
@@ -150,7 +150,7 @@
           "settings": {
             "heading": "Bundle Includes:",
             "icon": "check_mark",
-            "content": "<ul><li>Heavys H1H Headphones<\/li><li>2 Ayreon Shells<\/li><li>2 Heavys original Shells<\/li><li>AUX Cable<\/li><li>USB-C Charging Cable<\/li><li>Premium Travel Case included<\/li><\/ul>",
+            "content": "<ul><li>Heavys H1H Headphones<\/li><li>2 {{ block.settings.page.title }} Shells<\/li><li>2 Heavys original Shells<\/li><li>AUX Cable<\/li><li>USB-C Charging Cable<\/li><li>Premium Travel Case included<\/li><\/ul>",
             "page": ""
           }
         }
