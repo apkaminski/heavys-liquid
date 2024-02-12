@@ -138,7 +138,6 @@
         },
         "collapsible_tab_Gt7V3K": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Shells Only Includes:",
             "icon": "check_mark",
@@ -148,11 +147,10 @@
         },
         "collapsible_tab_keizah": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Bundle Includes:",
             "icon": "check_mark",
-            "content": "<ul><li>Heavys H1H Headphones<\/li><li>2 {{ block.settings.page.title }} Shells<\/li><li>2 Heavys original Shells<\/li><li>AUX Cable<\/li><li>USB-C Charging Cable<\/li><li>Premium Travel Case included<\/li><\/ul>",
+            "content": "<ul><li>Heavys H1H Headphones<\/li><li>2 {{ product.metafields.heavys_custom.band.value.name.value }} Shells<\/li><li>2 Heavys original Shells<\/li><li>AUX Cable<\/li><li>USB-C Charging Cable<\/li><li>Premium Travel Case included<\/li><\/ul>",
             "page": ""
           }
         }
