@@ -144,6 +144,15 @@
             "content": "<p>2 Ayreon Shells (Shells are Interchangeable)<\/p>",
             "page": ""
           }
+        },
+        "collapsible_tab_keizah": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Bundle Includes:",
+            "icon": "check_mark",
+            "content": "<ul><li>Heavys H1H Headphones<\/li><li>2 Ayreon Shells<\/li><li>2 Heavys original Shells<\/li><li>AUX Cable<\/li><li>USB-C Charging Cable<\/li><li>Premium Travel Case included<\/li><\/ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -155,7 +164,8 @@
         "buy_buttons",
         "description",
         "custom_liquid_6txmL4",
-        "collapsible_tab_Gt7V3K"
+        "collapsible_tab_Gt7V3K",
+        "collapsible_tab_keizah"
       ],
       "settings": {
         "color_scheme": "inverse",
