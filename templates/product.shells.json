@@ -142,7 +142,7 @@
           "settings": {
             "heading": "Shells Only Includes:",
             "icon": "check_mark",
-            "content": "<p>2 Shells (Shells are Interchangeable)<\/p>",
+            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Shells (Shells are  Interchangeable)<\/p>",
             "page": ""
           }
         },
