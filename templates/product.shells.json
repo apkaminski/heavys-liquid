@@ -138,15 +138,17 @@
         },
         "collapsible_tab_Gt7V3K": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shells Only Includes:",
             "icon": "check_mark",
-            "content": "<p>2 {{ block.settings.page.title }} Shells (Shells are Interchangeable)<\/p>",
+            "content": "<p>2 Shells (Shells are Interchangeable)<\/p>",
             "page": ""
           }
         },
         "collapsible_tab_keizah": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Bundle Includes:",
             "icon": "check_mark",
