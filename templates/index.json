@@ -401,7 +401,6 @@
         },
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<a href=\"\/collections\/shells\" title=\"Shells\">See Our Full Range of Artist Collabs HERE<\/a>",
             "text_style": "body"
