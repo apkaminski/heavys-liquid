@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -10,7 +11,7 @@
     "custom_liquid_NzMKaN": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<div id=\"flockler-embed-18db6e31a6a0ea17cefce396da33eabb\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18db6e31a6a0ea17cefce396da33eabb\" async><\/script>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
