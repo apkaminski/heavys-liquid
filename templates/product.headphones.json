@@ -52,8 +52,8 @@
         "collapsible_tab_ERVzCQ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Built for Metal Fans",
-            "icon": "heart",
+            "heading": "Crafted for Metal Fans",
+            "icon": "silhouette",
             "content": "<p>+ Immersive natural sound field powered by 8 drivers with patented placement<\/p><p>+ World’s first headphones to mimic live music and Feel like youre at the concert<\/p><p>+ Eco-friendly travel case featuring style & protection<\/p>",
             "page": ""
           }
@@ -85,7 +85,7 @@
           "settings": {
             "block_heading": "Personalize with Custom Shells",
             "make_collapsible_row": true,
-            "icon": "lightning_bolt",
+            "icon": "fire",
             "product_list_limit": 6,
             "products_per_page": 2,
             "pagination_style": "dots",
