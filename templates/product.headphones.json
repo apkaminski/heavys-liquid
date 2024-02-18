@@ -40,6 +40,15 @@
             "show_gift_card_recipient": true
           }
         },
+        "collapsible_tab_PmKyjY": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Inside the Bundle Box",
+            "icon": "box",
+            "content": "<ol><li>Heavys H1H Headphones<\/li><li>Audio Cable<\/li><li>USB-C Charging Cable<\/li><li>FREE Premium Hard-Shell Travel Case<\/li><\/ol>",
+            "page": ""
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -86,6 +95,7 @@
         "price",
         "quantity_selector",
         "buy_buttons",
+        "collapsible_tab_PmKyjY",
         "description",
         "custom_liquid_7DbLHT",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
