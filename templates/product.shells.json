@@ -159,10 +159,17 @@
             "text_style": "body"
           }
         },
+        "text_JUQV4T": {
+          "type": "text",
+          "settings": {
+            "text": "Our <strong>Shells<\/strong> are interchangeable. Collect <strong>Shells<\/strong> to style & personalize your Heavys Headphones",
+            "text_style": "body"
+          }
+        },
         "collapsible_tab_x7CWVA": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shells Only Includes:",
+            "heading": "'Shells Only' Includes:",
             "icon": "fire",
             "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells<\/p>",
             "page": ""
@@ -213,6 +220,7 @@
         "collapsible_tab_Gt7V3K",
         "collapsible_tab_keizah",
         "text_7VUMCd",
+        "text_JUQV4T",
         "collapsible_tab_x7CWVA",
         "collapsible_tab_L8dKVa",
         "collapsible_tab_Yew6Fz",
