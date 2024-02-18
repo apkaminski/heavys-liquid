@@ -179,6 +179,15 @@
         "collapsible_tab_Yew6Fz": {
           "type": "collapsible_tab",
           "settings": {
+            "heading": "Built for Metal Fans",
+            "icon": "check_mark",
+            "content": "<p><strong>Heavys<\/strong> are the world’s first headphones built for Metal Fans and mimic live music<\/p><ul><li>• 8 Drivers with patented placement to create optimal sound fields<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_adTPt9": {
+          "type": "collapsible_tab",
+          "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
             "content": "",
@@ -206,6 +215,7 @@
         "collapsible_tab_x7CWVA",
         "collapsible_tab_L8dKVa",
         "collapsible_tab_Yew6Fz",
+        "collapsible_tab_adTPt9",
         "custom_liquid_6txmL4"
       ],
       "settings": {
