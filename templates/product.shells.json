@@ -172,7 +172,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shells + Headphone Bundle Includes:",
-            "icon": "lightning_bolt",
+            "icon": "box",
             "content": "<p>+ Heavys H1H Headphones<\/p><p>+ 2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells<\/p><p>+ 2 Heavys Original Shells<\/p><p>+ AUX Cable<\/p><p>+ USB-C Charging Cable<\/p><p>+ Premium Travel Case included for Free.<\/p>",
             "page": ""
           }
@@ -190,7 +190,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Top Notch Features",
-            "icon": "check_mark",
+            "icon": "star",
             "content": "<p>+ 5 microphones<br\/>+ 50 hours of battery life<\/p><p>+ Bluetooth 5.1 + wired option<\/p><p>+ HellBlocker™ active noise cancellation technology<\/p><p>+ Transparent mode for speaking<\/p><p>+ super comfortable design<\/p>",
             "page": ""
           }
