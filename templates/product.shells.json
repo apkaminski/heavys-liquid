@@ -127,6 +127,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -188,9 +189,9 @@
         "collapsible_tab_adTPt9": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Top Notch Features",
             "icon": "check_mark",
-            "content": "",
+            "content": "<p>+ 5 microphones<br\/>+ 50 hours of battery life<\/p><p>+ Bluetooth 5.1 + wired option<\/p><p>+ HellBlocker™ active noise cancellation technology<\/p><p>+ Transparent mode for speaking<\/p><p>+ super comfortable design<\/p>",
             "page": ""
           }
         },
