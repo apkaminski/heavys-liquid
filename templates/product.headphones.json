@@ -62,7 +62,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "All the Best Features",
-            "icon": "bulb",
+            "icon": "star",
             "content": "<ul><li>5 microphones<\/li><li>50 hours of battery life<\/li><li>Bluetooth 5.1<\/li><li>HellBlocker™ noise cancellation<\/li><li>Super comfortable design<\/li><\/ul>",
             "page": ""
           }
