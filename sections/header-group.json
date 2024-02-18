@@ -7,9 +7,8 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Get $25 Off",
+            "text": "Save $25",
             "behaviour_type": "klavyo_popup",
             "link": "shopify:\/\/products\/headphones-case-aux",
             "klavyo_desktop_id": "S3Eqqe",
