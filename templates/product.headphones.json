@@ -90,7 +90,7 @@
             "products_per_page": 2,
             "pagination_style": "dots",
             "image_ratio": "portrait",
-            "enable_quick_add": true
+            "enable_quick_add": false
           }
         },
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
