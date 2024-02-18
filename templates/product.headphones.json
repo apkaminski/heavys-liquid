@@ -693,6 +693,50 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "rich_text_bNMLc4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aAPEVN": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_wfCT44": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_qyYn6W": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAPEVN",
+        "text_wfCT44",
+        "button_qyYn6W"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -705,6 +749,7 @@
     "16f898dd-b420-419f-a03d-a8d3092e6811",
     "696a1674-357d-4c14-9c51-dd1df6898605",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
-    "related-products"
+    "related-products",
+    "rich_text_bNMLc4"
   ]
 }
