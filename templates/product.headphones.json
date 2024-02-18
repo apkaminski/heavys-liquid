@@ -45,7 +45,7 @@
           "settings": {
             "heading": "Inside the Bundle Box",
             "icon": "box",
-            "content": "<ol><li>Heavys H1H Headphones<\/li><li>Audio Cable<\/li><li>USB-C Charging Cable<\/li><li>FREE Premium Hard-Shell Travel Case<\/li><\/ol>",
+            "content": "<ul><li>Heavys H1H Headphones<\/li><li>Audio Cable<\/li><li>USB-C Charging Cable<\/li><li>FREE Premium Hard-Shell Travel Case<\/li><\/ul>",
             "page": ""
           }
         },
