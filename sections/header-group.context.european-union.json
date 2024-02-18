@@ -18,7 +18,7 @@
           }
         },
         "c661b616-d206-4921-bb07-e52a225a4f84": {
-          "disabled": false,
+          "disabled": true,
           "settings": {
             "text": "Today Only: Heavys Headphones Just €299!",
             "link": "shopify:\/\/products\/headphones-case-aux"
