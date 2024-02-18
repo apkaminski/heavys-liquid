@@ -49,8 +49,18 @@
             "page": ""
           }
         },
+        "collapsible_tab_ERVzCQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "World’s first headphones built for Metal Fans",
+            "icon": "headset",
+            "content": "<p><\/p><ul><li>• Immersive natural sound field powered by 8 drivers with patented placement<\/li><li>• 5 microphones, 50 hours of battery life, Bluetooth 5.1, HellBlocker™ noise cancellation, super comfortable design<\/li><li>• Eco-friendly travel case featuring style & protection<\/li><li>World’s first headphones built for Metal Fans and mimic live music<\/li><\/ul>",
+            "page": ""
+          }
+        },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -59,19 +69,6 @@
           "disabled": true,
           "settings": {
             "custom_liquid": "<!-- TrustBox widget - Micro Combo -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6ffb0d04a076446a9af\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"20px\" data-style-width=\"100%\" data-theme=\"dark\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com?stars=5\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
-          }
-        },
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<!-- TrustBox widget - Product Mini -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"54d39695764ea907c0f34825\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"dark\" data-sku=\"Bundle\" data-no-reviews=\"hide\" data-scroll-to-list=\"true\" data-style-alignment=\"center\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
-          }
-        },
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special<\/h1>\n<\/body>\n<\/html>"
           }
         },
         "complementary_z4cWLg": {
@@ -86,6 +83,19 @@
             "image_ratio": "portrait",
             "enable_quick_add": true
           }
+        },
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- TrustBox widget - Product Mini -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"54d39695764ea907c0f34825\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"dark\" data-sku=\"Bundle\" data-no-reviews=\"hide\" data-scroll-to-list=\"true\" data-style-alignment=\"center\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
+          }
+        },
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special<\/h1>\n<\/body>\n<\/html>"
+          }
         }
       },
       "block_order": [
@@ -96,11 +106,12 @@
         "quantity_selector",
         "buy_buttons",
         "collapsible_tab_PmKyjY",
+        "collapsible_tab_ERVzCQ",
         "description",
         "custom_liquid_7DbLHT",
+        "complementary_z4cWLg",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
-        "complementary_z4cWLg"
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
       ],
       "settings": {
         "color_scheme": "inverse",
