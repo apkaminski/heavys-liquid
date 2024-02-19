@@ -27,6 +27,12 @@
       "settings": {
       },
       "blocks": {
+        "0a1dc52c-9f16-4aff-8138-1f799065fc86": {
+          "settings": {
+            "heading_2": "FREE DOMESTIC SHIPPING, SHIPS WITHIN 48 HOURS",
+            "icon_2": "lightning_bolt"
+          }
+        }
       },
       "block_order": [
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0",
