@@ -4,5 +4,55 @@
     "market": "us"
   },
   "sections": {
-  }
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "collapsible_tab_wDkkL": {
+          "type": "collapsible_tab",
+          "disabled": false,
+          "settings": {
+            "heading": "Free US Shipping",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "caption",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "collapsible_tab_Gt7V3K",
+        "collapsible_tab_keizah",
+        "text_7VUMCd",
+        "text_JUQV4T",
+        "collapsible_tab_x7CWVA",
+        "collapsible_tab_L8dKVa",
+        "collapsible_tab_Yew6Fz",
+        "collapsible_tab_adTPt9",
+        "collapsible_tab_wDkkL",
+        "custom_liquid_6txmL4"
+      ]
+    }
+  },
+  "order": [
+    "23bdb07e-77f8-419c-9568-b7766935372a",
+    "be4805c2-025c-4ff7-be0e-c9a17287274f",
+    "main",
+    "d56df3ea-0917-4b74-8f1b-60fa2a51a86f",
+    "60421194-02d3-4142-a101-cab229136e5b",
+    "243990a3-4122-461a-b6d3-04139fdb26fc",
+    "rich_text_ijPtUA",
+    "e3ca781b-9d44-4c07-909d-7da66958b19c",
+    "e836ee92-247c-4b1b-a750-8b108bc417dd",
+    "9df63e1f-45c9-48f7-a296-1f017f30a212",
+    "7bdbd5c0-c846-4438-9b98-823f59d10006",
+    "463cf269-3e55-4128-838b-822482a855bf",
+    "related-products"
+  ]
 }
