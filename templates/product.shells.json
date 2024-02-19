@@ -171,7 +171,7 @@
           "settings": {
             "heading": "'Shells Only' Includes:",
             "icon": "fire",
-            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells<\/p>",
+            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells<\/p><p><\/p><p>Shells are swappable & snap on the external side of the ear cup.  Shred out in Style.<\/p>",
             "page": ""
           }
         },
