@@ -187,14 +187,15 @@
         "collapsible_tab_Yew6Fz": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Crafted for Metal Fans",
-            "icon": "silhouette",
-            "content": "<p><strong>+ Heavys<\/strong> are the world’s first headphones built for Metal Fans and Metal Music<\/p><p>+ 8 Drivers with patented placement to create optimal sound fields and mimic live music<\/p>",
+            "heading": "Product Details",
+            "icon": "star",
+            "content": "<p><strong>+ Heavys<\/strong> are the world’s first headphones built for Metal Fans<\/p><p>+ 8 Drivers with patented placement to create optimal sound fields<\/p><p>+ 5 microphones<br\/>+ 50 hours of battery life<br\/>+ Bluetooth 5.1 plus a wired option<br\/>+ HellBlocker™ active noise cancellation technology<br\/>+ Transparent mode for speaking<br\/>+ Extra comfortable design<\/p>",
             "page": ""
           }
         },
         "collapsible_tab_adTPt9": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Top Notch Features",
             "icon": "star",
