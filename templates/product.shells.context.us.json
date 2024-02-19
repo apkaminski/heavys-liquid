@@ -8,6 +8,11 @@
       "settings": {
       },
       "blocks": {
+        "collapsible_tab_Yew6Fz": {
+          "settings": {
+            "heading": "Headphone Product Details"
+          }
+        },
         "collapsible_tab_wDkkL": {
           "type": "collapsible_tab",
           "disabled": false,
@@ -18,9 +23,9 @@
             "page": ""
           }
         },
-        "collapsible_tab_Yew6Fz": {
+        "collapsible_tab_x7CWVA": {
           "settings": {
-            "heading": "Headphone Product Details"
+            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells<br\/><br\/>Shells are swappable & snap on the external side of the ear cup.  Shred out in Style.<\/p>"
           }
         }
       },
