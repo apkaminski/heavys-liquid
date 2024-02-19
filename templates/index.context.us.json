@@ -30,7 +30,9 @@
         "0a1dc52c-9f16-4aff-8138-1f799065fc86": {
           "settings": {
             "icon_2": "lightning_bolt",
-            "heading_2": "FREE US SHIPPING, SHIPS WITHIN 48 HOURS"
+            "heading_2": "FREE US SHIPPING, SHIPS WITHIN 48 HOURS",
+            "icon_3": "return",
+            "heading_3": "14 Days 'No Questions' Refund Policy"
           }
         }
       },
