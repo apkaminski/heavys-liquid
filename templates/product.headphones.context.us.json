@@ -12,10 +12,15 @@
           "type": "collapsible_tab",
           "disabled": false,
           "settings": {
-            "heading": "All the Best Features",
+            "heading": "Free US Shipping",
             "icon": "truck",
-            "content": "<p>FREE US SHIPPING, SHIPS WITHIN 48 HOURS<\/p>",
+            "content": "<p>Ships within 48 Hours<\/p><p>Free Shipping in the US<\/p><p><\/p>",
             "page": ""
+          }
+        },
+        "collapsible_tab_VxhV37": {
+          "settings": {
+            "content": "<p>+ 5 microphones<\/p><p>+ 50 hours of battery life<\/p><p>+ Bluetooth 5.1 + Wired Option<\/p><p>+ HellBlocker™ active noise cancellation<\/p><p>+ Transparency Mode<\/p><p>+ Built for Extra Comfort<\/p>"
           }
         }
       },
