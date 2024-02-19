@@ -9,6 +9,11 @@
       "settings": {
       },
       "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Save an Additional $25 Today!"
+          }
+        }
       },
       "block_order": [
         "announcement-bar-0",
