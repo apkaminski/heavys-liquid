@@ -63,7 +63,7 @@
           "settings": {
             "heading": "All the Best Features",
             "icon": "star",
-            "content": "<p>+ 5 microphones<\/p><p>+ 50 hours of battery life<\/p><p>+ Bluetooth 5.1 + Wired Option<\/p><p>+ HellBlocker™ active noise cancellation<\/p><p>+ Transparency Mode<\/p><p>+ Super comfortable design<\/p>",
+            "content": "<p>+ 5 microphones<\/p><p>+ 50 hours of battery life<\/p><p>+ Bluetooth 5.1 + Wired Option<\/p><p>+ HellBlocker™ active noise cancellation<\/p><p>+ Transparency Mode<\/p><p>+ Super comfortable design<\/p><p><a href=\"\/prod-details\" title=\"\/prod-details\">More Product Specifications<\/a><\/p>",
             "page": ""
           }
         },
@@ -420,7 +420,7 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36,
-        "scroll_anchor": ""
+        "scroll_anchor": "prod-details"
       }
     },
     "9ee22153-1421-49ae-ae56-fe473b7fbe10": {
