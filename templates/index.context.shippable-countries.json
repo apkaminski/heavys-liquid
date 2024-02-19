@@ -10,7 +10,7 @@
       "settings": {
         "custom_liquid": "<h2><center>Trusted by 20,000 + metal fans<\/center>\n<\/h2><\/br><div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "background-1",
-        "header-e8d28dcaa8ec473167302a0d9c155596": null,
+        "header-12972c3b770535f0e3f3ad25bde464d9": null,
         "padding_top": 60,
         "padding_bottom": 40
       },
@@ -20,13 +20,6 @@
 
       ]
     },
-    "featured_collection": {
-      "settings": {
-        "heading_size": "h1"
-      },
-      "blocks": {
-      }
-    },
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
       "settings": {
       },
@@ -34,9 +27,16 @@
         "0a1dc52c-9f16-4aff-8138-1f799065fc86": {
           "settings": {
             "icon_2": "truck",
-            "heading_2": "Free AU\/CA\/JP Shipping, Ships within 48 Hours"
+            "heading_2": "Free AU\/CA\/JP Shipping on $149+ Orders"
           }
         }
+      }
+    },
+    "featured_collection": {
+      "settings": {
+        "heading_size": "h1"
+      },
+      "blocks": {
       }
     }
   },
