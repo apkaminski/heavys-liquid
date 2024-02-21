@@ -52,14 +52,15 @@
         "collapsible_tab_ERVzCQ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Crafted for Metal Fans",
-            "icon": "silhouette",
-            "content": "<p>+ World’s first headphones to mimic live music and Feel like youre at the concert<\/p><p>+ Immersive natural sound field powered by 8 drivers with patented placement, covering multiple frequency ranges in an optimized setup<\/p><p>+ Eco-friendly travel case featuring style & protection<\/p>",
+            "heading": "Features Crafted for Metalheads",
+            "icon": "star",
+            "content": "<p>+ World’s first headphones to mimic live music and Feel like you're at the concert<\/p><p>+ Immersive natural sound field powered by 8 speakers with patented placement, covering multiple frequency ranges in an optimized setup<\/p><p>+ 5 microphones<\/p><p>+ 50 hours of battery life<\/p><p>+ Bluetooth 5.1 + Wired Option<\/p><p>+ HellBlocker™ active noise cancellation<\/p><p>+ Transparency Mode<\/p><p>+ Super comfortable design<\/p>",
             "page": ""
           }
         },
         "collapsible_tab_VxhV37": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "All the Best Features",
             "icon": "star",
