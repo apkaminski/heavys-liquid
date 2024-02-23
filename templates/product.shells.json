@@ -582,6 +582,14 @@
             "text": "<p><em><strong>“ <\/strong><\/em><em>Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to <\/em><em><strong>”<\/strong><\/em><em> - Christian Rodrigue<\/em><\/p>"
           }
         },
+        "column_QaQiEY": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em>“Epic as written about! After hours of use it is still very comfortable - feels like they are not there. You can hear all notes of songs high and super deep” <\/em><\/p><p><em>- Turner McLeod<\/em><\/p>"
+          }
+        },
         "column_677tYA": {
           "type": "column",
           "settings": {
@@ -589,12 +597,31 @@
             "label": "",
             "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> - Mayon A<\/em><\/p>"
           }
+        },
+        "column_ncWw3w": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Heavy AF! The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘 <\/em><em><strong>”<\/strong><\/em><em> - <\/em>Levi Yocke<\/p>"
+          }
+        },
+        "column_WK4pi8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>“ <\/strong><\/em><em>No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great <\/em><em><strong>”<\/strong><\/em><em> - David Sandat<\/em><\/p>"
+          }
         }
       },
       "block_order": [
         "column_WteqXH",
         "column_zXcWgA",
-        "column_677tYA"
+        "column_QaQiEY",
+        "column_677tYA",
+        "column_ncWw3w",
+        "column_WK4pi8"
       ],
       "settings": {
         "title": "Rated 4.7 \/ 5 Stars by Our Customers",
