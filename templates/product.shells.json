@@ -562,6 +562,50 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "testimonial_grid_JFjyAb": {
+      "type": "testimonial-grid",
+      "blocks": {
+        "column_WteqXH": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>\" <\/strong><\/em><em>These New Wireless Headphones Are Designed with Heavy Metal Fans In Mind<\/em><em><strong> \" <\/strong><\/em><em>- FORBES<\/em><\/p>"
+          }
+        },
+        "column_zXcWgA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to <\/em><em><strong>”<\/strong><\/em><em> - Christian Rodrigue<\/em><\/p>"
+          }
+        },
+        "column_677tYA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> - Mayon A<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_WteqXH",
+        "column_zXcWgA",
+        "column_677tYA"
+      ],
+      "settings": {
+        "title": "Rated 4.7 \/ 5 Stars by Our Customers",
+        "heading_size": "h2",
+        "button_label": "Start Listening Now",
+        "button_link": "",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
     }
   },
   "order": [
@@ -577,6 +621,7 @@
     "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
     "463cf269-3e55-4128-838b-822482a855bf",
-    "related-products"
+    "related-products",
+    "testimonial_grid_JFjyAb"
   ]
 }
