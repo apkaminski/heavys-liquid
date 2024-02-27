@@ -53,7 +53,7 @@
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Personalize & Upgrade your HEAVYS Headphones with the Official {{ product.metafields.heavys_custom.band.value.name.value }} Shells™<\/p>"
+            "text": "<p>Personalize & Upgrade your HEAVYS Headphones with the Official {{ product.metafields.heavys_custom.band.value.name.value }} Shells™ (Limited Edition)<\/p>"
           }
         },
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1": {
