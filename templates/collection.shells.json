@@ -42,7 +42,7 @@
       ],
       "custom_css": [
         ".banner__text:first-child {color: #63d48a;}",
-        ".banner__text rte body:h2 {color: #63d48a;}"
+        ".banner__text rte body:first-child {color: #63d48a;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-02-29_at_14.38.23.png",
