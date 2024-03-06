@@ -19,6 +19,7 @@
         },
         "text_bitp7e": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<em>“Started headbanging again, absolute golden sound quality for heavy music\"  - Tom P.<\/em>",
             "text_style": "body"
