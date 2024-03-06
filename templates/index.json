@@ -66,8 +66,8 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner.jpg",
-        "image_overlay_opacity": 50,
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-03-07_at_0.32.10.png",
+        "image_overlay_opacity": 30,
         "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
