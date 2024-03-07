@@ -7,7 +7,7 @@
           "type": "text",
           "settings": {
             "text": "Listen to Metal The Way It's Meant to Be Heard",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
@@ -63,12 +63,12 @@
         "9c50aa5f-e67b-41fb-bf96-08c425076220"
       ],
       "custom_css": [
-        ".banner__text:first-child {color: #63d48a;}"
+
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/new_hp.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image": "shopify:\/\/shop_images\/banner.jpg",
+        "image_overlay_opacity": 70,
+        "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
