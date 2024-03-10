@@ -239,9 +239,9 @@
           "type": "column",
           "settings": {
             "icon": "none",
-            "title": "ELEVATE MY SOUND",
+            "title": "",
             "text": "",
-            "link_label": "Start Listening",
+            "link_label": "ELEVATE MY SOUND",
             "link": "shopify:\/\/products\/headphones-case-aux"
           }
         },
