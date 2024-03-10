@@ -235,6 +235,16 @@
             "link": "shopify:\/\/products\/headphones-case-aux"
           }
         },
+        "column_WUmry4": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "title": "",
+            "text": "",
+            "link_label": "ELEVATE MY SOUND",
+            "link": "shopify:\/\/products\/headphones-case-aux"
+          }
+        },
         "25ebce84-0801-436c-ac34-74ace415f590": {
           "type": "column",
           "disabled": true,
@@ -256,6 +266,7 @@
         "column_drjTi9",
         "8041cf07-1630-4520-9b8c-916dc33762d7",
         "65b42d82-acc4-41e8-aa6b-9a65cf151134",
+        "column_WUmry4",
         "25ebce84-0801-436c-ac34-74ace415f590"
       ],
       "custom_css": [
