@@ -237,6 +237,34 @@
         "scroll_anchor": ""
       }
     },
+    "696a1674-357d-4c14-9c51-dd1df6898605": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Enhance Your Listening Experience Inside & Out",
+        "heading_size": "h2",
+        "description": "<p>'Mix & Match' as many Shells Designs as you want<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shells",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d": {
       "type": "multicolumn",
       "blocks": {
@@ -638,34 +666,6 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "696a1674-357d-4c14-9c51-dd1df6898605": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Enhance Your Listening Experience Inside & Out",
-        "heading_size": "h2",
-        "description": "<p>'Mix & Match' as many Shells Designs as you want<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "shells",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -673,11 +673,11 @@
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
+    "696a1674-357d-4c14-9c51-dd1df6898605",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
     "16f898dd-b420-419f-a03d-a8d3092e6811",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
-    "related-products",
-    "696a1674-357d-4c14-9c51-dd1df6898605"
+    "related-products"
   ]
 }
