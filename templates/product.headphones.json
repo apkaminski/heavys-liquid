@@ -68,6 +68,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_Eztxxk": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "14 Day simple return policy",
+            "icon": "return",
+            "content": "<p>14 Day 'No Questions Asked' Return Policy<\/p>",
+            "page": ""
+          }
+        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -118,6 +127,7 @@
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_VxhV37",
+        "collapsible_tab_Eztxxk",
         "description",
         "custom_liquid_7DbLHT",
         "complementary_z4cWLg",
