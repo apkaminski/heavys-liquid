@@ -52,24 +52,10 @@
           "settings": {
           }
         },
-        "custom_liquid_7DbLHT": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<!-- TrustBox widget - Micro Combo -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6ffb0d04a076446a9af\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"20px\" data-style-width=\"100%\" data-theme=\"dark\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com?stars=5\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
-          }
-        },
         "custom_liquid_kMjNiz": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<center><img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-02-03_at_13.25.47.png?v=1706959584 width=\"360px\"><\/img><\/center>"
-          }
-        },
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<!-- TrustBox widget - Product Mini -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"54d39695764ea907c0f34825\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"dark\" data-sku=\"Bundle\" data-no-reviews=\"hide\" data-scroll-to-list=\"true\" data-style-alignment=\"center\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
           }
         },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
@@ -81,6 +67,7 @@
         },
         "complementary_yPQxbc": {
           "type": "complementary",
+          "disabled": true,
           "settings": {
             "block_heading": "Upgrade to Headphones + Shells Bundle",
             "make_collapsible_row": true,
@@ -102,9 +89,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "custom_liquid_7DbLHT",
         "custom_liquid_kMjNiz",
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "complementary_yPQxbc"
       ],
@@ -130,7 +115,7 @@
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<h2><center>Trusted by 25,000 Heavy Music fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "custom_liquid": "<h2><center>Trusted by 25,000+ Heavy Music fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "background-2",
         "padding_top": 40,
         "padding_bottom": 40
