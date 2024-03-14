@@ -4,25 +4,5 @@
     "market": "shippable-countries"
   },
   "sections": {
-    "announcement-bar": {
-      "disabled": false,
-      "settings": {
-      },
-      "blocks": {
-        "announcement-bar-0": {
-          "settings": {
-            "text": "Save an Additional $25 Today!"
-          }
-        }
-      },
-      "block_order": [
-        "announcement-bar-0",
-        "c661b616-d206-4921-bb07-e52a225a4f84"
-      ]
-    }
-  },
-  "order": [
-    "announcement-bar",
-    "header"
-  ]
+  }
 }
