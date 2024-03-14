@@ -29,18 +29,12 @@
             "klavyo_mobile_id": "TMcm4k",
             "button_style_secondary": false
           }
-        },
-        "a031264a-5813-402f-80ac-e07a014522ca": {
-          "settings": {
-            "anchor": "product-features"
-          }
         }
       },
       "block_order": [
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
-        "9e6a28af-df13-42cc-8854-856f3399b99f",
-        "a031264a-5813-402f-80ac-e07a014522ca"
+        "9e6a28af-df13-42cc-8854-856f3399b99f"
       ]
     },
     "afe8820a-9e66-4dc8-9751-860686858282": {
