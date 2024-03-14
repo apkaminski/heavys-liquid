@@ -4,35 +4,5 @@
     "market": "european-union"
   },
   "sections": {
-    "announcement-bar": {
-      "disabled": false,
-      "settings": {
-      },
-      "blocks": {
-        "announcement-bar-0": {
-          "disabled": true,
-          "settings": {
-            "text": "Subscribe to Save €13 Off",
-            "klavyo_desktop_id": "USr7es",
-            "klavyo_mobile_id": "YifBA5"
-          }
-        },
-        "c661b616-d206-4921-bb07-e52a225a4f84": {
-          "disabled": true,
-          "settings": {
-            "text": "Today Only: Heavys Headphones Just €299!",
-            "link": "shopify:\/\/products\/headphones-case-aux"
-          }
-        }
-      }
-    },
-    "header": {
-      "settings": {
-        "menu": "eu-menu",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4"
-      },
-      "blocks": {
-      }
-    }
   }
 }
