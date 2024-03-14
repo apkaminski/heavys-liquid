@@ -4,12 +4,5 @@
     "market": "us"
   },
   "sections": {
-    "announcement-bar": {
-      "settings": {
-        "color_scheme": "background-2"
-      },
-      "blocks": {
-      }
-    }
   }
 }
