@@ -69,7 +69,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/banner.jpg",
         "image_overlay_opacity": 30,
-        "image_height": "adapt",
+        "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
