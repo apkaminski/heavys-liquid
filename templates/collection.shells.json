@@ -14,9 +14,8 @@
       "blocks": {
         "42862296-1b37-490a-bc46-babf848ace8b": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "'New Year New Gear'  Special Deals",
+            "text": "USE CODE 'SHAMROCK' at Checkout for $34 OFF Today",
             "text_style": "body"
           }
         },
