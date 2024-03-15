@@ -65,16 +65,6 @@
             "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/UM.pdf?v=1694064922"
           }
         },
-        "column_MkNn8K": {
-          "type": "column",
-          "settings": {
-            "icon": "check_mark",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-2": {
           "type": "column",
           "settings": {
@@ -88,11 +78,10 @@
       },
       "block_order": [
         "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-1",
-        "column_MkNn8K",
         "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-2"
       ],
       "settings": {
-        "title": "HEAVYS App to pair with your Headphones Coming Soon..second quarter of 2024. (we will let you know)",
+        "title": "HEAVYS App to pair with your Headphones is Coming Soon..second quarter of 2024. (we know you have been waiting and we are diligently working to develop the App - we will let you know once app is live)",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
