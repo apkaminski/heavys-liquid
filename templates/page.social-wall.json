@@ -21,9 +21,8 @@
       "blocks": {
         "heading_ycxXhk": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "",
+            "heading": "Join the Community",
             "heading_size": "h1"
           }
         },
