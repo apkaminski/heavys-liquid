@@ -651,6 +651,54 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "image_with_text_zjnMtM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DhL9aG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_VqygDE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Collect <strong>Shells<\/strong> to style & personalize your Heavys Headphones<\/p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps:<\/p><p>Detach -&gt; Attach New -&gt; Headbang 🤘<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_6ayt8w": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_DhL9aG",
+        "text_VqygDE",
+        "button_6ayt8w"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shellshowto.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
     }
   },
   "order": [
@@ -663,6 +711,7 @@
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
     "16f898dd-b420-419f-a03d-a8d3092e6811",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
-    "related-products"
+    "related-products",
+    "image_with_text_zjnMtM"
   ]
 }
