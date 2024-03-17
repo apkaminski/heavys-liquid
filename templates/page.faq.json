@@ -260,7 +260,7 @@
           "settings": {
             "heading": "When will my order be shipped?",
             "icon": "none",
-            "row_content": "<p><strong>REGULAR ORDERS<\/strong> (after Nov 2023):  are shipped within 2 business days of placing your order. <\/p><p>You will receive an email with the tracking number as your order is ships.<\/p><p><strong>PRE-ORDERS<\/strong>: Most H1H pre-orders were shipped. If you have preordered and still have Not received your order please contact us via support@heavys.com<br\/><br\/><\/p>",
+            "row_content": "<p><strong>REGULAR ORDERS<\/strong> are shipped within 2 business days of placing your order. <\/p><p>You will receive an email with the tracking number as your order is ships.<\/p><p><strong>PRE-ORDERS (only made before Nov 2023): <\/strong>Most H1H pre-orders were shipped. If you have preordered and still have Not received your order please contact us via support@heavys.com<br\/><br\/><\/p>",
             "page": ""
           }
         },
