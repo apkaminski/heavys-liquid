@@ -504,7 +504,7 @@
           "settings": {
             "heading": "When will my order be shipped",
             "icon": "none",
-            "row_content": "<p>Heavys are in stock and will ship within 2 business days of ordering!<\/p><p>Delivery times vary between countries and are presented during checkout<\/p><p>Standard and Express Shipping options are available<\/p>",
+            "row_content": "<p>Heavys are in stock and will ship within 2 business days of ordering!<\/p><p>Delivery times vary between countries and are presented during checkout<\/p><p>Standard and Express Shipping options are available<\/p><p>You will receive an email with tracking number once your order is on its way<\/p>",
             "page": ""
           }
         },
@@ -565,6 +565,15 @@
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
         },
+        "collapsible_row_XYqjHf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are Heavys wired or wireless?",
+            "icon": "none",
+            "row_content": "<p>Heavys can be used and listened to in both wired and wireless modes. They support 5.1 BLE Bluetooth and can be wired in through USB-C or an analog 2.5mm to 3.5mm cable.<\/p>",
+            "page": ""
+          }
+        },
         "f983dcff-ff20-43c4-8c52-596455709ebd": {
           "type": "collapsible_row",
           "settings": {
@@ -584,6 +593,7 @@
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
         "0f05d56b-11bf-41b5-b2a5-faedc288b8a4",
         "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
+        "collapsible_row_XYqjHf",
         "f983dcff-ff20-43c4-8c52-596455709ebd"
       ],
       "settings": {
