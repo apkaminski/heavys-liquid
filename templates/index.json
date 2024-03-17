@@ -380,8 +380,8 @@
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"\/collections\/shells\" title=\"Shells\">See Our Full Range of Artist Collabs HERE<\/a>",
-            "text_style": "body"
+            "text": "<a href=\"\/collections\/shells\" title=\"Shells\"><strong>See Our Full Range of Artist Collabs HERE<\/strong><\/a>",
+            "text_style": "subtitle"
           }
         },
         "423f7bdf-c059-43cc-9e65-eaf4733f55d8": {
