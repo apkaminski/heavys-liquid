@@ -504,7 +504,7 @@
           "settings": {
             "heading": "When will my order be shipped",
             "icon": "none",
-            "row_content": "<p>Heavys are in stock and will ship immediately upon ordering!<\/p><p>Delivery times vary between countries and are presented during checkout<\/p><p>Standard and Express Shipping options are available<\/p>",
+            "row_content": "<p>Heavys are in stock and will ship within 2 business days of ordering!<\/p><p>Delivery times vary between countries and are presented during checkout<\/p><p>Standard and Express Shipping options are available<\/p>",
             "page": ""
           }
         },
