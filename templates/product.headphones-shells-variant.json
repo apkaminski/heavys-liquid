@@ -19,7 +19,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text": "Don't Miss out on these limited designs!",
             "text_style": "subtitle"
           }
         },
