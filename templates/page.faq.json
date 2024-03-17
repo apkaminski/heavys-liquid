@@ -218,15 +218,6 @@
             "page": ""
           }
         },
-        "collapsible_row_RxhVyB": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is your return policy?",
-            "icon": "none",
-            "row_content": "<p>Our return policy allows customers who purchased headphones from our website to return them within 14 days of receiving the order, as long as they are in new and unused condition with original packaging. Refunds are issued for the purchase price minus any fees and are processed within 14 days to the original payment method. Customers are responsible for return shipping costs and any customs fees for international returns. We do not accept returns for damaged, customized, or heavily used headphones. The warranty covers defects within the warranty period.<\/p>",
-            "page": ""
-          }
-        },
         "collapsible_row_C4YbWw": {
           "type": "collapsible_row",
           "settings": {
@@ -241,7 +232,6 @@
         "c4f841f6-9d4c-4b45-b215-cafdfdf3d619",
         "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0",
         "63c90da5-968f-415c-942b-2f07ac954a94",
-        "collapsible_row_RxhVyB",
         "collapsible_row_C4YbWw"
       ],
       "settings": {
@@ -282,11 +272,21 @@
             "row_content": "<p><strong>REGULAR ORDERS<\/strong> (after Nov 2023):  are sent depending on your order location, order time, and order content.<\/p><p>You will receive an email with the tracking number as your order is ships.<\/p><p><strong>PRE-ORDERS<\/strong>: Most H1H pre-orders were shipped. If you have preordered and still have Not received your order please contact us via support@heavys.com<br\/><br\/><\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_HFrMTi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your return policy?",
+            "icon": "none",
+            "row_content": "<p>Our return policy allows customers who purchased headphones from our website to return them within 14 days of receiving the order, as long as they are in new and unused condition with original packaging. Refunds are issued for the purchase price minus any fees and are processed within 14 days to the original payment method. Customers are responsible for return shipping costs and any customs fees for international returns. We do not accept returns for damaged, customized, or heavily used headphones. The warranty covers defects within the warranty period.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0",
-        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2"
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2",
+        "collapsible_row_HFrMTi"
       ],
       "settings": {
         "caption": "FAQ",
