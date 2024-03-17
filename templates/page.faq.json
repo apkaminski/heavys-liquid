@@ -255,19 +255,10 @@
     "d57daec0-b334-4704-81c6-4018c4dbec41": {
       "type": "collapsible-content",
       "blocks": {
-        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "I did not receive a tracking number for a Pre-Order I made.",
-            "icon": "none",
-            "row_content": "<p>For Pre-Orders, you'll receive an email with tracking info once we ship your order. <\/p>",
-            "page": ""
-          }
-        },
         "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "When will my pre-order be shipped?",
+            "heading": "When will my order be shipped?",
             "icon": "none",
             "row_content": "<p><strong>REGULAR ORDERS<\/strong> (after Nov 2023):  are sent depending on your order location, order time, and order content.<\/p><p>You will receive an email with the tracking number as your order is ships.<\/p><p><strong>PRE-ORDERS<\/strong>: Most H1H pre-orders were shipped. If you have preordered and still have Not received your order please contact us via support@heavys.com<br\/><br\/><\/p>",
             "page": ""
@@ -281,12 +272,21 @@
             "row_content": "<p>Our return policy allows customers who purchased headphones from our website to return them within 14 days of receiving the order, as long as they are in new and unused condition with original packaging. Refunds are issued for the purchase price minus any fees and are processed within 14 days to the original payment method. Customers are responsible for return shipping costs and any customs fees for international returns. We do not accept returns for damaged, customized, or heavily used headphones. The warranty covers defects within the warranty period.<\/p>",
             "page": ""
           }
+        },
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I did not receive a tracking number for a Pre-Order I made.",
+            "icon": "none",
+            "row_content": "<p>For Pre-Orders, you'll receive an email with tracking info once we ship your order. <\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0",
         "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2",
-        "collapsible_row_HFrMTi"
+        "collapsible_row_HFrMTi",
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0"
       ],
       "settings": {
         "caption": "FAQ",
