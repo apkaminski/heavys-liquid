@@ -99,6 +99,15 @@
             "row_content": "<p>Heavys headphones are designed to be great headphones at an affordable price for any music genre. They pack strong specs and technological innovations that help create a great all-around set of headphones. As we are geared for heavy music, the features complement that but you will have an excellent experience listening to any music. .<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_jryczQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are Heavys Wired or Wireless?",
+            "icon": "none",
+            "row_content": "<p>Heavys can be used and listened to in both wired and wireless modes. They support 5.1 BLE Bluetooth and can be wired in through USB-C or an analog 2.5mm to 3.5mm cable.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -111,7 +120,8 @@
         "d601a59c-bb25-4f5e-ba81-d41ad64f7534",
         "caa28194-cf5e-4f55-beb6-65bcc811a043",
         "79ca05cd-f122-46f7-9c23-f1a2bf2862b4",
-        "0cd5c109-17fd-485b-bc12-a762e66a3f0b"
+        "0cd5c109-17fd-485b-bc12-a762e66a3f0b",
+        "collapsible_row_jryczQ"
       ],
       "settings": {
         "caption": "Musician Approved! For MetalHeads By MetalHeads",
