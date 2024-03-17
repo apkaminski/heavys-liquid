@@ -142,7 +142,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Now",
-            "button_link": ""
+            "button_link": "shopify:\/\/products\/shell-bundle"
           }
         }
       },
