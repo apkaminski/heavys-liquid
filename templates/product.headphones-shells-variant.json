@@ -141,8 +141,8 @@
         "button_6ayt8w": {
           "type": "button",
           "settings": {
-            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Now",
-            "button_link": "shopify:\/\/products\/shell-bundle"
+            "button_label": "Shop all HEAVYS Shells",
+            "button_link": "shopify:\/\/collections\/shells"
           }
         }
       },
