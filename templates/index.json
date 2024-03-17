@@ -574,6 +574,15 @@
             "page": ""
           }
         },
+        "collapsible_row_fyUQ9q": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do You Ship Internationally?",
+            "icon": "none",
+            "row_content": "<p>Absolutely! We offer shipping to several countries worldwide. For North America, we ship to the United States and Canada. Additionally, we ship to Australia and Japan. We also cover the entire European Union, including Austria, Belgium, Croatia, Cyprus, Czechia, Denmark, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Lithuania, Luxembourg, Netherlands, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Sweden, Switzerland, and Spain. So wherever you are, we've got you covered!<\/p>",
+            "page": ""
+          }
+        },
         "f983dcff-ff20-43c4-8c52-596455709ebd": {
           "type": "collapsible_row",
           "settings": {
@@ -594,6 +603,7 @@
         "0f05d56b-11bf-41b5-b2a5-faedc288b8a4",
         "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
         "collapsible_row_XYqjHf",
+        "collapsible_row_fyUQ9q",
         "f983dcff-ff20-43c4-8c52-596455709ebd"
       ],
       "settings": {
