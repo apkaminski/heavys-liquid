@@ -24,7 +24,7 @@
           "settings": {
             "heading": "Do you have a built-in microphone?",
             "icon": "none",
-            "row_content": "<p>We have not 1 but 5 built-in microphones perfect for voice calls and enhanced noise cancelation.<\/p>",
+            "row_content": "<p>We have not 1 but 5 built-in microphones perfect for voice calls and enhanced noise cancelation. Please note, voice calls and mics are designed to be available via bluetooth only (not via audio cable)<\/p>",
             "page": ""
           }
         },
