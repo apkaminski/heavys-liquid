@@ -4,64 +4,18 @@
     "market": "shippable-countries"
   },
   "sections": {
-    "17092507-ee68-4e19-857b-0f744cd51879": {
-      "type": "video",
-      "disabled": false,
-      "custom_css": [
-        "h2 {text-align: center;}",
-        "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
-      ],
-      "settings": {
-        "heading": "Hear The Difference",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "header-37d636bd1e50166eee92cd06391c5239": null,
-        "video": "shopify:\/\/files\/videos\/Heavys H1H vs Sony 1000XM5.mov",
-        "autoplay": false,
-        "header-c39b1645e8abdded2c23f8dc91740da7": null,
-        "paragraph-a7e92c196e3d639aeb17a4d49bca31e9": null,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": null,
-        "description": "",
-        "header-3265413fa9257992df80629614900fa9": null,
-        "full_width": false,
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "header-070e2224bc5fcdd76c10903300d14883": null,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      },
-      "blocks": {
-      },
-      "block_order": [
-
-      ]
-    },
-    "74992579-5733-4098-b9df-b83f9b47771a": {
-      "type": "custom-liquid",
-      "disabled": false,
-      "settings": {
-        "custom_liquid": "<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "header-91ecb90ed3fabb5a30eded37b1d90f7c": null,
-        "padding_top": 40,
-        "padding_bottom": 52
-      },
-      "blocks": {
-      },
-      "block_order": [
-
-      ]
-    }
   },
   "order": [
     "main",
-    "38a080f0-6b69-497b-9ef6-70faa02de6c7",
+    "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
+    "rich_text_bNMLc4",
+    "140ffd4e-59cc-42be-82cf-cf3274153e91",
+    "38a080f0-6b69-497b-9ef6-70faa02de6c7",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products",
-    "17092507-ee68-4e19-857b-0f744cd51879",
-    "74992579-5733-4098-b9df-b83f9b47771a"
+    "16f898dd-b420-419f-a03d-a8d3092e6811",
+    "696a1674-357d-4c14-9c51-dd1df6898605"
   ]
 }
