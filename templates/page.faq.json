@@ -173,12 +173,22 @@
             "row_content": "<p><a href=\"\/collections\/shells\" title=\"Shells\">Shells<\/a> are designed to be interchangeable.  You can collect multiple shells to customize your headphones as you please. Check out the available designs on the <a href=\"\/collections\/shells\" title=\"Shells\"><strong>Shells Collection<\/strong><\/a><\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_mDAiND": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer personal Shells customisation",
+            "icon": "none",
+            "row_content": "<p>At the moment, we don't offer shell customization services.  <\/p><p>However, we add new designs and artists every month. <\/p><p><\/p><p> if you have specific bands or ideas in mind that you'd like to suggest to us, we would greatly appreciate your input. Please feel free to send your suggestions to partnerships@heavys.com, and we'll certainly consider them for future offerings or improvements.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "e6a4a8f5-5eed-40d3-b75f-c44700f9e25d",
         "113250ba-6546-4f0f-bb49-758220311096",
-        "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1"
+        "template--14885345820746__e58bbbcb-3cfb-4130-8683-b5d4b3338a01-1689329197ec6dd353-1",
+        "collapsible_row_mDAiND"
       ],
       "settings": {
         "caption": "FAQ",
