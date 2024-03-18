@@ -292,12 +292,22 @@
             "row_content": "<p>For Pre-Orders, you'll receive an email with tracking info once we ship your order. <\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_Yyxk3B": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shipping Address",
+            "icon": "none",
+            "row_content": "<p>We ship to both residential and commercial addresses within the United States and internationally.<\/p><p><\/p><p>Please take note that we don't ship to P.O. boxes or APO\/FPO addresses.<\/p><p><\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-2",
         "collapsible_row_HFrMTi",
-        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0"
+        "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0",
+        "collapsible_row_Yyxk3B"
       ],
       "settings": {
         "caption": "FAQ",
