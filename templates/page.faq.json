@@ -279,12 +279,13 @@
           "settings": {
             "heading": "What is your return policy?",
             "icon": "none",
-            "row_content": "<p>Our return policy allows customers who purchased headphones from our website to return them within 14 days of receiving the order, as long as they are in new and unused condition with original packaging. Refunds are issued for the purchase price minus any fees and are processed within 14 days to the original payment method. Customers are responsible for return shipping costs and any customs fees for international returns. We do not accept returns for damaged, customized, or heavily used headphones. The warranty covers defects within the warranty period.<\/p>",
+            "row_content": "<p>Our return policy allows customers who purchased headphones from our website to return them within 14 days of receiving the order, as long as they are in new and unused condition with original packaging.<\/p><p>Refunds are issued for the purchase price minus any fees including shipping fees and are processed within 14 days to the original payment method after we receive the returned item.<\/p><p>Customers are responsible for return shipping costs and any customs fees for international returns.<\/p><p>We do not accept returns for damaged, customized, or heavily used headphones. The warranty covers defects within the warranty period.<\/p>",
             "page": ""
           }
         },
         "template--14885345820746__d57daec0-b334-4704-81c6-4018c4dbec41-1689329197ec6dd353-0": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "I did not receive a tracking number for a Pre-Order I made.",
             "icon": "none",
