@@ -1,0 +1,8 @@
+{
+  "parent": "product.regular-shells.json",
+  "context": {
+    "market": "european-union"
+  },
+  "sections": {
+  }
+}
