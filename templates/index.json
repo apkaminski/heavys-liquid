@@ -41,12 +41,12 @@
       ],
       "custom_css": [
         ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 16px;}",
-        ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; \/* Sets the font family to Montserrat *\/ font-weight: 800; color: #ffffff; font-size: 14px;}"
+        ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 800; color: #ffffff; font-size: 14px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
