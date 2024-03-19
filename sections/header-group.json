@@ -5,19 +5,8 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "c661b616-d206-4921-bb07-e52a225a4f84": {
-          "type": "announcement",
-          "settings": {
-            "text": "Save $34 on St. Patrick's Day with code: SHAMROCK",
-            "behaviour_type": "link",
-            "link": "shopify:\/\/products\/headphones-case-aux",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Save an Additional $25 Today!",
             "behaviour_type": "klavyo_popup",
@@ -28,7 +17,6 @@
         }
       },
       "block_order": [
-        "c661b616-d206-4921-bb07-e52a225a4f84",
         "announcement-bar-0"
       ],
       "settings": {
