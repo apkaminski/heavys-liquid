@@ -44,8 +44,9 @@
       "blocks": {
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "USE CODE 'SHAMROCK' at Checkout for $34 OFF",
+            "heading": ".",
             "heading_size": "h2"
           }
         },
