@@ -4,44 +4,6 @@
     "market": "us"
   },
   "sections": {
-    "main": {
-      "settings": {
-      },
-      "blocks": {
-        "collapsible_tab_VxhV37": {
-          "settings": {
-            "content": "<p>+ 5 microphones<\/p><p>+ 50 hours of battery life<\/p><p>+ Bluetooth 5.1 + Wired Option<\/p><p>+ HellBlocker™ active noise cancellation<\/p><p>+ Transparency Mode<\/p><p>+ Built for Extra Comfort<\/p>"
-          }
-        },
-        "collapsible_tab_dKLTw3": {
-          "type": "collapsible_tab",
-          "disabled": false,
-          "settings": {
-            "heading": "Free US Shipping",
-            "icon": "truck",
-            "content": "<p>+ Ships within 48 Hours<\/p><p>+ Free Shipping in the US<\/p><p>+ 14 Day 'No Questions Asked' Return Policy (from day of receipt)<\/p><p><\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "vendor",
-        "title",
-        "caption",
-        "price",
-        "quantity_selector",
-        "buy_buttons",
-        "collapsible_tab_PmKyjY",
-        "collapsible_tab_ERVzCQ",
-        "collapsible_tab_VxhV37",
-        "collapsible_tab_dKLTw3",
-        "description",
-        "custom_liquid_7DbLHT",
-        "complementary_z4cWLg",
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
-      ]
-    }
   },
   "order": [
     "main",
