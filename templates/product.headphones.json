@@ -247,6 +247,7 @@
         },
         "column_WUmry4": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "title": "",
