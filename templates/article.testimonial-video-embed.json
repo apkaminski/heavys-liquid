@@ -13,6 +13,7 @@
         "video": "{{ article.metafields.heavys_custom.video.value }}",
         "autoplay": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=6pRdw2i3g4I",
+        "cover_image": "shopify:\/\/shop_images\/image_12.png",
         "description": "",
         "full_width": false,
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
