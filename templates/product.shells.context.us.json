@@ -4,53 +4,6 @@
     "market": "us"
   },
   "sections": {
-    "main": {
-      "settings": {
-      },
-      "blocks": {
-        "collapsible_tab_x7CWVA": {
-          "settings": {
-            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells<br\/><br\/>Shells are swappable & snap on the external side of the ear cup.  Shred out in Style.<\/p>"
-          }
-        },
-        "collapsible_tab_Yew6Fz": {
-          "disabled": false,
-          "settings": {
-            "heading": "Headphone Product Details",
-            "content": "<p>+ World’s first headphones built for Metal Fans<\/p><p>+ 8 Drivers with patented placement creating optimal sound fields & frequency range coverage<\/p><p>+ Immerse in a Concert-like sound & feeling<\/p><p>+ 5 microphones<br\/>+ 50 hours of battery life<br\/>+ Bluetooth 5.1 plus a wired option<br\/>+ HellBlocker™ active noise cancellation<br\/>+ Transparent mode for speaking<br\/>+ Designed for comfort<\/p>"
-          }
-        },
-        "collapsible_tab_wDkkL": {
-          "type": "collapsible_tab",
-          "disabled": false,
-          "settings": {
-            "heading": "Free US Shipping on $99+ Orders",
-            "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "vendor",
-        "title",
-        "price",
-        "caption",
-        "variant_picker",
-        "buy_buttons",
-        "description",
-        "collapsible_tab_Gt7V3K",
-        "collapsible_tab_keizah",
-        "text_7VUMCd",
-        "text_JUQV4T",
-        "collapsible_tab_x7CWVA",
-        "collapsible_tab_L8dKVa",
-        "collapsible_tab_Yew6Fz",
-        "collapsible_tab_adTPt9",
-        "collapsible_tab_wDkkL",
-        "custom_liquid_6txmL4"
-      ]
-    }
   },
   "order": [
     "23bdb07e-77f8-419c-9568-b7766935372a",
@@ -65,6 +18,7 @@
     "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
     "463cf269-3e55-4128-838b-822482a855bf",
-    "related-products"
+    "related-products",
+    "testimonial_grid_JFjyAb"
   ]
 }
