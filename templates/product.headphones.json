@@ -188,7 +188,7 @@
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1": {
           "type": "column",
           "settings": {
-            "icon": "branch",
+            "icon": "lightning_bolt",
             "title": "USB-C for charging",
             "text": "",
             "link_label": "",
@@ -198,7 +198,7 @@
         "a98f09b9-f13e-43fe-8e23-76fa02548618": {
           "type": "column",
           "settings": {
-            "icon": "lightning_bolt",
+            "icon": "lock",
             "title": "Active Noise Cancellation",
             "text": "",
             "link_label": "",
@@ -247,21 +247,19 @@
         },
         "column_WUmry4": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "icon": "none",
-            "title": "",
+            "icon": "branch",
+            "title": "Wired Option",
             "text": "",
-            "link_label": "ELEVATE MY SOUND",
-            "link": "shopify:\/\/products\/headphones-case-aux"
+            "link_label": "",
+            "link": ""
           }
         },
         "25ebce84-0801-436c-ac34-74ace415f590": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "icon": "disc",
-            "title": "Real Volume Wheel",
+            "title": "8 Drivers",
             "text": "",
             "link_label": "",
             "link": ""
