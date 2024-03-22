@@ -640,7 +640,15 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to <\/em><em><strong>”<\/strong><\/em><em> - Christian Rodriguez<\/em><\/p>"
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Fantastic sound, built with care for the users comfort. Nothing better than truly listen to how songs were intended to be heard. Heavy's made it possible and changed the songs I listen to <\/em><em><strong>”<\/strong><\/em><em> - Christian Rodriguez<\/em><\/p>"
+          }
+        },
+        "column_yptKyF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em>Just received my Heavys and let me tell you, these are killer 😱 Perfect for heavy music and outstanding customer service👌🏻 - Sebastien C.<\/em><\/p>"
           }
         },
         "column_PQNGkU": {
@@ -659,14 +667,6 @@
             "text": "<p><em><strong>“ <\/strong><\/em><em>Heavy AF! The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘 <\/em><em><strong>”<\/strong><\/em><em> - <\/em>Levi Yockey<\/p>"
           }
         },
-        "column_yptKyF": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em>Just received my Heavys and let me tell you, these are killer 😱 Perfect for heavy music and outstanding customer service👌🏻 - Sebastien C.<\/em><\/p>"
-          }
-        },
         "column_94rxY4": {
           "type": "column",
           "settings": {
@@ -679,9 +679,9 @@
       "block_order": [
         "column_tE6AWx",
         "column_ebDWcw",
+        "column_yptKyF",
         "column_PQNGkU",
         "column_V9Niaz",
-        "column_yptKyF",
         "column_94rxY4"
       ],
       "settings": {
