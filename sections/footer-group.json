@@ -4,10 +4,9 @@
   "sections": {
     "custom_liquid_NtmXKT": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "custom_liquid": "<center><a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com?stars=5\" target=\"blank\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\" height=\"30px\"> <\/a>\n<\/img>\n<\/center>",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "padding_top": 20,
         "padding_bottom": 20
       }
