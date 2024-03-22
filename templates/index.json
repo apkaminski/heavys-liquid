@@ -456,7 +456,7 @@
         "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
       ],
       "settings": {
-        "heading": "<a href=\"\/products\/headphones-case-aux\" target=\"_blank\" title=\"Heavys H1H Headphones Bundle\">Engineered by Legend Axel Grell<\/a>",
+        "heading": "Engineered by Legend Axel Grell",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
