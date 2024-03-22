@@ -659,20 +659,20 @@
             "text": "<p><em><strong>“ <\/strong><\/em><em>Heavy AF! The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘 <\/em><em><strong>”<\/strong><\/em><em> - <\/em>Levi Yockey<\/p>"
           }
         },
+        "column_yptKyF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em>Just received my Heavys and let me tell you, these are killer 😱 Perfect for heavy music and outstanding customer service👌🏻 - Sebastien C.<\/em><\/p>"
+          }
+        },
         "column_94rxY4": {
           "type": "column",
           "settings": {
             "title": "",
             "label": "",
             "text": "<p><em><strong>“ <\/strong><\/em><em>No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great <\/em><em><strong>”<\/strong><\/em><em>                        - David Sandate<\/em><\/p>"
-          }
-        },
-        "column_yptKyF": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em>Just received my Heavys today and let me tell you something, theses thing are killer 😱<br\/>Perfect for heavy music 👍🏻<br\/>Thank you Heavys for your outstanding customer service👌🏻 - Sebastien C.<\/em><\/p>"
           }
         }
       },
@@ -681,8 +681,8 @@
         "column_ebDWcw",
         "column_PQNGkU",
         "column_V9Niaz",
-        "column_94rxY4",
-        "column_yptKyF"
+        "column_yptKyF",
+        "column_94rxY4"
       ],
       "settings": {
         "title": "<em>5 Stars From Verified Customers<\/em>",
