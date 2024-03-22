@@ -61,7 +61,7 @@
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><a href=\"#5starreviews\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-03-22_at_15.42.47.png?v=1711115050\" width=\"320px\" height=\"30px\">\n<\/img><\/href>\n<\/center>",
+        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-03-22_at_15.42.47.png?v=1711115050\" width=\"320px\" height=\"30px\">\n<\/img>\n<\/center>",
         "color_scheme": "inverse",
         "padding_top": 12,
         "padding_bottom": 12
