@@ -24,8 +24,17 @@
             "text_style": "body"
           }
         },
+        "button_anchor_akdfiH": {
+          "type": "button_anchor",
+          "settings": {
+            "button_label": "Shop Now",
+            "anchor": "heavys-featured",
+            "button_style_secondary": false
+          }
+        },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Shop Now",
             "button_link": "shopify:\/\/products\/headphones-case-aux",
@@ -34,6 +43,7 @@
         },
         "button_anchor_qRXbeN": {
           "type": "button_anchor",
+          "disabled": true,
           "settings": {
             "button_label": "Learn More",
             "anchor": "heavys-info",
@@ -45,6 +55,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "text_bitp7e",
+        "button_anchor_akdfiH",
         "92710901-502d-46f4-ad7f-15409e0614f2",
         "button_anchor_qRXbeN"
       ],
