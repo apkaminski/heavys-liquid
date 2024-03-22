@@ -134,7 +134,7 @@
             "layout": "horizontal",
             "icon_1": "barcode",
             "heading_1": "50 Hours Play time",
-            "icon_2": "headset",
+            "icon_2": "radio",
             "heading_2": "Active Noise Cancellation",
             "icon_3": "mic",
             "heading_3": "5 Built-in Mics"
@@ -144,8 +144,8 @@
           "type": "icon-with-text",
           "settings": {
             "layout": "horizontal",
-            "icon_1": "radio",
-            "heading_1": "Transparency Mode",
+            "icon_1": "headset",
+            "heading_1": "Designed for Comfort",
             "icon_2": "bluetooth",
             "heading_2": " Bluetooth 5.1  + Aux Cable",
             "icon_3": "fire",
