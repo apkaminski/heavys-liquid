@@ -128,6 +128,32 @@
             "heading_3": "50 hours of battery life, 5 microphones, Bluetooth 5.1, HellBlocker™ noise cancellation tech, transparency mode, super comfortable design"
           }
         },
+        "icon_with_text_8KT3iC": {
+          "type": "icon-with-text",
+          "disabled": true,
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "ruler",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
+          }
+        },
+        "icon_with_text_pQKKeY": {
+          "type": "icon-with-text",
+          "disabled": true,
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
+          }
+        },
         "0a1dc52c-9f16-4aff-8138-1f799065fc86": {
           "type": "icon-with-text",
           "settings": {
@@ -154,6 +180,8 @@
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-2",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5",
         "b51b00a5-07c0-4cc6-91bb-a27b9b386d49",
+        "icon_with_text_8KT3iC",
+        "icon_with_text_pQKKeY",
         "0a1dc52c-9f16-4aff-8138-1f799065fc86",
         "7560db2d-df1e-46d3-89e5-e5fb2faab6e4"
       ],
