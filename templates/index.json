@@ -132,7 +132,7 @@
           "type": "icon-with-text",
           "settings": {
             "layout": "horizontal",
-            "icon_1": "check_mark",
+            "icon_1": "box",
             "heading_1": "Premium Travel Case, Aux Cable, USB-C",
             "icon_2": "truck",
             "heading_2": "Free US\/CA\/AU Shipping",
