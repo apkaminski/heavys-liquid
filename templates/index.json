@@ -70,18 +70,18 @@
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
       "type": "featured-product",
       "blocks": {
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-1": {
           "type": "title",
           "settings": {
             "heading_size": "h1"
+          }
+        },
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Listen to Metal the Way it's Meant to be Heard",
+            "text_style": "uppercase"
           }
         },
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-2": {
@@ -135,8 +135,8 @@
         }
       },
       "block_order": [
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-1",
+        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-2",
         "7560db2d-df1e-46d3-89e5-e5fb2faab6e4",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-4",
@@ -159,7 +159,7 @@
         "image_zoom": "none",
         "mobile_thumbnails": "show",
         "enable_video_looping": false,
-        "padding_top": 80,
+        "padding_top": 40,
         "padding_bottom": 20,
         "scroll_anchor": "heavys-featured"
       }
