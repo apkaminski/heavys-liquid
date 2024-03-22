@@ -134,8 +134,8 @@
             "layout": "horizontal",
             "icon_1": "headset",
             "heading_1": "50 Hours Play time",
-            "icon_2": "return",
-            "heading_2": "Heading",
+            "icon_2": "lightning_bolt",
+            "heading_2": "Active Noise Cancellation",
             "icon_3": "truck",
             "heading_3": "Heading"
           }
