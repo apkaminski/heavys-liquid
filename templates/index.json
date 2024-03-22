@@ -473,7 +473,7 @@
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Hear the Difference with Top Industry Pros",
+        "heading": "<a href=\"#heavys-featured\" title=\"#heavys-featured\">Hear the Difference<\/a> with Top Industry Pros",
         "heading_size": "h1",
         "blog": "testimonials",
         "post_limit": 3,
