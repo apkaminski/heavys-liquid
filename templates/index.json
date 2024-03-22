@@ -130,10 +130,9 @@
         },
         "icon_with_text_8KT3iC": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "horizontal",
-            "icon_1": "ruler",
+            "icon_1": "headset",
             "heading_1": "50 Hours Play time",
             "icon_2": "return",
             "heading_2": "Heading",
@@ -143,15 +142,14 @@
         },
         "icon_with_text_pQKKeY": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "horizontal",
-            "icon_1": "heart",
-            "heading_1": "Heading",
+            "icon_1": "radio",
+            "heading_1": "Transparency Mode",
             "icon_2": "bluetooth",
-            "heading_2": " Bluetooth \/ Cable",
+            "heading_2": " Bluetooth 5.1  \/ Aux Cable",
             "icon_3": "fire",
-            "heading_3": "Custom Designs"
+            "heading_3": "Custom Shell Designs"
           }
         },
         "0a1dc52c-9f16-4aff-8138-1f799065fc86": {
