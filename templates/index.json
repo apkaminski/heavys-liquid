@@ -470,8 +470,8 @@
         "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
       ],
       "settings": {
-        "heading": "Engineered by Legend Axel Grell",
-        "heading_size": "h1",
+        "heading": "",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
         "autoplay": false,
