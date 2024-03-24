@@ -109,6 +109,12 @@
           "settings": {
           }
         },
+        "quantity_selector_ANHTwp": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5": {
           "type": "buy_buttons",
           "settings": {
@@ -176,6 +182,7 @@
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-1",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-2",
+        "quantity_selector_ANHTwp",
         "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5",
         "b51b00a5-07c0-4cc6-91bb-a27b9b386d49",
         "icon_with_text_8KT3iC",
