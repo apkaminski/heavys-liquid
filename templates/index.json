@@ -130,7 +130,6 @@
         },
         "icon_with_text_8KT3iC": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "barcode",
@@ -143,7 +142,6 @@
         },
         "icon_with_text_pQKKeY": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "headset",
@@ -156,7 +154,6 @@
         },
         "0a1dc52c-9f16-4aff-8138-1f799065fc86": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "diamond",
