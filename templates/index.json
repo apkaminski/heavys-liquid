@@ -184,7 +184,7 @@
         "7560db2d-df1e-46d3-89e5-e5fb2faab6e4"
       ],
       "custom_css": [
-
+        ".product__text {text-align: center}"
       ],
       "settings": {
         "product": "headphones-case-aux",
