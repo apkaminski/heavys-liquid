@@ -121,11 +121,11 @@
           "settings": {
             "layout": "vertical",
             "icon_1": "check_mark",
-            "heading_1": "World’s first headphones built for Metal Fans, mimicking the live music experience",
+            "heading_1": "World’s first headphones built for Metal Fans mimicking the live music experience",
             "icon_2": "check_mark",
             "heading_2": "8 Drivers with patented speaker placement creating an optimal, natural sound field & quality",
             "icon_3": "none",
-            "heading_3": "."
+            "heading_3": ""
           }
         },
         "icon_with_text_8KT3iC": {
@@ -184,7 +184,7 @@
         "7560db2d-df1e-46d3-89e5-e5fb2faab6e4"
       ],
       "custom_css": [
-        ".product__text {text-align: center}"
+        ".product__text {text-align: center;}"
       ],
       "settings": {
         "product": "headphones-case-aux",
