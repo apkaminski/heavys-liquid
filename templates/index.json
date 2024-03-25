@@ -190,6 +190,7 @@
         "0a1dc52c-9f16-4aff-8138-1f799065fc86",
         "7560db2d-df1e-46d3-89e5-e5fb2faab6e4"
       ],
+      "disabled": true,
       "custom_css": [
         ".product__text {text-align: center;}"
       ],
