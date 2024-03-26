@@ -190,8 +190,129 @@
         "0a1dc52c-9f16-4aff-8138-1f799065fc86",
         "7560db2d-df1e-46d3-89e5-e5fb2faab6e4"
       ],
+      "disabled": true,
       "custom_css": [
         ".product__text {text-align: center;}"
+      ],
+      "settings": {
+        "product": "headphones-case-aux",
+        "color_scheme": "inverse",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "image_zoom": "none",
+        "mobile_thumbnails": "show",
+        "enable_video_looping": false,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "scroll_anchor": "heavys-featured"
+      }
+    },
+    "featured_product_BUEUam": {
+      "type": "featured-product",
+      "blocks": {
+        "title_w8KRiE": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "text_aBRybF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Listen to Metal the Way it's Meant to be Heard",
+            "text_style": "uppercase"
+          }
+        },
+        "price_kbjrXb": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "quantity_selector_w7UAUH": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons_6KMFT6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_NBiFjE": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "check_mark",
+            "heading_1": "World’s first headphones built for Metal Fans mimicking the live music experience",
+            "icon_2": "check_mark",
+            "heading_2": "8 Drivers with patented speaker placement creating an optimal, natural sound field & quality",
+            "icon_3": "none",
+            "heading_3": ""
+          }
+        },
+        "icon_with_text_B43Pra": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "barcode",
+            "heading_1": "50 Hours Play time",
+            "icon_2": "radio",
+            "heading_2": "HellBlocker Noise Cancellation",
+            "icon_3": "mic",
+            "heading_3": "5 Built-in Mics"
+          }
+        },
+        "icon_with_text_6cirKh": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "headset",
+            "heading_1": "Designed for Ultra-Comfort",
+            "icon_2": "bluetooth",
+            "heading_2": " Bluetooth, Aux, USB-C",
+            "icon_3": "fire",
+            "heading_3": "Interchangeable Shell Designs"
+          }
+        },
+        "icon_with_text_nwJ9JL": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "diamond",
+            "heading_1": "Premium Protective Travel Case",
+            "icon_2": "truck",
+            "heading_2": "Free US\/CA\/AU Shipping",
+            "icon_3": "return",
+            "heading_3": "14 Day simple Return Policy"
+          }
+        },
+        "custom_liquid_6pR3JF": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            text-transform: uppercase;\n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Get it Before Christmas with Express Shipping!<\/h1>\n<\/body>\n<\/html>"
+          }
+        }
+      },
+      "block_order": [
+        "title_w8KRiE",
+        "text_aBRybF",
+        "price_kbjrXb",
+        "quantity_selector_w7UAUH",
+        "buy_buttons_6KMFT6",
+        "icon_with_text_NBiFjE",
+        "icon_with_text_B43Pra",
+        "icon_with_text_6cirKh",
+        "icon_with_text_nwJ9JL",
+        "custom_liquid_6pR3JF"
       ],
       "settings": {
         "product": "headphones-case-aux",
@@ -761,6 +882,7 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
+    "featured_product_BUEUam",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "rich_text_dpckBJ",
     "afe8820a-9e66-4dc8-9751-860686858282",
