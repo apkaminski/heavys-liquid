@@ -242,7 +242,7 @@
         "buy_buttons_6KMFT6": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
         },
@@ -526,7 +526,7 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
           }
         },
