@@ -76,14 +76,6 @@
             "heading_size": "h1"
           }
         },
-        "text_aBRybF": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Listen to Metal the Way it's Meant to be Heard",
-            "text_style": "uppercase"
-          }
-        },
         "price_kbjrXb": {
           "type": "price",
           "settings": {
@@ -160,7 +152,6 @@
       },
       "block_order": [
         "title_w8KRiE",
-        "text_aBRybF",
         "price_kbjrXb",
         "quantity_selector_w7UAUH",
         "buy_buttons_6KMFT6",
@@ -178,7 +169,7 @@
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "media_position": "left",
-        "gallery_layout": "thumbnail",
+        "gallery_layout": "thumbnail_slider",
         "image_zoom": "lightbox",
         "mobile_thumbnails": "show",
         "enable_video_looping": false,
