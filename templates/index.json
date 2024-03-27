@@ -28,7 +28,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/products\/headphones-case-aux",
+            "button_link": "#heavys-featured",
             "button_style_secondary": false
           }
         }
@@ -56,6 +56,78 @@
         "stack_images_on_mobile": true,
         "show_text_below": false,
         "scroll_anchor": ""
+      }
+    },
+    "afe8820a-9e66-4dc8-9751-860686858282": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Metal Just Got Heavier<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "locate",
+            "heading_1": "Multi-Driver Tech",
+            "description_1": "Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth"
+          }
+        },
+        "66e14d12-5ecf-4694-ae84-78bddc050c66": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "bulb",
+            "heading_1": "<strong>MasterMind Design<\/strong>",
+            "description_1": "Feel the lifetime of dedication delivered to the Metal Community by Axel Grell, known as the “Godfather of German Sound”, with over 30 years in audio and 40+ patents"
+          }
+        },
+        "c641f485-c30e-4ac3-822e-7caa35a87b2f": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "radio",
+            "heading_1": "Natural Sound Field",
+            "description_1": "Heavys patented technology is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres"
+          }
+        },
+        "39bf155e-c4c1-488e-b59e-b28704d805a4": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "diamond",
+            "heading_1": "Top Notch Features",
+            "description_1": "Hell Blocker™ active noise cancellation, Bluetooth 5.1, a wired option, 50 hours of play time, 5 microphones, transparency mode, ultra-soft ear-cups, custom designs"
+          }
+        }
+      },
+      "block_order": [
+        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
+        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
+        "66e14d12-5ecf-4694-ae84-78bddc050c66",
+        "c641f485-c30e-4ac3-822e-7caa35a87b2f",
+        "39bf155e-c4c1-488e-b59e-b28704d805a4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-02-12_at_0.24.57.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "sticky",
+        "mobile_content_alignment": "center",
+        "padding_top": 32,
+        "padding_bottom": 20,
+        "scroll_anchor": "heavys-info"
       }
     },
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
@@ -223,78 +295,6 @@
         "full_width": true,
         "padding_top": 32,
         "padding_bottom": 32
-      }
-    },
-    "afe8820a-9e66-4dc8-9751-860686858282": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Metal Just Got Heavier<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "locate",
-            "heading_1": "Multi-Driver Tech",
-            "description_1": "Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth"
-          }
-        },
-        "66e14d12-5ecf-4694-ae84-78bddc050c66": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "bulb",
-            "heading_1": "<strong>MasterMind Design<\/strong>",
-            "description_1": "Feel the lifetime of dedication delivered to the Metal Community by Axel Grell, known as the “Godfather of German Sound”, with over 30 years in audio and 40+ patents"
-          }
-        },
-        "c641f485-c30e-4ac3-822e-7caa35a87b2f": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "radio",
-            "heading_1": "Natural Sound Field",
-            "description_1": "Heavys patented technology is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres"
-          }
-        },
-        "39bf155e-c4c1-488e-b59e-b28704d805a4": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "diamond",
-            "heading_1": "Top Notch Features",
-            "description_1": "Hell Blocker™ active noise cancellation, Bluetooth 5.1, a wired option, 50 hours of play time, 5 microphones, transparency mode, ultra-soft ear-cups, custom designs"
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
-        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
-        "66e14d12-5ecf-4694-ae84-78bddc050c66",
-        "c641f485-c30e-4ac3-822e-7caa35a87b2f",
-        "39bf155e-c4c1-488e-b59e-b28704d805a4"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2024-02-12_at_0.24.57.png",
-        "enable_video_looping": false,
-        "autoplay": false,
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "sticky",
-        "mobile_content_alignment": "center",
-        "padding_top": 32,
-        "padding_bottom": 20,
-        "scroll_anchor": "heavys-info"
       }
     },
     "d8162b2b-efc2-4ce5-ab3f-2e696a3b1e4e": {
@@ -727,11 +727,11 @@
   },
   "order": [
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
+    "afe8820a-9e66-4dc8-9751-860686858282",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "featured_product_BUEUam",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "rich_text_dpckBJ",
-    "afe8820a-9e66-4dc8-9751-860686858282",
     "d8162b2b-efc2-4ce5-ab3f-2e696a3b1e4e",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
