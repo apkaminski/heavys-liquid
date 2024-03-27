@@ -45,52 +45,6 @@
       "blocks": {
       }
     },
-    "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
-      "disabled": false,
-      "settings": {
-      },
-      "blocks": {
-        "894984f1-7c70-4605-8196-1619fc4c16c9": {
-          "type": "preorder_buttons",
-          "disabled": false,
-          "settings": {
-            "klavyo_desktop_id": "YyZgLn",
-            "klavyo_mobile_id": "TMcm4k"
-          }
-        },
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5": {
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "eabcbd2d-7eae-4836-bd99-17cbfe2dba2e": {
-          "type": "icon-with-text",
-          "disabled": false,
-          "settings": {
-            "layout": "vertical",
-            "header-be6763104262bbecb875f3e6e3daef24": null,
-            "icon_1": "check_mark",
-            "image_1": null,
-            "heading_1": "Eco-friendly case designed for heavy metal enthusiasts seeking both style and protection",
-            "icon_2": "none",
-            "image_2": null,
-            "heading_2": "",
-            "icon_3": "none",
-            "image_3": null,
-            "heading_3": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0",
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-1",
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-2",
-        "894984f1-7c70-4605-8196-1619fc4c16c9",
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5",
-        "b51b00a5-07c0-4cc6-91bb-a27b9b386d49",
-        "eabcbd2d-7eae-4836-bd99-17cbfe2dba2e"
-      ]
-    },
     "a259a103-10d9-404b-84c4-de542413e278": {
       "disabled": false,
       "settings": {
@@ -155,7 +109,6 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "afe8820a-9e66-4dc8-9751-860686858282",
-    "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "video",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
     "featured_collection",

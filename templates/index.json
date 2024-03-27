@@ -24,15 +24,6 @@
             "text_style": "body"
           }
         },
-        "button_anchor_akdfiH": {
-          "type": "button_anchor",
-          "disabled": true,
-          "settings": {
-            "button_label": "Shop Now",
-            "anchor": "heavys-featured",
-            "button_style_secondary": false
-          }
-        },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
           "type": "button",
           "settings": {
@@ -40,33 +31,22 @@
             "button_link": "shopify:\/\/products\/headphones-case-aux",
             "button_style_secondary": false
           }
-        },
-        "button_anchor_qRXbeN": {
-          "type": "button_anchor",
-          "disabled": true,
-          "settings": {
-            "button_label": "Learn More",
-            "anchor": "heavys-info",
-            "button_style_secondary": true
-          }
         }
       },
       "block_order": [
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "text_bitp7e",
-        "button_anchor_akdfiH",
-        "92710901-502d-46f4-ad7f-15409e0614f2",
-        "button_anchor_qRXbeN"
+        "92710901-502d-46f4-ad7f-15409e0614f2"
       ],
       "custom_css": [
-        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
-        ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 13px;}"
+        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
+        ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
@@ -85,130 +65,6 @@
         "color_scheme": "inverse",
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "dec9af4a-b801-429f-93b8-9b9fcc8174d7": {
-      "type": "featured-product",
-      "blocks": {
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Listen to Metal the Way it's Meant to be Heard",
-            "text_style": "uppercase"
-          }
-        },
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-2": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "quantity_selector_ANHTwp": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "b51b00a5-07c0-4cc6-91bb-a27b9b386d49": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "check_mark",
-            "heading_1": "World’s first headphones built for Metal Fans mimicking the live music experience",
-            "icon_2": "check_mark",
-            "heading_2": "8 Drivers with patented speaker placement creating an optimal, natural sound field & quality",
-            "icon_3": "none",
-            "heading_3": ""
-          }
-        },
-        "icon_with_text_8KT3iC": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "barcode",
-            "heading_1": "50 Hours Play time",
-            "icon_2": "radio",
-            "heading_2": "HellBlocker Noise Cancellation",
-            "icon_3": "mic",
-            "heading_3": "5 Built-in Mics"
-          }
-        },
-        "icon_with_text_pQKKeY": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "headset",
-            "heading_1": "Designed for Ultra-Comfort",
-            "icon_2": "bluetooth",
-            "heading_2": " Bluetooth, Aux, USB-C",
-            "icon_3": "fire",
-            "heading_3": "Interchangeable Shell Designs"
-          }
-        },
-        "0a1dc52c-9f16-4aff-8138-1f799065fc86": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "diamond",
-            "heading_1": "Premium Protective Travel Case",
-            "icon_2": "truck",
-            "heading_2": "Free US\/CA\/AU Shipping",
-            "icon_3": "return",
-            "heading_3": "14 Day simple Return Policy"
-          }
-        },
-        "7560db2d-df1e-46d3-89e5-e5fb2faab6e4": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            text-transform: uppercase;\n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Get it Before Christmas with Express Shipping!<\/h1>\n<\/body>\n<\/html>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-1",
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-0",
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-2",
-        "quantity_selector_ANHTwp",
-        "template--14883182903370__dec9af4a-b801-429f-93b8-9b9fcc8174d7-1689085923e8334cb2-5",
-        "b51b00a5-07c0-4cc6-91bb-a27b9b386d49",
-        "icon_with_text_8KT3iC",
-        "icon_with_text_pQKKeY",
-        "0a1dc52c-9f16-4aff-8138-1f799065fc86",
-        "7560db2d-df1e-46d3-89e5-e5fb2faab6e4"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".product__text {text-align: center;}"
-      ],
-      "settings": {
-        "product": "headphones-case-aux",
-        "color_scheme": "inverse",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "gallery_layout": "thumbnail_slider",
-        "image_zoom": "none",
-        "mobile_thumbnails": "show",
-        "enable_video_looping": false,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "scroll_anchor": "heavys-featured"
       }
     },
     "featured_product_BUEUam": {
@@ -881,7 +737,6 @@
   "order": [
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
-    "dec9af4a-b801-429f-93b8-9b9fcc8174d7",
     "featured_product_BUEUam",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "rich_text_dpckBJ",
