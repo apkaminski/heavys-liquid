@@ -44,8 +44,8 @@
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner.jpg",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-03-27_at_19.35.12.png",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
@@ -54,7 +54,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": false,
+        "show_text_below": true,
         "scroll_anchor": ""
       }
     },
