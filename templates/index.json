@@ -178,6 +178,53 @@
         "scroll_anchor": "heavys-featured"
       }
     },
+    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".pad {padding-right: 10px; padding-left: 10px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h2><center>Trusted By 25,000+ Music Fans<\/center><\/h1><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_dpckBJ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9DfqE6": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em><\/h3>"
+          }
+        },
+        "button_zAqwEW": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_9DfqE6",
+        "button_zAqwEW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
     "afe8820a-9e66-4dc8-9751-860686858282": {
       "type": "image-with-text",
       "blocks": {
@@ -248,53 +295,6 @@
         "padding_top": 32,
         "padding_bottom": 20,
         "scroll_anchor": "heavys-info"
-      }
-    },
-    "fb888f8c-1de6-4e1d-a93d-451ddcd4584f": {
-      "type": "custom-liquid",
-      "custom_css": [
-        ".pad {padding-right: 10px; padding-left: 10px;}"
-      ],
-      "settings": {
-        "custom_liquid": "<h2><center>Trusted By 25,000+ Music Fans<\/center><\/h1><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "rich_text_dpckBJ": {
-      "type": "rich-text",
-      "blocks": {
-        "text_9DfqE6": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em><\/h3>"
-          }
-        },
-        "button_zAqwEW": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_9DfqE6",
-        "button_zAqwEW"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "full_width": true,
-        "padding_top": 32,
-        "padding_bottom": 32
       }
     },
     "d8162b2b-efc2-4ce5-ab3f-2e696a3b1e4e": {
@@ -729,9 +729,9 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "featured_product_BUEUam",
-    "afe8820a-9e66-4dc8-9751-860686858282",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "rich_text_dpckBJ",
+    "afe8820a-9e66-4dc8-9751-860686858282",
     "d8162b2b-efc2-4ce5-ab3f-2e696a3b1e4e",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
