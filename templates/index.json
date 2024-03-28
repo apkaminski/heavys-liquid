@@ -71,14 +71,6 @@
     "featured_product_e4tALB": {
       "type": "featured-product",
       "blocks": {
-        "text_iwLF3H": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title_88feJn": {
           "type": "title",
           "settings": {
@@ -87,19 +79,6 @@
         },
         "price_hXn3GX": {
           "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_rxPKCU": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector_HJiecF": {
-          "type": "quantity_selector",
-          "disabled": true,
           "settings": {
           }
         },
@@ -112,6 +91,7 @@
         },
         "share_EcTBL6": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -133,11 +113,11 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "heart",
-            "heading_1": "Heading",
+            "heading_1": "50 Hours Play time",
             "icon_2": "return",
-            "heading_2": "8 Drivers with patented speaker placement creating an optimal, natural sound field & quality",
+            "heading_2": "HellBlocker Noise Cancellation",
             "icon_3": "truck",
-            "heading_3": "Heading"
+            "heading_3": "5 Built-in Mics"
           }
         },
         "icon_with_text_yHDV3d": {
@@ -145,11 +125,11 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "heart",
-            "heading_1": "Heading",
+            "heading_1": "Designed for Ultra-Comfort",
             "icon_2": "return",
-            "heading_2": "Heading",
+            "heading_2": " Bluetooth, Aux, USB-C",
             "icon_3": "truck",
-            "heading_3": "Heading"
+            "heading_3": "Interchangeable Shell Designs"
           }
         },
         "icon_with_text_KY3LyL": {
@@ -157,28 +137,39 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "heart",
-            "heading_1": "Heading",
+            "heading_1": "Premium Protective Travel Case",
             "icon_2": "return",
-            "heading_2": "Heading",
+            "heading_2": "Free US\/CA\/AU Shipping",
             "icon_3": "truck",
-            "heading_3": "Heading"
+            "heading_3": "14 Day simple Return Policy"
+          }
+        },
+        "quantity_selector_HJiecF": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "variant_picker_rxPKCU": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
           }
         }
       },
       "block_order": [
-        "text_iwLF3H",
         "title_88feJn",
         "price_hXn3GX",
-        "variant_picker_rxPKCU",
-        "quantity_selector_HJiecF",
         "buy_buttons_PdyyPc",
         "share_EcTBL6",
         "icon_with_text_fN3nLN",
         "icon_with_text_wDbECA",
         "icon_with_text_yHDV3d",
-        "icon_with_text_KY3LyL"
+        "icon_with_text_KY3LyL",
+        "quantity_selector_HJiecF",
+        "variant_picker_rxPKCU"
       ],
-      "disabled": true,
       "settings": {
         "product": "headphones-case-aux",
         "color_scheme": "inverse",
@@ -290,6 +281,7 @@
         "icon_with_text_nwJ9JL",
         "custom_liquid_6pR3JF"
       ],
+      "disabled": true,
       "settings": {
         "product": "headphones-case-aux",
         "color_scheme": "inverse",
