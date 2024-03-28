@@ -44,11 +44,11 @@
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 13px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2024-03-27_at_19.35.12.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-03-28_at_14.09.28.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
         "image_behavior": "none",
