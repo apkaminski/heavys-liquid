@@ -163,7 +163,7 @@
         "custom_liquid_6pR3JF"
       ],
       "settings": {
-        "product": "headphones-case-aux",
+        "product": "heavys-h1h-headphones-bundle-case",
         "color_scheme": "inverse",
         "secondary_background": false,
         "media_size": "medium",
@@ -719,7 +719,7 @@
         "title": "<em>5 Stars Verified Customers<\/em>",
         "heading_size": "h2",
         "button_label": "Start Listening Now",
-        "button_link": "shopify:\/\/products\/headphones-case-aux",
+        "button_link": "shopify:\/\/products\/heavys-h1h-headphones-bundle-case",
         "color_scheme": "inverse",
         "padding_top": 36,
         "padding_bottom": 36,
@@ -830,7 +830,7 @@
       ],
       "disabled": true,
       "settings": {
-        "product": "headphones-case-aux",
+        "product": "heavys-h1h-headphones-bundle-case",
         "color_scheme": "inverse",
         "secondary_background": false,
         "media_size": "medium",
