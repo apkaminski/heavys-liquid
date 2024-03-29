@@ -115,6 +115,23 @@
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special<\/h1>\n<\/body>\n<\/html>"
           }
+        },
+        "collapsible_tab_4CFUfH": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Product Specifications",
+            "icon": "lightning_bolt",
+            "content": "<h2><strong>Specification<\/strong><\/h2><h3>Type<\/h3><p>Full size around-the-ear headphone<\/p><h3>Drivers<\/h3><p>Dynamic<\/p><h3>Drivers per side<\/h3><p>4 (2 low \/ mid range speakers, 2 high frequency tweeter)<\/p><h3>Frequency range<\/h3><p>5 Hz to 46 kHz \/ 5 Hz to 24 kHz as Bluetooth headset<br\/>THD at 100 dB SPL, 1 kHz: &gt;0.05%<\/p><h3>Weight<\/h3><p>410 g \/ 14.5 oz<\/p><h3>BT Version<\/h3><p>5.1<\/p><h3>Codecs<\/h3><p>SBC, AAC, aptX adaptive, LHDC<\/p><h3>Battery lifetime<\/h3><p>up to 50 h<\/p><h3>Noise Cancelling<\/h3><p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance<\/p><h3>Modes<\/h3><p>Wired Pure Passive, BT Passive, BT ANC, BT Transparent<\/p><h3>Max SPL<\/h3><p>According to IEC 62368-1<\/p><h3>Voice Pick up<\/h3><p>2 microphone end-fire array<\/p><h3>Controls<\/h3><p>Volume up \/ down, play \/ pause, next \/ previous song, take \/ decline \/ end a call<\/p><h3>USB<\/h3><p>USB-C socket for charging and digital in<\/p><h3>Learn More:<\/h3><p><a href=\"https:\/\/heavys-2547.myshopify.com\/blogs\/testimonials\/heavys-h1h-headphones-product-info\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">H1H Headphones Product Overview<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "popup_arJBDM": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "text": "Pop-up link text",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -132,7 +149,9 @@
         "custom_liquid_7DbLHT",
         "complementary_z4cWLg",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
+        "collapsible_tab_4CFUfH",
+        "popup_arJBDM"
       ],
       "settings": {
         "color_scheme": "inverse",
@@ -401,7 +420,7 @@
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/heavys_headphone_sound_wave_1_white.png",
+            "image": "shopify:\/\/shop_images\/heavys_headphone_sound_wave_1_white_2.png",
             "caption": "",
             "heading": "Natural Sound Field",
             "text": "<p>Heavys patented technology, built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres<\/p>",
