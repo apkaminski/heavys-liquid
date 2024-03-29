@@ -127,7 +127,6 @@
         },
         "popup_arJBDM": {
           "type": "popup",
-          "disabled": true,
           "settings": {
             "text": "H1H Headphones Specifications",
             "page": "heavys-h1h-headphones-product-specification"
