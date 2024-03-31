@@ -40,9 +40,9 @@
         "text_bitp7e"
       ],
       "custom_css": [
-        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
-        ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
-        ".banner__box {background-color: #000000;}"
+        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 16px;}",
+        ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 16px;}",
+        ".banner__box {background-color: #ffffff;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-03-30_at_16.25.21.png",
