@@ -84,7 +84,6 @@
         },
         "quantity_selector_w7UAUH": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {
           }
         },
@@ -109,6 +108,7 @@
         },
         "icon_with_text_B43Pra": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "barcode",
@@ -121,6 +121,7 @@
         },
         "icon_with_text_6cirKh": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "headset",
@@ -133,6 +134,7 @@
         },
         "icon_with_text_nwJ9JL": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "diamond",
