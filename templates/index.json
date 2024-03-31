@@ -6,15 +6,15 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "Listen to Metal The Way It's Meant to Be Heard",
-            "text_style": "body"
+            "text": "AIN’T NO JOKE",
+            "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Headphones  for Heavy Music<\/strong>",
-            "heading_size": "h0"
+            "heading": "<strong>Today Only: Heavys Headphones for $249<\/strong>",
+            "heading_size": "h1"
           }
         },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
@@ -28,7 +28,7 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em>",
+            "text": "NO CODE NEEDED",
             "text_style": "body"
           }
         }
