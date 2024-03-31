@@ -106,6 +106,7 @@
         },
         "icon_with_text_36WbCE": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "vertical",
             "icon_1": "check_mark",
