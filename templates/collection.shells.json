@@ -154,7 +154,7 @@
         "media_fit": "contain",
         "media_position": "left",
         "gallery_layout": "stacked",
-        "image_zoom": "none",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "show",
         "enable_video_looping": false,
         "padding_top": 80,
