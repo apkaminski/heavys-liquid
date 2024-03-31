@@ -107,7 +107,7 @@
         "icon_with_text_36WbCE": {
           "type": "icon-with-text",
           "settings": {
-            "layout": "horizontal",
+            "layout": "vertical",
             "icon_1": "check_mark",
             "heading_1": "World’s first headphones built for Metal Fans mimicking the live music experience",
             "icon_2": "check_mark",
