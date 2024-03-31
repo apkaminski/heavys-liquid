@@ -451,6 +451,113 @@
         "scroll_anchor": ""
       }
     },
+    "featured_product_rzrQpY": {
+      "type": "featured-product",
+      "blocks": {
+        "title_EiP3kg": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_RPAGqh": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "text_txmfrj": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<em>Enhance with Interchangeable Shells<\/em>",
+            "text_style": "uppercase"
+          }
+        },
+        "variant_picker_LMLCaa": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "buy_buttons_ryFPCA": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "text_ff7WeY": {
+          "type": "text",
+          "settings": {
+            "text": "Personalize your headphones with LIMITED designs of interchangeable <a href=\"\/collections\/shells\" title=\"Shells\">Shells<\/a> by your favorite artists.",
+            "text_style": "body"
+          }
+        },
+        "text_xRGJ3D": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Inside the Shells Bundle <\/strong>: Heavys H1H Headphones, your selected pair of designed Shells, pair of Heavys original shells, AUX Audio Cable, USB-C Charging Cable, Free premium protective travel case",
+            "text_style": "body"
+          }
+        },
+        "text_FHPWga": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"\/collections\/shells\" title=\"Shells\"><em><strong>See Our Full Range of Artist Collabs HERE<\/strong><\/em><\/a>",
+            "text_style": "subtitle"
+          }
+        },
+        "text_qqMXHX": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Add an Interchangeable Design",
+            "text_style": "body"
+          }
+        },
+        "icon_with_text_36WbCE": {
+          "type": "icon-with-text",
+          "disabled": true,
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
+          }
+        }
+      },
+      "block_order": [
+        "title_EiP3kg",
+        "price_RPAGqh",
+        "text_txmfrj",
+        "variant_picker_LMLCaa",
+        "buy_buttons_ryFPCA",
+        "text_ff7WeY",
+        "text_xRGJ3D",
+        "text_FHPWga",
+        "text_qqMXHX",
+        "icon_with_text_36WbCE"
+      ],
+      "settings": {
+        "product": "heavys-h1h-headphones-bundle-case",
+        "color_scheme": "inverse",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": false,
+        "media_fit": "cover",
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "image_zoom": "none",
+        "mobile_thumbnails": "show",
+        "enable_video_looping": false,
+        "padding_top": 20,
+        "padding_bottom": 60,
+        "scroll_anchor": ""
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "disabled": true,
@@ -857,6 +964,7 @@
     "d8162b2b-efc2-4ce5-ab3f-2e696a3b1e4e",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
+    "featured_product_rzrQpY",
     "featured_collection",
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
