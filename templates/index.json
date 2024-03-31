@@ -163,6 +163,7 @@
         "text_FHPWga",
         "text_qqMXHX"
       ],
+      "disabled": true,
       "settings": {
         "product": "heavys-h1h-headphones-bundle-case",
         "color_scheme": "inverse",
@@ -274,7 +275,6 @@
         "icon_with_text_nwJ9JL",
         "custom_liquid_6pR3JF"
       ],
-      "disabled": true,
       "settings": {
         "product": "heavys-h1h-headphones-bundle-case",
         "color_scheme": "inverse",
