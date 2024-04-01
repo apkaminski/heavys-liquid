@@ -25,7 +25,7 @@
             "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 20,
+            "image_overlay_opacity": 40,
             "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
             "text_alignment_mobile": "center"
           }
