@@ -3,7 +3,7 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-1"
       }
@@ -15,12 +15,12 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/L1070183_1.jpg",
-            "heading": "Meet HEAVYS<strong> Shells™<\/strong>",
+            "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
             "link": "",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "center",
