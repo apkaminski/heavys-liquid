@@ -17,14 +17,14 @@
             "image": "shopify:\/\/shop_images\/L1070183_1.jpg",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "Personalize your headphones with interchangeable ear-cups featuring official designs by your favorite artists",
+            "subheading": "",
             "button_label": "",
             "link": "",
             "button_style_secondary": true,
             "box_align": "bottom-left",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 40,
+            "image_overlay_opacity": 0,
             "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
             "text_alignment_mobile": "center"
           }
@@ -35,14 +35,14 @@
             "image": "shopify:\/\/shop_images\/L1070186.jpg",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "<strong>Personalize your headphones with interchangeable ear-cups featuring official designs by your favorite artists<\/strong>",
+            "subheading": "",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "top-left",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 50,
+            "image_overlay_opacity": 0,
             "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
             "text_alignment_mobile": "center"
           }
