@@ -2,7 +2,6 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -16,7 +15,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/L1070183_1.jpg",
-            "heading": "Meet Heavys Shells",
+            "heading": "Meet HEAVYS<strong> Shells™<\/strong>",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
@@ -25,7 +24,7 @@
             "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 40,
+            "image_overlay_opacity": 20,
             "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
             "text_alignment_mobile": "center"
           }
