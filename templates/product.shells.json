@@ -195,11 +195,10 @@
         },
         "collapsible_tab_adTPt9": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Top Notch Features",
-            "icon": "star",
-            "content": "<p>+ 5 microphones<br\/>+ 50 hours of battery life<\/p><p>+ Bluetooth 5.1 + wired option<\/p><p>+ HellBlocker™ active noise cancellation technology<\/p><p>+ Transparent mode for speaking<\/p><p>+ super comfortable design<\/p>",
+            "heading": "Free US\/CA\/AU Shipping",
+            "icon": "truck",
+            "content": "<p>+ 14 Day 'no questions asked' return policy<\/p><p>+ Free Shipping in US \/ CA \/ EU <\/p>",
             "page": ""
           }
         },
