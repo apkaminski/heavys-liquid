@@ -6,7 +6,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "Listen to Metal Like Never Before",
+            "text": "Listen to Metal The Way It's Meant To Be Heard",
             "text_style": "body"
           }
         },
@@ -40,7 +40,7 @@
         "text_bitp7e"
       ],
       "custom_css": [
-        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 16px;}",
+        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 16px;}",
         ".banner__box {background-color: #000000;}"
       ],
