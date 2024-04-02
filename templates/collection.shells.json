@@ -12,13 +12,6 @@
     "55782d96-8b7d-40a9-8370-87b6338da840": {
       "type": "image-banner",
       "blocks": {
-        "42862296-1b37-490a-bc46-babf848ace8b": {
-          "type": "text",
-          "settings": {
-            "text": "Ain't no Joke! Shells Bundles from $269",
-            "text_style": "subtitle"
-          }
-        },
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0": {
           "type": "heading",
           "settings": {
@@ -29,13 +22,12 @@
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1": {
           "type": "text",
           "settings": {
-            "text": "<strong>Personalize your headphones with interchangeable ear-cups featuring official designs by your favorite artists<\/strong>",
-            "text_style": "subtitle"
+            "text": "Personalize your headphones with interchangeable ear-cups featuring official designs by your favorite artists",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "42862296-1b37-490a-bc46-babf848ace8b",
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0",
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1"
       ],
