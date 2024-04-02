@@ -259,10 +259,33 @@
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<h2><center>Trusted By 30,000+ Metal Fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "custom_liquid": "<h1><center>Trusted By 30,000+ Metal Fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
         "color_scheme": "accent-2",
         "padding_top": 60,
         "padding_bottom": 40
+      }
+    },
+    "9df63e1f-45c9-48f7-a296-1f017f30a212": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14884059414602__9df63e1f-45c9-48f7-a296-1f017f30a212-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Experience Metal Like Never Before",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__9df63e1f-45c9-48f7-a296-1f017f30a212-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 20
       }
     },
     "7bdbd5c0-c846-4438-9b98-823f59d10006": {
@@ -419,29 +442,6 @@
         "full_width": true,
         "padding_top": 12,
         "padding_bottom": 40
-      }
-    },
-    "9df63e1f-45c9-48f7-a296-1f017f30a212": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14884059414602__9df63e1f-45c9-48f7-a296-1f017f30a212-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Experience Metal Like Never Before",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--14884059414602__9df63e1f-45c9-48f7-a296-1f017f30a212-heading-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "full_width": true,
-        "padding_top": 60,
-        "padding_bottom": 20
       }
     },
     "243990a3-4122-461a-b6d3-04139fdb26fc": {
@@ -640,10 +640,10 @@
     "main",
     "d56df3ea-0917-4b74-8f1b-60fa2a51a86f",
     "60421194-02d3-4142-a101-cab229136e5b",
+    "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
     "e3ca781b-9d44-4c07-909d-7da66958b19c",
     "e836ee92-247c-4b1b-a750-8b108bc417dd",
-    "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "243990a3-4122-461a-b6d3-04139fdb26fc",
     "rich_text_ijPtUA",
     "463cf269-3e55-4128-838b-822482a855bf",
