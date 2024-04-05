@@ -382,14 +382,14 @@
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652": {
           "type": "text",
           "settings": {
-            "text": "Personalize your headphones with our 'mix & match' collection of ear-cups featuring official limited designs by your favorite artists.",
+            "text": "Personalize your headphones with our 'mix & match' <a href=\"\/collections\/shells\" title=\"HEAVYS Shells™\"><em><strong>collection of ear-cups<\/strong><\/em><\/a> featuring official limited designs by your favorite artists.",
             "text_style": "body"
           }
         },
         "34192509-a141-444e-8c17-ddc78b10c075": {
           "type": "text",
           "settings": {
-            "text": "<strong>Inside the Shells Bundle <\/strong>: Heavys H1H Headphones, your selected pair of designed Shells, pair of Heavys original shells, AUX Audio Cable, USB-C Charging Cable, Free premium protective travel case",
+            "text": "<strong>Inside the Shells Bundle <\/strong>: Heavys H1H Headphones, your selected pair of designed Shells, pair of Heavys original shells, AUX Audio Cable, USB-C Charging Cable, premium protective travel case",
             "text_style": "body"
           }
         },
