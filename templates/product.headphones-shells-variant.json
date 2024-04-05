@@ -483,6 +483,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_9dkBjT": {
+          "type": "column",
+          "settings": {
+            "icon": "fire",
+            "title": "Custom Designs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6kH4bq": {
+          "type": "column",
+          "settings": {
+            "icon": "radio",
+            "title": "Transparent Mode",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -493,7 +513,9 @@
         "9a8acc7b-e800-4375-babb-b1db42f5ecb1",
         "65b42d82-acc4-41e8-aa6b-9a65cf151134",
         "8041cf07-1630-4520-9b8c-916dc33762d7",
-        "a98f09b9-f13e-43fe-8e23-76fa02548618"
+        "a98f09b9-f13e-43fe-8e23-76fa02548618",
+        "column_9dkBjT",
+        "column_6kH4bq"
       ],
       "custom_css": [
         "h2 {margin: 0 auto 2rem auto;}"
