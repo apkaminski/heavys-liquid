@@ -497,8 +497,8 @@
         "column_6kH4bq": {
           "type": "column",
           "settings": {
-            "icon": "radio",
-            "title": "Transparent Mode",
+            "icon": "lock",
+            "title": "Noise Cancellation",
             "text": "",
             "link_label": "",
             "link": ""
