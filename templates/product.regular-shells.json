@@ -64,6 +64,12 @@
             "image_ratio": "portrait",
             "enable_quick_add": true
           }
+        },
+        "custom_liquid_rUyfbA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -75,7 +81,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "3c23034f-010d-42d2-9612-934582f53664"
+        "3c23034f-010d-42d2-9612-934582f53664",
+        "custom_liquid_rUyfbA"
       ],
       "settings": {
         "color_scheme": "inverse",
