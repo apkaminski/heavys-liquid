@@ -13,13 +13,6 @@
           "settings": {
           }
         },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "Free Express Shipping to US\/EU\/AU\/CA",
-            "text_style": "subtitle"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -37,6 +30,13 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Free Express Shipping to US\/EU\/AU\/CA<\/strong>",
+            "text_style": "subtitle"
           }
         },
         "description": {
@@ -75,10 +75,10 @@
       "block_order": [
         "title",
         "price",
-        "caption",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "caption",
         "description",
         "custom_liquid_kMjNiz",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
