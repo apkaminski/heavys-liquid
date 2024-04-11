@@ -14,10 +14,21 @@
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
+        },
+        "announcement_8gq8HX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free US\/EU Express Shipping over 199$",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_8gq8HX"
       ],
       "settings": {
         "color_scheme": "background-1",
