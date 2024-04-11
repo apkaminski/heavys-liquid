@@ -149,6 +149,13 @@
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            text-transform: uppercase;\n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Get it Before Christmas with Express Shipping!<\/h1>\n<\/body>\n<\/html>"
           }
+        },
+        "text_GeBxLk": {
+          "type": "text",
+          "settings": {
+            "text": "FREE EXPRESS SHIPPING to US\/EU\/AU\/CA",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -160,7 +167,8 @@
         "icon_with_text_B43Pra",
         "icon_with_text_6cirKh",
         "icon_with_text_nwJ9JL",
-        "custom_liquid_6pR3JF"
+        "custom_liquid_6pR3JF",
+        "text_GeBxLk"
       ],
       "settings": {
         "product": "heavys-h1h-headphones-bundle-case",
