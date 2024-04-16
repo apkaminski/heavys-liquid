@@ -65,6 +65,15 @@
             "enable_quick_add": true
           }
         },
+        "collapsible_tab_zX7nK3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Free Shipping on $199+ Orders",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        },
         "custom_liquid_rUyfbA": {
           "type": "custom_liquid",
           "settings": {
@@ -82,6 +91,7 @@
         "buy_buttons",
         "description",
         "3c23034f-010d-42d2-9612-934582f53664",
+        "collapsible_tab_zX7nK3",
         "custom_liquid_rUyfbA"
       ],
       "settings": {
