@@ -18,13 +18,6 @@
             "heading_size": "h1"
           }
         },
-        "template--14891902632010__8f841c1a-bd33-4b45-b1f4-40d72c436423-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
         "template--14891902632010__8f841c1a-bd33-4b45-b1f4-40d72c436423-button-1": {
           "type": "button",
           "disabled": true,
@@ -40,7 +33,6 @@
       },
       "block_order": [
         "template--14891902632010__8f841c1a-bd33-4b45-b1f4-40d72c436423-heading-1",
-        "template--14891902632010__8f841c1a-bd33-4b45-b1f4-40d72c436423-text-1",
         "template--14891902632010__8f841c1a-bd33-4b45-b1f4-40d72c436423-button-1"
       ],
       "settings": {
@@ -108,11 +100,42 @@
         "padding_bottom": 80,
         "scroll_anchor": ""
       }
+    },
+    "rich_text_RcNE43": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rL6qQT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Heavys App Coming Soon",
+            "heading_size": "h1"
+          }
+        },
+        "text_LXQ8P4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HEAVYS App to pair with your Headphones is Coming Soon..Towards End of the Summer  of 2024. <br\/>(we know you have been waiting and we are diligently working to develop the App - we will let you know once app is live)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rL6qQT",
+        "text_LXQ8P4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "8f841c1a-bd33-4b45-b1f4-40d72c436423",
-    "a439b6cb-ad69-4957-912b-0ed7fb6964d9"
+    "a439b6cb-ad69-4957-912b-0ed7fb6964d9",
+    "rich_text_RcNE43"
   ]
 }
