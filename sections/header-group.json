@@ -19,7 +19,7 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "Limited: Use code BAKED for $42.0 OFF",
+            "text": "Limited: Use code BAKED for $42.0 Off",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
