@@ -106,9 +106,8 @@
         },
         "caption": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text": "Use Code \"BAKED\" to save $42 off Shells Bundles",
             "text_style": "subtitle"
           }
         },
@@ -162,7 +161,7 @@
         "text_JUQV4T": {
           "type": "text",
           "settings": {
-            "text": "<strong>Shells<\/strong> are interchangeable and designs are available in Limited quantities. Mix & Match <strong>Shells<\/strong> to style & personalize your Heavys Headphones",
+            "text": "<strong>Shells<\/strong> are interchangeable and designs are available in Limited quantities. Mix & Match <strong>Shells<\/strong> to style & personalize your Heavys Headphones.",
             "text_style": "body"
           }
         },
