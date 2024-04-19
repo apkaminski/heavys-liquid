@@ -104,13 +104,6 @@
           "settings": {
           }
         },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "Use Code \"BAKED\" to save and additional $42.0 off Shells Bundles",
-            "text_style": "subtitle"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -122,6 +115,13 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "Limited Offer: Use Code \"BAKED\" to save and additional $42.0 off Shells Bundles",
+            "text_style": "subtitle"
           }
         },
         "description": {
@@ -212,9 +212,9 @@
         "vendor",
         "title",
         "price",
-        "caption",
         "variant_picker",
         "buy_buttons",
+        "caption",
         "description",
         "collapsible_tab_Gt7V3K",
         "collapsible_tab_keizah",
