@@ -120,7 +120,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "Limited Offer: Use Code \"BAKED\" to save and additional $42.0 off Shells Bundles",
+            "text": "<strong>Limited Offer<\/strong>: Use Code \"<em><strong>BAKED<\/strong><\/em>\" to save an additional $42.0 off Shells Bundles",
             "text_style": "subtitle"
           }
         },
