@@ -40,7 +40,7 @@
             "day": "21",
             "hour": "2",
             "minute": "59",
-            "cycle": false
+            "cycle": true
           }
         }
       },
