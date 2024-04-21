@@ -17,6 +17,17 @@
             "heading_size": "h1"
           }
         },
+        "timer_MxXAb9": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "4",
+            "day": "21",
+            "hour": "2",
+            "minute": "59",
+            "cycle": true
+          }
+        },
         "text_bitp7e": {
           "type": "text",
           "settings": {
@@ -31,25 +42,14 @@
             "button_link": "#heavys-featured",
             "button_style_secondary": false
           }
-        },
-        "timer_MxXAb9": {
-          "type": "timer",
-          "settings": {
-            "year": "2024",
-            "month": "4",
-            "day": "21",
-            "hour": "2",
-            "minute": "59",
-            "cycle": true
-          }
         }
       },
       "block_order": [
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
+        "timer_MxXAb9",
         "text_bitp7e",
-        "92710901-502d-46f4-ad7f-15409e0614f2",
-        "timer_MxXAb9"
+        "92710901-502d-46f4-ad7f-15409e0614f2"
       ],
       "custom_css": [
         ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 22px;}",
