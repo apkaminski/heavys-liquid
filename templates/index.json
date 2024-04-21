@@ -3,6 +3,13 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "420 Bake Sale is Lit 🔥",
+            "text_style": "body"
+          }
+        },
         "timer_MxXAb9": {
           "type": "timer",
           "settings": {
@@ -12,13 +19,6 @@
             "hour": "3",
             "minute": "59",
             "cycle": true
-          }
-        },
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "420 Bake Sale is Lit 🔥",
-            "text_style": "body"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
@@ -45,8 +45,8 @@
         }
       },
       "block_order": [
-        "timer_MxXAb9",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
+        "timer_MxXAb9",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "text_bitp7e",
         "92710901-502d-46f4-ad7f-15409e0614f2"
