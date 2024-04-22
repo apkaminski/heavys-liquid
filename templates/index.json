@@ -7,7 +7,7 @@
           "type": "text",
           "settings": {
             "text": "Listen to Metal The Way It's Meant To Be Heard",
-            "text_style": "body"
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
@@ -17,13 +17,6 @@
             "heading_size": "h0"
           }
         },
-        "text_bitp7e": {
-          "type": "text",
-          "settings": {
-            "text": "<em>\" These headphones are incredible and have changed the way I listen to Music \"<\/em>",
-            "text_style": "body"
-          }
-        },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
           "type": "button",
           "settings": {
@@ -31,16 +24,23 @@
             "button_link": "#heavys-featured",
             "button_style_secondary": false
           }
+        },
+        "text_bitp7e": {
+          "type": "text",
+          "settings": {
+            "text": "<em>\" These headphones are incredible and have changed the way I listen to Music \"<\/em>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
-        "text_bitp7e",
-        "92710901-502d-46f4-ad7f-15409e0614f2"
+        "92710901-502d-46f4-ad7f-15409e0614f2",
+        "text_bitp7e"
       ],
       "custom_css": [
-        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
+        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 13px;}",
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
         ".banner__text:nth-child(4) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 22px;}",
         ".banner__box {background-color: #000000;}"
