@@ -410,13 +410,6 @@
             "text_style": "subtitle"
           }
         },
-        "423f7bdf-c059-43cc-9e65-eaf4733f55d8": {
-          "type": "text",
-          "settings": {
-            "text": "USE CODE: \"BAKED\" to save $42 on Shells Bundles",
-            "text_style": "body"
-          }
-        },
         "icon_with_text_APM6BF": {
           "type": "icon-with-text",
           "disabled": true,
@@ -440,7 +433,6 @@
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
         "34192509-a141-444e-8c17-ddc78b10c075",
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
-        "423f7bdf-c059-43cc-9e65-eaf4733f55d8",
         "icon_with_text_APM6BF"
       ],
       "settings": {
