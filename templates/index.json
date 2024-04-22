@@ -3,11 +3,11 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
+        "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "Listen to Metal The Way It's Meant To Be Heard",
-            "text_style": "caption-with-letter-spacing"
+            "text": "<em>\" Officially the best headphones I've owned, every song I listen to sounds phenomenal \"  - Josh E.A.<\/em>",
+            "text_style": "body"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
@@ -25,19 +25,19 @@
             "button_style_secondary": false
           }
         },
-        "text_bitp7e": {
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "<em>\" Officially the best headphones I've owned, every song I listen to sounds phenomenal \"  - Josh E.A.<\/em>",
-            "text_style": "body"
+            "text": "Listen to Metal The Way It's Meant To Be Heard",
+            "text_style": "caption-with-letter-spacing"
           }
         }
       },
       "block_order": [
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
+        "text_bitp7e",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
-        "text_bitp7e"
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1"
       ],
       "custom_css": [
         ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 13px;}",
