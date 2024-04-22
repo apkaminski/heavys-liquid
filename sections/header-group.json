@@ -7,7 +7,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Save an Additional $25 Today!",
             "behaviour_type": "klavyo_popup",
@@ -18,6 +17,7 @@
         },
         "announcement_ekbCtT": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Limited: Use code BAKED for $42.0 Off",
             "behaviour_type": "link",
