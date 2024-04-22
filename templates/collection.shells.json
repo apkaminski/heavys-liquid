@@ -25,19 +25,11 @@
             "text": "Personalize your headphones with 'mix & match' ear-cups featuring OFFICIAL & LIMITED DESIGNS by your favorite artists.",
             "text_style": "body"
           }
-        },
-        "text_PXDKWd": {
-          "type": "text",
-          "settings": {
-            "text": "<em><strong>.<\/strong><\/em>",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0",
-        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1",
-        "text_PXDKWd"
+        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1"
       ],
       "custom_css": [
         ".banner__text {color: #ffffff;}"
