@@ -6,8 +6,8 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "<em>\" Officially the best headphones I've owned, every song sounds phenomenal \"  - Josh E.A.<\/em>",
-            "text_style": "body"
+            "text": "Listen to Metal The Way It's Meant To Be Heard",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
@@ -28,8 +28,8 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "Listen to Metal The Way It's Meant To Be Heard",
-            "text_style": "caption-with-letter-spacing"
+            "text": "<em>\" Officially the best headphones I've owned every song sounds phenomenal \"  - Josh E.<\/em>",
+            "text_style": "body"
           }
         }
       },
