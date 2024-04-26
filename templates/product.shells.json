@@ -178,7 +178,7 @@
         "collapsible_tab_L8dKVa": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "'Shells + Headphone Bundle' Includes:",
+            "heading": "'Shells + Headphones Bundle' Includes:",
             "icon": "box",
             "content": "<p>+ Heavys H1H Headphones<\/p><p>+ 2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells<\/p><p>+ 2 Heavys Original Shells<\/p><p>+ AUX Cable<\/p><p>+ USB-C Charging Cable<\/p><p>+ FREE Premium Hard-Shell Travel Case<\/p>",
             "page": ""
