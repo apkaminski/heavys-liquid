@@ -173,8 +173,7 @@
         "custom_liquid_6pR3JF"
       ],
       "custom_css": [
-        ".product__text:first-child {text-align: left;}",
-        ".product__text:nth-child(2) {text-align: center;}"
+        ".product__text {text-align: center;}"
       ],
       "settings": {
         "product": "heavys-h1h-headphones-bundle-case",
