@@ -172,6 +172,10 @@
         "icon_with_text_nwJ9JL",
         "custom_liquid_6pR3JF"
       ],
+      "custom_css": [
+        ".product__text:first-child {text-align: left;}",
+        ".product__text:nth-child(2) {text-align: center;}"
+      ],
       "settings": {
         "product": "heavys-h1h-headphones-bundle-case",
         "color_scheme": "inverse",
@@ -434,6 +438,9 @@
         "34192509-a141-444e-8c17-ddc78b10c075",
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
         "icon_with_text_APM6BF"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "product": "shell-bundle",
