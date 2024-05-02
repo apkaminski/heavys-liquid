@@ -228,6 +228,34 @@
         "padding_top": 16,
         "padding_bottom": 16
       }
+    },
+    "featured_collection_kNM9cd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Heavys Merch",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "merch",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -237,6 +265,7 @@
     "ff7faaaa-f37f-4b2c-93ef-81eec11fc362",
     "05ca1d9a-85d9-416e-bd50-f460ea46eeb1",
     "815d0046-0f23-4a03-94ba-6600a1557261",
-    "0dde38c7-efdb-4a95-8d03-ea499ddbc60c"
+    "0dde38c7-efdb-4a95-8d03-ea499ddbc60c",
+    "featured_collection_kNM9cd"
   ]
 }
