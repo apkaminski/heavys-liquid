@@ -136,11 +136,18 @@
             "share_label": "Share"
           }
         },
-        "ec020563-d43b-4c4d-81f2-3b84d0329802": {
+        "text_nWd7cB": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">Shop our complete series of Shells here<\/a>",
-            "text_style": "uppercase"
+            "text": "Personalize your headphones with our 'mix & match' <a href=\"https:\/\/www.heavys.com\/collections\/shells\" title=\"HEAVYS Shells™\"><em><strong>collection of ear-cups<\/strong><\/em><\/a> featuring official limited designs by your favorite artists.",
+            "text_style": "body"
+          }
+        },
+        "text_JkTyFR": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Inside the Shells Bundle <\/strong>: Heavys H1H Headphones, your selected pair of designed Shells, pair of Heavys original shells, AUX Audio Cable, USB-C Charging Cable, premium protective travel case",
+            "text_style": "body"
           }
         },
         "icon_with_text_jQpgX3": {
@@ -148,11 +155,18 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "diamond",
-            "heading_1": "Protective Travel Case",
+            "heading_1": "Travel Case",
             "icon_2": "fire",
-            "heading_2": "Heading",
+            "heading_2": "Custom Shells",
             "icon_3": "truck",
             "heading_3": "Free Shipping"
+          }
+        },
+        "ec020563-d43b-4c4d-81f2-3b84d0329802": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">Shop our complete series of Shells here<\/a>",
+            "text_style": "subtitle"
           }
         }
       },
@@ -162,8 +176,10 @@
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-variant_picker-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-buy_buttons-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-share-1",
-        "ec020563-d43b-4c4d-81f2-3b84d0329802",
-        "icon_with_text_jQpgX3"
+        "text_nWd7cB",
+        "text_JkTyFR",
+        "icon_with_text_jQpgX3",
+        "ec020563-d43b-4c4d-81f2-3b84d0329802"
       ],
       "settings": {
         "product": "shell-bundle",
