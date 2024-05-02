@@ -105,14 +105,6 @@
     "ff7faaaa-f37f-4b2c-93ef-81eec11fc362": {
       "type": "featured-product",
       "blocks": {
-        "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-title-1": {
           "type": "title",
           "settings": {
@@ -150,16 +142,28 @@
             "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">Shop our complete series of Shells here<\/a>",
             "text_style": "uppercase"
           }
+        },
+        "icon_with_text_jQpgX3": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "diamond",
+            "heading_1": "Protective Travel Case",
+            "icon_2": "fire",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Free Shipping"
+          }
         }
       },
       "block_order": [
-        "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-text-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-title-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-price-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-variant_picker-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-buy_buttons-1",
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-share-1",
-        "ec020563-d43b-4c4d-81f2-3b84d0329802"
+        "ec020563-d43b-4c4d-81f2-3b84d0329802",
+        "icon_with_text_jQpgX3"
       ],
       "settings": {
         "product": "shell-bundle",
