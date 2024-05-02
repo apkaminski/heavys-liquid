@@ -194,7 +194,7 @@
     "815d0046-0f23-4a03-94ba-6600a1557261": {
       "type": "featured-collection",
       "settings": {
-        "title": "Upgrade your Style with Custom Shells",
+        "title": "Personalize with Shells",
         "heading_size": "h2",
         "description": "<p>Top Shells Designs metal fans are buying:<\/p>",
         "show_description": false,
@@ -217,16 +217,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "0dde38c7-efdb-4a95-8d03-ea499ddbc60c": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n<\/img>\n<\/center>",
-        "color_scheme": "",
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "featured_collection_kNM9cd": {
@@ -256,6 +246,16 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "0dde38c7-efdb-4a95-8d03-ea499ddbc60c": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n<\/img>\n<\/center>",
+        "color_scheme": "",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
@@ -265,7 +265,7 @@
     "ff7faaaa-f37f-4b2c-93ef-81eec11fc362",
     "05ca1d9a-85d9-416e-bd50-f460ea46eeb1",
     "815d0046-0f23-4a03-94ba-6600a1557261",
-    "0dde38c7-efdb-4a95-8d03-ea499ddbc60c",
-    "featured_collection_kNM9cd"
+    "featured_collection_kNM9cd",
+    "0dde38c7-efdb-4a95-8d03-ea499ddbc60c"
   ]
 }
