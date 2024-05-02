@@ -164,6 +164,7 @@
         },
         "ec020563-d43b-4c4d-81f2-3b84d0329802": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">Shop our complete series of Shells here<\/a>",
             "text_style": "subtitle"
