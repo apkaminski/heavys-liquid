@@ -1,8 +1,0 @@
-{
-  "parent": "product.headphones-shells-variant.json",
-  "context": {
-    "market": "canada"
-  },
-  "sections": {
-  }
-}
