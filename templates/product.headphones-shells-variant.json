@@ -32,13 +32,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Free Shipping on $199+ Orders<\/strong>",
-            "text_style": "subtitle"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -78,7 +71,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "caption",
         "description",
         "custom_liquid_kMjNiz",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
