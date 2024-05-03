@@ -551,7 +551,7 @@
           "settings": {
             "heading": "Does shipping costs cover local taxes and fees?",
             "icon": "none",
-            "row_content": "<p>Every country has its own taxes and procedures. We include tax and VAT in your order. In rare cases, specific country duties, if applicable, will need to be reconciled directly as with any other consumer electronic goods ordered online.<\/p>",
+            "row_content": "<p>We include tax, duties and VAT for most countries for most orders, and it will be specified during checkout. In some cases, specific country duties, if applicable, will need to be reconciled directly as with any other consumer electronic goods ordered online since every country has its own taxes and procedures as with any consumer electronic goods ordered online.<\/p>",
             "page": ""
           }
         },
