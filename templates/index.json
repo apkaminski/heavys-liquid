@@ -551,7 +551,7 @@
           "settings": {
             "heading": "Does shipping costs cover local taxes and fees?",
             "icon": "none",
-            "row_content": "<p>We include tax, duties and VAT for most countries for most orders, and it will be specified during checkout. In some cases, specific country duties, if applicable, will need to be reconciled directly as with any other consumer electronic goods ordered online since every country has its own taxes and procedures as with any consumer electronic goods ordered online.<\/p>",
+            "row_content": "<p>We include tax, duties and VAT for most countries for most orders, and it will be specified during checkout. In some cases, when its not noted as included, specific country duties, if applicable, will need to be reconciled directly as with any consumer electronic goods ordered online since every country has its own taxes and procedures.<\/p>",
             "page": ""
           }
         },
@@ -617,7 +617,7 @@
           "settings": {
             "heading": "Do You Ship Internationally?",
             "icon": "none",
-            "row_content": "<p>Absolutely! We offer shipping to several countries worldwide. For North America, we ship to the United States and Canada. Additionally, we ship to Australia and Japan. We also cover the entire European Union, including Austria, Belgium, Croatia, Cyprus, Czechia, Denmark, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Lithuania, Luxembourg, Netherlands, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Sweden, Switzerland, and Spain. So wherever you are, we've got you covered!<\/p>",
+            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. We ship to the United States, Canada, Australia and Japan. We also cover the entire European Union and the United Kingdom. So wherever you are, we've got you covered!<\/p>",
             "page": ""
           }
         },
