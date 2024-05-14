@@ -224,6 +224,7 @@
       "blocks": {
         "template--14886113804362__ceb01346-9f93-48d8-adbf-ab68978ea4d5-16895909772107956b-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/prize-1_2472fdce-0b10-4ae5-86d8-a4cdb34c778f.png",
             "icon": "none",
@@ -246,6 +247,7 @@
         },
         "template--14886113804362__ceb01346-9f93-48d8-adbf-ab68978ea4d5-16895909772107956b-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/prize-3_9d0ca3c1-29a3-44dc-8296-e99ea6b7dc77.png",
             "icon": "none",
