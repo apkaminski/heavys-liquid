@@ -43,8 +43,8 @@
         "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "d01e6e52-b9dd-4681-8026-33398244ad2b": {
@@ -60,7 +60,7 @@
         "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-1": {
           "type": "text",
           "settings": {
-            "text": "<p>All you need to do is to share on social media a video\/image of you and your Heavys, tag us and use the hashtag of the campaign.<\/p><p>1. Share a video of your experience on social media<\/p><p>2. Tag <strong>@Heavysaudio<\/strong> in the post<\/p><p>3. Post the hashtags in the post:<strong>#HeavysHeadphones<\/strong><\/p>",
+            "text": "<p>All you need to do is to share on social media a video\/image of you and your Heavys, tag us and use the hashtag of the campaign.<\/p><p>1. Share a video of your experience on social media<\/p><p>2. Tag <strong>@Heavysaudio<\/strong> in the post<\/p><p>3. Post the hashtags in the post:<strong>#HeavysHeadphones<\/strong><\/p><p><strong>4. we will add you to our Social Wal l<\/strong><\/p>",
             "text_style": "body"
           }
         }
@@ -82,7 +82,7 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 80,
+        "padding_top": 32,
         "padding_bottom": 36,
         "scroll_anchor": ""
       }
