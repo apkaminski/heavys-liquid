@@ -355,6 +355,7 @@
       "blocks": {
         "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "{{ product.metafields.heavys_custom.band.value.shells_in_box.value }}",
             "icon": "none",
@@ -393,19 +394,19 @@
         "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-3"
       ],
       "settings": {
-        "title": "Enhance Your Listening Experience Both Inside & Out",
+        "title": "Enhance Your Listening Experience Inside & Out",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 60,
+        "padding_top": 36,
         "padding_bottom": 36,
         "scroll_anchor": ""
       }
