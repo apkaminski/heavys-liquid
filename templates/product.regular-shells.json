@@ -74,6 +74,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_eDV3RV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Buy Two Shell Designs Get 50% off the Third",
+            "icon": "fire",
+            "content": "",
+            "page": ""
+          }
+        },
         "custom_liquid_rUyfbA": {
           "type": "custom_liquid",
           "settings": {
@@ -92,6 +101,7 @@
         "description",
         "3c23034f-010d-42d2-9612-934582f53664",
         "collapsible_tab_zX7nK3",
+        "collapsible_tab_eDV3RV",
         "custom_liquid_rUyfbA"
       ],
       "settings": {
