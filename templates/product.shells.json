@@ -202,6 +202,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_dd63aP": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Buy Two Get 50% OFF the Third  Design",
+            "icon": "fire",
+            "content": "<ul><li>Buy Two Get 50% OFF the Third  Design<\/li><li>Buy one get 25% OFF the Second Design of the Same Artist!<\/li><\/ul>",
+            "page": ""
+          }
+        },
         "custom_liquid_6txmL4": {
           "type": "custom_liquid",
           "settings": {
@@ -225,6 +234,7 @@
         "collapsible_tab_L8dKVa",
         "collapsible_tab_Yew6Fz",
         "collapsible_tab_adTPt9",
+        "collapsible_tab_dd63aP",
         "custom_liquid_6txmL4"
       ],
       "settings": {
