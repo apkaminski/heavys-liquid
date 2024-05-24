@@ -94,7 +94,7 @@
           "type": "complementary",
           "settings": {
             "block_heading": "Personalize with Custom Shells",
-            "make_collapsible_row": false,
+            "make_collapsible_row": true,
             "icon": "fire",
             "product_list_limit": 8,
             "products_per_page": 2,
