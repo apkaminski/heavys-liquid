@@ -96,7 +96,7 @@
             "block_heading": "Personalize with Custom Shells",
             "make_collapsible_row": false,
             "icon": "fire",
-            "product_list_limit": 6,
+            "product_list_limit": 8,
             "products_per_page": 2,
             "pagination_style": "dots",
             "image_ratio": "portrait",
