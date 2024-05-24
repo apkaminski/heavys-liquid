@@ -417,7 +417,7 @@
           "settings": {
             "heading": "What Codecs are supported?",
             "icon": "none",
-            "row_content": "<p>SBC, AAC, aptX adaptive, LHDC.<\/p>",
+            "row_content": "<p>SBC, AAC, aptX adaptive<\/p>",
             "page": ""
           }
         },
