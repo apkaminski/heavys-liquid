@@ -253,6 +253,7 @@
               class="thumbnail-list__item slider__slide{% if section.settings.hide_variants and variant_images contains media.src %} thumbnail-list_item--variant{% endif %}"
               data-target="{{ section.id }}-{{ media.id }}"
               data-media-position="{{ media_index }}"
+              data-media-variant="test"
               {% if media.attached_to_variant %}data-media-variant="{{media.variants.first}}"{% endif %}
             >
               {%- if media.media_type == 'model' -%}
