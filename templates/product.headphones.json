@@ -935,11 +935,11 @@
         "column_jH8XBg"
       ],
       "settings": {
-        "title": "<em>5 Stars Verified Customers<\/em>",
+        "title": "<em>Verified Customers Reviews<\/em>",
         "heading_size": "h2",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "padding_top": 20,
         "padding_bottom": 0,
         "scroll_anchor": ""
