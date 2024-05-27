@@ -877,12 +877,12 @@
     "testimonial_grid_CBhD8w": {
       "type": "testimonial-grid",
       "blocks": {
-        "column_zzxyXA": {
+        "column_JCNcPb": {
           "type": "column",
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em>Just received my Heavys and let me tell you, these are killer 😱 Perfect for heavy music and outstanding customer service👌🏻 - Sebastien C.<\/em><\/p>"
+            "text": "<p><em>\"My expectations were realy high. Results are sky rocket!\" -Eric Séguin<\/em><\/p>"
           }
         },
         "column_ipiXaf": {
@@ -890,15 +890,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>\" <\/strong><\/em><em>These New Wireless Headphones Are Designed with Heavy Metal Fans In Mind<\/em><em><strong> \" <\/strong><\/em><em>- FORBES<\/em><\/p>"
-          }
-        },
-        "column_jH8XBg": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> - Mayon A.<\/em><\/p>"
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Heavy AF! The Heavys experience is unlike any I’ve had, you can hear each and every aspect, as intended, 666\/10, recommended 🤘 <\/em><em><strong>”<\/strong><\/em><em> - Levi Yockey<\/em><\/p>"
           }
         },
         "column_xj8XfR": {
@@ -909,6 +901,14 @@
             "text": "<p><em>\"At first I was skeptical but as soon I switched on; goosebumps:) The sound is powerfully clear and totally satisfying\" - Ave D.<\/em><\/p>"
           }
         },
+        "column_zzxyXA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "label": "",
+            "text": "<p><em>Just received my Heavys and let me tell you, these are killer 😱 Perfect for heavy music and outstanding customer service👌🏻 - Sebastien C.<\/em><\/p>"
+          }
+        },
         "column_PJ67pm": {
           "type": "column",
           "settings": {
@@ -917,22 +917,22 @@
             "text": "<p><em>\"They are super comfortable and the sound is unbelievable. Everything I have read about them is true\" - Ruben Garza Jr.<\/em><\/p>"
           }
         },
-        "column_JCNcPb": {
+        "column_jH8XBg": {
           "type": "column",
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> - Mayon A.<\/em><\/p>"
           }
         }
       },
       "block_order": [
-        "column_zzxyXA",
+        "column_JCNcPb",
         "column_ipiXaf",
-        "column_jH8XBg",
         "column_xj8XfR",
+        "column_zzxyXA",
         "column_PJ67pm",
-        "column_JCNcPb"
+        "column_jH8XBg"
       ],
       "settings": {
         "title": "<em>5 Stars Verified Customers<\/em>",
