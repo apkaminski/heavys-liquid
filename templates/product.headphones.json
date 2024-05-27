@@ -937,8 +937,8 @@
       "settings": {
         "title": "<em>Verified Customers Reviews<\/em>",
         "heading_size": "h2",
-        "button_label": "",
-        "button_link": "",
+        "button_label": "Get Yours Now",
+        "button_link": "#top",
         "color_scheme": "inverse",
         "padding_top": 20,
         "padding_bottom": 0,
