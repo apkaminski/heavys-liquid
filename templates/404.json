@@ -1,10 +1,53 @@
 {
   "sections": {
     "main": {
-      "type": "main-404"
+      "type": "main-404",
+      "settings": {
+      }
+    },
+    "collection_list_JKmpWq": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_A4xrJG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shells"
+          }
+        },
+        "featured_collection_K66PFE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "featured_collection_CyFn3L": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "merch"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_A4xrJG",
+        "featured_collection_K66PFE",
+        "featured_collection_CyFn3L"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "collection_list_JKmpWq"
   ]
 }
