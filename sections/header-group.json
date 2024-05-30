@@ -17,6 +17,7 @@
         },
         "announcement_ekbCtT": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Free Shipping on Orders over $199",
             "behaviour_type": "link",
@@ -30,7 +31,6 @@
         "announcement-bar-0",
         "announcement_ekbCtT"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "show_line_separator": false,
