@@ -24,7 +24,7 @@
         "text_T3LD6X": {
           "type": "text",
           "settings": {
-            "text": "<p>For Partnerships please email : <a href=\"mailto:partnerships@heavys.com\" target=\"_blank\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com<\/a><\/p>"
+            "text": "<h3>For Partnership inquiries please email : <a href=\"mailto:partnerships@heavys.com\" target=\"_blank\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com<\/a><\/h3>"
           }
         }
       },
@@ -36,8 +36,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 24
       }
     },
     "06ef57f8-5ae4-4f8a-a03a-f7f56d9b49a3": {
