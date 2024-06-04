@@ -31,7 +31,7 @@
           "settings": {
             "text": "Buy 2 Shells + Get The 3rd For Free",
             "behaviour_type": "link",
-            "link": "",
+            "link": "shopify:\/\/collections\/shells",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
