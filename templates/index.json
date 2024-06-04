@@ -406,6 +406,13 @@
             "text_style": "body"
           }
         },
+        "text_E6QzVw": {
+          "type": "text",
+          "settings": {
+            "text": "Buy any Two Artist Shell Designs & Get 'Outline' Shells for FREE *Add Shells to your cart for discount",
+            "text_style": "body"
+          }
+        },
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7": {
           "type": "text",
           "settings": {
@@ -435,6 +442,7 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
         "34192509-a141-444e-8c17-ddc78b10c075",
+        "text_E6QzVw",
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
         "icon_with_text_APM6BF"
       ],
