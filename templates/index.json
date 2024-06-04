@@ -612,21 +612,22 @@
             "page": ""
           }
         },
-        "f983dcff-ff20-43c4-8c52-596455709ebd": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Do you have more questions?",
-            "icon": "none",
-            "row_content": "<p>More <a href=\"\/pages\/faqs\" title=\"FAQs\">FAQ HERE<\/a><\/p><p>Or Email support@heavys.com for any additional questions<\/p>",
-            "page": ""
-          }
-        },
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8": {
           "type": "collapsible_row",
           "settings": {
             "heading": "How will Heavys sound when listening to other music genres?",
             "icon": "none",
             "row_content": "<p>Heavys headphones are designed to be great headphones at an affordable price for any music genre.<\/p><p>They pack strong spec and technological innovation that helps create a great all-around set of headphones. As we are geared for heavy music, the features complement that, however Heavys delivers an awesome listening experience for any musical environments<\/p>",
+            "page": ""
+          }
+        },
+        "f983dcff-ff20-43c4-8c52-596455709ebd": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Do you have more questions?",
+            "icon": "none",
+            "row_content": "<p>More <a href=\"\/pages\/faqs\" title=\"FAQs\">FAQ HERE<\/a><\/p><p>Or Email support@heavys.com for any additional questions<\/p>",
             "page": ""
           }
         }
@@ -641,8 +642,8 @@
         "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
         "collapsible_row_XYqjHf",
         "collapsible_row_fyUQ9q",
-        "f983dcff-ff20-43c4-8c52-596455709ebd",
-        "b4a1429a-224f-48fd-a2b7-0c4b808e42f8"
+        "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
+        "f983dcff-ff20-43c4-8c52-596455709ebd"
       ],
       "settings": {
         "caption": "",
