@@ -43,7 +43,7 @@
         "announcement_7eaAQk"
       ],
       "custom_css": [
-        ".announcement-bar {height: 30px;}"
+        ".announcement-bar {height: 32px;}"
       ],
       "settings": {
         "color_scheme": "background-1",
