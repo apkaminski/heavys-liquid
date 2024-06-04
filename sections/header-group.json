@@ -25,11 +25,22 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
+        },
+        "announcement_7eaAQk": {
+          "type": "announcement",
+          "settings": {
+            "text": "Buy two shells + get the third for FREE",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_ekbCtT"
+        "announcement_ekbCtT",
+        "announcement_7eaAQk"
       ],
       "settings": {
         "color_scheme": "background-1",
