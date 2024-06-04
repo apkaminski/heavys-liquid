@@ -42,6 +42,9 @@
         "announcement_ekbCtT",
         "announcement_7eaAQk"
       ],
+      "custom_css": [
+        ".announcement-bar {height: 30px;}"
+      ],
       "settings": {
         "color_scheme": "background-1",
         "show_line_separator": false,
