@@ -83,10 +83,11 @@
           "settings": {
           }
         },
-        "quantity_selector_w7UAUH": {
-          "type": "quantity_selector",
-          "disabled": true,
+        "text_E8yrpp": {
+          "type": "text",
           "settings": {
+            "text": "Free Shipping",
+            "text_style": "body"
           }
         },
         "buy_buttons_6KMFT6": {
@@ -94,14 +95,6 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
-          }
-        },
-        "text_GeBxLk": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<strong>FREE SHIPPING on $199+ Orders<\/strong>",
-            "text_style": "subtitle"
           }
         },
         "icon_with_text_NBiFjE": {
@@ -163,9 +156,8 @@
       "block_order": [
         "title_w8KRiE",
         "price_kbjrXb",
-        "quantity_selector_w7UAUH",
+        "text_E8yrpp",
         "buy_buttons_6KMFT6",
-        "text_GeBxLk",
         "icon_with_text_NBiFjE",
         "icon_with_text_B43Pra",
         "icon_with_text_6cirKh",
