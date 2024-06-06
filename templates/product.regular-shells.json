@@ -69,19 +69,6 @@
             "page": ""
           }
         },
-        "3c23034f-010d-42d2-9612-934582f53664": {
-          "type": "complementary",
-          "settings": {
-            "block_heading": "Top Shell Designs",
-            "make_collapsible_row": false,
-            "icon": "fire",
-            "product_list_limit": 6,
-            "products_per_page": 4,
-            "pagination_style": "dots",
-            "image_ratio": "portrait",
-            "enable_quick_add": true
-          }
-        },
         "custom_liquid_rUyfbA": {
           "type": "custom_liquid",
           "settings": {
@@ -100,7 +87,6 @@
         "description",
         "collapsible_tab_zX7nK3",
         "collapsible_tab_eDV3RV",
-        "3c23034f-010d-42d2-9612-934582f53664",
         "custom_liquid_rUyfbA"
       ],
       "settings": {
@@ -116,7 +102,7 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 80
+        "padding_bottom": 36
       }
     },
     "rich_text_PqfCJw": {
@@ -161,6 +147,34 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "463cf269-3e55-4128-838b-822482a855bf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Enhance your listening <\/strong>experience<strong> inside & out<\/strong>",
+        "heading_size": "h2",
+        "description": "<p>Top Shell designs metal fans are looking at right now<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shells",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 80
       }
     },
     "243990a3-4122-461a-b6d3-04139fdb26fc": {
@@ -279,34 +293,6 @@
         "scroll_anchor": ""
       }
     },
-    "463cf269-3e55-4128-838b-822482a855bf": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "<strong>Enhance your listening <\/strong>experience<strong> inside & out<\/strong>",
-        "heading_size": "h2",
-        "description": "<p>Top Shell designs metal fans are looking at right now<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "shells",
-        "products_to_show": 12,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -330,9 +316,9 @@
   "order": [
     "main",
     "rich_text_PqfCJw",
+    "463cf269-3e55-4128-838b-822482a855bf",
     "243990a3-4122-461a-b6d3-04139fdb26fc",
     "14d62ff5-687e-49d9-813c-54bfbf115c37",
-    "463cf269-3e55-4128-838b-822482a855bf",
     "related-products"
   ]
 }
