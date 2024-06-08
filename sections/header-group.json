@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Save an Additional $25 Today",
             "behaviour_type": "klavyo_popup",
@@ -28,6 +29,7 @@
         },
         "announcement_7eaAQk": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Buy 2 Shells + Get The 3rd For Free",
             "behaviour_type": "link",
