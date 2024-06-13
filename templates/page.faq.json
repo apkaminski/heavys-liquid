@@ -475,6 +475,15 @@
             "row_content": "<p>Frequency Response Graphs change depending on several non-objective parameters and we do not offer one at this time<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_fJTNFR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I increase the Volume?",
+            "icon": "none",
+            "row_content": "<p>Please check Audio Normalization \/ Soundcheck Features on your music streaming app. <\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -491,7 +500,8 @@
         "0de8b74c-0669-476c-84f9-2c43e26913f8",
         "651ce809-f810-4a98-8052-e6b5ab36143a",
         "dbd6db4f-7106-45b1-8cae-f8ae04ab2ce6",
-        "collapsible_row_F7cX4Y"
+        "collapsible_row_F7cX4Y",
+        "collapsible_row_fJTNFR"
       ],
       "settings": {
         "caption": "FAQ",
