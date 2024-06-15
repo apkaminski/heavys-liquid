@@ -370,6 +370,13 @@
             "text_style": "body"
           }
         },
+        "text_9WeYaE": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping on Shell Bundles",
+            "text_style": "body"
+          }
+        },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0": {
           "type": "text",
           "disabled": true,
@@ -430,6 +437,7 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
         "text_E6QzVw",
+        "text_9WeYaE",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
