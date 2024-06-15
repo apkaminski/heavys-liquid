@@ -19,6 +19,13 @@
             "picker_type": "dropdown"
           }
         },
+        "text_wjrcR9": {
+          "type": "text",
+          "settings": {
+            "text": "FREE SHIPPING ON SHELLS BUNDLES",
+            "text_style": "body"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -69,6 +76,7 @@
         "title",
         "price",
         "variant_picker",
+        "text_wjrcR9",
         "quantity_selector",
         "buy_buttons",
         "description",
