@@ -642,9 +642,9 @@
           "type": "collapsible_row",
           "disabled": true,
           "settings": {
-            "heading": "Do you have more questions?",
+            "heading": "Do you offer payment options?",
             "icon": "none",
-            "row_content": "<p>More <a href=\"\/pages\/faqs\" title=\"FAQs\">FAQ HERE<\/a><\/p><p>Or Email support@heavys.com for any additional questions<\/p>",
+            "row_content": "<p>Yes! You can use Shop Pay for payments in the US, or Klarna for payments in other countries. Paypal is available as well with payment options in some countries<\/p>",
             "page": ""
           }
         },
