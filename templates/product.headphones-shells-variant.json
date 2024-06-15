@@ -21,15 +21,16 @@
         },
         "text_wjrcR9": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "FREE SHIPPING ON SHELLS BUNDLES",
             "text_style": "body"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
+          "type": "custom_liquid",
           "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Free Shipping on Shells Bundles<\/h1>\n<\/body>\n<\/html>"
           }
         },
         "buy_buttons": {
@@ -48,13 +49,6 @@
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"330px\"><\/img><\/center>"
-          }
-        },
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special<\/h1>\n<\/body>\n<\/html>"
           }
         },
         "complementary_yPQxbc": {
@@ -77,11 +71,10 @@
         "price",
         "variant_picker",
         "text_wjrcR9",
-        "quantity_selector",
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "buy_buttons",
         "description",
         "custom_liquid_kMjNiz",
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "complementary_yPQxbc"
       ],
       "settings": {
