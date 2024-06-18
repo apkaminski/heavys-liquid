@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
@@ -6,14 +15,14 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "<strong>Limited Father's Day Special<\/strong>",
+            "text": "Listen to Metal The Way You Should",
             "text_style": "caption-with-letter-spacing"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>USE CODE 'DAD' AT CHECKOUT FOR $50 OFF<\/strong>",
+            "heading": "<strong>Headphones For Heavy Music<\/strong>",
             "heading_size": "h1"
           }
         },
