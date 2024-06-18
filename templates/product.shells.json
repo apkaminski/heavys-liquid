@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "23bdb07e-77f8-419c-9568-b7766935372a": {
@@ -205,7 +214,7 @@
         "collapsible_tab_dd63aP": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "USE CODE 'DAD' at CHECKOUT for $50 OFF SHELLS BUNDLE",
+            "heading": "Buy Two Designs get the Third for 50% Off",
             "icon": "fire",
             "content": "",
             "page": ""
