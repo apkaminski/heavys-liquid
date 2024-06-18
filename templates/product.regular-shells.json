@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -63,9 +72,9 @@
         "collapsible_tab_eDV3RV": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Buy Any 2 Shell Designs Get the 3rd for free",
+            "heading": "Buy Two Designs get the Third for 50% Off",
             "icon": "fire",
-            "content": "<p>***Buy any Two Artist Shell Designs & Get our 'Outline' Shell Design for FREE<br\/>(*add Outline Shells to your cart along with any additional two shell designs or shell bundles to get this discount).<\/p>",
+            "content": "",
             "page": ""
           }
         },
