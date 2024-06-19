@@ -1,16 +1,18 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "parent": "footer-group.json",
   "context": {
     "market": "international"
   },
   "sections": {
-    "bcd3bbac-d671-45e8-9af5-287eefa8e028": {
-      "settings": {
-        "custom_liquid": "<div class=\"klaviyo-form-RVeKrH\"><\/div>"
-      },
-      "blocks": {
-      }
-    },
     "footer": {
       "settings": {
       },
