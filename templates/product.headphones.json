@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -757,12 +766,12 @@
     "slideshow_JeyNHn": {
       "type": "slideshow",
       "blocks": {
-        "slide_fBTXCa": {
+        "slide_PrN9TG": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070204.jpg",
+            "image": "shopify:\/\/shop_images\/L1070186_f9bfddae-be11-46ea-9bda-f59cd67cac05.jpg",
             "heading": "",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -775,12 +784,12 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_PrN9TG": {
+        "slide_fBTXCa": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070186_f9bfddae-be11-46ea-9bda-f59cd67cac05.jpg",
+            "image": "shopify:\/\/shop_images\/L1070204.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -832,7 +841,7 @@
         "slide_raezRB": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070476.jpg",
+            "image": "shopify:\/\/shop_images\/L1070395_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -849,8 +858,8 @@
         }
       },
       "block_order": [
-        "slide_fBTXCa",
         "slide_PrN9TG",
+        "slide_fBTXCa",
         "slide_Bj8he9",
         "slide_BhBQqm",
         "slide_raezRB"
