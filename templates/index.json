@@ -374,6 +374,7 @@
         },
         "text_E6QzVw": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<em><strong>use code 'DAD' for additional $50 OFF Shells Bundle<\/strong><\/em>",
             "text_style": "body"
