@@ -73,12 +73,13 @@
           "settings": {
             "heading": "Free Shipping on $199+ Orders",
             "icon": "truck",
-            "content": "",
+            "content": "<ul><li>Free Shipping on $199+ Orders and all Bundles<\/li><\/ul><p><\/p><ul><li>30 Day 'No Questions Asked' Return Policy after received date.<\/li><\/ul>",
             "page": ""
           }
         },
         "collapsible_tab_Eztxxk": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "30 Day Simple Return Policy",
             "icon": "return",
