@@ -177,21 +177,11 @@
             "link": ""
           }
         },
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0": {
+        "25ebce84-0801-436c-ac34-74ace415f590": {
           "type": "column",
           "settings": {
-            "icon": "bluetooth",
-            "title": "Bluetooth 5.1",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1": {
-          "type": "column",
-          "settings": {
-            "icon": "lightning_bolt",
-            "title": "USB-C for charging",
+            "icon": "disc",
+            "title": "8 Pro Drivers",
             "text": "",
             "link_label": "",
             "link": ""
@@ -200,7 +190,7 @@
         "a98f09b9-f13e-43fe-8e23-76fa02548618": {
           "type": "column",
           "settings": {
-            "icon": "lock",
+            "icon": "headset",
             "title": "Active Noise Cancellation",
             "text": "",
             "link_label": "",
@@ -227,6 +217,26 @@
             "link": ""
           }
         },
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0": {
+          "type": "column",
+          "settings": {
+            "icon": "bluetooth",
+            "title": "Bluetooth 5.1",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1": {
+          "type": "column",
+          "settings": {
+            "icon": "lightning_bolt",
+            "title": "USB-C for charging",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "8041cf07-1630-4520-9b8c-916dc33762d7": {
           "type": "column",
           "settings": {
@@ -240,8 +250,8 @@
         "65b42d82-acc4-41e8-aa6b-9a65cf151134": {
           "type": "column",
           "settings": {
-            "icon": "headset",
-            "title": "SteelFlex Headband",
+            "icon": "diamond",
+            "title": "Premium Travel Case",
             "text": "",
             "link_label": "",
             "link": ""
@@ -256,29 +266,19 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "25ebce84-0801-436c-ac34-74ace415f590": {
-          "type": "column",
-          "settings": {
-            "icon": "disc",
-            "title": "8 Pro Drivers",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "9a8acc7b-e800-4375-babb-b1db42f5ecb1",
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0",
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1",
+        "25ebce84-0801-436c-ac34-74ace415f590",
         "a98f09b9-f13e-43fe-8e23-76fa02548618",
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2",
         "column_drjTi9",
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0",
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1",
         "8041cf07-1630-4520-9b8c-916dc33762d7",
         "65b42d82-acc4-41e8-aa6b-9a65cf151134",
-        "column_WUmry4",
-        "25ebce84-0801-436c-ac34-74ace415f590"
+        "column_WUmry4"
       ],
       "custom_css": [
         "h2 {margin: 0 auto 2rem auto; text-align: center;}"
