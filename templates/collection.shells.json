@@ -88,9 +88,9 @@
     "featured_collection_6Brddr": {
       "type": "featured-collection",
       "settings": {
-        "title": "Heavys Custom Designs",
+        "title": "",
         "heading_size": "h1",
-        "description": "",
+        "description": "<h2><strong>Non-Artist Designs<\/strong><\/h2>",
         "show_description": false,
         "description_style": "body",
         "collection": "non-artist-designs",
@@ -109,8 +109,8 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "a1ea452e-4aa5-4832-96ea-0936f092c98d": {
