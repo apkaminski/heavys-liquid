@@ -213,6 +213,7 @@
         },
         "collapsible_tab_dd63aP": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Get a Second Shell design for 25% off",
             "icon": "price_tag",
