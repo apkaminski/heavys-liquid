@@ -45,10 +45,17 @@
           "settings": {
             "collection": "frontpage"
           }
+        },
+        "featured_collection_Mxxkpi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shells"
+          }
         }
       },
       "block_order": [
-        "featured_collection_BbPTr7"
+        "featured_collection_BbPTr7",
+        "featured_collection_Mxxkpi"
       ],
       "settings": {
         "title": "Collections",
