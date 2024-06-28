@@ -71,9 +71,9 @@
         "collapsible_tab_VxhV37": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Free Shipping on $199+ Orders",
+            "heading": "Free Shipping on orders over $200",
             "icon": "truck",
-            "content": "<ul><li>Free Shipping on $199+ Orders and all Bundles<\/li><\/ul><p><\/p><ul><li>30 Day 'No Questions Asked' Return Policy after received date.<\/li><\/ul>",
+            "content": "<ul><li>+Free Shipping on $200+ Orders & on Bundles<\/li><\/ul><p><\/p><ul><li>+30 Day 'No Questions Asked' Return Policy after received date.<\/li><\/ul>",
             "page": ""
           }
         },
