@@ -532,15 +532,15 @@
         "heading": "<a href=\"#heavys-featured\" title=\"#heavys-featured\">Hear the Difference<\/a> with Top Industry Pros",
         "heading_size": "h2",
         "blog": "testimonials",
-        "post_limit": 3,
-        "columns_desktop": 3,
+        "post_limit": 4,
+        "columns_desktop": 4,
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "show_image": true,
         "show_date": false,
         "show_author": false,
         "show_view_all": true,
         "padding_top": 40,
-        "padding_bottom": 40
+        "padding_bottom": 12
       }
     },
     "a259a103-10d9-404b-84c4-de542413e278": {
