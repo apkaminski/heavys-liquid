@@ -15,8 +15,19 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "Listen to Metal The Way You Should",
-            "text_style": "caption-with-letter-spacing"
+            "text": "Surprise Happy Hour Use CODE <strong>SAVE50<\/strong>",
+            "text_style": "subtitle"
+          }
+        },
+        "timer_CNEjyL": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "06",
+            "day": "29",
+            "hour": "23",
+            "minute": "59",
+            "cycle": false
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
@@ -44,6 +55,7 @@
       },
       "block_order": [
         "text_bitp7e",
+        "timer_CNEjyL",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1"
