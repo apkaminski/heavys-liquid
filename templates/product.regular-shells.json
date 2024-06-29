@@ -83,6 +83,19 @@
           "settings": {
             "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-03-28_at_20.09.01.png?v=1711649364\" width=\"300px\"><\/img><\/center>"
           }
+        },
+        "complementary_TtUpje": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 8,
+            "products_per_page": 2,
+            "pagination_style": "dots",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
         }
       },
       "block_order": [
@@ -96,7 +109,8 @@
         "description",
         "collapsible_tab_zX7nK3",
         "collapsible_tab_eDV3RV",
-        "custom_liquid_rUyfbA"
+        "custom_liquid_rUyfbA",
+        "complementary_TtUpje"
       ],
       "settings": {
         "color_scheme": "inverse",
