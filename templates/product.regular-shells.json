@@ -84,12 +84,12 @@
           "settings": {
             "block_heading": "Get 30% Off Second Shells Design",
             "make_collapsible_row": false,
-            "icon": "price_tag",
+            "icon": "fire",
             "product_list_limit": 8,
             "products_per_page": 2,
             "pagination_style": "dots",
             "image_ratio": "square",
-            "enable_quick_add": false
+            "enable_quick_add": true
           }
         },
         "custom_liquid_rUyfbA": {
