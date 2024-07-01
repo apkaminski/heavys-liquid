@@ -52,7 +52,7 @@
         ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
         ".banner__text:nth-child(4) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 13px;}",
-        ".banner__box {background-color: #000000; padding-top: 10px; padding-bottom: 10px;}"
+        ".banner__box {background-color: #000000; padding-top: 10px; padding-bottom: 15px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-07-01_at_22.09.06.png",
