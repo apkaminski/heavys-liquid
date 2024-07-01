@@ -128,9 +128,8 @@
         },
         "caption": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<strong>Limited Time Offer<\/strong>: Use Code \"<em><strong>BAKED<\/strong><\/em>\" to save an additional $42.0 off Shells Bundles",
+            "text": "<strong>Use Code 'JULY4' for $ Off Shell Bundles<\/strong>",
             "text_style": "subtitle"
           }
         },
