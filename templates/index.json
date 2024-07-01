@@ -15,15 +15,15 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "Listen To Metal The Way You Should",
+            "text": "<strong>Headphones For Heavy Music<\/strong>",
             "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Headphones For Heavy Music<\/strong>",
-            "heading_size": "h0"
+            "heading": "RED, WHITE, BLACK and BLUE! <strong>Use Code 'JULY4' for $44 Off<\/strong>",
+            "heading_size": "h1"
           }
         },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
