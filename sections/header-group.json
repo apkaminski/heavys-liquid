@@ -37,9 +37,8 @@
         },
         "announcement_7eaAQk": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Buy 2 Shells + Get The 3rd For Free",
+            "text": "Use Code 'JULY4' for $44 Off Bundles",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
