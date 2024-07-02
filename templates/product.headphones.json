@@ -168,7 +168,7 @@
         "button_RfcUiJ"
       ],
       "custom_css": [
-
+        "button-.button--primary {text-size-adjust: 50px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bannerjuly4.png",
