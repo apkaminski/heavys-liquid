@@ -9,36 +9,6 @@
 */
 {
   "sections": {
-    "image_banner_iHPy8n": {
-      "type": "image-banner",
-      "blocks": {
-        "button_RfcUiJ": {
-          "type": "button",
-          "settings": {
-            "button_label": "Red White Black & Blue, use code: JULY4 for $44 Off",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "button_RfcUiJ"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/bannerjuly4.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false,
-        "scroll_anchor": ""
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -178,8 +148,41 @@
         "mobile_thumbnails": "show",
         "hide_variants": true,
         "enable_video_looping": true,
-        "padding_top": 40,
-        "padding_bottom": 40
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_iHPy8n": {
+      "type": "image-banner",
+      "blocks": {
+        "button_RfcUiJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Red White Black & Blue, use code: JULY4 for $44 Off",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "button_RfcUiJ"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bannerjuly4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "scroll_anchor": ""
       }
     },
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa": {
@@ -979,8 +982,8 @@
     }
   },
   "order": [
-    "image_banner_iHPy8n",
     "main",
+    "image_banner_iHPy8n",
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "rich_text_bNMLc4",
