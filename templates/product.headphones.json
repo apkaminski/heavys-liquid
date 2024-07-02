@@ -9,6 +9,23 @@
 */
 {
   "sections": {
+    "image_banner_iHPy8n": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bannerjuly4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "scroll_anchor": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -949,6 +966,7 @@
     }
   },
   "order": [
+    "image_banner_iHPy8n",
     "main",
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
