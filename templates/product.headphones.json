@@ -155,8 +155,16 @@
     "image_banner_iHPy8n": {
       "type": "image-banner",
       "blocks": {
+        "heading_jVfxeX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Red White Black & Blue, use code: JULY4 for $44 Off",
+            "heading_size": "h2"
+          }
+        },
         "button_RfcUiJ": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Red White Black & Blue, use code: JULY4 for $44 Off",
             "button_link": "",
@@ -165,10 +173,11 @@
         }
       },
       "block_order": [
+        "heading_jVfxeX",
         "button_RfcUiJ"
       ],
       "custom_css": [
-        ".button {text-decoration-color: #ffffff; font-size: 16px;}"
+        ".h2 {font-family: \"Montserrat\", sans-serif; color: #ffffff; font-size: 14px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bannerjuly4.png",
