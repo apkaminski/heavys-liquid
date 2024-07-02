@@ -11,6 +11,19 @@
   "sections": {
     "image_banner_iHPy8n": {
       "type": "image-banner",
+      "blocks": {
+        "button_RfcUiJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Use Code JULY4",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "button_RfcUiJ"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bannerjuly4.png",
         "image_overlay_opacity": 0,
