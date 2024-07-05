@@ -34,6 +34,17 @@
             "button_style_secondary": false
           }
         },
+        "timer_YrCiQt": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "07",
+            "day": "06",
+            "hour": "23",
+            "minute": "59",
+            "cycle": true
+          }
+        },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
@@ -46,6 +57,7 @@
         "text_bitp7e",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
+        "timer_YrCiQt",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1"
       ],
       "custom_css": [
