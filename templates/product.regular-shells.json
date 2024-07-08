@@ -42,6 +42,20 @@
           "settings": {
           }
         },
+        "subscriptions_app_block_N6RYxN": {
+          "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+          "settings": {
+            "color_text_title": "#6D7175",
+            "color_text_body": "#6D7175",
+            "dividers_color": "#8F8D8D",
+            "bacgkround_color": "#FFFFFF",
+            "border_thickness": 1,
+            "border_radius": 0,
+            "supporting_text_title": "Purchase options",
+            "subscription_policy_url": "",
+            "product": "{{product}}"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -91,20 +105,6 @@
           "settings": {
             "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-03-28_at_20.09.01.png?v=1711649364\" width=\"300px\"><\/img><\/center>"
           }
-        },
-        "subscriptions_app_block_N6RYxN": {
-          "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
-          "settings": {
-            "color_text_title": "#6D7175",
-            "color_text_body": "#6D7175",
-            "dividers_color": "#8F8D8D",
-            "bacgkround_color": "#FFFFFF",
-            "border_thickness": 1,
-            "border_radius": 0,
-            "supporting_text_title": "Purchase options",
-            "subscription_policy_url": "",
-            "product": "{{product}}"
-          }
         }
       },
       "block_order": [
@@ -113,13 +113,13 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "subscriptions_app_block_N6RYxN",
         "buy_buttons",
         "description",
         "collapsible_tab_zX7nK3",
         "collapsible_tab_eDV3RV",
         "complementary_TtUpje",
-        "custom_liquid_rUyfbA",
-        "subscriptions_app_block_N6RYxN"
+        "custom_liquid_rUyfbA"
       ],
       "settings": {
         "color_scheme": "inverse",
