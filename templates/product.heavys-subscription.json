@@ -49,6 +49,20 @@
             "show_gift_card_recipient": false
           }
         },
+        "subscriptions_app_block_FyA68w": {
+          "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+          "settings": {
+            "color_text_title": "#6D7175",
+            "color_text_body": "#6D7175",
+            "dividers_color": "#8F8D8D",
+            "bacgkround_color": "#FFFFFF",
+            "border_thickness": 1,
+            "border_radius": 0,
+            "supporting_text_title": "Purchase options",
+            "subscription_policy_url": "",
+            "product": "{{product}}"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -82,6 +96,7 @@
         "text_wjrcR9",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "buy_buttons",
+        "subscriptions_app_block_FyA68w",
         "description",
         "custom_liquid_kMjNiz",
         "complementary_yPQxbc"
@@ -726,67 +741,6 @@
         "padding_bottom": 80
       }
     },
-    "89a118c0-27aa-4e50-a67f-aca584e69125": {
-      "type": "featured-product",
-      "blocks": {
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-2": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "dropdown"
-          }
-        },
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        }
-      },
-      "block_order": [
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-0",
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-1",
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-2",
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3",
-        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-5"
-      ],
-      "disabled": true,
-      "settings": {
-        "product": "shell-bundle-1",
-        "color_scheme": "inverse",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "secondary_image": "shopify:\/\/shop_images\/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
-        "media_fit": "contain",
-        "media_position": "left",
-        "gallery_layout": "stacked",
-        "image_zoom": "none",
-        "mobile_thumbnails": "hide",
-        "enable_video_looping": false,
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "scroll_anchor": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -815,47 +769,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "172045934568c0d1ce": {
-      "type": "apps",
-      "blocks": {
-        "subscription_plus_subscription_plus_fCtmxz": {
-          "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-plus\/79c17119-154e-465c-8480-a7e0399512ff",
-          "settings": {
-            "advance_widget": false,
-            "default_option": "subscription",
-            "template": "modern",
-            "text_color": "#000000",
-            "branding_color": "#000000",
-            "terms_page_link": "feafea",
-            "one_time_translation": "One time purchase",
-            "widget_type": "widget_2",
-            "show_term_checkbox": true,
-            "subscription_policy_text": "You’re subscribing to receive this item multiple times, on a recurring basis (according to the frequency you select) with a discount on every recurring order. You may cancel or change your subscription at any time.",
-            "enable_benifits": true,
-            "tooltip_text": "You can edit, skip, cancel and reschedule the subscription at any time.",
-            "enable_shadow": true,
-            "delivery_text": "Select Delivery Frequency",
-            "selected_text_color": "",
-            "hover_text_color": "",
-            "radio_color": "",
-            "bg_color_selected": "",
-            "discount_bg": "",
-            "discount_text_color": "",
-            "border_color": "",
-            "default_font": true,
-            "fonts": "helvetica_n4",
-            "font_size_heading": 18,
-            "font_size_price": 30
-          }
-        }
-      },
-      "block_order": [
-        "subscription_plus_subscription_plus_fCtmxz"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -868,9 +781,7 @@
     "slideshow_FaRgw3",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
-    "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products",
-    "custom_liquid_rBmzLm",
-    "172045934568c0d1ce"
+    "custom_liquid_rBmzLm"
   ]
 }
