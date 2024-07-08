@@ -843,12 +843,12 @@
         "subscription_plus_subscription_plus_fCtmxz": {
           "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-plus\/79c17119-154e-465c-8480-a7e0399512ff",
           "settings": {
-            "advance_widget": false,
+            "advance_widget": true,
             "default_option": "subscription",
             "template": "modern",
             "text_color": "#000000",
             "branding_color": "#000000",
-            "terms_page_link": "",
+            "terms_page_link": "feafea",
             "one_time_translation": "One time purchase",
             "widget_type": "widget_1",
             "show_term_checkbox": true,
