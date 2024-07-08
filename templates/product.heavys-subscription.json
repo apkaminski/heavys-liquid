@@ -836,6 +836,59 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "172045934568c0d1ce": {
+      "type": "apps",
+      "blocks": {
+        "subscription_plus_subscription_plus_fCtmxz": {
+          "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-plus\/79c17119-154e-465c-8480-a7e0399512ff",
+          "settings": {
+            "advance_widget": false,
+            "default_option": "subscription",
+            "template": "modern",
+            "text_color": "#000000",
+            "branding_color": "#000000",
+            "terms_page_link": "",
+            "one_time_translation": "One time purchase",
+            "widget_type": "widget_1",
+            "show_term_checkbox": true,
+            "subscription_policy_text": "You’re subscribing to receive this item multiple times, on a recurring basis (according to the frequency you select) with a discount on every recurring order. You may cancel or change your subscription at any time.",
+            "enable_benifits": true,
+            "tooltip_text": "You can edit, skip, cancel and reschedule the subscription at any time.",
+            "enable_shadow": true,
+            "delivery_text": "Select Delivery Frequency",
+            "selected_text_color": "",
+            "hover_text_color": "",
+            "radio_color": "",
+            "bg_color_selected": "",
+            "discount_bg": "",
+            "discount_text_color": "",
+            "border_color": "",
+            "default_font": true,
+            "fonts": "helvetica_n4",
+            "font_size_heading": 18,
+            "font_size_price": 30
+          }
+        },
+        "subscription_plus_subscription_resource_hjJ9M8": {
+          "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-resource\/79c17119-154e-465c-8480-a7e0399512ff",
+          "settings": {
+          }
+        },
+        "subscription_plus_manage_subscription_button_HTMwKD": {
+          "type": "shopify:\/\/apps\/subscription-plus\/blocks\/manage-subscription-button\/79c17119-154e-465c-8480-a7e0399512ff",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "subscription_plus_subscription_plus_fCtmxz",
+        "subscription_plus_subscription_resource_hjJ9M8",
+        "subscription_plus_manage_subscription_button_HTMwKD"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -851,6 +904,7 @@
     "16f898dd-b420-419f-a03d-a8d3092e6811",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products",
-    "custom_liquid_rBmzLm"
+    "custom_liquid_rBmzLm",
+    "172045934568c0d1ce"
   ]
 }
