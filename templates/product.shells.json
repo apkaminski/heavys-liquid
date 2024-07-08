@@ -128,6 +128,7 @@
         },
         "caption": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Use Code 'JULY4' for $44 Off Shell Bundles<\/strong>",
             "text_style": "subtitle"
