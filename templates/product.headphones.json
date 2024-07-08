@@ -14,6 +14,7 @@
       "blocks": {
         "heading_jVfxeX": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Red White Black & Blue, use code: JULY4 for $44 Off",
             "heading_size": "h2"
@@ -33,6 +34,7 @@
         "heading_jVfxeX",
         "button_RfcUiJ"
       ],
+      "disabled": true,
       "custom_css": [
         ".h2 {font-family: \"Montserrat\", sans-serif; color: #ffffff; font-size: 14px;}"
       ],
