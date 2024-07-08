@@ -162,47 +162,6 @@
         "scroll_anchor": ""
       }
     },
-    "1720457643ee9d64fd": {
-      "type": "apps",
-      "blocks": {
-        "subscription_plus_subscription_plus_GJQyYd": {
-          "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-plus\/79c17119-154e-465c-8480-a7e0399512ff",
-          "settings": {
-            "advance_widget": false,
-            "default_option": "subscription",
-            "template": "modern",
-            "text_color": "#000000",
-            "branding_color": "#000000",
-            "terms_page_link": "",
-            "one_time_translation": "One time purchase",
-            "widget_type": "widget_1",
-            "show_term_checkbox": true,
-            "subscription_policy_text": "You’re subscribing to receive this item multiple times, on a recurring basis (according to the frequency you select) with a discount on every recurring order. You may cancel or change your subscription at any time.",
-            "enable_benifits": true,
-            "tooltip_text": "You can edit, skip, cancel and reschedule the subscription at any time.",
-            "enable_shadow": true,
-            "delivery_text": "Select Delivery Frequency",
-            "selected_text_color": "",
-            "hover_text_color": "",
-            "radio_color": "",
-            "bg_color_selected": "",
-            "discount_bg": "",
-            "discount_text_color": "",
-            "border_color": "",
-            "default_font": true,
-            "fonts": "helvetica_n4",
-            "font_size_heading": 18,
-            "font_size_price": 30
-          }
-        }
-      },
-      "block_order": [
-        "subscription_plus_subscription_plus_GJQyYd"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "140ffd4e-59cc-42be-82cf-cf3274153e91": {
       "type": "rich-text",
       "blocks": {
@@ -883,7 +842,6 @@
     "main",
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "image_with_text_zjnMtM",
-    "1720457643ee9d64fd",
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
     "696a1674-357d-4c14-9c51-dd1df6898605",
