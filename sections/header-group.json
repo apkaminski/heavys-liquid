@@ -34,22 +34,11 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
-        },
-        "announcement_7eaAQk": {
-          "type": "announcement",
-          "settings": {
-            "text": "Use Code 'JULY4' for $44 Off Bundles",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_ekbCtT",
-        "announcement_7eaAQk"
+        "announcement_ekbCtT"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
