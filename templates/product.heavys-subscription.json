@@ -726,27 +726,6 @@
         "padding_bottom": 80
       }
     },
-    "16f898dd-b420-419f-a03d-a8d3092e6811": {
-      "type": "video",
-      "custom_css": [
-        "h2 {text-align: center;}",
-        "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
-      ],
-      "settings": {
-        "heading": "Hear the Difference",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Heavys H1H vs Sony 1000XM5.mov",
-        "autoplay": false,
-        "video_url": "",
-        "description": "heavys H1H vs Sony 1000xm5",
-        "full_width": false,
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "scroll_anchor": ""
-      }
-    },
     "89a118c0-27aa-4e50-a67f-aca584e69125": {
       "type": "featured-product",
       "blocks": {
@@ -843,7 +822,7 @@
         "subscription_plus_subscription_plus_fCtmxz": {
           "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-plus\/79c17119-154e-465c-8480-a7e0399512ff",
           "settings": {
-            "advance_widget": true,
+            "advance_widget": false,
             "default_option": "subscription",
             "template": "modern",
             "text_color": "#000000",
@@ -869,22 +848,10 @@
             "font_size_heading": 18,
             "font_size_price": 30
           }
-        },
-        "subscription_plus_subscription_resource_hjJ9M8": {
-          "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-resource\/79c17119-154e-465c-8480-a7e0399512ff",
-          "settings": {
-          }
-        },
-        "subscription_plus_manage_subscription_button_HTMwKD": {
-          "type": "shopify:\/\/apps\/subscription-plus\/blocks\/manage-subscription-button\/79c17119-154e-465c-8480-a7e0399512ff",
-          "settings": {
-          }
         }
       },
       "block_order": [
-        "subscription_plus_subscription_plus_fCtmxz",
-        "subscription_plus_subscription_resource_hjJ9M8",
-        "subscription_plus_manage_subscription_button_HTMwKD"
+        "subscription_plus_subscription_plus_fCtmxz"
       ],
       "settings": {
         "include_margins": true
@@ -901,7 +868,6 @@
     "slideshow_FaRgw3",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
-    "16f898dd-b420-419f-a03d-a8d3092e6811",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products",
     "custom_liquid_rBmzLm",
