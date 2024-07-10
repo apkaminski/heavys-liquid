@@ -91,7 +91,7 @@
           "type": "complementary",
           "settings": {
             "block_heading": "Save 30% on your 2nd Shells",
-            "make_collapsible_row": false,
+            "make_collapsible_row": true,
             "icon": "fire",
             "product_list_limit": 8,
             "products_per_page": 2,
