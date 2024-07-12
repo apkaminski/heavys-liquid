@@ -129,10 +129,10 @@
         "subscriptions_app_block_83VpPD": {
           "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
           "settings": {
-            "color_text_title": "#6D7175",
-            "color_text_body": "#6D7175",
-            "dividers_color": "#8F8D8D",
-            "bacgkround_color": "#FFFFFF",
+            "color_text_title": "#b5b5b5",
+            "color_text_body": "#b5b5b5",
+            "dividers_color": "#b5b5b5",
+            "bacgkround_color": "rgba(0,0,0,0)",
             "border_thickness": 1,
             "border_radius": 0,
             "supporting_text_title": "Purchase options",
