@@ -94,6 +94,7 @@
         },
         "subscription_plus_subscription_plus_JeGndb": {
           "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-plus\/79c17119-154e-465c-8480-a7e0399512ff",
+          "disabled": true,
           "settings": {
             "advance_widget": false,
             "default_option": "subscription",
@@ -117,7 +118,7 @@
             "discount_text_color": "",
             "border_color": "",
             "default_font": true,
-            "fonts": "helvetica_n4",
+            "fonts": "montserrat_n4",
             "font_size_heading": 18,
             "font_size_price": 30
           }
