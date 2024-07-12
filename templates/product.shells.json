@@ -653,6 +653,31 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "1720780468bf3d415b": {
+      "type": "apps",
+      "blocks": {
+        "subscriptions_app_block_qJhcYj": {
+          "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+          "settings": {
+            "color_text_title": "#6D7175",
+            "color_text_body": "#6D7175",
+            "dividers_color": "#8F8D8D",
+            "bacgkround_color": "#FFFFFF",
+            "border_thickness": 1,
+            "border_radius": 0,
+            "supporting_text_title": "Purchase options",
+            "subscription_policy_url": "",
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "subscriptions_app_block_qJhcYj"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -669,6 +694,7 @@
     "243990a3-4122-461a-b6d3-04139fdb26fc",
     "463cf269-3e55-4128-838b-822482a855bf",
     "testimonial_grid_JFjyAb",
-    "related-products"
+    "related-products",
+    "1720780468bf3d415b"
   ]
 }
