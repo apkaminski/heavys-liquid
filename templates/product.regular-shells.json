@@ -99,7 +99,7 @@
             "default_option": "subscription",
             "template": "modern",
             "text_color": "#d5d5d5",
-            "branding_color": "#000000",
+            "branding_color": "#c5c5c5",
             "terms_page_link": "",
             "one_time_translation": "One time purchase",
             "widget_type": "widget_1",
