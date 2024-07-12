@@ -94,7 +94,6 @@
         },
         "subscription_plus_subscription_plus_JeGndb": {
           "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-plus\/79c17119-154e-465c-8480-a7e0399512ff",
-          "disabled": true,
           "settings": {
             "advance_widget": false,
             "default_option": "subscription",
@@ -103,7 +102,7 @@
             "branding_color": "#c5c5c5",
             "terms_page_link": "",
             "one_time_translation": "One time purchase",
-            "widget_type": "widget_1",
+            "widget_type": "widget_6",
             "show_term_checkbox": true,
             "subscription_policy_text": "You’re subscribing to receive this item multiple times, on a recurring basis (according to the frequency you select) with a discount on every recurring order. You may cancel or change your subscription at any time.",
             "enable_benifits": true,
