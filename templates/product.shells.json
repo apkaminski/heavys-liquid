@@ -126,20 +126,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "subscriptions_app_block_83VpPD": {
-          "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
-          "settings": {
-            "color_text_title": "#b5b5b5",
-            "color_text_body": "#b5b5b5",
-            "dividers_color": "#b5b5b5",
-            "bacgkround_color": "rgba(0,0,0,0)",
-            "border_thickness": 1,
-            "border_radius": 0,
-            "supporting_text_title": "Join Heavys Mosh Pit",
-            "subscription_policy_url": "",
-            "product": "{{product}}"
-          }
-        },
         "caption": {
           "type": "text",
           "disabled": true,
@@ -238,7 +224,6 @@
         "price",
         "variant_picker",
         "buy_buttons",
-        "subscriptions_app_block_83VpPD",
         "caption",
         "description",
         "collapsible_tab_Gt7V3K",
