@@ -374,10 +374,9 @@
         },
         "text_E6QzVw": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<em><strong>use code 'DAD' for additional $50 OFF Shells Bundle<\/strong><\/em>",
-            "text_style": "body"
+            "text": "<strong>Save $40 for Prime Day with Code: <\/strong><em><strong>PRIME<\/strong><\/em>",
+            "text_style": "subtitle"
           }
         },
         "text_9WeYaE": {
