@@ -15,7 +15,7 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "Save $40 for Prime Day with Code: PRIME",
+            "text": "<strong>Save $40 for Prime Day with Code: PRIME<\/strong>",
             "text_style": "subtitle"
           }
         },
