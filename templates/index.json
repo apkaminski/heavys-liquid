@@ -651,7 +651,7 @@
         "f983dcff-ff20-43c4-8c52-596455709ebd": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you offer split payment options?",
+            "heading": "Do you offer split payments?",
             "icon": "none",
             "row_content": "<p>Yes! You can use Shop Pay for payments in the US, or Klarna for payments in other countries. Paypal is available as well with payment options in some countries<\/p>",
             "page": ""
