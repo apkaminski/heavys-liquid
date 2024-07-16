@@ -104,6 +104,13 @@
           "settings": {
           }
         },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "Save $40 for Prime Day with Code: PRIME",
+            "text_style": "subtitle"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -115,14 +122,6 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
-          }
-        },
-        "caption": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<strong>Use Code 'JULY4' for $44 Off Shell Bundles<\/strong>",
-            "text_style": "subtitle"
           }
         },
         "description": {
@@ -213,9 +212,9 @@
         "vendor",
         "title",
         "price",
+        "caption",
         "variant_picker",
         "buy_buttons",
-        "caption",
         "description",
         "collapsible_tab_Gt7V3K",
         "collapsible_tab_keizah",
