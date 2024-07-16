@@ -11,6 +11,22 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "1721129207ff5d1763": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_medals_Hgzxy3": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_medals_Hgzxy3"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "custom_liquid_NtmXKT": {
       "type": "custom-liquid",
       "settings": {
@@ -59,6 +75,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "judge_me_reviews_medals_PnRGei": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "footer-0": {
           "type": "link_list",
           "settings": {
@@ -98,6 +119,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_medals_PnRGei",
         "footer-0",
         "footer-1",
         "b6964a98-04cb-41e2-911f-33e4af2d5502",
@@ -121,6 +143,7 @@
     }
   },
   "order": [
+    "1721129207ff5d1763",
     "custom_liquid_NtmXKT",
     "76ffe667-d89c-4967-9e77-454b74fef48b",
     "footer"
