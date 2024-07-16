@@ -14,6 +14,12 @@
     "1721129207ff5d1763": {
       "type": "apps",
       "blocks": {
+        "judge_me_reviews_featured_carousel_jdkBB8": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        },
         "judge_me_reviews_medals_3Yf8qz": {
           "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
@@ -21,6 +27,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_featured_carousel_jdkBB8",
         "judge_me_reviews_medals_3Yf8qz"
       ],
       "settings": {
