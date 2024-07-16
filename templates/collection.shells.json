@@ -113,6 +113,15 @@
         "padding_bottom": 8
       }
     },
+    "custom_liquid_T8MQqJ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h2><center>Trusted By 30,000+ Music Fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 40
+      }
+    },
     "a1ea452e-4aa5-4832-96ea-0936f092c98d": {
       "type": "video",
       "settings": {
@@ -128,83 +137,6 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "scroll_anchor": "videoshells"
-      }
-    },
-    "105281a3-4f40-4f4d-8756-77f2f604254d": {
-      "type": "featured-product",
-      "blocks": {
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-2": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "dropdown"
-          }
-        },
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
-        "54767c84-3de7-4bf5-92e9-f83dc355b677": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Inside the Bundle Box<\/strong>: Original Heavys Shells + Selected set of Shells, Heavys H1H Headphones, Eco-Friendly Travel Case, AUX Audio Cable, USB-C Charging Cable. <strong>Shells are replaceable<\/strong>. You can collect multiple 'Snap on' Shells to customize your Headphones.",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-0",
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-1",
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-2",
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-3",
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-5",
-        "54767c84-3de7-4bf5-92e9-f83dc355b677"
-      ],
-      "disabled": true,
-      "settings": {
-        "product": "shell-bundle",
-        "color_scheme": "inverse",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "gallery_layout": "stacked",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "enable_video_looping": false,
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "scroll_anchor": ""
-      }
-    },
-    "custom_liquid_T8MQqJ": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<h2><center>Trusted By 30,000+ Music Fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
-        "color_scheme": "",
-        "padding_top": 16,
-        "padding_bottom": 40
       }
     },
     "bcde66c3-9962-4a71-9872-554e060a4611": {
@@ -371,9 +303,8 @@
     "55782d96-8b7d-40a9-8370-87b6338da840",
     "product-grid",
     "featured_collection_6Brddr",
-    "a1ea452e-4aa5-4832-96ea-0936f092c98d",
-    "105281a3-4f40-4f4d-8756-77f2f604254d",
     "custom_liquid_T8MQqJ",
+    "a1ea452e-4aa5-4832-96ea-0936f092c98d",
     "bcde66c3-9962-4a71-9872-554e060a4611",
     "slideshow_gptyrD"
   ]

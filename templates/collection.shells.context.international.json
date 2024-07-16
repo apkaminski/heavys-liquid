@@ -1,41 +1,22 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "parent": "collection.shells.json",
   "context": {
     "market": "international"
   },
   "sections": {
-    "105281a3-4f40-4f4d-8756-77f2f604254d": {
-      "settings": {
-      },
-      "blocks": {
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-5": {
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "168c7c19-757c-406c-b4d9-4ec0af640022": {
-          "type": "preorder_buttons",
-          "settings": {
-            "klavyo_desktop_id": "YyZgLn",
-            "klavyo_mobile_id": "TMcm4k"
-          }
-        }
-      },
-      "block_order": [
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-0",
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-1",
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-2",
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-3",
-        "168c7c19-757c-406c-b4d9-4ec0af640022",
-        "template--14883183099978__105281a3-4f40-4f4d-8756-77f2f604254d-1689245585b2e19855-5",
-        "54767c84-3de7-4bf5-92e9-f83dc355b677"
-      ]
-    }
   },
   "order": [
     "banner",
     "55782d96-8b7d-40a9-8370-87b6338da840",
-    "product-grid",
-    "105281a3-4f40-4f4d-8756-77f2f604254d"
+    "product-grid"
   ]
 }
