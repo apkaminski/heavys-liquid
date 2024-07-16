@@ -19,17 +19,6 @@
             "text_style": "subtitle"
           }
         },
-        "timer_VXMqtT": {
-          "type": "timer",
-          "settings": {
-            "year": "2024",
-            "month": "07",
-            "day": "17",
-            "hour": "23",
-            "minute": "59",
-            "cycle": true
-          }
-        },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
@@ -45,6 +34,17 @@
             "button_style_secondary": false
           }
         },
+        "timer_VXMqtT": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "07",
+            "day": "17",
+            "hour": "23",
+            "minute": "59",
+            "cycle": false
+          }
+        },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
@@ -55,9 +55,9 @@
       },
       "block_order": [
         "text_bitp7e",
-        "timer_VXMqtT",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
+        "timer_VXMqtT",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1"
       ],
       "custom_css": [
