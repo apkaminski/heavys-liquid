@@ -13,6 +13,16 @@
   "sections": {
     "1721129207ff5d1763": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_medals_3Yf8qz": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_medals_3Yf8qz"
+      ],
       "settings": {
         "include_margins": true
       }
@@ -65,11 +75,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "judge_me_reviews_medals_fjtcyH": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
         "footer-0": {
           "type": "link_list",
           "settings": {
@@ -109,7 +114,6 @@
         }
       },
       "block_order": [
-        "judge_me_reviews_medals_fjtcyH",
         "footer-0",
         "footer-1",
         "b6964a98-04cb-41e2-911f-33e4af2d5502",
