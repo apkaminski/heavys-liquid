@@ -169,14 +169,20 @@
         "settings": {
         }
       },
-      "1768834845299682660": {
-        "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-embed-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
-          "color_text_title": "#6D7175",
-          "color_text_body": "#6D7175",
-          "dividers_color": "#8F8D8D",
-          "bacgkround_color": "#FFFFFF",
+        }
+      },
+      "1768834845299682660": {
+        "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-embed-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+        "disabled": true,
+        "settings": {
+          "color_text_title": "#6d7175",
+          "color_text_body": "#6d7175",
+          "dividers_color": "#8f8d8d",
+          "bacgkround_color": "#ffffff",
           "border_thickness": 1,
           "border_radius": 0,
           "supporting_text_title": "Purchase options",
@@ -185,13 +191,7 @@
       },
       "6992340522935486548": {
         "type": "shopify:\/\/apps\/subscription-plus\/blocks\/app\/79c17119-154e-465c-8480-a7e0399512ff",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       }
