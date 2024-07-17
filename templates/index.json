@@ -569,7 +569,7 @@
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "When will my order be shipped",
+            "heading": "When will my order be shipped?",
             "icon": "none",
             "row_content": "<p>Heavys will ship within 2 <strong>business<\/strong> days of ordering<\/p><p>Standard and Express Shipping options are available<br\/>_____<\/p><p>You will receive an email with tracking number once your order is on its way<\/p><p>Actual delivery times vary between countries and will be presented at checkout. Please note that while our couriers will deliver the package as fast as possible, the import and customs process within your country may delay the delivery date and is out of our control.<\/p>",
             "page": ""
