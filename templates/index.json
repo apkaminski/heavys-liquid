@@ -571,7 +571,7 @@
           "settings": {
             "heading": "When will my order be shipped",
             "icon": "none",
-            "row_content": "<p>Heavys are in stock and will ship within 2 business days of ordering!<\/p><p>Standard and Express Shipping options are available<br\/>_____<\/p><p>You will receive an email with tracking number once your order is on its way<\/p><p>Actual delivery times vary between countries and will be presented at checkout. Please note that while our couriers will deliver the package as fast as possible, the import and customs process within your country may delay the delivery date and is out of our control.<\/p>",
+            "row_content": "<p>Heavys will ship within 2 <strong>business<\/strong> days of ordering<\/p><p>Standard and Express Shipping options are available<br\/>_____<\/p><p>You will receive an email with tracking number once your order is on its way<\/p><p>Actual delivery times vary between countries and will be presented at checkout. Please note that while our couriers will deliver the package as fast as possible, the import and customs process within your country may delay the delivery date and is out of our control.<\/p>",
             "page": ""
           }
         },
