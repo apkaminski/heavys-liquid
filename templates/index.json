@@ -670,6 +670,7 @@
         },
         "collapsible_row_Uz9EXw": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Can I connect Heavys to my iPhone or Android Phone?",
             "icon": "none",
