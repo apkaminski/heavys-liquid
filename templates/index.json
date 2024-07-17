@@ -99,6 +99,12 @@
             "heading_size": "h1"
           }
         },
+        "judge_me_reviews_preview_badge_homepage_cniEQr": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge_homepage\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "heavys-h1h-headphones-bundle-case"
+          }
+        },
         "price_kbjrXb": {
           "type": "price",
           "settings": {
@@ -176,6 +182,7 @@
       },
       "block_order": [
         "title_w8KRiE",
+        "judge_me_reviews_preview_badge_homepage_cniEQr",
         "price_kbjrXb",
         "text_E8yrpp",
         "buy_buttons_6KMFT6",
