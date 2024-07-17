@@ -61,6 +61,12 @@
           "settings": {
           }
         },
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"#reviewshp\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"300px\"><\/img><\/a><\/center>"
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -149,12 +155,6 @@
             "enable_quick_add": true
           }
         },
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<center><a href=\"#reviewshp\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"300px\"><\/img><\/a><\/center>"
-          }
-        },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
           "disabled": true,
@@ -165,6 +165,7 @@
       },
       "block_order": [
         "title",
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "vendor",
         "caption",
         "price",
@@ -176,7 +177,6 @@
         "collapsible_tab_Eztxxk",
         "description",
         "complementary_z4cWLg",
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
       ],
       "settings": {
