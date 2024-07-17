@@ -578,7 +578,7 @@
         "e63ec509-8cc2-42f8-8422-902902dc18d7": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does shipping costs cover local taxes and fees?",
+            "heading": "Do costs cover local taxes and fees?",
             "icon": "none",
             "row_content": "<p>We include tax, duties and VAT for most countries for most orders, and it will be specified during checkout. In some cases, when its not noted as included, specific country duties, if applicable, will need to be reconciled directly as with any consumer electronic goods ordered online since every country has its own taxes and procedures.<\/p>",
             "page": ""
