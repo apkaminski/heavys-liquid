@@ -374,7 +374,7 @@
           "settings": {
             "heading": "Can I wear my glasses when using the Heavys Headphones?",
             "icon": "none",
-            "row_content": "<p>Yes, you can wear your glasses with the headphones. However, to ensure good bass quality, the cushions should be positioned somewhat close to your ears, which may create some pressure. But don't worry, the pressure will be evenly distributed around your ears and the cushions are designed to be super soft for maximum comfort.<\/p>",
+            "row_content": "<p>Yes, you can wear your glasses with the headphones. <\/p>",
             "page": ""
           }
         },
