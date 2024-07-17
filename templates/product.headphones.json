@@ -924,6 +924,7 @@
       "blocks": {
         "column_JCNcPb": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "label": "",
@@ -932,6 +933,7 @@
         },
         "column_ipiXaf": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "label": "",
@@ -940,6 +942,7 @@
         },
         "column_xj8XfR": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "label": "",
@@ -948,6 +951,7 @@
         },
         "column_zzxyXA": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "label": "",
@@ -956,6 +960,7 @@
         },
         "column_PJ67pm": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "label": "",
@@ -964,6 +969,7 @@
         },
         "column_jH8XBg": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "label": "",
@@ -980,13 +986,13 @@
         "column_jH8XBg"
       ],
       "settings": {
-        "title": "<em>Verified Customers Reviews<\/em>",
+        "title": "",
         "heading_size": "h2",
         "button_label": "Get Yours Now",
         "button_link": "https:\/\/www.heavys.com\/cart\/add\/40746106323018",
-        "color_scheme": "inverse",
-        "padding_top": 20,
-        "padding_bottom": 0,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 4,
         "scroll_anchor": "reviewshp"
       }
     }
