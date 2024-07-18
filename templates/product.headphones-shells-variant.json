@@ -35,9 +35,8 @@
         },
         "text_wjrcR9": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Xmas in July! Use Code: BLACK",
+            "text": "Xmas in July! Save $50 with Code: BLACK",
             "text_style": "body"
           }
         },
