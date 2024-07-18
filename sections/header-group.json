@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Xmas in July: Save $50 with Code BLACK",
+            "text": "Xmas in July: Use Code: BLACK",
             "behaviour_type": "klavyo_popup",
             "link": "shopify:\/\/products\/heavys-h1h-headphones-bundle-case",
             "klavyo_desktop_id": "S3Eqqe",
