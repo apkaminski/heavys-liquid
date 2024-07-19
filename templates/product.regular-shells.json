@@ -17,17 +17,16 @@
           "settings": {
           }
         },
-        "caption": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "BLK Friday in July! Save $50 with Code: BLACK",
-            "text_style": "subtitle"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "BLK Friday in July! Save $50 with Code: BLACK",
+            "text_style": "subtitle"
           }
         },
         "variant_picker": {
@@ -95,8 +94,8 @@
       },
       "block_order": [
         "title",
-        "caption",
         "price",
+        "caption",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
