@@ -33,7 +33,7 @@
           "settings": {
             "heading": "Do you have a built-in microphone?",
             "icon": "none",
-            "row_content": "<p>We have not 1 but 5 built-in microphones perfect for voice calls and enhanced noise cancelation. Please note, voice calls and mics are designed to be available via bluetooth only (not via audio cable)<\/p>",
+            "row_content": "<p>We have 5 built-in microphones perfect for voice calls and enhanced noise cancelation. Please note, voice calls and mics are designed to be available via bluetooth only (not via audio cable)<\/p>",
             "page": ""
           }
         },
@@ -262,7 +262,7 @@
           "settings": {
             "heading": "Do you ship internationally?",
             "icon": "none",
-            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. We ship to the United States, Canada, Australia and Japan. We also cover the entire European Union and the United Kingdom. So wherever you are, we've got you covered!<\/p>",
+            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. We ship to the United States, Canada, Australia, Japan, Mexico and LATAM. We also cover the European Union, the United Kingdom and UAE. So wherever you are, we've got you covered!<\/p>",
             "page": ""
           }
         }
