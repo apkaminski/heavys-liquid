@@ -248,15 +248,6 @@
             "page": ""
           }
         },
-        "63c90da5-968f-415c-942b-2f07ac954a94": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Will you ship to Russia or Ukraine?",
-            "icon": "none",
-            "row_content": "<p>Unfortunately we currently can not ship to Russia and Ukraine.<\/p>",
-            "page": ""
-          }
-        },
         "collapsible_row_C4YbWw": {
           "type": "collapsible_row",
           "settings": {
@@ -265,13 +256,22 @@
             "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. We ship to the United States, Canada, Australia, Japan, Mexico and LATAM. We also cover the European Union, the United Kingdom and UAE. So wherever you are, we've got you covered!<\/p>",
             "page": ""
           }
+        },
+        "63c90da5-968f-415c-942b-2f07ac954a94": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will you ship to Russia or Ukraine?",
+            "icon": "none",
+            "row_content": "<p>Unfortunately we currently can not ship to Russia and Ukraine.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "c4f841f6-9d4c-4b45-b215-cafdfdf3d619",
         "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0",
-        "63c90da5-968f-415c-942b-2f07ac954a94",
-        "collapsible_row_C4YbWw"
+        "collapsible_row_C4YbWw",
+        "63c90da5-968f-415c-942b-2f07ac954a94"
       ],
       "settings": {
         "caption": "FAQ",
