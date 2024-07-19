@@ -148,7 +148,7 @@
             "block_heading": "Personalize & Save with Shells",
             "make_collapsible_row": true,
             "icon": "fire",
-            "product_list_limit": 8,
+            "product_list_limit": 10,
             "products_per_page": 2,
             "pagination_style": "dots",
             "image_ratio": "portrait",
