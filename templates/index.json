@@ -428,13 +428,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "35a9e3d3-5d6f-4b64-964c-53cb874465a7": {
-          "type": "text",
-          "settings": {
-            "text": "*<a href=\"\/collections\/shells\" title=\"Shells\"><em><strong>Click to see more Shell Designs*<\/strong><\/em><\/a>",
-            "text_style": "subtitle"
-          }
-        },
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652": {
           "type": "text",
           "settings": {
@@ -447,6 +440,13 @@
           "settings": {
             "text": "<strong>Inside the Shells Bundle <\/strong>: Heavys H1H Headphones, your selected pair of designed Shells, pair of Heavys original shells, AUX Audio Cable, USB-C Charging Cable, premium protective travel case",
             "text_style": "body"
+          }
+        },
+        "35a9e3d3-5d6f-4b64-964c-53cb874465a7": {
+          "type": "text",
+          "settings": {
+            "text": "*<a href=\"\/collections\/shells\" title=\"Shells\"><em><strong>Click to see more Shell Designs*<\/strong><\/em><\/a>",
+            "text_style": "subtitle"
           }
         },
         "icon_with_text_APM6BF": {
@@ -471,9 +471,9 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
-        "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
         "34192509-a141-444e-8c17-ddc78b10c075",
+        "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
         "icon_with_text_APM6BF"
       ],
       "custom_css": [
