@@ -392,13 +392,6 @@
           "settings": {
           }
         },
-        "text_9WeYaE": {
-          "type": "text",
-          "settings": {
-            "text": "<a href=\"\/products\/heavys-shells-subscription\" target=\"_blank\" title=\"Heavys Shells Subscription (US ONLY)\"><em>Click to Subscribe & Save<\/em><\/a>",
-            "text_style": "body"
-          }
-        },
         "text_E6QzVw": {
           "type": "text",
           "disabled": true,
@@ -449,6 +442,13 @@
             "text_style": "subtitle"
           }
         },
+        "text_9WeYaE": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"\/products\/heavys-shells-subscription\" target=\"_blank\" title=\"Heavys Shells Subscription (US ONLY)\"><em>Click to Subscribe & Save<\/em><\/a>",
+            "text_style": "body"
+          }
+        },
         "icon_with_text_APM6BF": {
           "type": "icon-with-text",
           "disabled": true,
@@ -466,7 +466,6 @@
       "block_order": [
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
-        "text_9WeYaE",
         "text_E6QzVw",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
@@ -474,6 +473,7 @@
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
         "34192509-a141-444e-8c17-ddc78b10c075",
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
+        "text_9WeYaE",
         "icon_with_text_APM6BF"
       ],
       "custom_css": [
@@ -527,6 +527,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "custom_css": [
         "h2 {text-align: center;}",
         "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
