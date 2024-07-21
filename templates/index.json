@@ -395,7 +395,7 @@
         "text_9WeYaE": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"\/products\/heavys-shells-subscription\" target=\"_blank\" title=\"Heavys Shells Subscription (US ONLY)\">Subscribe & Save<\/a>",
+            "text": "<a href=\"\/products\/heavys-shells-subscription\" target=\"_blank\" title=\"Heavys Shells Subscription (US ONLY)\"><em>Click to Subscribe & Save<\/em><\/a>",
             "text_style": "body"
           }
         },
