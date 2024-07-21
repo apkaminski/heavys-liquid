@@ -540,7 +540,7 @@
         "video_url": "",
         "description": "heavys headphones by axel grell building process",
         "full_width": false,
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 40,
         "scroll_anchor": "axelvid"
@@ -710,7 +710,7 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
