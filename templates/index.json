@@ -395,7 +395,7 @@
         "text_9WeYaE": {
           "type": "text",
           "settings": {
-            "text": "Free Shipping + Save $50 with Code: XMAS",
+            "text": "<a href=\"\/products\/heavys-shells-subscription\" target=\"_blank\" title=\"Heavys Shells Subscription (US ONLY)\">Subscribe & Save<\/a>",
             "text_style": "body"
           }
         },
@@ -445,7 +445,7 @@
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7": {
           "type": "text",
           "settings": {
-            "text": "*<a href=\"\/collections\/shells\" title=\"Shells\"><em><strong>Click to see more Shell Designs*<\/strong><\/em><\/a>",
+            "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">*<em><strong>Click to see more Shell Designs*<\/strong><\/em><\/a>",
             "text_style": "subtitle"
           }
         },
