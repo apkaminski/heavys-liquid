@@ -22,13 +22,6 @@
           "settings": {
           }
         },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "Save $50 on All Bundles with Code: XMAS",
-            "text_style": "subtitle"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -95,7 +88,6 @@
       "block_order": [
         "title",
         "price",
-        "caption",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
