@@ -67,15 +67,9 @@
             "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"300px\"><\/img>"
           }
         },
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "Save $50 on All Bundles with Code: XMAS",
-            "text_style": "subtitle"
-          }
-        },
         "caption": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
@@ -166,7 +160,6 @@
       "block_order": [
         "title",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
-        "vendor",
         "caption",
         "price",
         "quantity_selector",
