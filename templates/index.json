@@ -142,7 +142,7 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "barcode",
-            "heading_1": "50 Hours Play time",
+            "heading_1": "50 Hours Battery Play time",
             "icon_2": "radio",
             "heading_2": "HellBlocker Noise Cancellation",
             "icon_3": "mic",
