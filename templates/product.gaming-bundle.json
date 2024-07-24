@@ -50,8 +50,16 @@
             "show_gift_card_recipient": true
           }
         },
+        "text_8z8adk": {
+          "type": "text",
+          "settings": {
+            "text": "This is a <strong>PREORDER<\/strong> item and will ship in SEPTEMBER 2024",
+            "text_style": "body"
+          }
+        },
         "description_37BJTB": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -60,7 +68,7 @@
           "settings": {
             "heading": "What's included in the Bundle Box",
             "icon": "box",
-            "content": "<p>+ Heavys H1H Headphones<\/p><p>+ Audio AUX Cable with Analog Boom Mic 2.5mm -&gt; 3.5mm<\/p><p>+ Heavys Original Shells<\/p><p>+ USB-C Cable for Charging & Listening<\/p><p>+ Premium Hard-Shell Travel Case<\/p>",
+            "content": "<p>+ Heavys H1H Headphones<\/p><p>+ Analog Boom Mic arm<\/p><p>+ Audio AUX Cable 2.5mm -&gt; 3.5mm with adaters for Xbox One, Xbox Series S, Xbox Series X, PC, and PS4, PS5<\/p><p>+ Heavys Original Shells<\/p><p>+ USB-C Cable for Charging & Listening<\/p><p>+ Premium Hard-Shell Travel Case<\/p>",
             "page": ""
           }
         },
@@ -126,6 +134,7 @@
         "price",
         "quantity_selector",
         "buy_buttons",
+        "text_8z8adk",
         "description_37BJTB",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
