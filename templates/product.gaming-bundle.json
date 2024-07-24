@@ -179,7 +179,7 @@
           "type": "column",
           "settings": {
             "icon": "barcode",
-            "title": "50 hours play time",
+            "title": "50 hours battery play time",
             "text": "",
             "link_label": "",
             "link": ""
@@ -209,7 +209,7 @@
           "type": "column",
           "settings": {
             "icon": "mic",
-            "title": "Analog Mic +boom arm",
+            "title": "Zero latency Analog Mic +boom arm",
             "text": "",
             "link_label": "",
             "link": ""
@@ -292,7 +292,7 @@
         "h2 {margin: 0 auto 2rem auto; text-align: center;}"
       ],
       "settings": {
-        "title": "Making Metal Heavier",
+        "title": "Making Gaming Better",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
