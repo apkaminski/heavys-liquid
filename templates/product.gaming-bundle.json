@@ -50,6 +50,11 @@
             "show_gift_card_recipient": true
           }
         },
+        "description_37BJTB": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "collapsible_tab_PmKyjY": {
           "type": "collapsible_tab",
           "settings": {
@@ -68,6 +73,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_fex7nB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Features Crafted for Gamers",
+            "icon": "lightning_bolt",
+            "content": "<p><strong>H1H-G Cable Spec: <\/strong><\/p><p><span style=\"text-decoration:underline\">Cable Length:<\/span> 150 cm (~5ft)<\/p><p><span style=\"text-decoration:underline\">Compatibility<\/span>: Xbox One, X , S Controller, PlayStation PS4, PS5 Controller, PC<\/p><p><span style=\"text-decoration:underline\">Features<\/span>: Inline volume control, Mute, switch for microphone, 2.5mm to 3.5mm jack,<\/p><p><span style=\"text-decoration:underline\">Detachable cable Materia<\/span>l: Durable, tangle-free braided cable High-quality connectors for optimal sound transfer<\/p><p>Microphone: Omni-directional mic for clear voice capture Adjustable arm for optimal positioning<\/p>",
+            "page": ""
+          }
+        },
         "collapsible_tab_VxhV37": {
           "type": "collapsible_tab",
           "settings": {
@@ -77,24 +91,9 @@
             "page": ""
           }
         },
-        "collapsible_tab_Eztxxk": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "30 Day Simple Return Policy",
-            "icon": "return",
-            "content": "<p>30 Day 'No Questions Asked' Return Policy after received date.<\/p><p>Not that You'll need it :) <\/p><p><\/p>",
-            "page": ""
-          }
-        },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "complementary_z4cWLg": {
           "type": "complementary",
+          "disabled": true,
           "settings": {
             "block_heading": "Save 25% on Custom Shells",
             "make_collapsible_row": true,
@@ -127,11 +126,11 @@
         "price",
         "quantity_selector",
         "buy_buttons",
+        "description_37BJTB",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
+        "collapsible_tab_fex7nB",
         "collapsible_tab_VxhV37",
-        "collapsible_tab_Eztxxk",
-        "description",
         "complementary_z4cWLg",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
