@@ -414,7 +414,7 @@
             "image": "shopify:\/\/shop_images\/heavys_headphone_sound_wave_1_white_2.png",
             "caption": "",
             "heading": "Natural Sound Field",
-            "text": "<p>Heavys patented technology, built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres<\/p>",
+            "text": "<p>Heavys patented technology, built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres & sound effects<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -425,7 +425,7 @@
             "image": "shopify:\/\/shop_images\/heavys_headphone_2.png",
             "caption": "",
             "heading": "World Class Features",
-            "text": "<p>Fully equipped with Hell Blocker™ active noise cancellation, transparent mode, 50 hours of play time, 5 microphones, transparency mode, ultra-soft ear-cups, Wireless Bluetooth 5.1, a wired option, custom designs<\/p>",
+            "text": "<p>Fully equipped with Hell Blocker™ active noise cancellation, transparent mode, 50 hours of play time, 5 microphones, analog bic + boom arm, transparency mode, ultra-soft ear-cups, Wireless Bluetooth 5.1, a wired option, custom designs<\/p>",
             "button_label": "Elevate My Sound",
             "button_link": "#top"
           }
@@ -625,6 +625,7 @@
         "0640185d-f352-442b-9b4e-ce6844cc6853",
         "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -643,29 +644,9 @@
         "padding_bottom": 80
       }
     },
-    "16f898dd-b420-419f-a03d-a8d3092e6811": {
-      "type": "video",
-      "custom_css": [
-        "h2 {text-align: center;}",
-        "@media screen and (min-width: 750px) {.video-section {max-width: 980px; }}"
-      ],
-      "settings": {
-        "heading": "Hear the Difference",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Heavys H1H vs Sony 1000XM5.mov",
-        "autoplay": false,
-        "video_url": "",
-        "description": "heavys H1H vs Sony 1000xm5",
-        "full_width": false,
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "scroll_anchor": ""
-      }
-    },
     "696a1674-357d-4c14-9c51-dd1df6898605": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Enhance Your Experience",
         "heading_size": "h2",
@@ -873,6 +854,7 @@
         "slide_raezRB",
         "slide_BhBQqm"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "medium",
@@ -944,6 +926,7 @@
         "column_PJ67pm",
         "column_jH8XBg"
       ],
+      "disabled": true,
       "settings": {
         "title": "<em>Verified Customers Reviews<\/em>",
         "heading_size": "h2",
@@ -964,7 +947,6 @@
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
-    "16f898dd-b420-419f-a03d-a8d3092e6811",
     "696a1674-357d-4c14-9c51-dd1df6898605",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products",
