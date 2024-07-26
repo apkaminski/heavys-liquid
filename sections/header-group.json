@@ -14,16 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Sign Up & Save $25",
-            "behaviour_type": "klavyo_popup",
-            "link": "shopify:\/\/products\/heavys-h1h-headphones-bundle-case",
-            "klavyo_desktop_id": "S3Eqqe",
-            "klavyo_mobile_id": "RwYKvF"
-          }
-        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
@@ -33,11 +23,21 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
+        },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Sign Up & Save $25",
+            "behaviour_type": "klavyo_popup",
+            "link": "shopify:\/\/products\/heavys-h1h-headphones-bundle-case",
+            "klavyo_desktop_id": "S3Eqqe",
+            "klavyo_mobile_id": "RwYKvF"
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "announcement_ekbCtT"
+        "announcement_ekbCtT",
+        "announcement-bar-0"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
