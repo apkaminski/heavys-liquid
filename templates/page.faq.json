@@ -500,7 +500,7 @@
           "settings": {
             "heading": "How can I increase the Volume Further?",
             "icon": "none",
-            "row_content": "<p>Please check Audio Normalization \/ Soundcheck Features on your music streaming app if using bluetooth. If you use AUX cable and still have this issue, please email support@heavys.com<\/p>",
+            "row_content": "<p>Please check Audio Normalization \/ Soundcheck Features on your music streaming app if using bluetooth. If you use AUX cable and still have this issue, please email support@heavys.com <\/p><p>Please note we do not recommend listening on high levels for a prolonged time<\/p>",
             "page": ""
           }
         }
