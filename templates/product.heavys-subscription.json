@@ -28,19 +28,6 @@
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 14px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Nobody likes just one band...\n <\/br>Build your collection & save up to 50%<\/h1>\n<\/body>\n<\/html>"
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "dropdown"
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
         "subscriptions_app_block_FyA68w": {
           "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
           "settings": {
@@ -53,6 +40,19 @@
             "supporting_text_title": "",
             "subscription_policy_url": "https:\/\/www.heavys.com\/products\/heavys-shells-subscription",
             "product": "{{product}}"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
           }
         },
         "subscription_plus_subscription_plus_z93HVd": {
@@ -116,9 +116,9 @@
         "title",
         "price",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
+        "subscriptions_app_block_FyA68w",
         "variant_picker",
         "buy_buttons",
-        "subscriptions_app_block_FyA68w",
         "subscription_plus_subscription_plus_z93HVd",
         "description",
         "custom_liquid_kMjNiz",
