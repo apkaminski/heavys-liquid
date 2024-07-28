@@ -37,7 +37,7 @@
             "bacgkround_color": "#141414",
             "border_thickness": 1,
             "border_radius": 0,
-            "supporting_text_title": "Subscribe & Save (Payment every 3 months)",
+            "supporting_text_title": "",
             "subscription_policy_url": "https:\/\/www.heavys.com\/products\/heavys-shells-subscription",
             "product": "{{product}}"
           }
