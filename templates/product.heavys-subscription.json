@@ -75,7 +75,7 @@
             "delivery_text": "Select Delivery Frequency",
             "selected_text_color": "",
             "hover_text_color": "",
-            "radio_color": "#d61e1e",
+            "radio_color": "rgba(0,0,0,0)",
             "bg_color_selected": "",
             "discount_bg": "",
             "discount_text_color": "",
