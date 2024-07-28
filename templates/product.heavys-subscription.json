@@ -30,6 +30,7 @@
         },
         "subscriptions_app_block_FyA68w": {
           "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+          "disabled": true,
           "settings": {
             "color_text_title": "#f2f2f2",
             "color_text_body": "#f2f2f2",
@@ -53,31 +54,6 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "custom_liquid_kMjNiz": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"330px\"><\/img><\/center>"
-          }
-        },
-        "complementary_yPQxbc": {
-          "type": "complementary",
-          "disabled": true,
-          "settings": {
-            "block_heading": "Upgrade to Headphones + Shells Bundle",
-            "make_collapsible_row": true,
-            "icon": "lightning_bolt",
-            "product_list_limit": 6,
-            "products_per_page": 2,
-            "pagination_style": "dots",
-            "image_ratio": "square",
-            "enable_quick_add": true
           }
         },
         "subscription_plus_subscription_plus_medRr9": {
@@ -109,6 +85,31 @@
             "font_size_heading": 18,
             "font_size_price": 30
           }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "custom_liquid_kMjNiz": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"330px\"><\/img><\/center>"
+          }
+        },
+        "complementary_yPQxbc": {
+          "type": "complementary",
+          "disabled": true,
+          "settings": {
+            "block_heading": "Upgrade to Headphones + Shells Bundle",
+            "make_collapsible_row": true,
+            "icon": "lightning_bolt",
+            "product_list_limit": 6,
+            "products_per_page": 2,
+            "pagination_style": "dots",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
         }
       },
       "block_order": [
@@ -118,10 +119,10 @@
         "subscriptions_app_block_FyA68w",
         "variant_picker",
         "buy_buttons",
+        "subscription_plus_subscription_plus_medRr9",
         "description",
         "custom_liquid_kMjNiz",
-        "complementary_yPQxbc",
-        "subscription_plus_subscription_plus_medRr9"
+        "complementary_yPQxbc"
       ],
       "settings": {
         "color_scheme": "inverse",
