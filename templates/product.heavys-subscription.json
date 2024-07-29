@@ -304,7 +304,7 @@
     "696a1674-357d-4c14-9c51-dd1df6898605": {
       "type": "featured-collection",
       "settings": {
-        "title": "Enhance Your Listening Experience Inside & Out",
+        "title": "Elevate Your Style",
         "heading_size": "h2",
         "description": "<p>'Mix & Match' as many Shells Designs as you want<\/p>",
         "show_description": false,
@@ -557,6 +557,7 @@
         "column_9dkBjT",
         "column_6kH4bq"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {margin: 0 auto 2rem auto;}"
       ],
@@ -749,6 +750,7 @@
         "0640185d-f352-442b-9b4e-ce6844cc6853",
         "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3"
       ],
+      "disabled": true,
       "settings": {
         "caption": "For MetalHeads By MetalHeads",
         "heading": "Heavys <strong>Specification<\/strong>",
