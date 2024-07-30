@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -26,10 +35,17 @@
           "settings": {
             "text": "<h3>For Partnership inquiries please email : <a href=\"mailto:partnerships@heavys.com\" target=\"_blank\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com<\/a><\/h3>"
           }
+        },
+        "text_pbrhf7": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>For Account Deletion  please email : <a href=\"mailto:support@heavys.com\" target=\"_blank\" title=\"mailto:support@heavys.com\">support@heavys.com<\/a><\/h3>"
+          }
         }
       },
       "block_order": [
-        "text_T3LD6X"
+        "text_T3LD6X",
+        "text_pbrhf7"
       ],
       "settings": {
         "desktop_content_position": "center",
