@@ -679,6 +679,15 @@
             "page": ""
           }
         },
+        "collapsible_row_JYiQjf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer subscription?",
+            "icon": "none",
+            "row_content": "<p>Yes! We offer a subscription for Shells, you can save up to 50% on multiple shell designs when signing up to our annual option <a href=\"\/products\/heavys-shells-subscription\" title=\"Heavys Shells Subscription\">HERE<\/a><\/p><p><\/p>",
+            "page": ""
+          }
+        },
         "collapsible_row_Uz9EXw": {
           "type": "collapsible_row",
           "disabled": true,
@@ -703,6 +712,7 @@
         "collapsible_row_9KY74R",
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
         "f983dcff-ff20-43c4-8c52-596455709ebd",
+        "collapsible_row_JYiQjf",
         "collapsible_row_Uz9EXw"
       ],
       "settings": {
