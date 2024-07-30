@@ -609,7 +609,7 @@
           "settings": {
             "heading": "When is Heavys mobile app going live?",
             "icon": "none",
-            "row_content": "<p>We are currently developing an app to pair with our headphones, which will include EQ, firmware updates and enable the management of specific headphone features. The app will launch towards the end of 2024. *Send an email to partnerships@heavys.com and tell us what is most important for you in an app. <\/p>",
+            "row_content": "<p>We are currently developing an app to pair with our headphones, which will include EQ, firmware updates and enable the management of specific headphone features which will be added over time. The app will launch towards the end of 2024. <\/p><p>*Send an email to partnerships@heavys.com and tell us what is most important for you in an app. <\/p>",
             "page": ""
           }
         },
@@ -639,7 +639,7 @@
           "settings": {
             "heading": "Are Heavys wired or wireless?",
             "icon": "none",
-            "row_content": "<p>Heavys H1H can be utilized with both wired and wireless modes. We support 5.1 BLE Bluetooth and can be wired in through USB-C or an analog 2.5mm to 3.5mm cable as well which is included in the box. <\/p>",
+            "row_content": "<p>Heavys H1H can be utilized with both wired and wireless modes. We support 5.1 BLE Bluetooth and can be wired in through USB-C or an analog 2.5mm to 3.5mm cable as well, both cables are included in the box. <\/p>",
             "page": ""
           }
         },
