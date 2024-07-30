@@ -681,6 +681,7 @@
         },
         "collapsible_row_Uz9EXw": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Are Heavys good for gaming?",
             "icon": "none",
