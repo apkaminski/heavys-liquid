@@ -67,14 +67,6 @@
             "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"300px\"><\/img>"
           }
         },
-        "caption": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Free 'Outline' Shells with Every Bundle Order (Applies during Checkout)",
-            "text_style": "subtitle"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -84,6 +76,13 @@
           "type": "quantity_selector",
           "disabled": true,
           "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "Bonus: FREE 'Outline' Shells with Every Bundle (Applies at Checkout)",
+            "text_style": "body"
           }
         },
         "buy_buttons": {
@@ -160,9 +159,9 @@
       "block_order": [
         "title",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
-        "caption",
         "price",
         "quantity_selector",
+        "caption",
         "buy_buttons",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
