@@ -71,7 +71,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text": "Free 'Outline' Shells with Every Bundle Order (Applies during Checkout)",
             "text_style": "subtitle"
           }
         },
