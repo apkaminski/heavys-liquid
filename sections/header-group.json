@@ -14,6 +14,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_WAnqqk": {
+          "type": "announcement",
+          "settings": {
+            "text": "FREE 'OUTLINE' Shells With $200+ Orders",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
+        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
@@ -36,6 +46,7 @@
         }
       },
       "block_order": [
+        "announcement_WAnqqk",
         "announcement_ekbCtT",
         "announcement-bar-0"
       ],
