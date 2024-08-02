@@ -80,7 +80,7 @@
             "discount_bg": "#121212",
             "discount_text_color": "#63d48a",
             "border_color": "#f3f3f3",
-            "default_font": false,
+            "default_font": true,
             "fonts": "montserrat_n4",
             "font_size_heading": 16,
             "font_size_price": 24
