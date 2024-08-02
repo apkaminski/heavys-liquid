@@ -69,7 +69,7 @@
             "widget_type": "widget_6",
             "show_term_checkbox": false,
             "subscription_policy_text": "You’re subscribing to receive a new shell every 4 months. With a discount on every recurring order. You may cancel or change your subscription at any time.",
-            "enable_benifits": true,
+            "enable_benifits": false,
             "tooltip_text": "You can edit, skip, cancel and reschedule the subscription at any time.",
             "enable_shadow": true,
             "delivery_text": "Select Delivery Frequency",
