@@ -63,7 +63,7 @@
             "selected_text_color": "#121212",
             "hover_text_color": "#3cde74",
             "radio_color": "rgba(0,0,0,0)",
-            "bg_color_selected": "#ffffff",
+            "bg_color_selected": "rgba(0,0,0,0)",
             "discount_bg": "#121212",
             "discount_text_color": "#8e8e8e",
             "border_color": "#ababab",
