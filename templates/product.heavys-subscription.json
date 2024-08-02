@@ -43,19 +43,6 @@
             "product": "{{product}}"
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "dropdown"
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
         "subscription_plus_subscription_plus_z93HVd": {
           "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-plus\/79c17119-154e-465c-8480-a7e0399512ff",
           "settings": {
@@ -84,6 +71,19 @@
             "fonts": "montserrat_n4",
             "font_size_heading": 16,
             "font_size_price": 24
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
           }
         },
         "description": {
@@ -117,9 +117,9 @@
         "price",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "subscriptions_app_block_FyA68w",
+        "subscription_plus_subscription_plus_z93HVd",
         "variant_picker",
         "buy_buttons",
-        "subscription_plus_subscription_plus_z93HVd",
         "description",
         "custom_liquid_kMjNiz",
         "complementary_yPQxbc"
