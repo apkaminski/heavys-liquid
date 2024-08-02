@@ -74,7 +74,7 @@
             "enable_shadow": true,
             "delivery_text": "Select Delivery Frequency",
             "selected_text_color": "",
-            "hover_text_color": "#ff0000",
+            "hover_text_color": "#63d48a",
             "radio_color": "rgba(0,0,0,0)",
             "bg_color_selected": "",
             "discount_bg": "",
