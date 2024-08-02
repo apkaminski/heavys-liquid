@@ -59,7 +59,7 @@
             "enable_benifits": false,
             "tooltip_text": "You can edit, skip, cancel and reschedule the subscription at any time.",
             "enable_shadow": true,
-            "delivery_text": "Select Delivery Frequency",
+            "delivery_text": "Select Payment Frequency",
             "selected_text_color": "#121212",
             "hover_text_color": "#3cde74",
             "radio_color": "rgba(0,0,0,0)",
