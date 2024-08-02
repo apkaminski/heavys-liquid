@@ -82,8 +82,8 @@
             "border_color": "",
             "default_font": true,
             "fonts": "montserrat_n4",
-            "font_size_heading": 18,
-            "font_size_price": 30
+            "font_size_heading": 16,
+            "font_size_price": 24
           }
         },
         "description": {
