@@ -77,7 +77,7 @@
             "hover_text_color": "#63d48a",
             "radio_color": "rgba(0,0,0,0)",
             "bg_color_selected": "",
-            "discount_bg": "",
+            "discount_bg": "#121212",
             "discount_text_color": "",
             "border_color": "",
             "default_font": true,
