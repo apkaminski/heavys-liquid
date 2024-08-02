@@ -78,7 +78,7 @@
             "radio_color": "rgba(0,0,0,0)",
             "bg_color_selected": "",
             "discount_bg": "#f3f3f3",
-            "discount_text_color": "",
+            "discount_text_color": "#63d48a",
             "border_color": "",
             "default_font": false,
             "fonts": "montserrat_n4",
