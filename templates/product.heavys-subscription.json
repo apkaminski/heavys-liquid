@@ -65,7 +65,7 @@
             "radio_color": "rgba(0,0,0,0)",
             "bg_color_selected": "",
             "discount_bg": "#121212",
-            "discount_text_color": "#1f1f1f",
+            "discount_text_color": "#8e8e8e",
             "border_color": "#ababab",
             "default_font": true,
             "fonts": "montserrat_n4",
