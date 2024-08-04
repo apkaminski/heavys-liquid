@@ -81,7 +81,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "<em><strong>Bonus: FREE 'Horns Up' Shells with Every Bundle ((Available to Redeem at Checkout for a limited time)<\/strong><\/em>",
+            "text": "<strong>Bonus: FREE 'Horns Up' Shells with Every Bundle <\/strong><em><strong>(Available to Redeem at Checkout for limited time)<\/strong><\/em>",
             "text_style": "body"
           }
         },
