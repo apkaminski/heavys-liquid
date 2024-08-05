@@ -16,8 +16,9 @@
       "blocks": {
         "announcement_WAnqqk": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
-            "text": "FREE 'Horns Up' Shells on Orders of $200+",
+            "text": "FREE 'Horns Up' Shells on $200+ Orders",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
