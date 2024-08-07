@@ -733,6 +733,50 @@
         "scroll_anchor": ""
       }
     },
+    "rich_text_bC6VTR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WmDMMN": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_WrrxVF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_nVgfih": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/heavys-h1h-headphones-bundle-case",
+            "button_style_secondary": true,
+            "button_label_2": "Add To Cart",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WmDMMN",
+        "text_WrrxVF",
+        "button_nVgfih"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "testimonial_grid_4EYENU": {
       "type": "testimonial-grid",
       "blocks": {
@@ -825,6 +869,7 @@
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278",
+    "rich_text_bC6VTR",
     "testimonial_grid_4EYENU"
   ]
 }
