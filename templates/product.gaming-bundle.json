@@ -43,6 +43,12 @@
           "settings": {
           }
         },
+        "variant_picker_qPDMbV": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -133,6 +139,7 @@
         "caption",
         "price",
         "quantity_selector",
+        "variant_picker_qPDMbV",
         "buy_buttons",
         "text_8z8adk",
         "description_37BJTB",
