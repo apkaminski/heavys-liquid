@@ -482,6 +482,36 @@
         "scroll_anchor": "prod-details"
       }
     },
+    "image_banner_GXnmHF": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_FkrzPX": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FkrzPX"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "scroll_anchor": ""
+      }
+    },
     "9ee22153-1421-49ae-ae56-fe473b7fbe10": {
       "type": "table",
       "blocks": {
@@ -988,36 +1018,6 @@
         "padding_bottom": 4,
         "scroll_anchor": "reviewshp"
       }
-    },
-    "image_banner_GXnmHF": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_FkrzPX": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_FkrzPX"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "scroll_anchor": ""
-      }
     }
   },
   "order": [
@@ -1028,13 +1028,13 @@
     "rich_text_bNMLc4",
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
+    "image_banner_GXnmHF",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
     "16f898dd-b420-419f-a03d-a8d3092e6811",
     "696a1674-357d-4c14-9c51-dd1df6898605",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products",
     "slideshow_JeyNHn",
-    "testimonial_grid_CBhD8w",
-    "image_banner_GXnmHF"
+    "testimonial_grid_CBhD8w"
   ]
 }
