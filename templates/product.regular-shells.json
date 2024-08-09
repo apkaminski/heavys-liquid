@@ -121,31 +121,15 @@
       "blocks": {
         "heading_GcPFVr": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1"
           }
-        },
-        "text_4R7YH6": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button_g8AHqf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
-        "heading_GcPFVr",
-        "text_4R7YH6",
-        "button_g8AHqf"
+        "heading_GcPFVr"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-08-09_at_13.20.28.png",
