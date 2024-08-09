@@ -27,24 +27,16 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "dropdown"
-          }
-        },
-        "text_wjrcR9": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Xmas in July! Save $50 with Code: XMAS",
-            "text_style": "body"
-          }
-        },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Free Shipping on Shells Bundles <\/br>Save 30% on Second Shells Design<\/h1>\n<\/body>\n<\/html>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
           }
         },
         "buy_buttons": {
@@ -52,6 +44,13 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
+          }
+        },
+        "text_wjrcR9": {
+          "type": "text",
+          "settings": {
+            "text": "Shells are interchangeable, get as many as you'd like",
+            "text_style": "body"
           }
         },
         "description": {
@@ -85,10 +84,10 @@
         "title",
         "judge_me_reviews_preview_badge_4pqjRr",
         "price",
-        "variant_picker",
-        "text_wjrcR9",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
+        "variant_picker",
         "buy_buttons",
+        "text_wjrcR9",
         "description",
         "custom_liquid_kMjNiz",
         "complementary_yPQxbc"
