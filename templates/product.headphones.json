@@ -988,6 +988,36 @@
         "padding_bottom": 4,
         "scroll_anchor": "reviewshp"
       }
+    },
+    "image_banner_GXnmHF": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_FkrzPX": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FkrzPX"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "scroll_anchor": ""
+      }
     }
   },
   "order": [
@@ -1004,6 +1034,7 @@
     "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products",
     "slideshow_JeyNHn",
-    "testimonial_grid_CBhD8w"
+    "testimonial_grid_CBhD8w",
+    "image_banner_GXnmHF"
   ]
 }
