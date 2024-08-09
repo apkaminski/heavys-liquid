@@ -104,6 +104,13 @@
           "settings": {
           }
         },
+        "text_7VUMCd": {
+          "type": "text",
+          "settings": {
+            "text": "Happy Hour! Use Code: SAVE50 for $50 Off",
+            "text_style": "body"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -141,14 +148,6 @@
             "icon": "check_mark",
             "content": "<ul><li>Heavys H1H Headphones<\/li><li>2 {{ product.metafields.heavys_custom.band.value.name.value }} Shells<\/li><li>2 Heavys original Shells<\/li><li>AUX Cable<\/li><li>USB-C Charging Cable<\/li><li>Premium Travel Case included<\/li><\/ul>",
             "page": ""
-          }
-        },
-        "text_7VUMCd": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
           }
         },
         "text_JUQV4T": {
@@ -205,12 +204,12 @@
         "vendor",
         "title",
         "price",
+        "text_7VUMCd",
         "variant_picker",
         "buy_buttons",
         "description",
         "collapsible_tab_Gt7V3K",
         "collapsible_tab_keizah",
-        "text_7VUMCd",
         "text_JUQV4T",
         "collapsible_tab_x7CWVA",
         "collapsible_tab_L8dKVa",
@@ -376,7 +375,6 @@
         "button_wx6Mtb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2024-08-09_at_13.20.28.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
