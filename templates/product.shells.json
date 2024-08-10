@@ -316,12 +316,24 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "row_3Hx4qH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones_b8d2fff5-881d-4895-991b-bbb55871f5f3.png",
+            "caption": "",
+            "heading": "Top Rating from SoundGuys!",
+            "text": "<p>Heavys scored over all competitors in the Over-Ear Headphones Category<\/p>",
+            "button_label": "Elevate my Sound",
+            "button_link": "#top"
+          }
         }
       },
       "block_order": [
         "2e53b314-bb46-48ce-8c15-ddce6bbec802",
         "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-2",
-        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-3"
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-3",
+        "row_3Hx4qH"
       ],
       "settings": {
         "image_height": "small",
