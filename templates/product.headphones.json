@@ -462,8 +462,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones.png",
             "caption": "",
-            "heading": "",
-            "text": "<h2>Top Rating from SoundGuys!<\/h2>",
+            "heading": "Top Rating from SoundGuys!",
+            "text": "",
             "button_label": "",
             "button_link": ""
           }
