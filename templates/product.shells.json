@@ -320,7 +320,7 @@
         "row_3Hx4qH": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones_b8d2fff5-881d-4895-991b-bbb55871f5f3.png",
+            "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones.png",
             "caption": "",
             "heading": "Top Rating from SoundGuys!",
             "text": "<p>Heavys scored over all competitors in the Over-Ear Headphones Category<\/p>",
@@ -349,55 +349,6 @@
         "mobile_content_alignment": "center",
         "padding_top": 32,
         "padding_bottom": 32,
-        "scroll_anchor": ""
-      }
-    },
-    "image_banner_RzcEWF": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_NBb3w3": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_Nd7DMm": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button_wx6Mtb": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_NBb3w3",
-        "text_Nd7DMm",
-        "button_wx6Mtb"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false,
         "scroll_anchor": ""
       }
     },
@@ -695,7 +646,6 @@
     "60421194-02d3-4142-a101-cab229136e5b",
     "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
-    "image_banner_RzcEWF",
     "e3ca781b-9d44-4c07-909d-7da66958b19c",
     "e836ee92-247c-4b1b-a750-8b108bc417dd",
     "rich_text_ijPtUA",
