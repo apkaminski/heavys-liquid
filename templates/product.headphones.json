@@ -497,9 +497,8 @@
         "heading_FkrzPX"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones.png",
-        "image_2": "shopify:\/\/shop_images\/Screenshot_2024-08-09_at_13.21.10.png",
-        "image_overlay_opacity": 100,
+        "image_2": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones.png",
+        "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
