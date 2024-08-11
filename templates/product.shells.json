@@ -491,7 +491,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
-            "button_link": "#buy"
+            "button_link": "#top"
           }
         }
       },
