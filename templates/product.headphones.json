@@ -341,6 +341,7 @@
       "blocks": {
         "heading_aAPEVN": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<em>\" Fantastic Quality! I’ve never heard music like this... 15\/10 🤘 \" - Holly E.<\/em>",
             "heading_size": "h2"
