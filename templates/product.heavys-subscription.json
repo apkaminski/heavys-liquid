@@ -23,7 +23,7 @@
         "text_PcjeT8": {
           "type": "text",
           "settings": {
-            "text": "<h4>Nobody likes just one band...<br\/>Build your collection & save up to 50%<\/h4>"
+            "text": "<h5>Nobody likes just one band...<br\/>Build your collection & save up to 50%<\/h5>"
           }
         },
         "button_hBggfc": {
@@ -49,8 +49,8 @@
         "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "main": {
@@ -68,6 +68,7 @@
         },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 14px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Nobody likes just one band...\n <\/br>Build your collection & save up to 50%<\/h1>\n<\/body>\n<\/html>"
           }
@@ -180,7 +181,7 @@
         "mobile_thumbnails": "show",
         "hide_variants": false,
         "enable_video_looping": true,
-        "padding_top": 40,
+        "padding_top": 4,
         "padding_bottom": 20
       }
     },
