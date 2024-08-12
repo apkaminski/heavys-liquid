@@ -409,9 +409,9 @@
         "collapsible_row_r4qMda": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you offer Split Payments option?",
+            "heading": "How do I connect my Headphones",
             "icon": "none",
-            "row_content": "<p>Yes! You can use Shop Pay for payments in the US, or Klarna for payments in other countries. Paypal is available as well with payment options in some countries<\/p>",
+            "row_content": "<ul><li>Power up your headphones<\/li><li>Enable Bluetooth on your smartphones and headphones<\/li><li>Connect and Pair your headphones in the settings on your device<\/li><li>Back in the app, Tap \"connect\" on the home screen<\/li><\/ul>",
             "page": ""
           }
         }
