@@ -66,13 +66,6 @@
           "settings": {
           }
         },
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"300px\"><\/img>"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -135,12 +128,6 @@
             "page": ""
           }
         },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "complementary_z4cWLg": {
           "type": "complementary",
           "settings": {
@@ -160,12 +147,18 @@
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special<\/h1>\n<\/body>\n<\/html>"
           }
+        },
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"300px\"><\/img>"
+          }
         }
       },
       "block_order": [
         "title",
         "judge_me_reviews_preview_badge_DqtYdT",
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "price",
         "quantity_selector",
         "caption",
@@ -174,9 +167,9 @@
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_VxhV37",
         "collapsible_tab_Eztxxk",
-        "description",
         "complementary_z4cWLg",
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d"
       ],
       "settings": {
         "color_scheme": "inverse",
