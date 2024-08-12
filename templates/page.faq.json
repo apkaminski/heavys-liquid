@@ -366,6 +366,81 @@
         "scroll_anchor": ""
       }
     },
+    "collapsible_content_q6fTPN": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_hbBPTM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "My app is not Pairing?",
+            "icon": "none",
+            "row_content": "<p>Please .... <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rbGpDx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "The EQ is not Showing up",
+            "icon": "none",
+            "row_content": "<p>1.  Make sure you're headphones are connected to the Heavys app<\/p><p><\/p><p>2. Make sure you are playing music in one of your music apps. EQ will only be visible when music is actively playing<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CqaTgc": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "I did not receive a tracking number for a Pre-Order I made.",
+            "icon": "none",
+            "row_content": "<p>For Pre-Orders, you'll receive an email with tracking info once we ship your order. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qpxeEJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shipping Address",
+            "icon": "none",
+            "row_content": "<p>We ship to both residential and commercial addresses within the United States and internationally.<\/p><p><\/p><p>Please take note that we don't ship to P.O. boxes or APO\/FPO addresses.<\/p><p><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_r4qMda": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer Split Payments option?",
+            "icon": "none",
+            "row_content": "<p>Yes! You can use Shop Pay for payments in the US, or Klarna for payments in other countries. Paypal is available as well with payment options in some countries<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_hbBPTM",
+        "collapsible_row_rbGpDx",
+        "collapsible_row_CqaTgc",
+        "collapsible_row_qpxeEJ",
+        "collapsible_row_r4qMda"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "App FAQ",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "scroll_anchor": ""
+      }
+    },
     "0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c": {
       "type": "collapsible-content",
       "blocks": {
@@ -657,6 +732,7 @@
     "e58bbbcb-3cfb-4130-8683-b5d4b3338a01",
     "05a222a6-4024-4a56-a83f-4c517de5457f",
     "d57daec0-b334-4704-81c6-4018c4dbec41",
+    "collapsible_content_q6fTPN",
     "0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c",
     "fa49ee80-ce51-4335-9f65-e9373287c723",
     "a7352f93-1895-43bf-863f-663ea6d0a386",
