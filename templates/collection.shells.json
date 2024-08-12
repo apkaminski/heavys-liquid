@@ -24,12 +24,13 @@
         "text_G7qq6N": {
           "type": "text",
           "settings": {
-            "text": "<strong>Happy Hour! Use code SAVE50 for $50 Off<\/strong>",
+            "text": "<strong>Buy two and get 30% off!<\/strong>",
             "text_style": "body"
           }
         },
         "timer_JJXqqm": {
           "type": "timer",
+          "disabled": true,
           "settings": {
             "year": "2024",
             "month": "08",
