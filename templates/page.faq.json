@@ -574,9 +574,9 @@
         "collapsible_row_fJTNFR": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How can I make Heavys even Louder?",
+            "heading": "How can I make Heavys Volume even Louder?",
             "icon": "none",
-            "row_content": "<p>Please check Audio Normalization on spotify, Soundcheck on applemusic and other sound Features on your music streaming app or phone if using bluetooth. <\/p><p>Different phone devices have various configurations that can change and limit the dynamic range. <\/p><p>Please note we do not recommend listening on high levels for a prolonged time <\/p><p>Please explore Transparency mode as well for calls and see your preference<\/p>",
+            "row_content": "<p>Please check Audio Normalization on spotify, Soundcheck on Applemusic and other sound Features on your music streaming app or phone if using bluetooth. <\/p><p>Different phone devices have various configurations that can change and limit the dynamic range. <\/p><p>Please note we do not recommend listening on high levels for a prolonged time <\/p><p>Please explore Transparency mode as well for calls and see your preference<\/p>",
             "page": ""
           }
         }
