@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "padding_top": 28,
+        "padding_top": 20,
         "padding_bottom": 0
       }
     },
@@ -143,7 +143,7 @@
         "collapsible_row_6EVwkC"
       ],
       "settings": {
-        "caption": "Musician Approved! For MetalHeads By MetalHeads",
+        "caption": "",
         "heading": "The Product",
         "heading_size": "h2",
         "heading_alignment": "left",
@@ -155,8 +155,8 @@
         "desktop_layout": "image_second",
         "footer_button_label": "",
         "footer_button_link": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 8,
+        "padding_bottom": 24,
         "scroll_anchor": ""
       }
     },
@@ -210,7 +210,7 @@
         "collapsible_row_mDAiND"
       ],
       "settings": {
-        "caption": "FAQ",
+        "caption": "",
         "heading": "Shells",
         "heading_size": "h2",
         "heading_alignment": "left",
@@ -222,8 +222,8 @@
         "desktop_layout": "image_second",
         "footer_button_label": "Button label",
         "footer_button_link": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 24,
+        "padding_bottom": 24,
         "scroll_anchor": ""
       }
     },
@@ -274,7 +274,7 @@
         "63c90da5-968f-415c-942b-2f07ac954a94"
       ],
       "settings": {
-        "caption": "FAQ",
+        "caption": "",
         "heading": "Shipping & Taxes",
         "heading_size": "h2",
         "heading_alignment": "left",
@@ -349,7 +349,7 @@
         "collapsible_row_FXAqeU"
       ],
       "settings": {
-        "caption": "FAQ",
+        "caption": "",
         "heading": "Orders",
         "heading_size": "h2",
         "heading_alignment": "left",
@@ -361,8 +361,8 @@
         "desktop_layout": "image_second",
         "footer_button_label": "Button label",
         "footer_button_link": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 24,
+        "padding_bottom": 24,
         "scroll_anchor": ""
       }
     },
@@ -523,7 +523,7 @@
         "collapsible_row_fJTNFR"
       ],
       "settings": {
-        "caption": "FAQ",
+        "caption": "",
         "heading": "Tech \/ Spec",
         "heading_size": "h2",
         "heading_alignment": "left",
@@ -535,8 +535,8 @@
         "desktop_layout": "image_second",
         "footer_button_label": "Button label",
         "footer_button_link": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 24,
+        "padding_bottom": 24,
         "scroll_anchor": ""
       }
     },
