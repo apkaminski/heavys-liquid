@@ -34,6 +34,13 @@
           "settings": {
           }
         },
+        "text_XATn8C": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>FREE EXPRESS SHIPPING on Bundles use code: <\/strong>XPRESS666",
+            "text_style": "body"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -89,6 +96,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "text_XATn8C",
         "buy_buttons",
         "description",
         "collapsible_tab_eDV3RV",
