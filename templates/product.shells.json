@@ -104,13 +104,6 @@
           "settings": {
           }
         },
-        "text_7VUMCd": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Free XPRESS Shipping On $200+ use code: <\/strong>XPRS666",
-            "text_style": "body"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -122,6 +115,13 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
+          }
+        },
+        "text_7VUMCd": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Limited Free Express Shipping On Shell Bundles<\/strong>",
+            "text_style": "body"
           }
         },
         "description": {
@@ -204,9 +204,9 @@
         "vendor",
         "title",
         "price",
-        "text_7VUMCd",
         "variant_picker",
         "buy_buttons",
+        "text_7VUMCd",
         "description",
         "collapsible_tab_Gt7V3K",
         "collapsible_tab_keizah",
