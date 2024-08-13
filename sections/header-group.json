@@ -14,16 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_ekbCtT": {
-          "type": "announcement",
-          "settings": {
-            "text": "Free Xpress Shipping on $200+ Orders",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -32,6 +22,16 @@
             "link": "shopify:\/\/products\/heavys-h1h-headphones-bundle-case",
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RPH8tP"
+          }
+        },
+        "announcement_ekbCtT": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Xpress Shipping on $200+ Orders",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
           }
         },
         "announcement_WAnqqk": {
@@ -47,8 +47,8 @@
         }
       },
       "block_order": [
-        "announcement_ekbCtT",
         "announcement-bar-0",
+        "announcement_ekbCtT",
         "announcement_WAnqqk"
       ],
       "custom_css": [
