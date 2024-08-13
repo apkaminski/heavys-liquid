@@ -14,11 +14,10 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_WAnqqk": {
+        "announcement_ekbCtT": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "FREE 'Horns Up' Shells on $200+ Orders",
+            "text": "Free Xpress Shipping on $200+ Orders",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
@@ -35,10 +34,11 @@
             "klavyo_mobile_id": "RwYKvF"
           }
         },
-        "announcement_ekbCtT": {
+        "announcement_WAnqqk": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
-            "text": "Free Xpress Shipping on $200+ Orders",
+            "text": "FREE 'Horns Up' Shells on $200+ Orders",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
@@ -47,9 +47,9 @@
         }
       },
       "block_order": [
-        "announcement_WAnqqk",
+        "announcement_ekbCtT",
         "announcement-bar-0",
-        "announcement_ekbCtT"
+        "announcement_WAnqqk"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
@@ -67,6 +67,7 @@
       "blocks": {
         "subscription_plus_subscription_resource_p7QJBe": {
           "type": "shopify:\/\/apps\/subscription-plus\/blocks\/subscription-resource\/79c17119-154e-465c-8480-a7e0399512ff",
+          "disabled": true,
           "settings": {
           }
         }
