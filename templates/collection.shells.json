@@ -296,6 +296,7 @@
         "slide_G3VLfD",
         "slide_cLdAFh"
       ],
+      "disabled": true,
       "custom_css": [
         ".banner__text {color: #ffffff;}"
       ],
