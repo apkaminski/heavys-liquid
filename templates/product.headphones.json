@@ -912,6 +912,7 @@
         "slide_raezRB",
         "slide_BhBQqm"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "medium",
