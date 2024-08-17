@@ -104,7 +104,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "",
+        "description": "<h2><strong>Official Artist Collabs<\/strong><\/h2>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
