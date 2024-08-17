@@ -14,16 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_ekbCtT": {
-          "type": "announcement",
-          "settings": {
-            "text": "Free Xpress Shipping on $200+ Orders",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -43,12 +33,22 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
+        },
+        "announcement_ekbCtT": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Xpress Shipping on $200+ Orders",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
-        "announcement_ekbCtT",
         "announcement-bar-0",
-        "announcement_WAnqqk"
+        "announcement_WAnqqk",
+        "announcement_ekbCtT"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
