@@ -14,12 +14,12 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_WAnqqk": {
+        "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New Arrival* Orbit Culture Shells!",
+            "text": "Free Xpress Shipping on $200+ Orders",
             "behaviour_type": "link",
-            "link": "https:\/\/www.heavys.com\/products\/orbit-culture-shells-heavys-headphones",
+            "link": "",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -34,21 +34,21 @@
             "klavyo_mobile_id": "RPH8tP"
           }
         },
-        "announcement_ekbCtT": {
+        "announcement_WAnqqk": {
           "type": "announcement",
           "settings": {
-            "text": "Free Xpress Shipping on $200+ Orders",
+            "text": "*New Arrival* Orbit Culture Shells!",
             "behaviour_type": "link",
-            "link": "",
+            "link": "https:\/\/www.heavys.com\/products\/orbit-culture-shells-heavys-headphones",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
         }
       },
       "block_order": [
-        "announcement_WAnqqk",
+        "announcement_ekbCtT",
         "announcement-bar-0",
-        "announcement_ekbCtT"
+        "announcement_WAnqqk"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
