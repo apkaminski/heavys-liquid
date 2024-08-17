@@ -104,10 +104,10 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "<h2><strong>Non-Artist Designs<\/strong><\/h2>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "non-artist-designs",
+        "collection": "shells",
         "products_to_show": 8,
         "columns_desktop": 3,
         "full_width": false,
