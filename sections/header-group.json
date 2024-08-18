@@ -27,9 +27,9 @@
         "announcement_GMHFkY": {
           "type": "announcement",
           "settings": {
-            "text": "*Back In Stock* Carnifex Shells",
+            "text": "*New Arrival* Orbit Culture Shells",
             "behaviour_type": "link",
-            "link": "https:\/\/www.heavys.com\/products\/carnifex-heavys-headphones",
+            "link": "shopify:\/\/products\/orbit-culture-shells-heavys-headphones",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
