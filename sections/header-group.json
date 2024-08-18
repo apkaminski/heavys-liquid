@@ -24,10 +24,10 @@
             "klavyo_mobile_id": "RwYKvF"
           }
         },
-        "announcement_WAnqqk": {
+        "announcement_GMHFkY": {
           "type": "announcement",
           "settings": {
-            "text": "*Back In Stock* Carnifex Shells!",
+            "text": "*Back In Stock* Carnifex Shells",
             "behaviour_type": "link",
             "link": "https:\/\/www.heavys.com\/products\/carnifex-heavys-headphones",
             "klavyo_desktop_id": "",
@@ -47,7 +47,7 @@
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_WAnqqk",
+        "announcement_GMHFkY",
         "announcement_ekbCtT"
       ],
       "custom_css": [
