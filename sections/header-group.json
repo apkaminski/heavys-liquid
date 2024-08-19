@@ -24,16 +24,6 @@
             "klavyo_mobile_id": "RwYKvF"
           }
         },
-        "announcement_GMHFkY": {
-          "type": "announcement",
-          "settings": {
-            "text": "*New Arrival* SEPULTURA Shells",
-            "behaviour_type": "link",
-            "link": "shopify:\/\/products\/sepultura-shells-heavys-headphones",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
@@ -47,7 +37,6 @@
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_GMHFkY",
         "announcement_ekbCtT"
       ],
       "custom_css": [
