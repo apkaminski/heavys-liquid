@@ -33,11 +33,22 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
+        },
+        "announcement_Dqc6iz": {
+          "type": "announcement",
+          "settings": {
+            "text": "*New Arrival* SEPULTURA Shells",
+            "behaviour_type": "link",
+            "link": "shopify:\/\/products\/shell-bundle",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_ekbCtT"
+        "announcement_ekbCtT",
+        "announcement_Dqc6iz"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
