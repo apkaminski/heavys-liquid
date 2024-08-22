@@ -423,13 +423,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "text_B9XrAg": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>* Free Express Shipping On Shell Bundles *<\/strong>",
-            "text_style": "body"
-          }
-        },
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652": {
           "type": "text",
           "settings": {
@@ -442,13 +435,6 @@
           "settings": {
             "text": "<strong>Inside the Shells Bundle <\/strong>: Heavys H1H Headphones, your selected pair of designed Shells, pair of Heavys original shells, AUX Audio Cable, USB-C Charging Cable, premium protective travel case",
             "text_style": "body"
-          }
-        },
-        "35a9e3d3-5d6f-4b64-964c-53cb874465a7": {
-          "type": "text",
-          "settings": {
-            "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">*<em><strong>Click to see more Shell Designs*<\/strong><\/em><\/a>",
-            "text_style": "subtitle"
           }
         },
         "text_9WeYaE": {
@@ -470,6 +456,13 @@
             "icon_3": "fire",
             "heading_3": "Interchangeable Shells"
           }
+        },
+        "35a9e3d3-5d6f-4b64-964c-53cb874465a7": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">*<em><strong>Click to see more Shell Designs*<\/strong><\/em><\/a>",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
@@ -479,12 +472,11 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
-        "text_B9XrAg",
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
         "34192509-a141-444e-8c17-ddc78b10c075",
-        "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
         "text_9WeYaE",
-        "icon_with_text_APM6BF"
+        "icon_with_text_APM6BF",
+        "35a9e3d3-5d6f-4b64-964c-53cb874465a7"
       ],
       "custom_css": [
 
