@@ -84,6 +84,12 @@
             "text_style": "body"
           }
         },
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">MBack to the Grind! save $50 with code: GRIND\n<\/h1>\n<\/body>\n<\/html>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -141,13 +147,6 @@
             "enable_quick_add": true
           }
         },
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">MBack to the Grind! save $50 with code: GRIND\n\n<\/h1>\n<\/body>\n<\/html>"
-          }
-        },
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
           "type": "custom_liquid",
           "disabled": true,
@@ -162,13 +161,13 @@
         "price",
         "quantity_selector",
         "caption",
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "buy_buttons",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_VxhV37",
         "collapsible_tab_Eztxxk",
         "complementary_z4cWLg",
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d"
       ],
       "settings": {
