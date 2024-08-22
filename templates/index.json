@@ -605,15 +605,6 @@
             "page": ""
           }
         },
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "When will the mobile app go live?",
-            "icon": "none",
-            "row_content": "<p>We are currently developing an app to pair with our headphones, which will include EQ, firmware updates and enable the management of specific headphone features which will be added over time. The app will launch towards the end of 2024. <\/p><p>*Send an email to partnerships@heavys.com and tell us what is most important for you in an app. <\/p>",
-            "page": ""
-          }
-        },
         "0f05d56b-11bf-41b5-b2a5-faedc288b8a4": {
           "type": "collapsible_row",
           "settings": {
@@ -623,33 +614,12 @@
             "page": ""
           }
         },
-        "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6": {
-          "type": "video_collapsible_row",
-          "settings": {
-            "heading": "How do I replace the shells?",
-            "row_content": "<p>The shell is attached by four grooves in the H1H headphones located on the outside of the cup. In order to detach the shell, place your thumb on one side for leverage and use your middle and index fingers on the other side to pull the shell off the cup.<\/p><p>In order to mount the new shell, place it in the same place as the old one and push until you hear a click.<\/p>",
-            "icon": "none",
-            "enable_video_looping": false,
-            "autoplay": false,
-            "video": "shopify:\/\/files\/videos\/1206 (1).mp4",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-          }
-        },
         "collapsible_row_XYqjHf": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Are Heavys wired or wireless?",
             "icon": "none",
             "row_content": "<p>Heavys H1H can be utilized with both wired and wireless modes. We support 5.1 BLE Bluetooth and can be wired in through USB-C or an analog 2.5mm to 3.5mm cable as well, both cables are included in the box. <\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_fyUQ9q": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Do You Ship Internationally?",
-            "icon": "none",
-            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. We ship to the United States, Canada, Australia, Japan, Mexico and LATAM. We also cover the European Union, the United Kingdom and UAE. So wherever you are, we've got you covered!<\/p>",
             "page": ""
           }
         },
@@ -671,12 +641,45 @@
             "page": ""
           }
         },
+        "collapsible_row_fyUQ9q": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Do You Ship Internationally?",
+            "icon": "none",
+            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. including United States, Canada, Australia, Japan, Mexico and LATAM. We also cover the European Union, the United Kingdom and UAE. So wherever you are, we've got you covered!<\/p>",
+            "page": ""
+          }
+        },
         "f983dcff-ff20-43c4-8c52-596455709ebd": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Do you offer split payments?",
             "icon": "none",
             "row_content": "<p>Yes! You can use Shop Pay for payments in the US, or Klarna for payments in other countries. Paypal is available as well with payment options in some countries<\/p>",
+            "page": ""
+          }
+        },
+        "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6": {
+          "type": "video_collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "How do I replace the shells?",
+            "row_content": "<p>The shell is attached by four grooves in the H1H headphones located on the outside of the cup. In order to detach the shell, place your thumb on one side for leverage and use your middle and index fingers on the other side to pull the shell off the cup.<\/p><p>In order to mount the new shell, place it in the same place as the old one and push until you hear a click.<\/p>",
+            "icon": "none",
+            "enable_video_looping": false,
+            "autoplay": false,
+            "video": "shopify:\/\/files\/videos\/1206 (1).mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "When will the mobile app go live?",
+            "icon": "none",
+            "row_content": "<p>We are currently developing an app to pair with our headphones, which will include EQ, firmware updates and enable the management of specific headphone features which will be added over time. The app will launch towards the end of 2024. <\/p><p>*Send an email to partnerships@heavys.com and tell us what is most important for you in an app. <\/p>",
             "page": ""
           }
         },
@@ -706,14 +709,14 @@
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1",
         "e63ec509-8cc2-42f8-8422-902902dc18d7",
         "9813ee02-ba68-479f-b348-3918c537e656",
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
         "0f05d56b-11bf-41b5-b2a5-faedc288b8a4",
-        "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
         "collapsible_row_XYqjHf",
-        "collapsible_row_fyUQ9q",
         "collapsible_row_9KY74R",
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
+        "collapsible_row_fyUQ9q",
         "f983dcff-ff20-43c4-8c52-596455709ebd",
+        "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
         "collapsible_row_JYiQjf",
         "collapsible_row_Uz9EXw"
       ],
