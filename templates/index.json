@@ -453,6 +453,7 @@
         },
         "text_9WeYaE": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<em><strong>*<\/strong><\/em><a href=\"\/products\/heavys-shells-subscription\" target=\"_blank\" title=\"Heavys Shells Subscription (US ONLY)\"><em><strong>Click to Subscribe & Save 50%* (US only)<\/strong><\/em><\/a>",
             "text_style": "subtitle"
@@ -460,15 +461,14 @@
         },
         "icon_with_text_APM6BF": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "horizontal",
-            "icon_1": "heart",
-            "heading_1": "Heading",
-            "icon_2": "return",
-            "heading_2": "Heading",
-            "icon_3": "truck",
-            "heading_3": "Heading"
+            "icon_1": "truck",
+            "heading_1": "Free Express Shipping",
+            "icon_2": "diamond",
+            "heading_2": "Protective Travel Case",
+            "icon_3": "fire",
+            "heading_3": "Interchangeable Shells"
           }
         }
       },
