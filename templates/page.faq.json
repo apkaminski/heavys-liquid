@@ -253,7 +253,7 @@
           "settings": {
             "heading": "Do you ship internationally?",
             "icon": "none",
-            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. We ship to the United States, Canada, Australia, Japan, Mexico and LATAM. We also cover the European Union, the United Kingdom and UAE. So wherever you are, we've got you covered!<\/p>",
+            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. Wherever you are, we've got you covered! full list is available on the checkout page dropdown. <\/p>",
             "page": ""
           }
         },
