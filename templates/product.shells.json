@@ -119,8 +119,16 @@
         },
         "text_7VUMCd": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>* Get 30% off on your Second Shells Pack* <\/strong>",
+            "text_style": "body"
+          }
+        },
+        "text_qa9Apr": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>It's Back to the Grind! Save $50 with Code: GRIND<\/strong>",
             "text_style": "body"
           }
         },
@@ -214,6 +222,7 @@
         "variant_picker",
         "buy_buttons",
         "text_7VUMCd",
+        "text_qa9Apr",
         "text_tDwa9B",
         "description",
         "collapsible_tab_Gt7V3K",
