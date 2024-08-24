@@ -11,6 +11,15 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "custom_liquid_rXFjkp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- TrustBox widget - Micro Combo -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6ffb0d04a076446a9af\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"20px\" data-style-width=\"100%\" data-theme=\"light\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
+        "color_scheme": "inverse",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1721129207ff5d1763": {
       "type": "apps",
       "blocks": {
@@ -144,6 +153,7 @@
     }
   },
   "order": [
+    "custom_liquid_rXFjkp",
     "1721129207ff5d1763",
     "custom_liquid_NtmXKT",
     "76ffe667-d89c-4967-9e77-454b74fef48b",
