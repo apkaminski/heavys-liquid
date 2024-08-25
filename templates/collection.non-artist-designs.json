@@ -12,7 +12,7 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_description": false,
+        "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "background-1"
       }
@@ -113,6 +113,7 @@
         "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1",
         "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
