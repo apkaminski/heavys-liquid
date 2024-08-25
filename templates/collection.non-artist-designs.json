@@ -11,9 +11,8 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-1"
       }
@@ -23,6 +22,7 @@
       "blocks": {
         "text_G7qq6N": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Buy two and get 30% off<\/strong>",
             "text_style": "body"
@@ -66,7 +66,6 @@
         ".banner__text {color: #ffffff;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2024-05-19_at_1.52.00_00cb0ff4-ad72-4515-886a-2b6266baad5c.png",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "desktop_content_position": "middle-left",
@@ -78,6 +77,49 @@
         "stack_images_on_mobile": true,
         "show_text_below": false,
         "scroll_anchor": ""
+      }
+    },
+    "bcde66c3-9962-4a71-9872-554e060a4611": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tell us which design you would like to see next",
+            "heading_size": "h2"
+          }
+        },
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com<\/a> and let us know which artist's design you are interested in. <br\/>__________<br\/><a href=\"\/pages\/metal-allegiance-namm\" target=\"_blank\" title=\"Signup to HEAVYS Newsletter\">CLICK HERE to Sign<\/a> up to know when the next Shell Collab Drops!<\/p><p><strong>__________<\/strong><\/p><p>Second Shell design for 30% Off<\/p><p><\/p>"
+          }
+        },
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Let Us Know",
+            "button_link": "mailto:support@heavys.com",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1",
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1",
+        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "product-grid": {
@@ -153,23 +195,23 @@
         "scroll_anchor": "videoshells"
       }
     },
-    "bcde66c3-9962-4a71-9872-554e060a4611": {
+    "rich_text_rMTrxd": {
       "type": "rich-text",
       "blocks": {
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1": {
+        "heading_W3cxaF": {
           "type": "heading",
           "settings": {
             "heading": "Tell us which design you would like to see next",
             "heading_size": "h2"
           }
         },
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1": {
+        "text_frar96": {
           "type": "text",
           "settings": {
             "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com<\/a> and let us know which artist's design you are interested in. <br\/>__________<br\/><a href=\"\/pages\/metal-allegiance-namm\" target=\"_blank\" title=\"Signup to HEAVYS Newsletter\">CLICK HERE to Sign<\/a> up to know when the next Shell Collab Drops!<\/p><p><strong>__________<\/strong><\/p><p>Second Shell design for 30% Off<\/p><p><\/p>"
           }
         },
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1": {
+        "button_Vi8HeH": {
           "type": "button",
           "disabled": true,
           "settings": {
@@ -183,9 +225,9 @@
         }
       },
       "block_order": [
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-heading-1",
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1",
-        "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1"
+        "heading_W3cxaF",
+        "text_frar96",
+        "button_Vi8HeH"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -350,11 +392,12 @@
   "order": [
     "banner",
     "55782d96-8b7d-40a9-8370-87b6338da840",
+    "bcde66c3-9962-4a71-9872-554e060a4611",
     "product-grid",
     "featured_collection_6Brddr",
     "custom_liquid_T8MQqJ",
     "a1ea452e-4aa5-4832-96ea-0936f092c98d",
-    "bcde66c3-9962-4a71-9872-554e060a4611",
+    "rich_text_rMTrxd",
     "slideshow_gptyrD",
     "image_with_text_CixKcV"
   ]
