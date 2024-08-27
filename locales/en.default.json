@@ -372,7 +372,7 @@
       "last_name": "Last name",
       "company": "Company",
       "address1": "Address 1",
-      "address2": "Address 2",
+      "address2": "Address 2 (we can NOT ship to PO Box or Military Address)",
       "city": "City",
       "country": "Country\/region",
       "province": "Province",
