@@ -462,6 +462,12 @@
             "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">*<em><strong>Click to see more Shell Designs*<\/strong><\/em><\/a>",
             "text_style": "subtitle"
           }
+        },
+        "custom_liquid_UkYX3D": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Soundguys-review-heavys-headphones_e9fc8a18-62e7-4d29-9ad3-6b23f5ff5d3e.png?v=1723317247\"><\/img><\/center>"
+          }
         }
       },
       "block_order": [
@@ -475,7 +481,8 @@
         "34192509-a141-444e-8c17-ddc78b10c075",
         "text_9WeYaE",
         "icon_with_text_APM6BF",
-        "35a9e3d3-5d6f-4b64-964c-53cb874465a7"
+        "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
+        "custom_liquid_UkYX3D"
       ],
       "custom_css": [
 
@@ -772,6 +779,7 @@
         "text_WrrxVF",
         "button_nVgfih"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -788,6 +796,7 @@
           "type": "column",
           "disabled": true,
           "settings": {
+            "image": "shopify:\/\/shop_images\/Soundguys-review-heavys-headphones_e9fc8a18-62e7-4d29-9ad3-6b23f5ff5d3e.png",
             "title": "",
             "label": "",
             "text": "<p><em><strong>\" <\/strong><\/em><em>These New Wireless Headphones Are Designed with Heavy Metal Fans In Mind<\/em><em><strong> \" <\/strong><\/em><em>- FORBES<\/em><\/p>"
@@ -847,6 +856,7 @@
         "column_V9Niaz",
         "column_94rxY4"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
