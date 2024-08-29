@@ -500,7 +500,7 @@
         "mobile_thumbnails": "show",
         "enable_video_looping": false,
         "padding_top": 20,
-        "padding_bottom": 60,
+        "padding_bottom": 20,
         "scroll_anchor": ""
       }
     },
