@@ -27,7 +27,7 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "Free Express Shipping over $240 USD",
+            "text": "Free Express Shipping Above $240 USD",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
