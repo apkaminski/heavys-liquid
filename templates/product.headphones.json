@@ -85,8 +85,9 @@
         },
         "caption": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<strong>Free Express Shipping On Bundles<\/strong>",
+            "text": "<strong>Add Shells for Free Express Shipping<\/strong>",
             "text_style": "body"
           }
         },
