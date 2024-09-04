@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_CBqEt3": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Labor Day Sale! Save $50 with Code: LABOR",
             "behaviour_type": "link",
@@ -46,7 +47,6 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Get an Additional $25 Off Here",
             "behaviour_type": "klavyo_popup",
