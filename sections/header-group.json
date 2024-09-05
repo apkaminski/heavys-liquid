@@ -14,17 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_CBqEt3": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Labor Day Sale! Save $50 with Code: LABOR",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement_Dqc6iz": {
           "type": "announcement",
           "settings": {
@@ -57,7 +46,6 @@
         }
       },
       "block_order": [
-        "announcement_CBqEt3",
         "announcement_Dqc6iz",
         "announcement_ekbCtT",
         "announcement-bar-0"
