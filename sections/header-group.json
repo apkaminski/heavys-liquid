@@ -25,22 +25,22 @@
             "klavyo_mobile_id": ""
           }
         },
-        "announcement_ekbCtT": {
+        "announcement_Dqc6iz": {
           "type": "announcement",
           "settings": {
             "text": "Free Express Shipping Above $240 USD",
             "behaviour_type": "link",
-            "link": "https:\/\/www.heavys.com\/products\/testament-x-heavys",
+            "link": "",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
         },
-        "announcement_Dqc6iz": {
+        "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
             "text": "*Back in Stock* Testament Shells",
             "behaviour_type": "link",
-            "link": "",
+            "link": "https:\/\/www.heavys.com\/products\/testament-x-heavys",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -58,8 +58,8 @@
       },
       "block_order": [
         "announcement_CBqEt3",
-        "announcement_ekbCtT",
         "announcement_Dqc6iz",
+        "announcement_ekbCtT",
         "announcement-bar-0"
       ],
       "custom_css": [
