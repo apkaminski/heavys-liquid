@@ -393,12 +393,16 @@
           "settings": {
           }
         },
-        "text_E6QzVw": {
-          "type": "text",
-          "disabled": true,
+        "judge_me_reviews_preview_badge_homepage_hBpGnN": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge_homepage\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "text": "<strong>Save $40 for Prime Day with Code: <\/strong><em><strong>PRIME<\/strong><\/em>",
-            "text_style": "subtitle"
+            "product": "shell-bundle"
+          }
+        },
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
           }
         },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0": {
@@ -407,12 +411,6 @@
           "settings": {
             "text": "<em>Enhance with Interchangeable Shells<\/em>",
             "text_style": "uppercase"
-          }
-        },
-        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "dropdown"
           }
         },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5": {
@@ -473,9 +471,9 @@
       "block_order": [
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
-        "text_E6QzVw",
-        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
+        "judge_me_reviews_preview_badge_homepage_hBpGnN",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
         "34192509-a141-444e-8c17-ddc78b10c075",
