@@ -43,23 +43,12 @@
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
-        },
-        "announcement_KtQnDh": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "behaviour_type": "link",
-            "link": "shopify:\/\/collections\/shells",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
         }
       },
       "block_order": [
         "announcement_Dqc6iz",
         "announcement_ekbCtT",
-        "announcement-bar-0",
-        "announcement_KtQnDh"
+        "announcement-bar-0"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
