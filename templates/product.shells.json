@@ -135,9 +135,8 @@
         },
         "text_tDwa9B": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<strong>* Free Express Shipping Over $249 * (choose at checkout)<\/strong>",
+            "text": "<strong>Hear Every Scream... Save $40 Today with Code: FRIDAY13<\/strong>",
             "text_style": "body"
           }
         },
