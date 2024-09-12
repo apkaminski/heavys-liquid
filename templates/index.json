@@ -15,14 +15,14 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "HEAR EVERY SCREAM WITH HEAVYS",
+            "text": "<strong>This Friday the 13th...<\/strong>",
             "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>This Friday the 13th... Save $40 with Code: FRIDAY13<\/strong>",
+            "heading": "Hear Every Scream!<strong> Save $40 with Code: FRIDAY13<\/strong>",
             "heading_size": "h1"
           }
         },
