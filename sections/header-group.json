@@ -36,6 +36,7 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Get an Additional $25 Off Here",
             "behaviour_type": "klavyo_popup",
@@ -43,12 +44,23 @@
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
+        },
+        "announcement_rUzbCw": {
+          "type": "announcement",
+          "settings": {
+            "text": "Hear Every Scream! Save $40 with code: FRIDAY13",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
         "announcement_Dqc6iz",
         "announcement_ekbCtT",
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_rUzbCw"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
