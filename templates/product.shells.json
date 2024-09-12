@@ -54,7 +54,7 @@
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"#addtocart\" title=\"#addtocart\">Personalize & Upgrade<\/a> your HEAVYS with the Official {{ product.metafields.heavys_custom.band.value.name.value }} Shells<\/p>"
+            "text": "<p>Personalize & Upgrade your HEAVYS with the Official {{ product.metafields.heavys_custom.band.value.name.value }} Shells<\/p>"
           }
         },
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1": {
