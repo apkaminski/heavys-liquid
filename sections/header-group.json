@@ -14,6 +14,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_rUzbCw": {
+          "type": "announcement",
+          "settings": {
+            "text": "Hear Every Scream! Save $40 with code: FRIDAY13",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
+        },
         "announcement_Dqc6iz": {
           "type": "announcement",
           "settings": {
@@ -44,23 +54,13 @@
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
-        },
-        "announcement_rUzbCw": {
-          "type": "announcement",
-          "settings": {
-            "text": "Hear Every Scream! Save $40 with code: FRIDAY13",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
         }
       },
       "block_order": [
+        "announcement_rUzbCw",
         "announcement_Dqc6iz",
         "announcement_ekbCtT",
-        "announcement-bar-0",
-        "announcement_rUzbCw"
+        "announcement-bar-0"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
