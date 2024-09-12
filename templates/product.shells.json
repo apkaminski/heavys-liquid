@@ -135,6 +135,7 @@
         },
         "text_tDwa9B": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>* Free Express Shipping Over $249 * (choose at checkout)<\/strong>",
             "text_style": "body"
@@ -144,26 +145,6 @@
           "type": "description",
           "disabled": true,
           "settings": {
-          }
-        },
-        "collapsible_tab_Gt7V3K": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Shells Only Includes:",
-            "icon": "check_mark",
-            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Shells (Shells are  Interchangeable)<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_keizah": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Bundle Includes:",
-            "icon": "check_mark",
-            "content": "<ul><li>Heavys H1H Headphones<\/li><li>2 {{ product.metafields.heavys_custom.band.value.name.value }} Shells<\/li><li>2 Heavys original Shells<\/li><li>AUX Cable<\/li><li>USB-C Charging Cable<\/li><li>Premium Travel Case included<\/li><\/ul>",
-            "page": ""
           }
         },
         "text_JUQV4T": {
@@ -226,8 +207,6 @@
         "text_7VUMCd",
         "text_tDwa9B",
         "description",
-        "collapsible_tab_Gt7V3K",
-        "collapsible_tab_keizah",
         "text_JUQV4T",
         "collapsible_tab_L8dKVa",
         "collapsible_tab_x7CWVA",
