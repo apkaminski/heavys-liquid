@@ -112,6 +112,13 @@
             "text_style": "body"
           }
         },
+        "text_tDwa9B": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Hear Every Scream... Save $40 with Code: FRIDAY13<\/strong>",
+            "text_style": "body"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -130,13 +137,6 @@
           "disabled": true,
           "settings": {
             "text": "<strong>* Get 30% off on your Second Shells Pack* <\/strong>",
-            "text_style": "body"
-          }
-        },
-        "text_tDwa9B": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Hear Every Scream... Save $40 with Code: FRIDAY13<\/strong>",
             "text_style": "body"
           }
         },
@@ -201,10 +201,10 @@
         "title",
         "price",
         "text_qa9Apr",
+        "text_tDwa9B",
         "variant_picker",
         "buy_buttons",
         "text_7VUMCd",
-        "text_tDwa9B",
         "description",
         "text_JUQV4T",
         "collapsible_tab_L8dKVa",
