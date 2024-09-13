@@ -275,6 +275,15 @@
         "padding_bottom": 20
       }
     },
+    "custom_liquid_ntXfMP": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center><iframe\n\n   data-lnk-widget\n\n   src=\"https:\/\/opeth.rpm.link\/paragraph3\/widget?view=clickthrough\"\n\n   width=\"300\"\n\n   height=\"500\"\n\n   frameborder=\"0\"\n\n   allowtransparency=\"true\">\n\n<\/iframe><\/center>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "7bdbd5c0-c846-4438-9b98-823f59d10006": {
       "type": "multirow",
       "blocks": {
@@ -633,15 +642,6 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "custom_liquid_ntXfMP": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<center><iframe\n\n   data-lnk-widget\n\n   src=\"https:\/\/opeth.rpm.link\/paragraph3\/widget?view=clickthrough\"\n\n   width=\"300\"\n\n   height=\"500\"\n\n   frameborder=\"0\"\n\n   allowtransparency=\"true\">\n\n<\/iframe><\/center>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -651,6 +651,7 @@
     "d56df3ea-0917-4b74-8f1b-60fa2a51a86f",
     "60421194-02d3-4142-a101-cab229136e5b",
     "9df63e1f-45c9-48f7-a296-1f017f30a212",
+    "custom_liquid_ntXfMP",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
     "e3ca781b-9d44-4c07-909d-7da66958b19c",
     "e836ee92-247c-4b1b-a750-8b108bc417dd",
@@ -658,7 +659,6 @@
     "243990a3-4122-461a-b6d3-04139fdb26fc",
     "463cf269-3e55-4128-838b-822482a855bf",
     "testimonial_grid_JFjyAb",
-    "related-products",
-    "custom_liquid_ntXfMP"
+    "related-products"
   ]
 }
