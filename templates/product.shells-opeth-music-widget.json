@@ -236,7 +236,7 @@
 
       ],
       "settings": {
-        "custom_liquid": "<center>\n\n<h2> <font color=\"#757575\"><a href=\"https:\/\/bit.ly\/thelastwillandtestament-opeth\" target=\"blank\">Preorder <i>'The Last Will <\/br>and Testament' <\/i>Here<\/a><\/font><\/h2>\n<iframe\n\n   data-lnk-widget\n\n   src=\"https:\/\/opeth.rpm.link\/paragraph3\/widget?view=clickthrough\"\n\n   width=\"300\"\n\n   height=\"500\"\n\n   frameborder=\"0\"\n\n   allowtransparency=\"true\">\n\n<\/iframe>\n<\/center>",
+        "custom_liquid": "<center>\n\n<h2> <font color=\"#757575\"><a href=\"https:\/\/bit.ly\/thelastwillandtestament-opeth\" target=\"blank\">Preorder <i>'The Last Will <\/br>and Testament' <\/i>Here<\/a><\/font><\/h2>\n<iframe\n\n   data-lnk-widget\n\n   src=\"https:\/\/opeth.rpm.link\/paragraph3\/widget?view=clickthrough\"\n\n   width=\"320\"\n\n   height=\"500\"\n\n   frameborder=\"0\"\n\n   allowtransparency=\"true\">\n\n<\/iframe>\n<\/center>",
         "color_scheme": "",
         "padding_top": 20,
         "padding_bottom": 20
