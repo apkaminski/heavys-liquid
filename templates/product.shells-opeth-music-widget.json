@@ -701,7 +701,7 @@
     "custom_liquid_ntXfMP": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><iframe\n\n   data-lnk-widget\n\n   src=\"https:\/\/opeth.rpm.link\/paragraph3\/widget?view=clickthrough\"\n\n   width=\"300\"\n\n   height=\"300\"\n\n   frameborder=\"0\"\n\n   allowtransparency=\"true\">\n\n<\/iframe><\/center>",
+        "custom_liquid": "<center><iframe\n\n   data-lnk-widget\n\n   src=\"https:\/\/opeth.rpm.link\/paragraph3\/widget?view=clickthrough\"\n\n   width=\"300\"\n\n   height=\"500\"\n\n   frameborder=\"0\"\n\n   allowtransparency=\"true\">\n\n<\/iframe><\/center>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
