@@ -233,10 +233,10 @@
     "custom_liquid_ntXfMP": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><iframe\n\n   data-lnk-widget\n\n   src=\"https:\/\/opeth.rpm.link\/paragraph3\/widget?view=clickthrough\"\n\n   width=\"300\"\n\n   height=\"500\"\n\n   frameborder=\"0\"\n\n   allowtransparency=\"true\">\n\n<\/iframe><\/center>",
+        "custom_liquid": "<center>\n<h2><a href=\"https:\/\/bit.ly\/thelastwillandtestament-opeth\" target=\"blank\">Preorder <i>'The Last Will and Testament' <\/i>Here<\/a><\/h2><\/br>\n<iframe\n\n   data-lnk-widget\n\n   src=\"https:\/\/opeth.rpm.link\/paragraph3\/widget?view=clickthrough\"\n\n   width=\"300\"\n\n   height=\"500\"\n\n   frameborder=\"0\"\n\n   allowtransparency=\"true\">\n\n<\/iframe><\/center>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 28,
+        "padding_bottom": 20
       }
     },
     "60421194-02d3-4142-a101-cab229136e5b": {
