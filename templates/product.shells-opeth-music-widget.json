@@ -634,70 +634,6 @@
         "padding_bottom": 28
       }
     },
-    "video_CgktgA": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "autoplay": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      }
-    },
-    "video_banner_Na7RCG": {
-      "type": "video-banner",
-      "blocks": {
-        "heading_HFdJrX": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_QQJrAf": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_8ERBP8": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_HFdJrX",
-        "text_QQJrAf",
-        "buttons_8ERBP8"
-      ],
-      "settings": {
-        "enable_video_looping": false,
-        "autoplay": false,
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
-        "mobile_content_alignment": "left",
-        "show_text_below": true,
-        "scroll_anchor": ""
-      }
-    },
     "custom_liquid_ntXfMP": {
       "type": "custom-liquid",
       "settings": {
@@ -723,8 +659,6 @@
     "463cf269-3e55-4128-838b-822482a855bf",
     "testimonial_grid_JFjyAb",
     "related-products",
-    "video_CgktgA",
-    "video_banner_Na7RCG",
     "custom_liquid_ntXfMP"
   ]
 }
