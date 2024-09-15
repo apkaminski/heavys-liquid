@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_rUzbCw": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Hear Every Scream! Save $40 with code: FRIDAY13",
             "behaviour_type": "link",
@@ -46,7 +47,6 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Get an Additional $25 Off Here",
             "behaviour_type": "klavyo_popup",
