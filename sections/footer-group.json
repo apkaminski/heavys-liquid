@@ -13,12 +13,11 @@
   "sections": {
     "custom_liquid_rXFjkp": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
-        "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/as_seen_as_image_brands.png?v=1726419892\" width=\"360\"><\/img>",
-        "color_scheme": "inverse",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "custom_liquid": "<center>AS SEEN IN<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/as_seen_as_image_brands.png?v=1726419892\"><\/img><\/center>",
+        "color_scheme": "background-1",
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "1721129207ff5d1763": {
