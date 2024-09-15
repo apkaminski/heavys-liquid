@@ -11,15 +11,6 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "custom_liquid_rXFjkp": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<center>AS SEEN IN<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/as_seen_as_image_brands.png?v=1726419892\"><\/img><\/center>",
-        "color_scheme": "background-1",
-        "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
     "1721129207ff5d1763": {
       "type": "apps",
       "blocks": {
@@ -41,6 +32,15 @@
       ],
       "settings": {
         "include_margins": false
+      }
+    },
+    "custom_liquid_rXFjkp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center>AS SEEN IN<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/as_seen_as_image_brands.png?v=1726419892\"><\/img><\/center>",
+        "color_scheme": "background-1",
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "custom_liquid_NtmXKT": {
@@ -153,8 +153,8 @@
     }
   },
   "order": [
-    "custom_liquid_rXFjkp",
     "1721129207ff5d1763",
+    "custom_liquid_rXFjkp",
     "custom_liquid_NtmXKT",
     "76ffe667-d89c-4967-9e77-454b74fef48b",
     "footer"
