@@ -115,6 +115,7 @@
         },
         "text_tDwa9B": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Hear Every Scream... Save $40 with Code: FRIDAY13<\/strong>",
             "text_style": "body"
