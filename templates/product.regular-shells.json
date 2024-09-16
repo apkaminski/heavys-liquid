@@ -68,7 +68,7 @@
           "settings": {
             "heading": "Free Shipping on $199+ Orders",
             "icon": "truck",
-            "content": "",
+            "content": "<p>Free Express shipping over $249<\/p>",
             "page": ""
           }
         },
