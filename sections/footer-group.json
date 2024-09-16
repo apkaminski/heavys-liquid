@@ -11,6 +11,15 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "custom_liquid_rXFjkp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center><font color=\"#000000\"><strong>As Seen On<\/strong><\/font><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-09-15_at_20.20.05.png?v=1726514565\"><\/img><\/center>",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
     "1721129207ff5d1763": {
       "type": "apps",
       "blocks": {
@@ -22,7 +31,6 @@
         },
         "judge_me_reviews_medals_3Yf8qz": {
           "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
           "settings": {
           }
         }
@@ -33,31 +41,6 @@
       ],
       "settings": {
         "include_margins": false
-      }
-    },
-    "17265150362f8c7468": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_medals_qTmWYd": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_medals_qTmWYd"
-      ],
-      "settings": {
-        "include_margins": false
-      }
-    },
-    "custom_liquid_rXFjkp": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<center><font color=\"#000000\"><strong>As Seen On<\/strong><\/font><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-09-15_at_20.20.05.png?v=1726514565\"><\/img><\/center>",
-        "color_scheme": "background-1",
-        "padding_top": 16,
-        "padding_bottom": 0
       }
     },
     "custom_liquid_NtmXKT": {
@@ -170,9 +153,8 @@
     }
   },
   "order": [
-    "1721129207ff5d1763",
-    "17265150362f8c7468",
     "custom_liquid_rXFjkp",
+    "1721129207ff5d1763",
     "custom_liquid_NtmXKT",
     "76ffe667-d89c-4967-9e77-454b74fef48b",
     "footer"
