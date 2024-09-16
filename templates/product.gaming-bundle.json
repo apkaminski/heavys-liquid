@@ -493,6 +493,23 @@
         "scroll_anchor": "prod-details"
       }
     },
+    "video_jdURJp": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
+        "autoplay": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 32,
+        "padding_bottom": 16,
+        "scroll_anchor": ""
+      }
+    },
     "9ee22153-1421-49ae-ae56-fe473b7fbe10": {
       "type": "table",
       "blocks": {
@@ -986,6 +1003,7 @@
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
+    "video_jdURJp",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
     "696a1674-357d-4c14-9c51-dd1df6898605",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
