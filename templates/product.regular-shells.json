@@ -55,6 +55,7 @@
         },
         "collapsible_tab_eDV3RV": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Save $50 with code: LABOR",
             "icon": "price_tag",
