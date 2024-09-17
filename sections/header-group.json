@@ -35,10 +35,20 @@
             "klavyo_mobile_id": ""
           }
         },
+        "announcement_JeBx4p": {
+          "type": "announcement",
+          "settings": {
+            "text": "Flexible Payment Plans",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
+        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New Arrival* Shadow of Intent Shells",
+            "text": "*New Arrival* Type O Negative Shells",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
@@ -55,24 +65,14 @@
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
-        },
-        "announcement_JeBx4p": {
-          "type": "announcement",
-          "settings": {
-            "text": "Flexible Payment Plans",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
         }
       },
       "block_order": [
         "announcement_rUzbCw",
         "announcement_Dqc6iz",
+        "announcement_JeBx4p",
         "announcement_ekbCtT",
-        "announcement-bar-0",
-        "announcement_JeBx4p"
+        "announcement-bar-0"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
