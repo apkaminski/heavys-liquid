@@ -55,13 +55,24 @@
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
+        },
+        "announcement_JeBx4p": {
+          "type": "announcement",
+          "settings": {
+            "text": "Flexible Payment Plans",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
         "announcement_rUzbCw",
         "announcement_Dqc6iz",
         "announcement_ekbCtT",
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_JeBx4p"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
