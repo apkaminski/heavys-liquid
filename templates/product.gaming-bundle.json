@@ -24,11 +24,18 @@
           "settings": {
             "text": "<p>Immerse Yourself into the Game with Heavys Immersive Surround Sound Experience Boasting 8 Speakers & two frequency ranges!<\/p>"
           }
+        },
+        "text_VNxU3Q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Feel Like You're Sitting Right Next to Other Players With Our Premium Mic<\/p>"
+          }
         }
       },
       "block_order": [
         "template--14884059381834__140ffd4e-59cc-42be-82cf-cf3274153e91-heading-1",
-        "text_8NEkDn"
+        "text_8NEkDn",
+        "text_VNxU3Q"
       ],
       "custom_css": [
 
