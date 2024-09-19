@@ -371,7 +371,7 @@
       "first_name": "First name",
       "last_name": "Last name",
       "company": "Company",
-      "address1": "Address 1",
+      "address1": "We Do Not ship to P.O. boxes or APO\/FPO addresses",
       "address2": "Address 2 (we can NOT ship to PO Box or Military Address)",
       "city": "City",
       "country": "Country\/region",
