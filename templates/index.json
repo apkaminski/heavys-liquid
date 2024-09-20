@@ -69,9 +69,9 @@
         ".js-timer {font-size: 18px; font-weight: bold; color: #ffffff;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/heavys_on_woman_in_festival_032b3d57-5b89-41c6-87f0-2316cb3083e6.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-09-20_at_16.29.02_76e51e95-a5ca-4589-b581-f4a1ade85702.png",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
