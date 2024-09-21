@@ -22,7 +22,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Celebrate with $40 OFF!  Use code: OKTOBERFEST",
+            "heading": "Celebrate with <strong>$40 OFF! <\/strong> Use code: OKTOBERFEST",
             "heading_size": "h1"
           }
         },
@@ -70,10 +70,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-09-20_at_16.42.22_acd1f60b-b718-47f3-811a-5b8818506d2b.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
         "image_behavior": "none",
