@@ -28,7 +28,7 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New Arrival* Make Them Suffer Shells",
+            "text": "*New* Make Them Suffer Shells",
             "behaviour_type": "link",
             "link": "shopify:\/\/products\/make-them-suffer-shells",
             "klavyo_desktop_id": "",
