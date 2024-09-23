@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_LBcWPt": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Save $40 with code: OKTOBERFEST",
             "behaviour_type": "link",
@@ -27,7 +28,7 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New Arrival* Type O Negative Shells",
+            "text": "*New Arrival* Make Them Suffer Shells",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
