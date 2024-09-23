@@ -16,7 +16,6 @@
       "blocks": {
         "announcement_LBcWPt": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Save $40 with code: OKTOBERFEST",
             "behaviour_type": "link",
@@ -30,7 +29,7 @@
           "settings": {
             "text": "*New* Make Them Suffer Shells",
             "behaviour_type": "link",
-            "link": "shopify:\/\/products\/make-them-suffer-shells",
+            "link": "shopify://products/make-them-suffer-shells",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -61,7 +60,7 @@
           "settings": {
             "text": "Get an Additional $25 Off Here",
             "behaviour_type": "klavyo_popup",
-            "link": "shopify:\/\/products\/heavys-h1h-headphones-bundle-case",
+            "link": "shopify://products/heavys-h1h-headphones-bundle-case",
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
