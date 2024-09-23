@@ -15,14 +15,14 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "<strong>Oktoberfest Just Got Heavy!<\/strong>",
+            "text": "<strong>Listen to Music the Way You Should<\/strong>",
             "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Celebrate with <strong>$40 OFF! <\/strong> Use code: OKTOBERFEST",
+            "heading": "Headphones for Heavy Music",
             "heading_size": "h1"
           }
         },
@@ -36,6 +36,7 @@
         },
         "timer_cXQ8W3": {
           "type": "timer",
+          "disabled": true,
           "settings": {
             "year": "2024",
             "month": "9",
