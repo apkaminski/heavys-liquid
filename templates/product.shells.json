@@ -147,12 +147,6 @@
             "text_style": "body"
           }
         },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "text_JUQV4T": {
           "type": "text",
           "settings": {
@@ -201,6 +195,12 @@
           "settings": {
             "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/trustpillot_1500_reviews_heavys.png?v=1724505982\" width=\"300px\"></img></center>"
           }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -213,13 +213,13 @@
         "buy_buttons",
         "sc_back_in_stock_app_block_Xreb6D",
         "text_7VUMCd",
-        "description",
         "text_JUQV4T",
         "collapsible_tab_L8dKVa",
         "collapsible_tab_x7CWVA",
         "collapsible_tab_Yew6Fz",
         "collapsible_tab_adTPt9",
-        "custom_liquid_6txmL4"
+        "custom_liquid_6txmL4",
+        "description"
       ],
       "settings": {
         "color_scheme": "inverse",
