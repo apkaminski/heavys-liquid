@@ -55,7 +55,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Personalize & Upgrade your HEAVYS with the Official {{ product.metafields.heavys_custom.band.value.name.value }} Shells<\/p>"
+            "text": "<p>Personalize & Upgrade your HEAVYS with the Official {{ product.metafields.heavys_custom.band.value.name.value }} Shells</p>"
           }
         },
         "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1": {
@@ -63,7 +63,7 @@
           "disabled": true,
           "settings": {
             "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
-            "button_link": "shopify:\/\/products\/kamelot-shells",
+            "button_link": "shopify://products/kamelot-shells",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -109,7 +109,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<strong>Labor Day Sale! Save $50 with Code: LABOR<\/strong>",
+            "text": "<strong>Labor Day Sale! Save $50 with Code: LABOR</strong>",
             "text_style": "body"
           }
         },
@@ -117,7 +117,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<strong>Hear Every Scream... Save $40 with Code: FRIDAY13<\/strong>",
+            "text": "<strong>Hear Every Scream... Save $40 with Code: FRIDAY13</strong>",
             "text_style": "body"
           }
         },
@@ -138,7 +138,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<strong>* Get 30% off on your Second Shells Pack* <\/strong>",
+            "text": "<strong>* Get 30% off on your Second Shells Pack* </strong>",
             "text_style": "body"
           }
         },
@@ -151,7 +151,7 @@
         "text_JUQV4T": {
           "type": "text",
           "settings": {
-            "text": "<strong>Shells<\/strong> are officially approved by the artists (which are compensated) and designs are available in Limited quantities. Mix & Match as many as you'd like to style & personalize your Headphones.",
+            "text": "<strong>Shells</strong> are officially approved by the artists (which are compensated) and designs are available in Limited quantities. Mix & Match as many as you'd like to style & personalize your Headphones.",
             "text_style": "body"
           }
         },
@@ -160,7 +160,7 @@
           "settings": {
             "heading": "'Shells + Headphones Bundle' Includes:",
             "icon": "box",
-            "content": "<p>+ Heavys H1H Headphones<\/p><p>+ 2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells<\/p><p>+ 2 Heavys Original Shells<\/p><p>+ AUX Cable<\/p><p>+ USB-C Charging Cable<\/p><p>+ FREE Premium Hard-Shell Travel Case<\/p>",
+            "content": "<p>+ Heavys H1H Headphones</p><p>+ 2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells</p><p>+ 2 Heavys Original Shells</p><p>+ AUX Cable</p><p>+ USB-C Charging Cable</p><p>+ FREE Premium Hard-Shell Travel Case</p>",
             "page": ""
           }
         },
@@ -169,7 +169,7 @@
           "settings": {
             "heading": "'Shells Only' Includes:",
             "icon": "fire",
-            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells for Heavys H1H Headphones<\/p><p><\/p><p><\/p><p>*Shells snap on the external side of the ear cup<\/p>",
+            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells for Heavys H1H Headphones</p><p></p><p></p><p>*Shells snap on the external side of the ear cup</p>",
             "page": ""
           }
         },
@@ -178,7 +178,7 @@
           "settings": {
             "heading": "Headphones Product Details",
             "icon": "star",
-            "content": "<p>+ World’s first headphones built for Metalheads<\/p><p>+ 8 Drivers with patented placement creating optimal sound fields & frequency range coverage<\/p><p>+ Immerse in a Concert-like sound & feeling<\/p><p>+ 5 microphones<br\/>+ 50 hours of battery life<br\/>+ Bluetooth 5.1 plus a wired option<br\/>+ HellBlocker™ active noise cancellation<br\/>+ Transparent mode for speaking<br\/>+ Designed for comfort<\/p>",
+            "content": "<p>+ World’s first headphones built for Metalheads</p><p>+ 8 Drivers with patented placement creating optimal sound fields & frequency range coverage</p><p>+ Immerse in a Concert-like sound & feeling</p><p>+ 5 microphones<br/>+ 50 hours of battery life<br/>+ Bluetooth 5.1 plus a wired option<br/>+ HellBlocker™ active noise cancellation<br/>+ Transparent mode for speaking<br/>+ Designed for comfort</p>",
             "page": ""
           }
         },
@@ -187,14 +187,19 @@
           "settings": {
             "heading": "Free Xpress Shipping Above $250 USD",
             "icon": "truck",
-            "content": "<p>+ 30 Day 'no questions asked' return policy<\/p><p>+ Free Global Shipping on $199+ Orders<\/p>",
+            "content": "<p>+ 30 Day 'no questions asked' return policy</p><p>+ Free Global Shipping on $199+ Orders</p>",
             "page": ""
           }
         },
         "custom_liquid_6txmL4": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/trustpillot_1500_reviews_heavys.png?v=1724505982\" width=\"300px\"><\/img><\/center>"
+            "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/trustpillot_1500_reviews_heavys.png?v=1724505982\" width=\"300px\"></img></center>"
+          }
+        },
+        "sc_back_in_stock_app_block_Xreb6D": {
+          "type": "shopify://apps/sc-back-in-stock/blocks/app-block/839cbcb7-0406-4c2b-8e74-a54d987b90ab",
+          "settings": {
           }
         }
       },
@@ -213,7 +218,8 @@
         "collapsible_tab_x7CWVA",
         "collapsible_tab_Yew6Fz",
         "collapsible_tab_adTPt9",
-        "custom_liquid_6txmL4"
+        "custom_liquid_6txmL4",
+        "sc_back_in_stock_app_block_Xreb6D"
       ],
       "settings": {
         "color_scheme": "inverse",
@@ -235,7 +241,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n<\/img>\n<\/center>",
+        "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n</img>\n</center>",
         "color_scheme": "background-1",
         "padding_top": 16,
         "padding_bottom": 16
@@ -247,7 +253,7 @@
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<h1><center>Trusted By 50,000+ Metal Fans<\/center><\/h1><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "custom_liquid": "<h1><center>Trusted By 50,000+ Metal Fans</center></h1></br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
         "color_scheme": "accent-2",
         "padding_top": 60,
         "padding_bottom": 40
@@ -282,13 +288,13 @@
         "2e53b314-bb46-48ce-8c15-ddce6bbec802": {
           "type": "row-with-video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/explosion.mp4",
+            "video": "shopify://files/videos/explosion.mp4",
             "video_url": "",
             "enable_video_looping": true,
             "autoplay": true,
             "caption": "",
             "heading": "Multiple-Driver Tech",
-            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth<\/p>",
+            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -296,10 +302,10 @@
         "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/heavys-h1h-headphones-4_ee1dc0b7-00b2-4d14-b3b0-d885a35f3786.webp",
+            "image": "shopify://shop_images/heavys-h1h-headphones-4_ee1dc0b7-00b2-4d14-b3b0-d885a35f3786.webp",
             "caption": "",
             "heading": "Natural Sound Field",
-            "text": "<p>Heavys patented technology built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible<\/p>",
+            "text": "<p>Heavys patented technology built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -307,10 +313,10 @@
         "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-3": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/heavys_headphone_2.png",
+            "image": "shopify://shop_images/heavys_headphone_2.png",
             "caption": "",
             "heading": "World Class Features",
-            "text": "<p>Equipped with active noise cancellation, transparent mode, super soft earcups, wired\/wireless options, prolonged play time, 5 built-in microphones, USB-C<\/p>",
+            "text": "<p>Equipped with active noise cancellation, transparent mode, super soft earcups, wired/wireless options, prolonged play time, 5 built-in microphones, USB-C</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -318,10 +324,10 @@
         "row_3Hx4qH": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/soundguys-review-heavys-new-box.png",
+            "image": "shopify://shop_images/soundguys-review-heavys-new-box.png",
             "caption": "",
             "heading": "Top Rating from SoundGuys!",
-            "text": "<p>Heavys scored over all competitors in the Over-Ear Headphones Category<\/p>",
+            "text": "<p>Heavys scored over all competitors in the Over-Ear Headphones Category</p>",
             "button_label": "Elevate my Sound",
             "button_link": "#top"
           }
@@ -417,7 +423,7 @@
         "0013955e-afe9-424b-9c91-bf7988f0704f": {
           "type": "text",
           "settings": {
-            "text": "<p><em>{{ product.metafields.heavys_custom.band.value.band_description.value }}<\/em><\/p>"
+            "text": "<p><em>{{ product.metafields.heavys_custom.band.value.band_description.value }}</em></p>"
           }
         },
         "94d76b70-4141-496c-b683-487490dcb35e": {
@@ -451,7 +457,7 @@
         "heading_rj3DrC": {
           "type": "heading",
           "settings": {
-            "heading": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em>",
+            "heading": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.</em>",
             "heading_size": "h2"
           }
         }
@@ -481,7 +487,7 @@
         "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Collect <strong>Shells<\/strong> to style & personalize your Heavys Headphones<\/p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps:<\/p><p>Detach -&gt; Attach New -&gt; Headbang 🤘<\/p>",
+            "text": "<p>Collect <strong>Shells</strong> to style & personalize your Heavys Headphones</p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps:</p><p>Detach -&gt; Attach New -&gt; Headbang 🤘</p>",
             "text_style": "body"
           }
         },
@@ -499,7 +505,7 @@
         "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/shellshowto_copy.png",
+        "image": "shopify://shop_images/shellshowto_copy.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
@@ -519,9 +525,9 @@
     "463cf269-3e55-4128-838b-822482a855bf": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Heavys Shells™ Collection<\/strong>",
+        "title": "<strong>Heavys Shells™ Collection</strong>",
         "heading_size": "h2",
-        "description": "<p>Check out top Shells options Metal fans are buying<\/p>",
+        "description": "<p>Check out top Shells options Metal fans are buying</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
@@ -552,7 +558,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>\" <\/strong><\/em><em>These New Wireless Headphones Are Designed with Heavy Metal Fans In Mind<\/em><em><strong> \" <\/strong><\/em><em>- FORBES<\/em><\/p>"
+            "text": "<p><em><strong>\" </strong></em><em>These New Wireless Headphones Are Designed with Heavy Metal Fans In Mind</em><em><strong> \" </strong></em><em>- FORBES</em></p>"
           }
         },
         "column_zXcWgA": {
@@ -560,7 +566,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to <\/em><em><strong>”<\/strong><\/em><em> - Christian Rodrigue<\/em><\/p>"
+            "text": "<p><em><strong>“ </strong></em><em>Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to </em><em><strong>”</strong></em><em> - Christian Rodrigue</em></p>"
           }
         },
         "column_QaQiEY": {
@@ -568,7 +574,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em>“Epic as written about! After hours of use it is still very comfortable - feels like they are not there. You can hear all notes of songs high and super deep” <\/em><\/p><p><em>- Turner McLeod<\/em><\/p>"
+            "text": "<p><em>“Epic as written about! After hours of use it is still very comfortable - feels like they are not there. You can hear all notes of songs high and super deep” </em></p><p><em>- Turner McLeod</em></p>"
           }
         },
         "column_677tYA": {
@@ -576,7 +582,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> - Mayon A<\/em><\/p>"
+            "text": "<p><em><strong>“ </strong></em><em>Best pair of headphones I’ve ever owned </em><em><strong>”</strong></em><em> - Mayon A</em></p>"
           }
         },
         "column_ncWw3w": {
@@ -584,7 +590,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Heavy AF! The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666\/10, would recommend 🤘 <\/em><em><strong>”<\/strong><\/em><em> - <\/em>Levi Yocke<\/p>"
+            "text": "<p><em><strong>“ </strong></em><em>Heavy AF! The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666/10, would recommend 🤘 </em><em><strong>”</strong></em><em> - </em>Levi Yocke</p>"
           }
         },
         "column_WK4pi8": {
@@ -592,7 +598,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great <\/em><em><strong>”<\/strong><\/em><em> - David Sandat<\/em><\/p>"
+            "text": "<p><em><strong>“ </strong></em><em>No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great </em><em><strong>”</strong></em><em> - David Sandat</em></p>"
           }
         }
       },
@@ -606,7 +612,7 @@
       ],
       "disabled": true,
       "settings": {
-        "title": "<em>Rated 4.7 Out of 5 Stars<\/em>",
+        "title": "<em>Rated 4.7 Out of 5 Stars</em>",
         "heading_size": "h2",
         "button_label": "Start Listening Now",
         "button_link": "#top",
