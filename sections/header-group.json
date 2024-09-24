@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_LBcWPt": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Save $40 with code: OKTOBERFEST",
             "behaviour_type": "link",
