@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/6404722a27be9b76a1ca8d31_logo.svg",
+    "logo": "shopify://shop_images/6404722a27be9b76a1ca8d31_logo.svg",
     "logo_width": 170,
-    "favicon": "shopify:\/\/shop_images\/favicon_heavys.png",
+    "favicon": "shopify://shop_images/favicon_heavys.png",
     "type_header_font": "montserrat_n8",
     "heading_scale": 100,
     "type_body_font": "roboto_condensed_n4",
@@ -106,11 +106,11 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "scheme-b2d98eb9-a244-4063-81e7-12ac436c203d",
     "sold_out_badge_color_scheme": "background-2",
-    "social_facebook_link": "https:\/\/www.facebook.com\/heavysaudio",
-    "social_instagram_link": "https:\/\/www.instagram.com\/heavysaudio\/",
+    "social_facebook_link": "https://www.facebook.com/heavysaudio",
+    "social_instagram_link": "https://www.instagram.com/heavysaudio/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
-    "social_twitter_link": "https:\/\/twitter.com\/heavysaudio",
+    "social_twitter_link": "https://twitter.com/heavysaudio",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
     "social_tumblr_link": "",
@@ -123,7 +123,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "heavys-headphones-shop",
-    "checkout_logo_image": "shopify:\/\/shop_images\/heavys_logo_black.png",
+    "checkout_logo_image": "shopify://shop_images/heavys_logo_black.png",
     "checkout_logo_position": "center",
     "checkout_body_background_color": "#ffffff",
     "checkout_input_background_color_mode": "transparent",
@@ -152,31 +152,31 @@
     ],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
       },
       "2153490007123654574": {
-        "type": "shopify:\/\/apps\/consentmo-gdpr\/blocks\/gdpr_cookie_consent\/4fbe573f-a377-4fea-9801-3ee0858cae41",
+        "type": "shopify://apps/consentmo-gdpr/blocks/gdpr_cookie_consent/4fbe573f-a377-4fea-9801-3ee0858cae41",
         "disabled": false,
         "settings": {
         }
       },
       "17676059084223943535": {
-        "type": "shopify:\/\/apps\/triplewhale\/blocks\/triple_pixel_snippet\/483d496b-3f1a-4609-aea7-8eee3b6b7a2a",
+        "type": "shopify://apps/triplewhale/blocks/triple_pixel_snippet/483d496b-3f1a-4609-aea7-8eee3b6b7a2a",
         "disabled": false,
         "settings": {
         }
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
         }
       },
       "1768834845299682660": {
-        "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-embed-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+        "type": "shopify://apps/subscriptions/blocks/app-embed-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
         "disabled": true,
         "settings": {
           "color_text_title": "#6d7175",
@@ -190,31 +190,31 @@
         }
       },
       "6992340522935486548": {
-        "type": "shopify:\/\/apps\/subscription-plus\/blocks\/app\/79c17119-154e-465c-8480-a7e0399512ff",
+        "type": "shopify://apps/subscription-plus/blocks/app/79c17119-154e-465c-8480-a7e0399512ff",
         "disabled": false,
         "settings": {
         }
       },
       "523714749058147740": {
-        "type": "shopify:\/\/apps\/twik-analytics\/blocks\/snippet\/40206efc-cb58-49cf-9af7-915ef6099862",
+        "type": "shopify://apps/twik-analytics/blocks/snippet/40206efc-cb58-49cf-9af7-915ef6099862",
         "disabled": false,
         "settings": {
         }
       },
-      "3847134708050210359": {
-        "type": "shopify:\/\/apps\/transcy\/blocks\/switcher_embed_block\/bce4f1c0-c18c-43b0-b0b2-a1aefaa44573",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "12643349056429947648": {
-        "type": "shopify:\/\/apps\/sticky-add-to-cart-booster-pro\/blocks\/satcb\/2d1e1d5d-e947-4201-9a4f-8b73ff50f821",
+        "type": "shopify://apps/sticky-add-to-cart-booster-pro/blocks/satcb/2d1e1d5d-e947-4201-9a4f-8b73ff50f821",
         "disabled": false,
         "settings": {
         }
       },
       "17428600031447253342": {
-        "type": "shopify:\/\/apps\/attentive\/blocks\/attn-tag\/8df62c72-8fe4-407e-a5b3-72132be30a0d",
+        "type": "shopify://apps/attentive/blocks/attn-tag/8df62c72-8fe4-407e-a5b3-72132be30a0d",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "3847134708050210359": {
+        "type": "shopify://apps/transcy/blocks/switcher_embed_block/bce4f1c0-c18c-43b0-b0b2-a1aefaa44573",
         "disabled": false,
         "settings": {
         }
