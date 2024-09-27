@@ -28,9 +28,9 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Make Them Suffer Shells",
+            "text": "*New* Nile Shells",
             "behaviour_type": "link",
-            "link": "https://www.heavys.com/products/make-them-suffer-shells?variant=41601471676490",
+            "link": "shopify://products/nile-headphones-shells",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
