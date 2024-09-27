@@ -28,7 +28,7 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Nile Shells",
+            "text": "*New* Official Nile Shells",
             "behaviour_type": "link",
             "link": "shopify://products/nile-headphones-shells",
             "klavyo_desktop_id": "",
