@@ -68,14 +68,14 @@
           "settings": {
             "heading": "Free Shipping on $199+ Orders",
             "icon": "truck",
-            "content": "<p>Free Express shipping over $249<\/p>",
+            "content": "<p>Free Express shipping over $249</p>",
             "page": ""
           }
         },
         "complementary_TtUpje": {
           "type": "complementary",
           "settings": {
-            "block_heading": "Save 30% on your 2nd Design",
+            "block_heading": "Save 25% on your 2nd Design",
             "make_collapsible_row": true,
             "icon": "fire",
             "product_list_limit": 10,
@@ -88,7 +88,7 @@
         "custom_liquid_rUyfbA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-03-28_at_20.09.01.png?v=1711649364\" width=\"300px\"><\/img><\/center>"
+            "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-28_at_20.09.01.png?v=1711649364\" width=\"300px\"></img></center>"
           }
         }
       },
@@ -130,7 +130,7 @@
         "heading_fT8YLe": {
           "type": "heading",
           "settings": {
-            "heading": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em>",
+            "heading": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.</em>",
             "heading_size": "h2"
           }
         },
@@ -138,7 +138,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         },
         "button_kkpwcC": {
@@ -171,9 +171,9 @@
     "463cf269-3e55-4128-838b-822482a855bf": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Enhance Your Style & Save<\/strong>",
+        "title": "<strong>Enhance Your Style & Save</strong>",
         "heading_size": "h2",
-        "description": "<p>Top Shell designs metal fans are looking at right now<\/p>",
+        "description": "<p>Top Shell designs metal fans are looking at right now</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
@@ -209,7 +209,7 @@
         "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Collect <strong>Shells<\/strong> to style & personalize your Heavys Headphones<\/p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps:<\/p><p>Detach -&gt; Attach New -&gt; Headbang 🤘<\/p>",
+            "text": "<p>Collect <strong>Shells</strong> to style & personalize your Heavys Headphones</p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps:</p><p>Detach -&gt; Attach New -&gt; Headbang 🤘</p>",
             "text_style": "body"
           }
         },
@@ -227,7 +227,7 @@
         "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/shellshowto_copy.png",
+        "image": "shopify://shop_images/shellshowto_copy.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
