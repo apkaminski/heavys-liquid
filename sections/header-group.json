@@ -28,9 +28,9 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Official Nile Shells",
+            "text": "*New* Official Bodysnatcher Shells",
             "behaviour_type": "link",
-            "link": "shopify://products/nile-headphones-shells",
+            "link": "shopify://products/bodysnatcher-shells-heavys-headphones",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
