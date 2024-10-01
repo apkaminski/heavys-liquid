@@ -22,11 +22,12 @@
         "text_8NEkDn": {
           "type": "text",
           "settings": {
-            "text": "<p>Immerse Yourself into the Game with Heavys Surround Sound Experience Boasting 8 Speakers & two frequency ranges!</p>"
+            "text": "<p>Immerse yourself into the game with Heavys surround sound experience boasting 8 speakers & two frequency ranges! Feel like you're sitting right Next to players with our new premium mic cable.</p>"
           }
         },
         "text_VNxU3Q": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Feel Like You're Sitting Right Next to Other Players With Our Premium Mic</p>"
           }
