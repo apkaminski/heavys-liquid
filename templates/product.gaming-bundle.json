@@ -22,13 +22,13 @@
         "text_8NEkDn": {
           "type": "text",
           "settings": {
-            "text": "<p>Immerse Yourself into the Game with Heavys Immersive Surround Sound Experience Boasting 8 Speakers & two frequency ranges!<\/p>"
+            "text": "<p>Immerse Yourself into the Game with Heavys Surround Sound Experience Boasting 8 Speakers & two frequency ranges!</p>"
           }
         },
         "text_VNxU3Q": {
           "type": "text",
           "settings": {
-            "text": "<p>Feel Like You're Sitting Right Next to Other Players With Our Premium Mic<\/p>"
+            "text": "<p>Feel Like You're Sitting Right Next to Other Players With Our Premium Mic</p>"
           }
         }
       },
@@ -99,7 +99,7 @@
         "text_8z8adk": {
           "type": "text",
           "settings": {
-            "text": "This is a <strong>PREORDER<\/strong> which will ship in November 2024.  PLEASE EMAIL <a href=\"mailto:PARTNERSHIPS@HEAVYS.COM\" target=\"_blank\" title=\"mailto:PARTNERSHIPS@HEAVYS.COM\">PARTNERSHIPS@HEAVYS.COM<\/a> to be notified when product is LIVE",
+            "text": "This is a <strong>PREORDER</strong> which will ship in November 2024.  PLEASE EMAIL <a href=\"mailto:PARTNERSHIPS@HEAVYS.COM\" target=\"_blank\" title=\"mailto:PARTNERSHIPS@HEAVYS.COM\">PARTNERSHIPS@HEAVYS.COM</a> to be notified when product is LIVE",
             "text_style": "body"
           }
         },
@@ -114,7 +114,7 @@
           "settings": {
             "heading": "What's in the Bundle Box",
             "icon": "box",
-            "content": "<p>+ Heavys HeX Headphones<\/p><p>+ Detachable Analog Boom Mic arm & cable + Cable Splitter<\/p><p>+ Audio AUX Cable 2.5mm -&gt; 3.5mm with adapters for Xbox One, Xbox Series S, Xbox Series X, PC, and PS4, PS5<\/p><p>+ Heavys HeX Shells + Heavys Original Shells<\/p><p>+ USB-C Cable for Charging & Listening<\/p><p>+ Premium Hard-Shell Travel Case<\/p>",
+            "content": "<p>+ Heavys HeX Headphones</p><p>+ Detachable Analog Boom Mic arm & cable + Cable Splitter</p><p>+ Audio AUX Cable 2.5mm -&gt; 3.5mm with adapters for Xbox One, Xbox Series S, Xbox Series X, PC, and PS4, PS5</p><p>+ Heavys HeX Shells + Heavys Original Shells</p><p>+ USB-C Cable for Charging & Listening</p><p>+ Premium Hard-Shell Travel Case</p>",
             "page": ""
           }
         },
@@ -123,7 +123,7 @@
           "settings": {
             "heading": "Features Crafted for Gamers",
             "icon": "star",
-            "content": "<p>+ Immersive natural surround sound field powered by 8 speakers with patented placement optimized for in-game sound effects.<\/p><p>+ 50 hours of battery play time<\/p><p>+ Zero-latency sound connections with premium AUX cable. <\/p><p>+<strong> <\/strong>High-quality, detacheable wired omni-directional & noise-canceling microphone with adjustable boom arm<\/p><p>+  Seamless wireless gaming with low-latency Bluetooth or 2.4 GHz connections.<\/p><p>+ HellBlocker™ active noise cancellation<\/p><p>+ Super comfortable ergonomic design for long sessions, reducing fatigue during extended use.<\/p><p>+ Upcoming software for custom sound profiles and equalizer settings<\/p>",
+            "content": "<p>+ Immersive natural surround sound field powered by 8 speakers with patented placement optimized for in-game sound effects.</p><p>+ 50 hours of battery play time</p><p>+ Zero-latency sound connections with premium AUX cable. </p><p>+<strong> </strong>High-quality, detacheable wired omni-directional & noise-canceling microphone with adjustable boom arm</p><p>+  Seamless wireless gaming with low-latency Bluetooth or 2.4 GHz connections.</p><p>+ HellBlocker™ active noise cancellation</p><p>+ Super comfortable ergonomic design for long sessions, reducing fatigue during extended use.</p><p>+ Upcoming software for custom sound profiles and equalizer settings</p>",
             "page": ""
           }
         },
@@ -132,7 +132,7 @@
           "settings": {
             "heading": "HeX Cable Spec",
             "icon": "lightning_bolt",
-            "content": "<p><span style=\"text-decoration:underline\">Cable Length:<\/span> 150 cm (~5ft) 2.5mm to 3.5mm. <\/p><p>+ Cable Splitter to two 3.5mm ports<\/p><p><span style=\"text-decoration:underline\">Compatibility<\/span>: Xbox One, X , S Controller, PlayStation PS4, PS5 Controller, PC<\/p><p><span style=\"text-decoration:underline\">Detachable cable Materia<\/span>l: Durable, tangle-free braided cable High-quality connectors for optimal sound transfer<\/p><p><strong>Microphone<\/strong>: Omni-directional mic for clear voice capture Adjustable arm for optimal positioning<\/p>",
+            "content": "<p><span style=\"text-decoration:underline\">Cable Length:</span> 150 cm (~5ft) 2.5mm to 3.5mm. </p><p>+ Cable Splitter to two 3.5mm ports</p><p><span style=\"text-decoration:underline\">Compatibility</span>: Xbox One, X , S Controller, PlayStation PS4, PS5 Controller, PC</p><p><span style=\"text-decoration:underline\">Detachable cable Materia</span>l: Durable, tangle-free braided cable High-quality connectors for optimal sound transfer</p><p><strong>Microphone</strong>: Omni-directional mic for clear voice capture Adjustable arm for optimal positioning</p>",
             "page": ""
           }
         },
@@ -141,7 +141,7 @@
           "settings": {
             "heading": "Free Shipping on $200+ Orders",
             "icon": "truck",
-            "content": "<ul><li>+Free Shipping on $200+ Orders & on Bundles<\/li><\/ul><p><\/p><ul><li>+30 Day 'No Questions Asked' Return Policy after received date<br\/><\/li><li>+ One Year Warranty<\/li><\/ul>",
+            "content": "<ul><li>+Free Shipping on $200+ Orders & on Bundles</li></ul><p></p><ul><li>+30 Day 'No Questions Asked' Return Policy after received date<br/></li><li>+ One Year Warranty</li></ul>",
             "page": ""
           }
         },
@@ -162,14 +162,14 @@
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<center><a href=\"#reviewshp\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"300px\"><\/img><\/a><\/center>"
+            "custom_liquid": "<center><a href=\"#reviewshp\"><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/tp2.png?v=1714911342\" width=\"300px\"></img></a></center>"
           }
         },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special<\/h1>\n<\/body>\n<\/html>"
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    </style>\n</head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special</h1>\n</body>\n</html>"
           }
         }
       },
@@ -210,7 +210,7 @@
     "image_with_text_Nfi9Uh": {
       "type": "image-with-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2024-07-28_at_23.04.03.png",
+        "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
@@ -371,14 +371,14 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "<em>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.<\/em>",
+            "heading": "<em>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.</em>",
             "heading_size": "h2"
           }
         },
         "text_wfCT44": {
           "type": "text",
           "settings": {
-            "text": "<h4><em><strong>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.<\/strong><\/em><\/h4>"
+            "text": "<h4><em><strong>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.</strong></em></h4>"
           }
         },
         "button_qyYn6W": {
@@ -414,7 +414,7 @@
         "heading_KypCJr": {
           "type": "heading",
           "settings": {
-            "heading": "Game <a href=\"\/products\/headphones-case-aux\" title=\"Heavys H1H Headphones Bundle\">Like Never Before<\/a>",
+            "heading": "Game <a href=\"/products/headphones-case-aux\" title=\"Heavys H1H Headphones Bundle\">Like Never Before</a>",
             "heading_size": "h1"
           }
         }
@@ -438,10 +438,10 @@
           "type": "row",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/explosion_earcup_for_black_background_v1_247.png",
+            "image": "shopify://shop_images/explosion_earcup_for_black_background_v1_247.png",
             "caption": "",
             "heading": "Multi - Drivers",
-            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges. Enjoy a superior listening experience characterized by exceptional clarity, richness, and depth. Feel a lifetime of dedication brought to you by Axel Grell the 'Godfather of Sound'<\/p>",
+            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges. Enjoy a superior listening experience characterized by exceptional clarity, richness, and depth. Feel a lifetime of dedication brought to you by Axel Grell the 'Godfather of Sound'</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -449,13 +449,13 @@
         "97d7e663-5012-430b-885c-4e2beb3dafb5": {
           "type": "row-with-video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/explosion earcup for black background 60fps v1.mp4",
+            "video": "shopify://files/videos/explosion earcup for black background 60fps v1.mp4",
             "video_url": "",
             "enable_video_looping": true,
             "autoplay": true,
             "caption": "",
             "heading": "Multi-Driver Design",
-            "text": "<p>Experience immersive surround audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth<\/p>",
+            "text": "<p>Experience immersive surround audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -463,10 +463,10 @@
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/heavys_headphone_sound_wave_1_white_2.png",
+            "image": "shopify://shop_images/heavys_headphone_sound_wave_1_white_2.png",
             "caption": "",
             "heading": "Natural Sound Field",
-            "text": "<p>Heavys patented technology, built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres & sound effects<\/p>",
+            "text": "<p>Heavys patented technology, built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres & sound effects</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -474,10 +474,10 @@
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/heavys_headphone_2.png",
+            "image": "shopify://shop_images/heavys_headphone_2.png",
             "caption": "",
             "heading": "World Class Features",
-            "text": "<p>Fully equipped with Hell Blocker™ active noise cancellation, transparent mode, 50 hours of play time, 5 microphones, analog bic + boom arm, transparency mode, ultra-soft ear-cups, Wireless Bluetooth 5.1, a wired option, custom designs<\/p>",
+            "text": "<p>Fully equipped with Hell Blocker™ active noise cancellation, transparent mode, 50 hours of play time, 5 microphones, analog bic + boom arm, transparency mode, ultra-soft ear-cups, Wireless Bluetooth 5.1, a wired option, custom designs</p>",
             "button_label": "Elevate My Sound",
             "button_link": "#top"
           }
@@ -485,10 +485,10 @@
         "row_cwixtN": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/soundguys-review-heavys-new-box_825ee89f-f745-4f99-a3ed-3c2ca5cae8c5.png",
+            "image": "shopify://shop_images/soundguys-review-heavys-new-box_825ee89f-f745-4f99-a3ed-3c2ca5cae8c5.png",
             "caption": "",
             "heading": "Top Rating from SoundGuys!",
-            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category<\/p>",
+            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category</p>",
             "button_label": "Experience Immersive Gaming",
             "button_link": "#top"
           }
@@ -524,9 +524,9 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
+        "video": "shopify://files/videos/Axel_Short_Video.mp4",
         "autoplay": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
         "color_scheme": "",
@@ -543,7 +543,7 @@
           "settings": {
             "heading": "Type",
             "icon": "none",
-            "row_content": "<p>Full size around-the-ear headphone, wired and wireless<\/p>",
+            "row_content": "<p>Full size around-the-ear headphone, wired and wireless</p>",
             "page": "",
             "scroll_anchor": "heavys-specs"
           }
@@ -553,7 +553,7 @@
           "settings": {
             "heading": "Drivers",
             "icon": "none",
-            "row_content": "<p>Dynamic<\/p>",
+            "row_content": "<p>Dynamic</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -563,7 +563,7 @@
           "settings": {
             "heading": "Drivers per side",
             "icon": "none",
-            "row_content": "<p>4 (2 low \/ mid range speakers, 2 high frequency tweeter)<\/p>",
+            "row_content": "<p>4 (2 low / mid range speakers, 2 high frequency tweeter)</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -573,7 +573,7 @@
           "settings": {
             "heading": "Frequency range",
             "icon": "none",
-            "row_content": "<p>5 Hz to 46 kHz \/ 5 Hz to 24 kHz as Bluetooth headset<br\/>THD at 100 dB SPL, 1 kHz: &gt;0.05%<\/p>",
+            "row_content": "<p>5 Hz to 46 kHz / 5 Hz to 24 kHz as Bluetooth headset<br/>THD at 100 dB SPL, 1 kHz: &gt;0.05%</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -583,7 +583,7 @@
           "settings": {
             "heading": "Weight",
             "icon": "none",
-            "row_content": "<p>410 g \/ 14.5 oz<\/p>",
+            "row_content": "<p>410 g / 14.5 oz</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -593,7 +593,7 @@
           "settings": {
             "heading": "BT Version",
             "icon": "none",
-            "row_content": "<p>5.1<\/p>",
+            "row_content": "<p>5.1</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -603,7 +603,7 @@
           "settings": {
             "heading": "Codecs",
             "icon": "none",
-            "row_content": "<p>SBC, AAC, aptX adaptive<\/p>",
+            "row_content": "<p>SBC, AAC, aptX adaptive</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -613,7 +613,7 @@
           "settings": {
             "heading": "Battery lifetime",
             "icon": "none",
-            "row_content": "<p>up to 50 h<\/p>",
+            "row_content": "<p>up to 50 h</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -623,7 +623,7 @@
           "settings": {
             "heading": "Noise Cancelling",
             "icon": "none",
-            "row_content": "<p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance<\/p>",
+            "row_content": "<p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -633,7 +633,7 @@
           "settings": {
             "heading": "Modes",
             "icon": "none",
-            "row_content": "<p>Wired Pure Passive, BT Passive, BT ANC, BT Transparent<\/p>",
+            "row_content": "<p>Wired Pure Passive, BT Passive, BT ANC, BT Transparent</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -643,7 +643,7 @@
           "settings": {
             "heading": "Max SPL",
             "icon": "none",
-            "row_content": "<p>According to IEC 62368-1<\/p>",
+            "row_content": "<p>According to IEC 62368-1</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -653,7 +653,7 @@
           "settings": {
             "heading": "Voice Pick up",
             "icon": "none",
-            "row_content": "<p>2 microphone end-fire array<\/p>",
+            "row_content": "<p>2 microphone end-fire array</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -663,7 +663,7 @@
           "settings": {
             "heading": "Controls",
             "icon": "none",
-            "row_content": "<p>Volume up \/ down, play \/ pause, next \/ previous song, take \/ decline \/ end a call<\/p>",
+            "row_content": "<p>Volume up / down, play / pause, next / previous song, take / decline / end a call</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -673,7 +673,7 @@
           "settings": {
             "heading": "USB",
             "icon": "none",
-            "row_content": "<p>USB-C socket for charging and digital in<\/p>",
+            "row_content": "<p>USB-C socket for charging and digital in</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -683,7 +683,7 @@
           "settings": {
             "heading": "Learn More:",
             "icon": "none",
-            "row_content": "<p><a href=\"\/blogs\/testimonials\/heavys-h1h-headphones-product-info\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">H1H Headphones Product Overview<\/a><\/p>",
+            "row_content": "<p><a href=\"/blogs/testimonials/heavys-h1h-headphones-product-info\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">H1H Headphones Product Overview</a></p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -712,7 +712,7 @@
       ],
       "settings": {
         "caption": "For MetalHeads By MetalHeads",
-        "heading": "Heavys <strong>Specification<\/strong>",
+        "heading": "Heavys <strong>Specification</strong>",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -720,7 +720,7 @@
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "footer_button_label": "Add to Cart Now",
-        "footer_button_link": "https:\/\/www.heavys.com\/cart\/add\/40746106323018",
+        "footer_button_link": "https://www.heavys.com/cart/add/40746106323018",
         "padding_top": 80,
         "padding_bottom": 80
       }
@@ -731,7 +731,7 @@
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<h2><center>Trusted By 50,000+ Gamers & Music Fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "custom_liquid": "<h2><center>Trusted By 50,000+ Gamers & Music Fans</center></h2></br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
         "color_scheme": "background-2",
         "padding_top": 40,
         "padding_bottom": 40
@@ -743,7 +743,7 @@
       "settings": {
         "title": "Enhance Your Experience",
         "heading_size": "h2",
-        "description": "<p>'Mix & Match' as many Shells Designs as you want<\/p>",
+        "description": "<p>'Mix & Match' as many Shells Designs as you want</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
@@ -815,7 +815,7 @@
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
-        "secondary_image": "shopify:\/\/shop_images\/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
+        "secondary_image": "shopify://shop_images/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
         "media_fit": "contain",
         "media_position": "left",
         "gallery_layout": "stacked",
@@ -852,7 +852,7 @@
         "slide_PrN9TG": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070186_f9bfddae-be11-46ea-9bda-f59cd67cac05.jpg",
+            "image": "shopify://shop_images/L1070186_f9bfddae-be11-46ea-9bda-f59cd67cac05.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -870,7 +870,7 @@
         "slide_fBTXCa": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070204.jpg",
+            "image": "shopify://shop_images/L1070204.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -888,7 +888,7 @@
         "slide_Bj8he9": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070210_1.jpg",
+            "image": "shopify://shop_images/L1070210_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -906,7 +906,7 @@
         "slide_raezRB": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070395_1.jpg",
+            "image": "shopify://shop_images/L1070395_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -924,7 +924,7 @@
         "slide_BhBQqm": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070401_1.jpg",
+            "image": "shopify://shop_images/L1070401_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -967,7 +967,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em>\"My expectations were realy high. Results are sky rocket!\" -Eric Séguin<\/em><\/p>"
+            "text": "<p><em>\"My expectations were realy high. Results are sky rocket!\" -Eric Séguin</em></p>"
           }
         },
         "column_ipiXaf": {
@@ -975,7 +975,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Heavy AF! The Heavys experience is unlike any I’ve had, you can hear each and every aspect, as intended, 666\/10, recommended 🤘 <\/em><em><strong>”<\/strong><\/em><em> - Levi Yockey<\/em><\/p>"
+            "text": "<p><em><strong>“ </strong></em><em>Heavy AF! The Heavys experience is unlike any I’ve had, you can hear each and every aspect, as intended, 666/10, recommended 🤘 </em><em><strong>”</strong></em><em> - Levi Yockey</em></p>"
           }
         },
         "column_xj8XfR": {
@@ -983,7 +983,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em>\"At first I was skeptical but as soon I switched on; goosebumps:) The sound is powerfully clear and totally satisfying\" - Ave D.<\/em><\/p>"
+            "text": "<p><em>\"At first I was skeptical but as soon I switched on; goosebumps:) The sound is powerfully clear and totally satisfying\" - Ave D.</em></p>"
           }
         },
         "column_zzxyXA": {
@@ -991,7 +991,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em>Just received my Heavys and let me tell you, these are killer 😱 Perfect for heavy music and outstanding customer service👌🏻 - Sebastien C.<\/em><\/p>"
+            "text": "<p><em>Just received my Heavys and let me tell you, these are killer 😱 Perfect for heavy music and outstanding customer service👌🏻 - Sebastien C.</em></p>"
           }
         },
         "column_PJ67pm": {
@@ -999,7 +999,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em>\"They are super comfortable and the sound is unbelievable. Everything I have read about them is true\" - Ruben Garza Jr.<\/em><\/p>"
+            "text": "<p><em>\"They are super comfortable and the sound is unbelievable. Everything I have read about them is true\" - Ruben Garza Jr.</em></p>"
           }
         },
         "column_jH8XBg": {
@@ -1007,7 +1007,7 @@
           "settings": {
             "title": "",
             "label": "",
-            "text": "<p><em><strong>“ <\/strong><\/em><em>Best pair of headphones I’ve ever owned <\/em><em><strong>”<\/strong><\/em><em> - Mayon A.<\/em><\/p>"
+            "text": "<p><em><strong>“ </strong></em><em>Best pair of headphones I’ve ever owned </em><em><strong>”</strong></em><em> - Mayon A.</em></p>"
           }
         }
       },
@@ -1021,10 +1021,10 @@
       ],
       "disabled": true,
       "settings": {
-        "title": "<em>Verified Customers Reviews<\/em>",
+        "title": "<em>Verified Customers Reviews</em>",
         "heading_size": "h2",
         "button_label": "Get Yours Now",
-        "button_link": "https:\/\/www.heavys.com\/cart\/add\/40746106323018",
+        "button_link": "https://www.heavys.com/cart/add/40746106323018",
         "color_scheme": "inverse",
         "padding_top": 20,
         "padding_bottom": 0,
