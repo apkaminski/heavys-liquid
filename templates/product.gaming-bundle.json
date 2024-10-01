@@ -99,6 +99,7 @@
         },
         "text_8z8adk": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "This is a <strong>PREORDER</strong> which will ship in November 2024.  PLEASE EMAIL <a href=\"mailto:PARTNERSHIPS@HEAVYS.COM\" target=\"_blank\" title=\"mailto:PARTNERSHIPS@HEAVYS.COM\">PARTNERSHIPS@HEAVYS.COM</a> to be notified when product is LIVE",
             "text_style": "body"
