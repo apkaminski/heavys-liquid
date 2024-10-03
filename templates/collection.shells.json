@@ -41,12 +41,24 @@
             "text": "Personalize your headphones with interchangeable ear-cups featuring OFFICIAL & LIMITED DESIGNS by your favorite artists",
             "text_style": "body"
           }
+        },
+        "timer_fHMQNp": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "10",
+            "day": "315",
+            "hour": "4",
+            "minute": "1",
+            "cycle": false
+          }
         }
       },
       "block_order": [
         "text_G7qq6N",
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0",
-        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1"
+        "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1",
+        "timer_fHMQNp"
       ],
       "custom_css": [
         ".banner__text {color: #ffffff;}"
