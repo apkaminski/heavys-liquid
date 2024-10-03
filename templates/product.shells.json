@@ -107,7 +107,6 @@
         },
         "text_qa9Apr": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<strong>Celebrate with $40 off code: OKTOBERFEST</strong>",
             "text_style": "body"
