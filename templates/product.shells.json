@@ -105,13 +105,6 @@
           "settings": {
           }
         },
-        "text_qa9Apr": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Celebrate with $40 off code: OKTOBERFEST</strong>",
-            "text_style": "body"
-          }
-        },
         "text_tDwa9B": {
           "type": "text",
           "disabled": true,
@@ -131,6 +124,13 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
+          }
+        },
+        "text_qa9Apr": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Celebrate with '$40 off Bundles' code: OKTOBERFEST</strong>",
+            "text_style": "body"
           }
         },
         "sc_back_in_stock_app_block_Xreb6D": {
@@ -206,10 +206,10 @@
         "vendor",
         "title",
         "price",
-        "text_qa9Apr",
         "text_tDwa9B",
         "variant_picker",
         "buy_buttons",
+        "text_qa9Apr",
         "sc_back_in_stock_app_block_Xreb6D",
         "text_7VUMCd",
         "text_JUQV4T",
