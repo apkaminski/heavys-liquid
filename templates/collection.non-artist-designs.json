@@ -24,7 +24,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<strong>Buy two and get 30% off<\/strong>",
+            "text": "<strong>Buy two and get 30% off</strong>",
             "text_style": "body"
           }
         },
@@ -43,7 +43,7 @@
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0": {
           "type": "heading",
           "settings": {
-            "heading": "Meet HEAVYS<strong> Shells™<\/strong>",
+            "heading": "Meet HEAVYS<strong> Shells™</strong>",
             "heading_size": "h1"
           }
         },
@@ -92,7 +92,7 @@
         "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com<\/a> and let us know which artist's design you are interested in. <br\/>__________<br\/><a href=\"\/pages\/metal-allegiance-namm\" target=\"_blank\" title=\"Signup to HEAVYS Newsletter\">CLICK HERE to Sign<\/a> up to know when the next Shell Collab Drops!<\/p><p><strong>__________<\/strong><\/p><p>Second Shell design for 30% Off<\/p><p><\/p>"
+            "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com</a> and let us know which artist's design you are interested in. <br/>__________<br/><a href=\"/pages/metal-allegiance-namm\" target=\"_blank\" title=\"Signup to HEAVYS Newsletter\">CLICK HERE to Sign</a> up to know when the next Shell Collab Drops!</p><p><strong>__________</strong></p><p>Second Shell design for 30% Off</p><p></p>"
           }
         },
         "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1": {
@@ -147,7 +147,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "<h2><strong>Official Artist Collabs<\/strong><\/h2><h4>Buy 2 and Save 30%<\/h4>",
+        "description": "<h2><strong>Official Artist Collabs</strong></h2><h4>Buy 2 and Save 25%</h4>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
@@ -173,7 +173,7 @@
     "custom_liquid_T8MQqJ": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h2><center>Trusted By 50,000+ Music Fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "custom_liquid": "<h2><center>Trusted By 50,000+ Music Fans</center></h2></br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 40
@@ -185,9 +185,9 @@
         "heading": "How HEAVYS Shells™ work?",
         "heading_size": "h2",
         "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/1206 (1).mp4",
+        "video": "shopify://files/videos/1206 (1).mp4",
         "autoplay": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "HEAVYS HEADPHONES SHELLS",
         "full_width": false,
         "color_scheme": "",
@@ -209,7 +209,7 @@
         "text_frar96": {
           "type": "text",
           "settings": {
-            "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com<\/a> and let us know which artist's design you are interested in. <br\/>__________<br\/><a href=\"\/pages\/metal-allegiance-namm\" target=\"_blank\" title=\"Signup to HEAVYS Newsletter\">CLICK HERE to Sign<\/a> up to know when the next Shell Collab Drops!<\/p><p><strong>__________<\/strong><\/p><p>Second Shell design for 30% Off<\/p><p><\/p>"
+            "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com</a> and let us know which artist's design you are interested in. <br/>__________<br/><a href=\"/pages/metal-allegiance-namm\" target=\"_blank\" title=\"Signup to HEAVYS Newsletter\">CLICK HERE to Sign</a> up to know when the next Shell Collab Drops!</p><p><strong>__________</strong></p><p>Second Shell design for 30% Off</p><p></p>"
           }
         },
         "button_Vi8HeH": {
@@ -245,7 +245,7 @@
         "slide_DKmKaD": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070186.jpg",
+            "image": "shopify://shop_images/L1070186.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -263,7 +263,7 @@
         "slide_QUX7gm": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070204.jpg",
+            "image": "shopify://shop_images/L1070204.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -281,7 +281,7 @@
         "slide_gcagcR": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070395_1.jpg",
+            "image": "shopify://shop_images/L1070395_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -299,7 +299,7 @@
         "slide_G3VLfD": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1060623.jpg",
+            "image": "shopify://shop_images/L1060623.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -317,7 +317,7 @@
         "slide_cLdAFh": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070179.jpg",
+            "image": "shopify://shop_images/L1070179.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -372,7 +372,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/sg2023_RECOMMENDED.png",
+        "image": "shopify://shop_images/sg2023_RECOMMENDED.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
