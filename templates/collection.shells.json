@@ -24,7 +24,7 @@
         "text_G7qq6N": {
           "type": "text",
           "settings": {
-            "text": "<strong>Celebrate with $40 off use code: OKTOBERFEST</strong>",
+            "text": "<strong>Buy two and save 25%</strong>",
             "text_style": "body"
           }
         },
@@ -33,7 +33,7 @@
           "settings": {
             "year": "2024",
             "month": "10",
-            "day": "7",
+            "day": "9",
             "hour": "4",
             "minute": "1",
             "cycle": false
