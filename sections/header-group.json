@@ -28,9 +28,9 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Official Miss May I Shells",
+            "text": "*New* Dropkick Murphys Shells",
             "behaviour_type": "link",
-            "link": "shopify://products/bodysnatcher-shells-heavys-headphones",
+            "link": "shopify://products/dropkick-murphys-x-heavys",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
