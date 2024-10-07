@@ -16,9 +16,8 @@
       "blocks": {
         "announcement_LBcWPt": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Save $40 with code: OKTOBERFEST",
+            "text": "Save $50 with code: PRIME",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
