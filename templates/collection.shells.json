@@ -24,13 +24,12 @@
         "text_G7qq6N": {
           "type": "text",
           "settings": {
-            "text": "<strong>Buy two and save 25%</strong>",
+            "text": "<strong>Get $50 Off + Xpress Shipping  w/code: PRIME</strong>",
             "text_style": "body"
           }
         },
         "timer_fHMQNp": {
           "type": "timer",
-          "disabled": true,
           "settings": {
             "year": "2024",
             "month": "10",
