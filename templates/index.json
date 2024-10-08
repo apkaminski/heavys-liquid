@@ -15,7 +15,7 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "<strong>HEADBANG FASTER THIS PRIME DAY</strong>",
+            "text": "<strong>PRIME DAY JUST GOT HEAVY!</strong>",
             "text_style": "subtitle"
           }
         },
@@ -70,7 +70,7 @@
       "settings": {
         "image": "shopify://shop_images/Screenshot_2024-10-07_at_11.42.58.png",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
