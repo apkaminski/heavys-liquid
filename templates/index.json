@@ -70,7 +70,7 @@
       "settings": {
         "image": "shopify://shop_images/Screenshot_2024-10-08_at_11.50.39.png",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
