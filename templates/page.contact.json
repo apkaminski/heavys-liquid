@@ -31,6 +31,12 @@
     "rich_text_NCWwU7": {
       "type": "rich-text",
       "blocks": {
+        "text_gFdkgD": {
+          "type": "text",
+          "settings": {
+            "text": "<h3></h3><h3>For Support please email : <a href=\"mailto:support@heavys.com\" target=\"_blank\" title=\"mailto:support@heavys.com\">support@heavys.com</a></h3>"
+          }
+        },
         "text_FhDhh4": {
           "type": "text",
           "settings": {
@@ -45,6 +51,7 @@
         }
       },
       "block_order": [
+        "text_gFdkgD",
         "text_FhDhh4",
         "text_pbrhf7"
       ],
