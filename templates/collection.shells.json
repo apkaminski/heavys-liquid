@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -24,7 +24,7 @@
         "text_G7qq6N": {
           "type": "text",
           "settings": {
-            "text": "<strong>Get $50 Off + Xpress Shipping  w/code: PRIME</strong>",
+            "text": "<strong>Save 25% on your second Shells</strong>",
             "text_style": "body"
           }
         },
