@@ -71,7 +71,7 @@
       "settings": {
         "image": "shopify://shop_images/heavys_on_woman_in_festival_032b3d57-5b89-41c6-87f0-2316cb3083e6.png",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
