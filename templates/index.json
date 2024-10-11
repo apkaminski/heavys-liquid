@@ -62,7 +62,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1"
       ],
       "custom_css": [
-        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #000000; font-size: 15px;}",
+        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 15px;}",
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
         ".banner__text:nth-child(4) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
         ".banner__box {background-color: #000000; padding-top: 5px; padding-bottom: 10px;}",
