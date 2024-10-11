@@ -36,6 +36,7 @@
         },
         "timer_cXQ8W3": {
           "type": "timer",
+          "disabled": true,
           "settings": {
             "year": "2024",
             "month": "10",
@@ -68,7 +69,7 @@
         ".js-timer {font-size: 18px; font-weight: bold; color: #ff0000;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2024-10-07_at_11.42.26.png",
+        "image": "shopify://shop_images/Screenshot_2024-10-09_at_20.34.28.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
