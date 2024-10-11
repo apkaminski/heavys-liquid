@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
@@ -15,7 +15,7 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "SAVE & HEADBANG FASTER!",
+            "text": "Listen To Music The Way You Should",
             "text_style": "subtitle"
           }
         },
@@ -61,7 +61,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1"
       ],
       "custom_css": [
-        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ff0000; font-size: 18px;}",
+        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ff0000; font-size: 14px;}",
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
         ".banner__text:nth-child(4) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
         ".banner__box {background-color: #000000; padding-top: 5px; padding-bottom: 10px;}",

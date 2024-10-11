@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_LBcWPt": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Save $50 + Free Xpress w/code: PRIME",
             "behaviour_type": "link",
@@ -36,7 +37,6 @@
         },
         "announcement_Dqc6iz": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Free Express Shipping Above $250 USD",
             "behaviour_type": "link",
