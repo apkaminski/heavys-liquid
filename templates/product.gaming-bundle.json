@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "140ffd4e-59cc-42be-82cf-cf3274153e91": {
@@ -213,6 +213,46 @@
       "type": "image-with-text",
       "settings": {
         "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "scroll_anchor": ""
+      }
+    },
+    "image_with_text_HtwVc9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KUBzg8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>\" Trust me don’t hesitate to get a pair \" </em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_7tqatr": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>“</strong></em><em> I needed a nice set of headphones to use on my pc for gaming. I found<br/>that many gaming headsets have poor sound quality, cheap builds, poor battery life and overpriced.<br/><br/>So, I took the plunge and ordered Heavys. </em></p><p><em>They arrived packed well, fully charged battery and came in a nice travel case. The sound quality is top notch, with very clear vocals, microphone pickup is clear, tight bass response, and more than adequate volume without distortion. The battery has up to 50 hours, at high volumes. Very impressive. Gaming headsets don’t come<br/>close. The build construction is very solid too, mostly metal and durable<br/>plastic.<br/><br/>Trust me don’t hesitate to get a pair they are worth way more than the price sold at, and easily compete with any higher priced brands. I am very impressed and have already<br/>recommended to several friends and family</em><em><strong> ”</strong></em></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KUBzg8",
+        "text_7tqatr"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-10-14_at_17.14.30.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
@@ -1038,6 +1078,7 @@
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "main",
     "image_with_text_Nfi9Uh",
+    "image_with_text_HtwVc9",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "rich_text_bNMLc4",
     "rich_text_QqzA46",
