@@ -27,9 +27,8 @@
         },
         "text_VNxU3Q": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Feel Like You're Sitting Right Next to Other Players With Our Premium Mic</p>"
+            "text": "<p><em><strong>\" These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R. </strong></em></p>"
           }
         }
       },
@@ -209,24 +208,49 @@
         "padding_bottom": 28
       }
     },
-    "image_with_text_Nfi9Uh": {
-      "type": "image-with-text",
+    "rich_text_bNMLc4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aAPEVN": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<em>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.</em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_wfCT44": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><em><strong>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.</strong></em></h4>"
+          }
+        },
+        "button_qyYn6W": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAPEVN",
+        "text_wfCT44",
+        "button_qyYn6W"
+      ],
+      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
-        "enable_video_looping": false,
-        "autoplay": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 24,
-        "padding_bottom": 24,
-        "scroll_anchor": ""
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image_with_text_HtwVc9": {
@@ -406,48 +430,24 @@
         "scroll_anchor": ""
       }
     },
-    "rich_text_bNMLc4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_aAPEVN": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<em>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.</em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_wfCT44": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><em><strong>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.</strong></em></h4>"
-          }
-        },
-        "button_qyYn6W": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_aAPEVN",
-        "text_wfCT44",
-        "button_qyYn6W"
-      ],
+    "image_with_text_Nfi9Uh": {
+      "type": "image-with-text",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "scroll_anchor": ""
       }
     },
     "rich_text_QqzA46": {
@@ -1077,10 +1077,10 @@
   "order": [
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "main",
-    "image_with_text_Nfi9Uh",
+    "rich_text_bNMLc4",
     "image_with_text_HtwVc9",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
-    "rich_text_bNMLc4",
+    "image_with_text_Nfi9Uh",
     "rich_text_QqzA46",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
     "video_jdURJp",
