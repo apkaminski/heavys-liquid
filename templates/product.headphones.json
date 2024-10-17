@@ -126,16 +126,6 @@
             "page": ""
           }
         },
-        "collapsible_tab_Eztxxk": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "30 Day Simple Return Policy",
-            "icon": "return",
-            "content": "<p>30 Day 'No Questions Asked' Return Policy after received date.</p><p>Not that You'll need it :) </p><p></p>",
-            "page": ""
-          }
-        },
         "complementary_z4cWLg": {
           "type": "complementary",
           "settings": {
@@ -161,7 +151,6 @@
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_VxhV37",
-        "collapsible_tab_Eztxxk",
         "complementary_z4cWLg"
       ],
       "custom_css": [
