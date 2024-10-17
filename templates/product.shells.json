@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "23bdb07e-77f8-419c-9568-b7766935372a": {
@@ -184,9 +184,9 @@
         "collapsible_tab_adTPt9": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Free Xpress Shipping Above $250 USD",
+            "heading": "Free Xpress Shipping Above $270 USD",
             "icon": "truck",
-            "content": "<p>+ 30 Day 'no questions asked' return policy</p><p>+ Free Global Shipping on $199+ Orders</p>",
+            "content": "<p>+ 30 Day easy return policy</p><p>+ Free Standard Global Shipping on $199+ Orders</p><p>+ Free Express Shipping on $270+ USD Orders</p><p></p>",
             "page": ""
           }
         },
