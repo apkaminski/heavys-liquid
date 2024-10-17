@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -18,7 +18,7 @@
           }
         },
         "judge_me_reviews_preview_badge_4pqjRr": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         },
@@ -30,7 +30,7 @@
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer<\/title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1 class=\"special-offer\">Free Express Shipping Above $250<\/br><\/h1>\n<\/body>\n<\/html>"
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    </style>\n</head>\n<body>\n    <h1 class=\"special-offer\">Free Express Shipping Above $270</br></h1>\n</body>\n</html>"
           }
         },
         "variant_picker": {
@@ -62,7 +62,7 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/tp2.png?v=1714911342\" width=\"330px\"><\/img><\/center>"
+            "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/tp2.png?v=1714911342\" width=\"330px\"></img></center>"
           }
         },
         "complementary_yPQxbc": {
@@ -114,7 +114,7 @@
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<h2><center>Trusted by 40,000+ Music fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "custom_liquid": "<h2><center>Trusted by 40,000+ Music fans</center></h2></br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
         "color_scheme": "background-2",
         "padding_top": 40,
         "padding_bottom": 40
@@ -133,7 +133,7 @@
         "text_VqygDE": {
           "type": "text",
           "settings": {
-            "text": "<p>Collect <strong>Shells<\/strong> to style & personalize your Heavys Headphones<\/p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps:<\/p><p>Detach -&gt; Attach New -&gt; Headbang 🤘<\/p><p>Artist gets paid when you choose their design<\/p>",
+            "text": "<p>Collect <strong>Shells</strong> to style & personalize your Heavys Headphones</p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps:</p><p>Detach -&gt; Attach New -&gt; Headbang 🤘</p><p>Artist gets paid when you choose their design</p>",
             "text_style": "body"
           }
         },
@@ -141,7 +141,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop all HEAVYS Shells",
-            "button_link": "shopify:\/\/collections\/shells"
+            "button_link": "shopify://collections/shells"
           }
         }
       },
@@ -151,7 +151,7 @@
         "button_6ayt8w"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/shellshowto.png",
+        "image": "shopify://shop_images/shellshowto.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
@@ -201,10 +201,10 @@
           "type": "row",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/explosion_earcup_for_black_background_v1_247.png",
+            "image": "shopify://shop_images/explosion_earcup_for_black_background_v1_247.png",
             "caption": "",
             "heading": "Multi Driver Design",
-            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth<\/p>",
+            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -212,13 +212,13 @@
         "97d7e663-5012-430b-885c-4e2beb3dafb5": {
           "type": "row-with-video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/explosion earcup for black background 60fps v1.mp4",
+            "video": "shopify://files/videos/explosion earcup for black background 60fps v1.mp4",
             "video_url": "",
             "enable_video_looping": true,
             "autoplay": true,
             "caption": "",
             "heading": "Multi-Driver Design",
-            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth<\/p>",
+            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -226,10 +226,10 @@
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/heavys_headphone_1.png",
+            "image": "shopify://shop_images/heavys_headphone_1.png",
             "caption": "",
             "heading": "Natural Sound Field",
-            "text": "<p>Heavys patented technology, built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres<\/p>",
+            "text": "<p>Heavys patented technology, built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -237,10 +237,10 @@
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/heavys_headphone_2.png",
+            "image": "shopify://shop_images/heavys_headphone_2.png",
             "caption": "",
             "heading": "Top Features",
-            "text": "<p>Fully equipped with Hell Blocker™ active noise cancellation, transparent mode, 50 hours of play time, 5 microphones, transparency mode, ultra-soft ear-cups, Bluetooth 5.1, a wired option, custom designs<\/p>",
+            "text": "<p>Fully equipped with Hell Blocker™ active noise cancellation, transparent mode, 50 hours of play time, 5 microphones, transparency mode, ultra-soft ear-cups, Bluetooth 5.1, a wired option, custom designs</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -274,7 +274,7 @@
       "settings": {
         "title": "Enhance Your Listening Experience Inside & Out",
         "heading_size": "h2",
-        "description": "<p>'Mix & Match' as many Shells Designs as you want<\/p>",
+        "description": "<p>'Mix & Match' as many Shells Designs as you want</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
@@ -303,7 +303,7 @@
         "slide_dUaz8h": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070186_f9bfddae-be11-46ea-9bda-f59cd67cac05.jpg",
+            "image": "shopify://shop_images/L1070186_f9bfddae-be11-46ea-9bda-f59cd67cac05.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -321,7 +321,7 @@
         "slide_WfVy8a": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070168_9c2f13d6-d8c7-4e5b-b0c9-c9dc4a59d1ac.jpg",
+            "image": "shopify://shop_images/L1070168_9c2f13d6-d8c7-4e5b-b0c9-c9dc4a59d1ac.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -339,7 +339,7 @@
         "slide_HwFXGm": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1060806.jpg",
+            "image": "shopify://shop_images/L1060806.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -357,7 +357,7 @@
         "slide_BJLJNq": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8916b00f-070a-4b4a-bb7f-ac0d1f32c839.png",
+            "image": "shopify://shop_images/8916b00f-070a-4b4a-bb7f-ac0d1f32c839.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -375,7 +375,7 @@
         "slide_qaRP3D": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L1070179.jpg",
+            "image": "shopify://shop_images/L1070179.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -529,7 +529,7 @@
         "h2 {margin: 0 auto 2rem auto;}"
       ],
       "settings": {
-        "title": "The Best Fe<strong>atures<\/strong>",
+        "title": "The Best Fe<strong>atures</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -554,7 +554,7 @@
           "settings": {
             "heading": "Type",
             "icon": "none",
-            "row_content": "<p>Full size around-the-ear headphone<\/p>",
+            "row_content": "<p>Full size around-the-ear headphone</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -564,7 +564,7 @@
           "settings": {
             "heading": "Drivers",
             "icon": "none",
-            "row_content": "<p>Dynamic<\/p>",
+            "row_content": "<p>Dynamic</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -574,7 +574,7 @@
           "settings": {
             "heading": "Drivers per side",
             "icon": "none",
-            "row_content": "<p>4 (2 low \/ mid range speakers, 2 high frequency tweeter)<\/p>",
+            "row_content": "<p>4 (2 low / mid range speakers, 2 high frequency tweeter)</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -584,7 +584,7 @@
           "settings": {
             "heading": "Frequency range",
             "icon": "none",
-            "row_content": "<p>5 Hz to 46 kHz \/ 5 Hz to 24 kHz as Bluetooth headset<br\/>THD at 100 dB SPL, 1 kHz: &gt;0.05%<\/p>",
+            "row_content": "<p>5 Hz to 46 kHz / 5 Hz to 24 kHz as Bluetooth headset<br/>THD at 100 dB SPL, 1 kHz: &gt;0.05%</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -594,7 +594,7 @@
           "settings": {
             "heading": "Weight",
             "icon": "none",
-            "row_content": "<p>410 g \/ 14.5 oz<\/p>",
+            "row_content": "<p>410 g / 14.5 oz</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -604,7 +604,7 @@
           "settings": {
             "heading": "BT Version",
             "icon": "none",
-            "row_content": "<p>5.1<\/p>",
+            "row_content": "<p>5.1</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -614,7 +614,7 @@
           "settings": {
             "heading": "Codecs",
             "icon": "none",
-            "row_content": "<p>SBC, AAC, aptX adaptive, LHDC<\/p>",
+            "row_content": "<p>SBC, AAC, aptX adaptive, LHDC</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -624,7 +624,7 @@
           "settings": {
             "heading": "Battery lifetime",
             "icon": "none",
-            "row_content": "<p>up to 50 h<\/p>",
+            "row_content": "<p>up to 50 h</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -634,7 +634,7 @@
           "settings": {
             "heading": "Noise Cancelling",
             "icon": "none",
-            "row_content": "<p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance<\/p>",
+            "row_content": "<p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -644,7 +644,7 @@
           "settings": {
             "heading": "Modes",
             "icon": "none",
-            "row_content": "<p>Wired Pure Passive, BT Passive, BT ANC, BT Transparent<\/p>",
+            "row_content": "<p>Wired Pure Passive, BT Passive, BT ANC, BT Transparent</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -654,7 +654,7 @@
           "settings": {
             "heading": "Max SPL",
             "icon": "none",
-            "row_content": "<p>According to IEC 62368-1<\/p>",
+            "row_content": "<p>According to IEC 62368-1</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -664,7 +664,7 @@
           "settings": {
             "heading": "Voice Pick up",
             "icon": "none",
-            "row_content": "<p>2 microphone end-fire array<\/p>",
+            "row_content": "<p>2 microphone end-fire array</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -674,7 +674,7 @@
           "settings": {
             "heading": "Controls",
             "icon": "none",
-            "row_content": "<p>Volume up \/ down, play \/ pause, next \/ previous song, take \/ decline \/ end a call<\/p>",
+            "row_content": "<p>Volume up / down, play / pause, next / previous song, take / decline / end a call</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -684,7 +684,7 @@
           "settings": {
             "heading": "USB",
             "icon": "none",
-            "row_content": "<p>USB-C socket for charging and digital in<\/p>",
+            "row_content": "<p>USB-C socket for charging and digital in</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -694,7 +694,7 @@
           "settings": {
             "heading": "Learn More:",
             "icon": "none",
-            "row_content": "<p><a href=\"\/blogs\/testimonials\/heavys-h1h-headphones-product-info\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">H1H Headphones Product Overview<\/a><\/p>",
+            "row_content": "<p><a href=\"/blogs/testimonials/heavys-h1h-headphones-product-info\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">H1H Headphones Product Overview</a></p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -719,7 +719,7 @@
       ],
       "settings": {
         "caption": "For MetalHeads By MetalHeads",
-        "heading": "Heavys <strong>Specification<\/strong>",
+        "heading": "Heavys <strong>Specification</strong>",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -727,7 +727,7 @@
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "footer_button_label": "Add to Cart Now",
-        "footer_button_link": "https:\/\/www.heavys.com\/cart\/add\/40037785272394",
+        "footer_button_link": "https://www.heavys.com/cart/add/40037785272394",
         "padding_top": 80,
         "padding_bottom": 80
       }
@@ -742,7 +742,7 @@
         "heading": "Hear the Difference",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Heavys H1H vs Sony 1000XM5.mov",
+        "video": "shopify://files/videos/Heavys H1H vs Sony 1000XM5.mov",
         "autoplay": false,
         "video_url": "",
         "description": "heavys H1H vs Sony 1000xm5",
@@ -802,7 +802,7 @@
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
-        "secondary_image": "shopify:\/\/shop_images\/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
+        "secondary_image": "shopify://shop_images/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
         "media_fit": "contain",
         "media_position": "left",
         "gallery_layout": "stacked",
@@ -837,7 +837,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<!-- TrustBox widget - Micro Combo -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6ffb0d04a076446a9af\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"20px\" data-style-width=\"100%\" data-theme=\"dark\">\n  <a href=\"https:\/\/www.trustpilot.com\/review\/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
+        "custom_liquid": "<!-- TrustBox widget - Micro Combo -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6ffb0d04a076446a9af\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"20px\" data-style-width=\"100%\" data-theme=\"dark\">\n  <a href=\"https://www.trustpilot.com/review/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>\n<!-- End TrustBox widget -->",
         "color_scheme": "inverse",
         "padding_top": 40,
         "padding_bottom": 52
