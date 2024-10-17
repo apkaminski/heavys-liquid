@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner_iHPy8n": {
@@ -122,7 +122,7 @@
           "settings": {
             "heading": "Free Shipping above $200 USD",
             "icon": "truck",
-            "content": "<ul><li>+ Free Shipping on $200+ Orders & Bundles</li></ul><p></p><ul><li>+ 30 Day 'No Questions Asked' Return Policy. Experience Heavys  for 30 days, if you're still not satisfied, we will refund you</li></ul><p></p><ul><li>+ 1 year warranty</li></ul>",
+            "content": "<ul><li>+ Free Shipping on $200+ USD Orders<br/></li><li>+ Free Shipping on $200+ USD Orders<br/></li><li>+ 30 Day Easy Return Policy. Experience Heavys for 30 days, if you're still not satisfied and headphones are in new condition, we will refund you</li></ul><p></p><ul><li>+ 1 year warranty</li></ul>",
             "page": ""
           }
         },
