@@ -139,18 +139,10 @@
           "settings": {
           }
         },
-        "text_7VUMCd": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<strong>* Get 30% off on your Second Shells Pack* </strong>",
-            "text_style": "body"
-          }
-        },
         "text_JUQV4T": {
           "type": "text",
           "settings": {
-            "text": "<strong>Shells</strong> are officially approved by the artists (which are compensated) and designs are available in Limited quantities. Mix & Match as many as you'd like to style & personalize your Headphones.",
+            "text": "<strong>Shells</strong> are officially approved by the artists (of which they are compensated for) and designs are available in Limited quantities. Mix & Match as many as you'd like to style & personalize your Headphones.",
             "text_style": "body"
           }
         },
@@ -212,7 +204,6 @@
         "buy_buttons",
         "text_qa9Apr",
         "sc_back_in_stock_app_block_Xreb6D",
-        "text_7VUMCd",
         "text_JUQV4T",
         "collapsible_tab_L8dKVa",
         "collapsible_tab_x7CWVA",
