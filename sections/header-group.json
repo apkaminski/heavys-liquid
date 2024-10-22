@@ -14,23 +14,12 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_LBcWPt": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Save $50 + Free Xpress w/code: PRIME",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* OPETH Shells",
+            "text": "*New* Body Count Shells",
             "behaviour_type": "link",
-            "link": "shopify://products/opeth-heavys-headphones-shells",
+            "link": "shopify://products/body-count-shells",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -68,7 +57,6 @@
         }
       },
       "block_order": [
-        "announcement_LBcWPt",
         "announcement_ekbCtT",
         "announcement_Dqc6iz",
         "announcement_JeBx4p",
