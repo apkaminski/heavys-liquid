@@ -121,10 +121,20 @@
         },
         "collapsible_tab_ERVzCQ": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Features Crafted for Gamers",
             "icon": "star",
             "content": "<p>+ Immersive natural surround sound field powered by 8 speakers with patented placement optimized for in-game sound effects.</p><p>+ 50 hours of battery play time</p><p>+ Zero-latency sound connections with premium AUX cable. </p><p>+<strong> </strong>High-quality, detacheable wired omni-directional & noise-canceling microphone with adjustable boom arm</p><p>+  Seamless wireless gaming with low-latency Bluetooth or 2.4 GHz connections.</p><p>+ HellBlocker™ active noise cancellation</p><p>+ Super comfortable ergonomic design for long sessions, reducing fatigue during extended use.</p><p>+ Upcoming software for custom sound profiles and equalizer settings</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_YU4fpp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Features Crafted for Gamers",
+            "icon": "star",
+            "content": "<p><strong>+ Immersive Audio</strong>: Experience groundbreaking sound with 8 premium speakers that bring your games and sound effects to life.</p><p><strong>+ Clear Communication</strong>: Enjoy seamless teamwork with a detachable boom mic and tangle-free cable for crystal-clear chat.</p><p><strong>+ Flexible Connectivity</strong>: Choose zero-latency wired options or low-latency Bluetooth/2.4 GHz for uninterrupted gaming.</p><p><strong>+ Comfort for Hours</strong>: Long battery life and ergonomic design keep you comfortable during epic gaming sessions.</p><p><strong>+ Versatile Compatibility</strong>: Fully compatible with PC, mobile, and major consoles (Xbox One, Series X, PS4, PS5).</p><p><strong>+ Personalize your look</strong> with interchangeable shells that match your gaming vibe.</p><p><strong>+ Active noise cancellation</strong> helps you focus  on the game, no matter where you are</p><p><strong>+ Future-Proof</strong>: Upcoming software updates with customizable sound profiles enhance your experience.</p><p><strong>+ Travel-Ready</strong>: Protect your gear with the stylish premium travel case included</p><p><strong>+ Highly Recommended</strong>: Join the community of gamers who swear by this must-have headset!</p>",
             "page": ""
           }
         },
@@ -143,15 +153,6 @@
             "heading": "Free Shipping on $200+ Orders",
             "icon": "truck",
             "content": "<ul><li>+Free Shipping on 200+ USD Orders</li></ul><p></p><ul><li>+30 Day 'No Questions Asked' Return Policy after received date<br/></li><li>+ One Year Warranty</li></ul>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_YU4fpp": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Free Shipping on $200+ Orders",
-            "icon": "truck",
-            "content": "<p><strong>+ Immersive Audio</strong>: Experience groundbreaking sound with 8 premium speakers that bring your games and sound effects to life.</p><p><strong>+ Clear Communication</strong>: Enjoy seamless teamwork with a detachable boom mic and tangle-free cable for crystal-clear chat.</p><p><strong>+ Flexible Connectivity</strong>: Choose zero-latency wired options or low-latency Bluetooth/2.4 GHz for uninterrupted gaming.</p><p><strong>+ Comfort for Hours</strong>: Long battery life and ergonomic design keep you comfortable during epic gaming sessions.</p><p><strong>+ Versatile Compatibility</strong>: Fully compatible with PC, mobile, and major consoles (Xbox One, Series X, PS4, PS5).</p><p><strong>+ Personalize your look</strong> with interchangeable shells that match your gaming vibe.</p><p><strong>+ Active noise cancellation</strong> helps you focus  on the game, no matter where you are</p><p><strong>+ Future-Proof</strong>: Upcoming software updates with customizable sound profiles enhance your experience.</p><p><strong>+ Travel-Ready</strong>: Protect your gear with the stylish premium travel case included</p><p><strong>+ Highly Recommended</strong>: Join the community of gamers who swear by this must-have headset!</p>",
             "page": ""
           }
         },
@@ -195,9 +196,9 @@
         "description_37BJTB",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
+        "collapsible_tab_YU4fpp",
         "collapsible_tab_fex7nB",
         "collapsible_tab_VxhV37",
-        "collapsible_tab_YU4fpp",
         "complementary_z4cWLg",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
