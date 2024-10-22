@@ -146,6 +146,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_YU4fpp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Free Shipping on $200+ Orders",
+            "icon": "truck",
+            "content": "<p><strong>mmersive Audio</strong>: Experience groundbreaking sound with 8 premium speakers that bring your games to life.</p><p><strong>Clear Communication</strong>: Enjoy seamless teamwork with a detachable boom mic and tangle-free cable for crystal-clear chat.</p><p><strong>Flexible Connectivity</strong>: Choose zero-latency wired options or low-latency Bluetooth/2.4 GHz for uninterrupted gaming.</p><p><strong>Comfort for Hours</strong>: Long battery life and ergonomic design keep you comfortable during epic gaming sessions.</p><p><strong>Versatile Compatibility</strong>: Fully compatible with PC, mobile, and major consoles (Xbox One, Series X, PS4, PS5).</p><p><strong>Stylish Customization</strong>: Personalize your look with interchangeable shells that match your gaming vibe.</p><p><strong>Distraction-Free Gaming</strong>: Active noise cancellation helps you focus on the game, no matter where you are.</p><p><strong>Future-Proof</strong>: Upcoming software updates with customizable sound profiles enhance your experience.</p><p><strong>Travel-Ready</strong>: Protect your gear with the stylish premium travel case included.</p><p><strong>Highly Recommended</strong>: Join the community of gamers who swear by this must-have headset!</p>",
+            "page": ""
+          }
+        },
         "complementary_z4cWLg": {
           "type": "complementary",
           "disabled": true,
@@ -188,6 +197,7 @@
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_fex7nB",
         "collapsible_tab_VxhV37",
+        "collapsible_tab_YU4fpp",
         "complementary_z4cWLg",
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
