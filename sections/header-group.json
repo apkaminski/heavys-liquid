@@ -54,13 +54,24 @@
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
+        },
+        "announcement_CJFQej": {
+          "type": "announcement",
+          "settings": {
+            "text": "NO TRICKS-JUST $40 OFF w/code: SPOOKY",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
         "announcement_ekbCtT",
         "announcement_Dqc6iz",
         "announcement_JeBx4p",
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_CJFQej"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
