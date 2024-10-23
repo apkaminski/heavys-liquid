@@ -14,6 +14,26 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_CJFQej": {
+          "type": "announcement",
+          "settings": {
+            "text": "No Tricks Just 40 Off w/code: SPOOKY",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
+        },
+        "announcement_JeBx4p": {
+          "type": "announcement",
+          "settings": {
+            "text": "Flexible Payment Plans",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
+        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
@@ -34,16 +54,6 @@
             "klavyo_mobile_id": ""
           }
         },
-        "announcement_JeBx4p": {
-          "type": "announcement",
-          "settings": {
-            "text": "Flexible Payment Plans",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "disabled": true,
@@ -54,24 +64,14 @@
             "klavyo_desktop_id": "S3Eqqe",
             "klavyo_mobile_id": "RwYKvF"
           }
-        },
-        "announcement_CJFQej": {
-          "type": "announcement",
-          "settings": {
-            "text": "No Tricks Just 40 Off w/code: SPOOKY",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
         }
       },
       "block_order": [
+        "announcement_CJFQej",
+        "announcement_JeBx4p",
         "announcement_ekbCtT",
         "announcement_Dqc6iz",
-        "announcement_JeBx4p",
-        "announcement-bar-0",
-        "announcement_CJFQej"
+        "announcement-bar-0"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
