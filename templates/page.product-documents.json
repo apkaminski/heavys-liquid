@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -85,12 +85,34 @@
             "link_label": "See Care Guide",
             "link": "shopify://pages/heavys-h1h-headphone-care-guide"
           }
+        },
+        "column_mUtEhL": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qWmN3k": {
+          "type": "column",
+          "settings": {
+            "icon": "check_mark",
+            "title": "How to Replace Your Headphone Headpad",
+            "text": "",
+            "link_label": "see guide",
+            "link": "https://www.heavys.com/pages/how-to-replace-your-headphone-headpad"
+          }
         }
       },
       "block_order": [
         "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-1",
         "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-2",
-        "column_ThWrmT"
+        "column_ThWrmT",
+        "column_mUtEhL",
+        "column_qWmN3k"
       ],
       "settings": {
         "title": "",
