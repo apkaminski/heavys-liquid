@@ -66,9 +66,9 @@
         "collapsible_tab_zX7nK3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Free Shipping on $199+ Orders",
+            "heading": "Free Shipping on $200+ USD Orders",
             "icon": "truck",
-            "content": "<p>Free Express shipping over $249</p>",
+            "content": "<p>Plus get Free Expedited Shipping on Orders over $270</p>",
             "page": ""
           }
         },
