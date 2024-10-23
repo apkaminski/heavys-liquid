@@ -66,26 +66,6 @@
             "link": "https://cdn.shopify.com/s/files/1/0565/7097/0186/files/UM.pdf?v=1694064922"
           }
         },
-        "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-2": {
-          "type": "column",
-          "settings": {
-            "icon": "none",
-            "title": "EU Declaration of Conformity ",
-            "text": "<p>A mandatory document for manufacturers and authorized representatives, our EU Declaration of Conformity form ensures compliance.</p>",
-            "link_label": "Download",
-            "link": "https://cdn.shopify.com/s/files/1/0565/7097/0186/files/HEAVYS_CE_DOC.pdf?v=1690465535"
-          }
-        },
-        "column_ThWrmT": {
-          "type": "column",
-          "settings": {
-            "icon": "none",
-            "title": "H1H Care & Cleaning Guide",
-            "text": "",
-            "link_label": "See Care Guide",
-            "link": "shopify://pages/heavys-h1h-headphone-care-guide"
-          }
-        },
         "column_mUtEhL": {
           "type": "column",
           "settings": {
@@ -105,14 +85,34 @@
             "link_label": "See guide",
             "link": "https://www.heavys.com/pages/how-to-replace-your-headphone-headpad"
           }
+        },
+        "column_ThWrmT": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "title": "H1H Care & Cleaning Guide",
+            "text": "",
+            "link_label": "See Care Guide",
+            "link": "shopify://pages/heavys-h1h-headphone-care-guide"
+          }
+        },
+        "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-2": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "title": "EU Declaration of Conformity ",
+            "text": "<p>A mandatory document for manufacturers and authorized representatives, our EU Declaration of Conformity form ensures compliance.</p>",
+            "link_label": "Download",
+            "link": "https://cdn.shopify.com/s/files/1/0565/7097/0186/files/HEAVYS_CE_DOC.pdf?v=1690465535"
+          }
         }
       },
       "block_order": [
         "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-1",
-        "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-2",
-        "column_ThWrmT",
         "column_mUtEhL",
-        "column_qWmN3k"
+        "column_qWmN3k",
+        "column_ThWrmT",
+        "template--14891902632010__a439b6cb-ad69-4957-912b-0ed7fb6964d9-column-2"
       ],
       "settings": {
         "title": "",
