@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -19,7 +19,6 @@
     },
     "form": {
       "type": "contact-form",
-      "disabled": true,
       "settings": {
         "heading": "Contact HEAVYS Support",
         "heading_size": "h2",
@@ -33,6 +32,7 @@
       "blocks": {
         "text_gFdkgD": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<h3></h3><h3>For Support please email : <a href=\"mailto:support@heavys.com\" target=\"_blank\" title=\"mailto:support@heavys.com\">support@heavys.com</a></h3>"
           }
