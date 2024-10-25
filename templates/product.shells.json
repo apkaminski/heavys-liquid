@@ -105,11 +105,10 @@
           "settings": {
           }
         },
-        "text_tDwa9B": {
+        "text_LPyfpg": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<strong>PRIME DAY DEAL! Get $50 Off + Express Shipping code: PRIME</strong>",
+            "text": "No Tricks Only Treats - Save $40 w/code: SPOOKY",
             "text_style": "body"
           }
         },
@@ -124,14 +123,6 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
-          }
-        },
-        "text_qa9Apr": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<strong>Celebrate with '$40 off Bundles' code: OKTOBERFEST</strong>",
-            "text_style": "body"
           }
         },
         "sc_back_in_stock_app_block_Xreb6D": {
@@ -199,10 +190,9 @@
         "vendor",
         "title",
         "price",
-        "text_tDwa9B",
+        "text_LPyfpg",
         "variant_picker",
         "buy_buttons",
-        "text_qa9Apr",
         "sc_back_in_stock_app_block_Xreb6D",
         "text_JUQV4T",
         "collapsible_tab_L8dKVa",
