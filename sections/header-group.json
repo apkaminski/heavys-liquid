@@ -37,9 +37,9 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Body Count Shells",
+            "text": "*New* Opeth Shells",
             "behaviour_type": "link",
-            "link": "shopify://products/body-count-shells",
+            "link": "shopify://products/opeth-heavys-headphones-shells",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
