@@ -167,9 +167,9 @@
         "collapsible_tab_adTPt9": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Free Xpress Shipping Above $270 USD",
+            "heading": "Free Global Shipping",
             "icon": "truck",
-            "content": "<p>+ 30 Day easy return policy</p><p>+ Free Standard Global Shipping on $199+ Orders</p><p>+ Free Express Shipping on $270+ USD Orders</p><p></p>",
+            "content": "<p>+ 30 Day easy return policy</p><p>+ Free Standard Global Shipping on $200+ Orders</p><p></p>",
             "page": ""
           }
         },
