@@ -46,6 +46,7 @@
         },
         "announcement_Dqc6iz": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Free Expedited Shipping Above $270 USD",
             "behaviour_type": "link",
