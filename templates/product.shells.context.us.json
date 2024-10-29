@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "parent": "product.shells.json",
   "context": {
@@ -9,7 +18,6 @@
     "23bdb07e-77f8-419c-9568-b7766935372a",
     "be4805c2-025c-4ff7-be0e-c9a17287274f",
     "main",
-    "d56df3ea-0917-4b74-8f1b-60fa2a51a86f",
     "60421194-02d3-4142-a101-cab229136e5b",
     "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
