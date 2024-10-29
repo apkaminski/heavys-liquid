@@ -46,7 +46,7 @@
     "custom_liquid_NtmXKT": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><a href=\"https://www.trustpilot.com/review/www.heavys.com?stars=5\" target=\"blank\" id=\"5starreviews\"><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/trustpillot_1500_reviews_heavys.png?v=1724505982\" width=\"330px\" height=\"50px\"> </img></a>\n\n</center>",
+        "custom_liquid": "<center>\n\n<a href=\"https://www.trustpilot.com/review/www.heavys.com?stars=5\" target=\"blank\" id=\"5starreviews\">\n\n<img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/trustpillot_1500_reviews_heavys.png?v=1724505982\" width=\"330px\" height=\"50px\"> \n</img>\n\n</a>\n\n</center>",
         "color_scheme": "inverse",
         "padding_top": 20,
         "padding_bottom": 20
