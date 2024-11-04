@@ -16,10 +16,11 @@
       "blocks": {
         "announcement_CJFQej": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "No Tricks Just $40 Off w/code: SPOOKY",
             "behaviour_type": "link",
-            "link": "shopify://pages/contact",
+            "link": "",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -57,7 +58,6 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Get an Additional $25 Off Here",
             "behaviour_type": "klavyo_popup",
