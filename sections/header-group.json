@@ -25,22 +25,22 @@
             "klavyo_mobile_id": ""
           }
         },
+        "announcement_ekbCtT": {
+          "type": "announcement",
+          "settings": {
+            "text": "*New* Accept 'Humanoid' Shells",
+            "behaviour_type": "link",
+            "link": "shopify://products/accept-heavys",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
+        },
         "announcement_JeBx4p": {
           "type": "announcement",
           "settings": {
             "text": "Flexible Payment Plans",
             "behaviour_type": "link",
             "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
-        "announcement_ekbCtT": {
-          "type": "announcement",
-          "settings": {
-            "text": "*New* Opeth Shells",
-            "behaviour_type": "link",
-            "link": "shopify://products/opeth-heavys-headphones-shells",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -70,8 +70,8 @@
       },
       "block_order": [
         "announcement_CJFQej",
-        "announcement_JeBx4p",
         "announcement_ekbCtT",
+        "announcement_JeBx4p",
         "announcement_Dqc6iz",
         "announcement-bar-0"
       ],
