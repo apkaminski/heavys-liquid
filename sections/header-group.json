@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_CJFQej": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "No Tricks Just $40 Off w/code: SPOOKY",
             "behaviour_type": "link",
