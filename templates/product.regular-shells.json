@@ -36,6 +36,7 @@
         },
         "text_XATn8C": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "NO TRICKS JUST TREATS THIS HALLOWEEN Save $40 with code: SPOOKY",
             "text_style": "body"

@@ -107,6 +107,7 @@
         },
         "text_LPyfpg": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "No Tricks Only Treats - Save $40 w/code: SPOOKY",
             "text_style": "body"

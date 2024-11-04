@@ -79,6 +79,7 @@
         },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff8a1a;\n            \n            font-size: 12px;\n        }\n    </style>\n</head>\n<body>\n    <h4 class=\"special-offer\"><strong>NO TRICKS JUST TREATS!</br>Save $40 Today with Code: SPOOKY</strong>\n</h4>\n</body>\n</html>"
           }
