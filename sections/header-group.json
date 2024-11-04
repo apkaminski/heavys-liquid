@@ -58,6 +58,7 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Get an Additional $25 Off Here",
             "behaviour_type": "klavyo_popup",
