@@ -49,7 +49,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Free Expedited Shipping Above $270 USD",
+            "text": "Free Global Shipping Above $200 USD",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
