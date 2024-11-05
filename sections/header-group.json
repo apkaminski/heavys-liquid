@@ -47,7 +47,6 @@
         },
         "announcement_Dqc6iz": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Free Global Shipping Above $200 USD",
             "behaviour_type": "link",
