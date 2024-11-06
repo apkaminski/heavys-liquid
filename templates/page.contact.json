@@ -67,7 +67,7 @@
     "06ef57f8-5ae4-4f8a-a03a-f7f56d9b49a3": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"klaviyo-form-Vhcff4\"></div>",
+        "custom_liquid": "<div class=\"klaviyo-form-Vhcff4\"  id=\"#signup\" ></div>",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "padding_top": 40,
         "padding_bottom": 40
