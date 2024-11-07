@@ -25,14 +25,14 @@
             "klavyo_mobile_id": ""
           }
         },
-        "announcement_ekbCtT": {
+        "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Accept 'Humanoid' Shells",
-            "behaviour_type": "link",
-            "link": "shopify://products/accept-heavys",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
+            "text": "Unlock Our Black Friday Deal Early!",
+            "behaviour_type": "klavyo_popup",
+            "link": "",
+            "klavyo_desktop_id": "VaqSGG",
+            "klavyo_mobile_id": "VaqSGG"
           }
         },
         "announcement_JeBx4p": {
@@ -55,23 +55,23 @@
             "klavyo_mobile_id": ""
           }
         },
-        "announcement-bar-0": {
+        "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "Unlock Our Black Friday Deal Early!",
-            "behaviour_type": "klavyo_popup",
-            "link": "",
-            "klavyo_desktop_id": "VaqSGG",
-            "klavyo_mobile_id": "VaqSGG"
+            "text": "*New* Accept 'Humanoid' Shells",
+            "behaviour_type": "link",
+            "link": "shopify://products/accept-heavys",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
           }
         }
       },
       "block_order": [
         "announcement_CJFQej",
-        "announcement_ekbCtT",
+        "announcement-bar-0",
         "announcement_JeBx4p",
         "announcement_Dqc6iz",
-        "announcement-bar-0"
+        "announcement_ekbCtT"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
