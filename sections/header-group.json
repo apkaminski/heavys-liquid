@@ -57,13 +57,12 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Get an Additional $25 Off Here",
+            "text": "Unlock Our Black Friday Deal Early!",
             "behaviour_type": "klavyo_popup",
-            "link": "shopify://products/heavys-h1h-headphones-bundle-case",
-            "klavyo_desktop_id": "S3Eqqe",
-            "klavyo_mobile_id": "RwYKvF"
+            "link": "",
+            "klavyo_desktop_id": "VaqSGG",
+            "klavyo_mobile_id": "VaqSGG"
           }
         }
       },
