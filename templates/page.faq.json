@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -24,7 +24,7 @@
           "settings": {
             "heading": "What are the H1H Headphones Product Specifications",
             "icon": "none",
-            "row_content": "<p>Heavys H1H Headphones - full <a href=\"\/blogs\/testimonials\/heavys-h1h-headphones-product-info\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">Product Overview<\/a> can be seen <a href=\"\/blogs\/testimonials\/heavys-h1h-headphones-product-info\" target=\"_blank\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">HERE<\/a><\/p><h5>Type<\/h5><p>Full size around-the-ear headphone<\/p><h5>Drivers<\/h5><p>Dynamic<\/p><h5>Drivers per side<\/h5><p>4 (2 low \/ mid range speakers, 2 high frequency tweeter)<\/p><h5>Frequency range<\/h5><p>5 Hz to 46 kHz \/ 5 Hz to 24 kHz as Bluetooth headset<br\/>THD at 100 dB SPL, 1 kHz: &gt;0.05%<\/p><h5>Weight<\/h5><p>410 g \/ 14.5 oz<\/p><h5>BT Version<\/h5><p>5.1<\/p><h5>Codecs<\/h5><p>SBC, AAC, aptX adaptive<\/p><h5>Battery lifetime<\/h5><p>up to 50 h<\/p><h5>Noise Cancelling<\/h5><p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance (Labeled HB: HellBlocker)<\/p><h5>Modes<\/h5><p>Wired Pure Passive, BT Passive, BT ANC, BT Transparent<\/p><h5>Max SPL<\/h5><p>According to IEC 62368-1<\/p><h5>Voice Pick up<\/h5><p>2 microphone end-fire array<\/p><h5>Controls<\/h5><p>Volume up \/ down, play \/ pause, next \/ previous song, take \/ decline \/ end a call<\/p><h5>USB<\/h5><p>USB-C socket for charging and digital in<\/p>",
+            "row_content": "<p>Heavys H1H Headphones - full <a href=\"/blogs/testimonials/heavys-h1h-headphones-product-info\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">Product Overview</a> can be seen <a href=\"/blogs/testimonials/heavys-h1h-headphones-product-info\" target=\"_blank\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">HERE</a></p><h5>Type</h5><p>Full size around-the-ear headphone</p><h5>Drivers</h5><p>Dynamic</p><h5>Drivers per side</h5><p>4 (2 low / mid range speakers, 2 high frequency tweeter)</p><h5>Frequency range</h5><p>5 Hz to 46 kHz / 5 Hz to 24 kHz as Bluetooth headset<br/>THD at 100 dB SPL, 1 kHz: &gt;0.05%</p><h5>Weight</h5><p>410 g / 14.5 oz</p><h5>BT Version</h5><p>5.1</p><h5>Codecs</h5><p>SBC, AAC, aptX adaptive</p><h5>Battery lifetime</h5><p>up to 50 h</p><h5>Noise Cancelling</h5><p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance (Labeled HB: HellBlocker)</p><h5>Modes</h5><p>Wired Pure Passive, BT Passive, BT ANC, BT Transparent</p><h5>Max SPL</h5><p>According to IEC 62368-1</p><h5>Voice Pick up</h5><p>2 microphone end-fire array</p><h5>Controls</h5><p>Volume up / down, play / pause, next / previous song, take / decline / end a call</p><h5>USB</h5><p>USB-C socket for charging and digital in</p>",
             "page": ""
           }
         },
@@ -33,7 +33,7 @@
           "settings": {
             "heading": "Do you have a built-in microphone?",
             "icon": "none",
-            "row_content": "<p>We have 5 built-in microphones perfect for voice calls and enhanced noise cancelation. Please note, voice calls and mics are designed to be available via bluetooth only (not via audio cable)<\/p>",
+            "row_content": "<p>We have 5 built-in microphones perfect for voice calls and enhanced noise cancelation. Please note, voice calls and mics are designed to be available via bluetooth only (not via audio cable)</p>",
             "page": ""
           }
         },
@@ -42,7 +42,7 @@
           "settings": {
             "heading": "What are the different Heavys operation modes?",
             "icon": "none",
-            "row_content": "<p><strong>Passive Analog Mode<\/strong> - Analog cable connected with headphones off, no noise cancellation or button control, analog signal goes directly to the drivers. <\/p><p><strong>Analog Active Mode <\/strong>- analog cable connected with headphones on, signal goes to internal ADC, noise cancellation is available, but no controls.   <\/p><p><strong>USB-C Passive Mode <\/strong>- USB-C cable connected with headphones off, no ANC or controls, Hi res uncompressed digital signal from USB-C to internal DAC only. <\/p><p><strong>USBC Active Mode<\/strong> - USB-C cable connected with headphones on, ANC and controls are available, uncompressed Hi res digital signal from USB-C to internal DAC. <\/p><p><strong>Bluetooth Passive Mode<\/strong> - Bluetooth connection without Noise cancellation.<\/p><p><strong>Bluetooth ANC Mode<\/strong> - Bluetooth connection with active noise cancellation.<\/p><p><strong>Bluetooth Transparent Mode <\/strong>- This mode lets you better hear your surroundings without removing your headphones.<\/p>",
+            "row_content": "<p><strong>Passive Analog Mode</strong> - Analog cable connected with headphones off, no noise cancellation or button control, analog signal goes directly to the drivers. </p><p><strong>Analog Active Mode </strong>- analog cable connected with headphones on, signal goes to internal ADC, noise cancellation is available, but no controls.   </p><p><strong>USB-C Passive Mode </strong>- USB-C cable connected with headphones off, no ANC or controls, Hi res uncompressed digital signal from USB-C to internal DAC only. </p><p><strong>USBC Active Mode</strong> - USB-C cable connected with headphones on, ANC and controls are available, uncompressed Hi res digital signal from USB-C to internal DAC. </p><p><strong>Bluetooth Passive Mode</strong> - Bluetooth connection without Noise cancellation.</p><p><strong>Bluetooth ANC Mode</strong> - Bluetooth connection with active noise cancellation.</p><p><strong>Bluetooth Transparent Mode </strong>- This mode lets you better hear your surroundings without removing your headphones.</p>",
             "page": ""
           }
         },
@@ -51,7 +51,7 @@
           "settings": {
             "heading": "Will there be a Heavys mobile app?",
             "icon": "none",
-            "row_content": "<p>Certainly, we are currently developing an app that will include EQ, firmware updates and enable the management of specific headphone features and incorporate some exciting new advancements in the near future. The app will launch towards the end of Summer of 2024.<\/p>",
+            "row_content": "<p>Certainly, we are currently developing an app that will include EQ, firmware updates and enable the management of specific headphone features and incorporate some exciting new advancements in the near future. The app will launch soon towards the end of 2024.</p>",
             "page": ""
           }
         },
@@ -60,7 +60,7 @@
           "settings": {
             "heading": "Can I connect Heavys to my iPhone or Android Phone?",
             "icon": "none",
-            "row_content": "<p>Absolutely. Heavys comes Bluetooth enabled and you can easily connect it with any phone or device that supports Bluetooth.<\/p>",
+            "row_content": "<p>Absolutely. Heavys comes Bluetooth enabled and you can easily connect it with any phone or device that supports Bluetooth.</p>",
             "page": ""
           }
         },
@@ -69,16 +69,16 @@
           "settings": {
             "heading": "What’s in the bundle box?",
             "icon": "none",
-            "row_content": "<p>Our<strong> Heavys Headphones Bundle<\/strong> includes Heavys H1H Headphones, Premium travel case, 1.3 meters (~4.25 ft) Aux Cable and a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates<\/p><p>-<\/p><p>Our <strong>Heavys Shells + Headphones Bundle <\/strong>includes everything in the regular Headphones bundle plus a pair of the selected custom Snap-On shells.<\/p><p>_<\/p><p>For accessories such as a travel case, merch and cables, visit here: <a href=\"https:\/\/www.heavys.com\/collections\/frontpage\"><span style=\"text-decoration:underline\">https:\/\/www.heavys.com\/collections\/frontpage <\/span><\/a><\/p><p>For Shells visit Here:<br\/><a href=\"https:\/\/www.heavys.com\/collections\/shells\" title=\"https:\/\/www.heavys.com\/collections\/shells\">https:\/\/www.heavys.com\/collections\/shells<\/a><\/p>",
+            "row_content": "<p>Our<strong> Heavys Headphones Bundle</strong> includes Heavys H1H Headphones, Premium travel case, 1.3 meters (~4.25 ft) Aux Cable and a triple-purpose USB-C cable that can be used for charging,  listening, and for Firmware updates</p><p>-</p><p>Our <strong>Heavys Shells + Headphones Bundle </strong>includes everything in the regular Headphones bundle plus a pair of the selected custom Snap-On shells.</p><p>_</p><p>For accessories such as a travel case, merch and cables, visit here: <a href=\"https://www.heavys.com/collections/frontpage\"><span style=\"text-decoration:underline\">https://www.heavys.com/collections/frontpage </span></a></p><p>For Shells visit Here:<br/><a href=\"https://www.heavys.com/collections/shells\" title=\"https://www.heavys.com/collections/shells\">https://www.heavys.com/collections/shells</a></p>",
             "page": ""
           }
         },
         "d601a59c-bb25-4f5e-ba81-d41ad64f7534": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does Heavys offer a Carry \/ Travel case",
+            "heading": "Does Heavys offer a Carry / Travel case",
             "icon": "none",
-            "row_content": "<p>Yes, we do.<\/p><p>Our Headphone Bundles all come with a Premium protective And Eco-Friendly Travel Case. <\/p><p>You can purchase and additional case here: <a href=\"https:\/\/www.heavys.com\/products\/heavys-case-2\"><span style=\"text-decoration:underline\">our online store<\/span><\/a>.<\/p>",
+            "row_content": "<p>Yes, we do.</p><p>Our Headphone Bundles all come with a Premium protective And Eco-Friendly Travel Case. </p><p>You can purchase and additional case here: <a href=\"https://www.heavys.com/products/heavys-case-2\"><span style=\"text-decoration:underline\">our online store</span></a>.</p>",
             "page": ""
           }
         },
@@ -87,7 +87,7 @@
           "settings": {
             "heading": "Can I make phone calls with Heavys?",
             "icon": "none",
-            "row_content": "<p>Yes, a built-in microphone for calls and voice commands is included.<\/p>",
+            "row_content": "<p>Yes, a built-in microphone for calls and voice commands is included.</p>",
             "page": ""
           }
         },
@@ -96,7 +96,7 @@
           "settings": {
             "heading": "What cables are included and what cables can we purchase as add-ons?",
             "icon": "none",
-            "row_content": "<p>Cable included: <br\/>* USB-C to USB-C 1.4 meters (~4.59 ft for charging and wired mode listening & Firmware updates).  <br\/>* Regular AUX cable 3.5 to 2.5 mm 1.3 meters (~4.25 ft). <\/p><p>Cables you can purchase:<\/p><ul><li>1. LONG AUX 3.5 to 2.5 mm 3 meters (~9.85 ft<\/li><li>2. <a href=\"https:\/\/www.heavys.com\/products\/preimue-silver-coated-aux-cable\" title=\"https:\/\/www.heavys.com\/products\/preimue-silver-coated-aux-cable\">SILVER-COATED Premium Aux Cable. - RECOMMENDED<\/a><\/li><li>3. Zero latency audio cable with boom mic arm for gaming (Coming Soon)<\/li><\/ul><p><\/p>",
+            "row_content": "<p>Cable included: <br/>* USB-C to USB-C 1.4 meters (~4.59 ft for charging and wired mode listening & Firmware updates).  <br/>* Regular AUX cable 3.5 to 2.5 mm 1.3 meters (~4.25 ft). </p><p>Cables you can purchase:</p><ul><li>1. LONG AUX 3.5 to 2.5 mm 3 meters (~9.85 ft</li><li>2. <a href=\"https://www.heavys.com/products/preimue-silver-coated-aux-cable\" title=\"https://www.heavys.com/products/preimue-silver-coated-aux-cable\">SILVER-COATED Premium Aux Cable. - RECOMMENDED</a></li><li>3. Zero latency audio cable with boom mic arm for gaming (Coming Soon)</li></ul><p></p>",
             "page": ""
           }
         },
@@ -105,7 +105,7 @@
           "settings": {
             "heading": "How will Heavys sound when listening to other music genres?",
             "icon": "none",
-            "row_content": "<p>Heavys headphones are designed to be great headphones at an affordable price for any music genre. They pack strong specs and technological innovations that help create a great all-around set of headphones. As we are geared for heavy music, the features complement that but you will have an excellent experience listening to any music. .<\/p>",
+            "row_content": "<p>Heavys headphones are designed to be great headphones at an affordable price for any music genre. They pack strong specs and technological innovations that help create a great all-around set of headphones. As we are geared for heavy music, the features complement that but you will have an excellent experience listening to any music. .</p>",
             "page": ""
           }
         },
@@ -114,7 +114,7 @@
           "settings": {
             "heading": "Are Heavys Wired or Wireless?",
             "icon": "none",
-            "row_content": "<p>Heavys can be used and listened to in both wired and wireless modes. They support 5.1 BLE Bluetooth and can be wired in through USB-C or an analog 2.5mm to 3.5mm cable.<\/p>",
+            "row_content": "<p>Heavys can be used and listened to in both wired and wireless modes. They support 5.1 BLE Bluetooth and can be wired in through USB-C or an analog 2.5mm to 3.5mm cable.</p>",
             "page": ""
           }
         },
@@ -123,7 +123,7 @@
           "settings": {
             "heading": "How will Heavys perform for Gaming",
             "icon": "none",
-            "row_content": "<p>Heavys Sound will be perfect for Gaming, we've received endless positiver feedback about this experience.  however the mics are digital so you will need an analog zero latency cable and mic to connect to most consoles. which we will have available soon<\/p>",
+            "row_content": "<p>Heavys Sound will be perfect for Gaming, we've received endless positiver feedback about this experience.  however the mics are digital so you will need an analog zero latency cable and mic to connect to most consoles. which we will have available soon</p>",
             "page": ""
           }
         }
@@ -167,11 +167,11 @@
           "type": "video_collapsible_row",
           "settings": {
             "heading": "How do I replace the shells?",
-            "row_content": "<p>The shell is attached by four grooves in the H1H headphones located on the outside of the cup. In order to detach the shell, place your thumb on one side for leverage and use your middle and index fingers on the other side to pull the shell off the cup.<\/p><p>In order to mount the new shell, place it in the same place as the old one and push until you hear a click.<\/p>",
+            "row_content": "<p>The shell is attached by four grooves in the H1H headphones located on the outside of the cup. In order to detach the shell, place your thumb on one side for leverage and use your middle and index fingers on the other side to pull the shell off the cup.</p><p>In order to mount the new shell, place it in the same place as the old one and push until you hear a click.</p>",
             "icon": "none",
             "enable_video_looping": false,
             "autoplay": false,
-            "video": "shopify:\/\/files\/videos\/1206 (1).mp4",
+            "video": "shopify://files/videos/1206 (1).mp4",
             "video_url": ""
           }
         },
@@ -180,7 +180,7 @@
           "settings": {
             "heading": "What are Heavys Shells",
             "icon": "none",
-            "row_content": "<p>Heavys Shells are an innovative way to personalize your Headphones with custom designs and artist collaborations. Shells utilize an interchangeable  'Mix & Match' method. You can collect as many shells as you want and swap them out through a simple snap-on system.<\/p>",
+            "row_content": "<p>Heavys Shells are an innovative way to personalize your Headphones with custom designs and artist collaborations. Shells utilize an interchangeable  'Mix & Match' method. You can collect as many shells as you want and swap them out through a simple snap-on system.</p>",
             "page": ""
           }
         },
@@ -189,7 +189,7 @@
           "settings": {
             "heading": "What shells designs are available?",
             "icon": "none",
-            "row_content": "<p><a href=\"\/collections\/shells\" title=\"Shells\">Shells<\/a> are designed to be interchangeable.  You can collect multiple shells to customize your headphones as you please. Check out the available designs on the <a href=\"\/collections\/shells\" title=\"Shells\"><strong>Shells Collection<\/strong><\/a><\/p>",
+            "row_content": "<p><a href=\"/collections/shells\" title=\"Shells\">Shells</a> are designed to be interchangeable.  You can collect multiple shells to customize your headphones as you please. Check out the available designs on the <a href=\"/collections/shells\" title=\"Shells\"><strong>Shells Collection</strong></a></p>",
             "page": ""
           }
         },
@@ -198,7 +198,7 @@
           "settings": {
             "heading": "Do you offer personal Shells customisation",
             "icon": "none",
-            "row_content": "<p>At the moment, we don't offer shell customization services.  <\/p><p>However, we add new designs and artists every month. <\/p><p><\/p><p> if you have specific bands or ideas in mind that you'd like to suggest to us, we would greatly appreciate your input. Please feel free to send your suggestions to partnerships@heavys.com, and we'll certainly consider them for future offerings or improvements.<\/p>",
+            "row_content": "<p>At the moment, we don't offer shell customization services.  </p><p>However, we add new designs and artists every month. </p><p></p><p> if you have specific bands or ideas in mind that you'd like to suggest to us, we would greatly appreciate your input. Please feel free to send your suggestions to partnerships@heavys.com, and we'll certainly consider them for future offerings or improvements.</p>",
             "page": ""
           }
         }
@@ -235,7 +235,7 @@
           "settings": {
             "heading": "When will my order ship and be delivered",
             "icon": "none",
-            "row_content": "<p>Good news! Heavys are in stock and ready for immediate shipment! As soon as you place your order, we'll process it swiftly within 1-2 business days<\/p><p>Actual delivery times vary between countries. Please note that while our couriers will deliver the package as fast as possible, the import and customs process within your country may delay the delivery date and is out of our control<\/p>",
+            "row_content": "<p>Good news! Heavys are in stock and ready for immediate shipment! As soon as you place your order, we'll process it swiftly within 1-2 business days</p><p>Actual delivery times vary between countries. Please note that while our couriers will deliver the package as fast as possible, the import and customs process within your country may delay the delivery date and is out of our control</p>",
             "page": ""
           }
         },
@@ -244,7 +244,7 @@
           "settings": {
             "heading": "Does shipping costs cover local taxes and fees?",
             "icon": "none",
-            "row_content": "<p>We include tax, duties and VAT for most countries for most orders, and it will be specified during checkout. In some cases, specific country duties, if applicable, will need to be reconciled directly as with any consumer electronic goods ordered online since every country has its own taxes and procedures.<\/p>",
+            "row_content": "<p>We include tax, duties and VAT for most countries for most orders, and it will be specified during checkout. In some cases, specific country duties, if applicable, will need to be reconciled directly as with any consumer electronic goods ordered online since every country has its own taxes and procedures.</p>",
             "page": ""
           }
         },
@@ -253,7 +253,7 @@
           "settings": {
             "heading": "Do you ship internationally?",
             "icon": "none",
-            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. Wherever you are, we've got you covered! full list is available on the checkout page dropdown. <\/p>",
+            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. Wherever you are, we've got you covered! full list is available on the checkout page dropdown. </p>",
             "page": ""
           }
         },
@@ -262,7 +262,7 @@
           "settings": {
             "heading": "Will you ship to Russia or Ukraine?",
             "icon": "none",
-            "row_content": "<p>Unfortunately we currently can not ship to Russia and Ukraine.<\/p>",
+            "row_content": "<p>Unfortunately we currently can not ship to Russia and Ukraine.</p>",
             "page": ""
           }
         }
@@ -299,7 +299,7 @@
           "settings": {
             "heading": "When will my order be shipped?",
             "icon": "none",
-            "row_content": "<p><strong>REGULAR ORDERS<\/strong> are shipped within 2 business days of placing your order. <\/p><p>You will receive an email with the tracking number as your order is ships.<\/p><p><\/p><p><strong>PRE-ORDERS (only made before Nov 2023): <\/strong>Most H1H pre-orders were shipped. If you have pre-ordered and still have not received your order please contact us via<a href=\"mailto:support@heavys.com\" target=\"_blank\">support@heavys.com<\/a><br\/><\/p>",
+            "row_content": "<p><strong>REGULAR ORDERS</strong> are shipped within 2 business days of placing your order. </p><p>You will receive an email with the tracking number as your order is ships.</p><p></p><p><strong>PRE-ORDERS (only made before Nov 2023): </strong>Most H1H pre-orders were shipped. If you have pre-ordered and still have not received your order please contact us via<a href=\"mailto:support@heavys.com\" target=\"_blank\">support@heavys.com</a><br/></p>",
             "page": ""
           }
         },
@@ -308,7 +308,7 @@
           "settings": {
             "heading": "What is your return policy?",
             "icon": "none",
-            "row_content": "<p>Our return policy allows customers who purchased headphones from our website to return them within 14 days of receiving the order, as long as they are in new and unused condition with original packaging.<\/p><p>Refunds are issued for the purchase price minus any fees including shipping fees and are processed within 14 days to the original payment method after we receive the returned item.<\/p><p>Customers are responsible for return shipping costs and any customs fees for international returns.<\/p><p>We do not accept returns for damaged, customized, or heavily used headphones. The warranty covers defects within the warranty period.<\/p>",
+            "row_content": "<p>Our return policy allows customers who purchased headphones from our website to return them within 14 days of receiving the order, as long as they are in new and unused condition with original packaging.</p><p>Refunds are issued for the purchase price minus any fees including shipping fees and are processed within 14 days to the original payment method after we receive the returned item.</p><p>Customers are responsible for return shipping costs and any customs fees for international returns.</p><p>We do not accept returns for damaged, customized, or heavily used headphones. The warranty covers defects within the warranty period.</p>",
             "page": ""
           }
         },
@@ -318,7 +318,7 @@
           "settings": {
             "heading": "I did not receive a tracking number for a Pre-Order I made.",
             "icon": "none",
-            "row_content": "<p>For Pre-Orders, you'll receive an email with tracking info once we ship your order. <\/p>",
+            "row_content": "<p>For Pre-Orders, you'll receive an email with tracking info once we ship your order. </p>",
             "page": ""
           }
         },
@@ -327,7 +327,7 @@
           "settings": {
             "heading": "Shipping Address",
             "icon": "none",
-            "row_content": "<p>We ship to both residential and commercial addresses within the United States and internationally.<\/p><p><\/p><p>Please take note that we don't ship to P.O. boxes or APO\/FPO addresses.<\/p><p><\/p>",
+            "row_content": "<p>We ship to both residential and commercial addresses within the United States and internationally.</p><p></p><p>Please take note that we don't ship to P.O. boxes or APO/FPO addresses.</p><p></p>",
             "page": ""
           }
         },
@@ -336,7 +336,7 @@
           "settings": {
             "heading": "Do you offer Split Payments option?",
             "icon": "none",
-            "row_content": "<p>Yes! You can use Shop Pay for payments in the US, or Klarna for payments in other countries. Paypal is available as well with payment options in some countries<\/p>",
+            "row_content": "<p>Yes! You can use Shop Pay for payments in the US, or Klarna for payments in other countries. Paypal is available as well with payment options in some countries</p>",
             "page": ""
           }
         }
@@ -374,7 +374,7 @@
           "settings": {
             "heading": "My app is not Pairing?",
             "icon": "none",
-            "row_content": "<p>Please .... <\/p>",
+            "row_content": "<p>Please .... </p>",
             "page": ""
           }
         },
@@ -383,7 +383,7 @@
           "settings": {
             "heading": "The EQ is not Showing up",
             "icon": "none",
-            "row_content": "<p>1.  Make sure you're headphones are connected to the Heavys app<\/p><p><\/p><p>2. Make sure you are playing music in one of your music apps. EQ will only be visible when music is actively playing<\/p>",
+            "row_content": "<p>1.  Make sure you're headphones are connected to the Heavys app</p><p></p><p>2. Make sure you are playing music in one of your music apps. EQ will only be visible when music is actively playing</p>",
             "page": ""
           }
         },
@@ -393,7 +393,7 @@
           "settings": {
             "heading": "I did not receive a tracking number for a Pre-Order I made.",
             "icon": "none",
-            "row_content": "<p>For Pre-Orders, you'll receive an email with tracking info once we ship your order. <\/p>",
+            "row_content": "<p>For Pre-Orders, you'll receive an email with tracking info once we ship your order. </p>",
             "page": ""
           }
         },
@@ -402,7 +402,7 @@
           "settings": {
             "heading": "Can I save my EQ settings",
             "icon": "none",
-            "row_content": "<p>Not yet - however we are diligently working on an option to do so (and more!)<\/p>",
+            "row_content": "<p>Not yet - however we are diligently working on an option to do so (and more!)</p>",
             "page": ""
           }
         },
@@ -411,7 +411,7 @@
           "settings": {
             "heading": "How do I connect my Headphones",
             "icon": "none",
-            "row_content": "<ul><li>Power up your headphones<\/li><li>Enable Bluetooth on your smartphones and headphones<\/li><li>Connect and Pair your headphones in the settings on your device<\/li><li>Back in the app, Tap \"connect\" on the home screen<\/li><\/ul>",
+            "row_content": "<ul><li>Power up your headphones</li><li>Enable Bluetooth on your smartphones and headphones</li><li>Connect and Pair your headphones in the settings on your device</li><li>Back in the app, Tap \"connect\" on the home screen</li></ul>",
             "page": ""
           }
         }
@@ -450,7 +450,7 @@
           "settings": {
             "heading": "Can I wear my glasses when using the Heavys Headphones?",
             "icon": "none",
-            "row_content": "<p>Yes, you can wear your glasses with the headphones. <\/p>",
+            "row_content": "<p>Yes, you can wear your glasses with the headphones. </p>",
             "page": ""
           }
         },
@@ -459,7 +459,7 @@
           "settings": {
             "heading": "Are you going to implement LDAC support?",
             "icon": "none",
-            "row_content": "<p>LDAC is not supported.<\/p>",
+            "row_content": "<p>LDAC is not supported.</p>",
             "page": ""
           }
         },
@@ -468,7 +468,7 @@
           "settings": {
             "heading": "How is the battery life?",
             "icon": "none",
-            "row_content": "<p>Our battery is one of the top in the market - it lasts 50 hours without ANC (Noise-canceling, aka Hell Blocker), and 40hrs with ANC.Like any electrical device, extreme cold may damage the battery, so we do not recommend taking the headphones out to temperatures below -20℃.<\/p>",
+            "row_content": "<p>Our battery is one of the top in the market - it lasts 50 hours without ANC (Noise-canceling, aka Hell Blocker), and 40hrs with ANC.Like any electrical device, extreme cold may damage the battery, so we do not recommend taking the headphones out to temperatures below -20℃.</p>",
             "page": ""
           }
         },
@@ -477,7 +477,7 @@
           "settings": {
             "heading": "What is the earcup size",
             "icon": "none",
-            "row_content": "<p>The depth at the rear side will be 28 mm (1.1 Inches) which should be enough for most ears.<\/p>",
+            "row_content": "<p>The depth at the rear side will be 28 mm (1.1 Inches) which should be enough for most ears.</p>",
             "page": ""
           }
         },
@@ -486,7 +486,7 @@
           "settings": {
             "heading": "How is the battery life in extreme heat?",
             "icon": "none",
-            "row_content": "<p>At 55℃ (131 F) a full battery charge will last 90% time compared to a controlled temperature.<\/p>",
+            "row_content": "<p>At 55℃ (131 F) a full battery charge will last 90% time compared to a controlled temperature.</p>",
             "page": ""
           }
         },
@@ -495,7 +495,7 @@
           "settings": {
             "heading": "Does the USB cable include an analog or digital signal?",
             "icon": "none",
-            "row_content": "<p>The USB-C socket is for charging and digital data exchange.  It is designed to be a digital input to the internal DAC. The analog input is a balanced 2.5mm 4-pole socket.<\/p><p>The built-in DAC will be driven by a Mac or PC,  an iPad with USB-C, or an Android Smartphone or Tablet using a USB cable. An iPhone or iPad without USB-C can be used with a dedicated adapter.<\/p>",
+            "row_content": "<p>The USB-C socket is for charging and digital data exchange.  It is designed to be a digital input to the internal DAC. The analog input is a balanced 2.5mm 4-pole socket.</p><p>The built-in DAC will be driven by a Mac or PC,  an iPad with USB-C, or an Android Smartphone or Tablet using a USB cable. An iPhone or iPad without USB-C can be used with a dedicated adapter.</p>",
             "page": ""
           }
         },
@@ -504,7 +504,7 @@
           "settings": {
             "heading": "What Bluetooth version is used?",
             "icon": "none",
-            "row_content": "<p>5.1<\/p>",
+            "row_content": "<p>5.1</p>",
             "page": ""
           }
         },
@@ -513,7 +513,7 @@
           "settings": {
             "heading": "What is Heavys frequency range?",
             "icon": "none",
-            "row_content": "<p>Frequency range: 5 Hz to 46 kHz.<\/p>",
+            "row_content": "<p>Frequency range: 5 Hz to 46 kHz.</p>",
             "page": ""
           }
         },
@@ -522,7 +522,7 @@
           "settings": {
             "heading": "What Codecs are supported?",
             "icon": "none",
-            "row_content": "<p>SBC, AAC, aptX adaptive<\/p>",
+            "row_content": "<p>SBC, AAC, aptX adaptive</p>",
             "page": ""
           }
         },
@@ -531,7 +531,7 @@
           "settings": {
             "heading": "Will they connect to a PC using the USB-C cable?",
             "icon": "none",
-            "row_content": "<p>Yes.<\/p>",
+            "row_content": "<p>Yes.</p>",
             "page": ""
           }
         },
@@ -540,7 +540,7 @@
           "settings": {
             "heading": "What is the THD?",
             "icon": "none",
-            "row_content": "<p>THD at 100 dB SPL, 1 kHz: &gt;0.05%*<\/p>",
+            "row_content": "<p>THD at 100 dB SPL, 1 kHz: &gt;0.05%*</p>",
             "page": ""
           }
         },
@@ -549,7 +549,7 @@
           "settings": {
             "heading": "Are Heavys wired or wireless?",
             "icon": "none",
-            "row_content": "<p>You can use and listen to Heavys, both wired and wireless. Heavys supports 5.1 BLE Bluetooth but is also wired in through USB-C or AUX 3.5 to 2.5mm.<\/p>",
+            "row_content": "<p>You can use and listen to Heavys, both wired and wireless. Heavys supports 5.1 BLE Bluetooth but is also wired in through USB-C or AUX 3.5 to 2.5mm.</p>",
             "page": ""
           }
         },
@@ -558,7 +558,7 @@
           "settings": {
             "heading": "Will the ear pads be replaceable?",
             "icon": "none",
-            "row_content": "<p>Yes, you will be able to order them from us in 2025 and replace them by yourself. The head pad is planned to be replaceable as well. <\/p>",
+            "row_content": "<p>Yes, you will be able to order them from us in 2025 and replace them by yourself. The head pad is planned to be replaceable as well. </p>",
             "page": ""
           }
         },
@@ -567,7 +567,7 @@
           "settings": {
             "heading": "Do You have a Frequency Response Graph",
             "icon": "none",
-            "row_content": "<p>Frequency Response Graphs change depending on several non-objective parameters and we do not offer one at this time<\/p>",
+            "row_content": "<p>Frequency Response Graphs change depending on several non-objective parameters and we do not offer one at this time</p>",
             "page": ""
           }
         },
@@ -576,7 +576,7 @@
           "settings": {
             "heading": "How can I make Heavys Volume even Louder?",
             "icon": "none",
-            "row_content": "<p>Please check Audio Normalization on spotify, Soundcheck on Applemusic and other sound Features on your music streaming app or phone if using bluetooth. <\/p><p>Different phone devices have various configurations that can change and limit the dynamic range. <\/p><p>Please note we do not recommend listening on high levels for a prolonged time <\/p><p>Please explore Transparency mode as well for calls and see your preference<\/p>",
+            "row_content": "<p>Please check Audio Normalization on spotify, Soundcheck on Applemusic and other sound Features on your music streaming app or phone if using bluetooth. </p><p>Different phone devices have various configurations that can change and limit the dynamic range. </p><p>Please note we do not recommend listening on high levels for a prolonged time </p><p>Please explore Transparency mode as well for calls and see your preference</p>",
             "page": ""
           }
         }
@@ -600,7 +600,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Tech \/ Spec",
+        "heading": "Tech / Spec",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "row",
@@ -624,7 +624,7 @@
           "settings": {
             "heading": "What is included in my Warranty?",
             "icon": "none",
-            "row_content": "<p>We offer a one-year limited warranty on all of our headphones, please review our full warranty page.<\/p>",
+            "row_content": "<p>We offer a one-year limited warranty on all of our headphones, please review our full warranty page.</p>",
             "page": ""
           }
         },
@@ -633,7 +633,7 @@
           "settings": {
             "heading": "What replacement parts are available ?",
             "icon": "none",
-            "row_content": "<p>Shells are available for replacement.<\/p><p>The ear pads will be replaceable in the future. Additionally, the headpad is also planned to be replaceable. Please note that these replacement parts are not yet available, but soon<\/p>",
+            "row_content": "<p>Shells are available for replacement.</p><p>The ear pads will be replaceable in the future. Additionally, the headpad is also planned to be replaceable. Please note that these replacement parts are not yet available, but soon</p>",
             "page": ""
           }
         }
@@ -644,7 +644,7 @@
       ],
       "settings": {
         "caption": "FAQ",
-        "heading": "Service \/ Warranty",
+        "heading": "Service / Warranty",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "row",
@@ -675,17 +675,17 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         },
         "template--14885345820746__a7352f93-1895-43bf-863f-663ea6d0a386-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Get Heavys Headphones Bundles",
-            "button_link": "shopify:\/\/products\/heavys-h1h-headphones-bundle-case",
+            "button_link": "shopify://products/heavys-h1h-headphones-bundle-case",
             "button_style_secondary": false,
             "button_label_2": "See Headphone + Shells Bundles",
-            "button_link_2": "shopify:\/\/collections\/shells",
+            "button_link_2": "shopify://collections/shells",
             "button_style_secondary_2": false
           }
         },
@@ -693,7 +693,7 @@
           "type": "button",
           "settings": {
             "button_label": "More Questions? CONTACT US",
-            "button_link": "shopify:\/\/pages\/contact",
+            "button_link": "shopify://pages/contact",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -720,7 +720,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-09_at_21.31.59.png?v=1702150620\" width=\"140px\">\n<\/img>\n<\/center>",
+        "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2023-12-09_at_21.31.59.png?v=1702150620\" width=\"140px\">\n</img>\n</center>",
         "color_scheme": "",
         "padding_top": 16,
         "padding_bottom": 16
