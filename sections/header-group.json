@@ -45,16 +45,6 @@
             "klavyo_mobile_id": ""
           }
         },
-        "announcement_JeBx4p": {
-          "type": "announcement",
-          "settings": {
-            "text": "Flexible Payment Plans",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
@@ -64,14 +54,24 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
+        },
+        "announcement_JeBx4p": {
+          "type": "announcement",
+          "settings": {
+            "text": "Flexible Payment Plans",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
         "announcement_CJFQej",
         "announcement-bar-0",
         "announcement_Dqc6iz",
-        "announcement_JeBx4p",
-        "announcement_ekbCtT"
+        "announcement_ekbCtT",
+        "announcement_JeBx4p"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
