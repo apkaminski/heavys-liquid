@@ -58,9 +58,9 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Accept 'Humanoid' Shells",
+            "text": "*New* Ministry Official Shells",
             "behaviour_type": "link",
-            "link": "shopify://products/accept-heavys",
+            "link": "shopify://products/ministry-heavys-headphones",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
