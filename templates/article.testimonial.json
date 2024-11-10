@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1de8a418-0d7f-4a49-908a-c72176522d1b": {
@@ -50,8 +50,7 @@
         },
         "content": {
           "type": "content",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -59,8 +58,7 @@
         "title",
         "content"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "60ac8b3e-349d-43c2-aeee-daa7feefa8a5": {
       "type": "collection-list",
@@ -68,7 +66,7 @@
         "template--14884059480138__60ac8b3e-349d-43c2-aeee-daa7feefa8a5-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "heavys-headphones-store"
+            "collection": "heavys-headphones-shop"
           }
         },
         "template--14884059480138__60ac8b3e-349d-43c2-aeee-daa7feefa8a5-featured_collection-2": {
