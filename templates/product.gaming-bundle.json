@@ -37,9 +37,7 @@
         "text_8NEkDn",
         "text_VNxU3Q"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -62,8 +60,7 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "caption": {
           "type": "text",
@@ -74,14 +71,12 @@
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker_qPDMbV": {
           "type": "variant_picker",
@@ -107,8 +102,7 @@
         "description_37BJTB": {
           "type": "description",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "collapsible_tab_PmKyjY": {
           "type": "collapsible_tab",
@@ -277,7 +271,7 @@
         "text_7tqatr": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>“</strong></em><em> I needed a nice set of headphones to use on my pc for gaming. I found<br/>that many gaming headsets have poor sound quality, cheap builds, poor battery life and overpriced.<br/><br/>So, I took the plunge and ordered Heavys. </em></p><p><em>They arrived packed well, fully charged battery and came in a nice travel case. The sound quality is top notch, with very clear vocals, microphone pickup is clear, tight bass response, and more than adequate volume without distortion. The build construction is very solid too. The battery has up to 50 hours, at high volumes. Very impressive. Gaming headsets don’t come close.<br/><br/>Trust me don’t hesitate to get a pair they are worth way more than the price sold at, and easily compete with any higher priced brands. I am very impressed and have already recommended to several friends and family</em><em><strong> ”   - J.C.</strong></em></p>",
+            "text": "<p><em><strong>“</strong></em><em> I needed a good set of headphones to use on my pc for gaming. I found<br/>that many gaming headsets have poor sound quality, cheap builds, and short battery life.<br/><br/>So, I took the plunge and ordered Heavys. </em></p><p><em>Heavys arrived packed well, fully charged battery in a nice travel case. The sound quality is top notch, with very clear vocals, microphone pickup is clear, tight bass response, and more than adequate volume without distortion. The build construction is very solid too. The battery has up to 50 hours, at high volumes. Very impressive. Gaming headsets don’t come close.<br/><br/>Trust me these easily compete with any higher priced brands. I am very impressed and have already recommended to several friends</em><em><strong>”   - J.C.</strong></em></p>",
             "text_style": "body"
           }
         }
@@ -760,9 +754,7 @@
         "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3"
       ],
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "caption": "For MetalHeads By MetalHeads",
         "heading": "Heavys <strong>Specification</strong>",
@@ -837,8 +829,7 @@
         },
         "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-2": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3": {
           "type": "variant_picker",
