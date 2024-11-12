@@ -109,8 +109,7 @@
         },
         "price_kbjrXb": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "text_E8yrpp": {
           "type": "text",
@@ -246,15 +245,6 @@
             "description_1": "Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth"
           }
         },
-        "66e14d12-5ecf-4694-ae84-78bddc050c66": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "bulb",
-            "heading_1": "MasterMind Design",
-            "description_1": "Feel the lifetime of dedication delivered to the Metal Community by Axel Grell, known as the “Godfather of German Sound”, with over 30 years in audio and 40+ patents"
-          }
-        },
         "c641f485-c30e-4ac3-822e-7caa35a87b2f": {
           "type": "icon-with-text",
           "settings": {
@@ -262,6 +252,15 @@
             "icon_1": "radio",
             "heading_1": "Natural Sound Field",
             "description_1": "Heavys patented technology is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres"
+          }
+        },
+        "66e14d12-5ecf-4694-ae84-78bddc050c66": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "bulb",
+            "heading_1": "MasterMind Design",
+            "description_1": "Feel the lifetime of dedication delivered to the Metal Community by Axel Grell, known as the “Godfather of German Sound”, with over 30 years in audio and 40+ patents"
           }
         },
         "39bf155e-c4c1-488e-b59e-b28704d805a4": {
@@ -277,8 +276,8 @@
       "block_order": [
         "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
         "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
-        "66e14d12-5ecf-4694-ae84-78bddc050c66",
         "c641f485-c30e-4ac3-822e-7caa35a87b2f",
+        "66e14d12-5ecf-4694-ae84-78bddc050c66",
         "39bf155e-c4c1-488e-b59e-b28704d805a4"
       ],
       "settings": {
@@ -381,8 +380,7 @@
         },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "judge_me_reviews_preview_badge_homepage_hBpGnN": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
@@ -473,9 +471,7 @@
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
         "custom_liquid_UkYX3D"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product": "shell-bundle",
         "color_scheme": "inverse",
