@@ -97,19 +97,16 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "text_LPyfpg": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "No Tricks Only Treats - Save $40 w/code: SPOOKY",
+            "text": "<strong>Better Than Black Friday -> SAVE $80 TODAY with Code: BLACK</strong>",
             "text_style": "body"
           }
         },
@@ -128,8 +125,7 @@
         },
         "sc_back_in_stock_app_block_Xreb6D": {
           "type": "shopify://apps/sc-back-in-stock/blocks/app-block/839cbcb7-0406-4c2b-8e74-a54d987b90ab",
-          "settings": {
-          }
+          "settings": {}
         },
         "text_JUQV4T": {
           "type": "text",
@@ -183,8 +179,7 @@
         "description": {
           "type": "description",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
