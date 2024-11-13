@@ -58,30 +58,26 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "judge_me_reviews_preview_badge_DqtYdT": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff8a1a;\n            \n            font-size: 12px;\n        }\n    </style>\n</head>\n<body>\n    <h4 class=\"special-offer\"><strong>NO TRICKS JUST TREATS!</br>Save $40 Today with Code: SPOOKY</strong>\n</h4>\n</body>\n</html>"
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff8a1a;\n            \n            font-size: 12px;\n        }\n    </style>\n</head>\n<body>\n    <h4 class=\"special-offer\"><strong>NO TRICKS JUST TREATS!</br>Save $80 Today with Code: BLACK</strong>\n</h4>\n</body>\n</html>"
           }
         },
         "caption": {
@@ -153,9 +149,7 @@
         "collapsible_tab_VxhV37",
         "complementary_z4cWLg"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "inverse",
         "enable_sticky_info": true,
@@ -379,9 +373,7 @@
       "block_order": [
         "template--14884059381834__140ffd4e-59cc-42be-82cf-cf3274153e91-heading-1"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -649,9 +641,7 @@
         "0640185d-f352-442b-9b4e-ce6844cc6853",
         "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "caption": "For MetalHeads By MetalHeads",
         "heading": "Heavys <strong>Specification</strong>",
@@ -734,8 +724,7 @@
         },
         "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-2": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3": {
           "type": "variant_picker",
