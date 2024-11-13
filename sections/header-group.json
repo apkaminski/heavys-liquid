@@ -14,17 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_CJFQej": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "No Tricks Just $40 Off w/code: SPOOKY",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -64,14 +53,24 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
+        },
+        "announcement_CJFQej": {
+          "type": "announcement",
+          "settings": {
+            "text": "Grab 2 Headphones For Only $399",
+            "behaviour_type": "link",
+            "link": "shopify://products/2x-headphones-2x-case-2x-aux-1",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
-        "announcement_CJFQej",
         "announcement-bar-0",
         "announcement_Dqc6iz",
         "announcement_ekbCtT",
-        "announcement_JeBx4p"
+        "announcement_JeBx4p",
+        "announcement_CJFQej"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
