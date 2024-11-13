@@ -15,21 +15,21 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "Listen to Music the Way You Should",
+            "text": "BETTER THAN BLACK FRIDAY!",
             "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "HEADPHONES FOR HEAVY MUSIC",
+            "heading": "Use Code: BLACK For $80 Off",
             "heading_size": "h1"
           }
         },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
+            "button_label": "GET THIS DEAL NOW",
             "button_link": "#heavys-featured",
             "button_style_secondary": false
           }
@@ -62,7 +62,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1"
       ],
       "custom_css": [
-        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: bold; color: #ffffff; font-size: 14px;}",
+        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: bold; color: #ff0000; font-size: 18px;}",
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
         ".banner__text:nth-child(4) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
         ".banner__box {background-color: #000000; padding-top: 5px; padding-bottom: 10px;}",
