@@ -387,18 +387,17 @@
             "product": "heavys-h1h-headphones-bundle-case"
           }
         },
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Save $80 Today with Code: BLACK</strong>",
+            "text_style": "uppercase"
+          }
+        },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "dropdown"
-          }
-        },
-        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<em>Enhance with Interchangeable Shells</em>",
-            "text_style": "uppercase"
           }
         },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5": {
@@ -460,8 +459,8 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
         "judge_me_reviews_preview_badge_homepage_hBpGnN",
-        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
+        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
         "34192509-a141-444e-8c17-ddc78b10c075",
