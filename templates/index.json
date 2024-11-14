@@ -119,6 +119,12 @@
             "text_style": "body"
           }
         },
+        "custom_liquid_6pR3JF": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff0000;\n            font-size: 12px;\n        }\n    </style>\n</head>\n<body>\n <h4 class=\"special-offer\">  <strong>Save $80 Today with Code: BLACK</br>\nBuy Two & Save 66%</strong>\n</h4>\n</body>\n</html>"
+          }
+        },
         "buy_buttons_6KMFT6": {
           "type": "buy_buttons",
           "settings": {
@@ -173,13 +179,6 @@
             "icon_3": "return",
             "heading_3": "30 Day simple Return Policy"
           }
-        },
-        "custom_liquid_6pR3JF": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            text-transform: uppercase;\n            font-size: 11px;\n        }\n    </style>\n</head>\n<body>\n    <h1 class=\"special-offer\">Get it Before Christmas with Express Shipping!</h1>\n</body>\n</html>"
-          }
         }
       },
       "block_order": [
@@ -187,12 +186,12 @@
         "judge_me_reviews_preview_badge_homepage_cniEQr",
         "price_kbjrXb",
         "text_E8yrpp",
+        "custom_liquid_6pR3JF",
         "buy_buttons_6KMFT6",
         "icon_with_text_NBiFjE",
         "icon_with_text_B43Pra",
         "icon_with_text_6cirKh",
-        "icon_with_text_nwJ9JL",
-        "custom_liquid_6pR3JF"
+        "icon_with_text_nwJ9JL"
       ],
       "custom_css": [
         ".product__text {text-align: center;}"
