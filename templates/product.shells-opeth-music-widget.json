@@ -97,27 +97,16 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
-        },
-        "text_qa9Apr": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<strong>Labor Day Sale! Save $50 with Code: LABOR</strong>",
-            "text_style": "body"
-          }
+          "settings": {}
         },
         "text_tDwa9B": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<strong>Hear Every Scream... Save $40 with Code: FRIDAY13</strong>",
+            "text": "<strong>Save $80 on All Bundles with Code: BLACK </strong>",
             "text_style": "body"
           }
         },
@@ -145,8 +134,7 @@
         "description": {
           "type": "description",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "text_JUQV4T": {
           "type": "text",
@@ -202,7 +190,6 @@
         "vendor",
         "title",
         "price",
-        "text_qa9Apr",
         "text_tDwa9B",
         "variant_picker",
         "buy_buttons",
@@ -233,9 +220,7 @@
     },
     "custom_liquid_ntXfMP": {
       "type": "custom-liquid",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "custom_liquid": "<center>\n\n<h2> <font color=\"#757575\"><a href=\"https://bit.ly/thelastwillandtestament-opeth\" target=\"blank\">Preorder <i>'The Last Will </br>and Testament' </i>Here</a></font></h2>\n<iframe\n\n   data-lnk-widget\n\n src=\"https://opeth.rpm.link/paragraph3/widget?target=blank\"\n\n   width=\"320\"\n\n   height=\"260\"\n\n   frameborder=\"0\"\n\n   allowtransparency=\"true\">\n\n</iframe>\n</center>",
         "color_scheme": "",
