@@ -122,7 +122,7 @@
         "custom_liquid_6pR3JF": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff0000;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <h4 class=\"special-offer\">  <strong>Save $80 Today with Code: BLACK</br></br>\nGrab Two Bundles & Save 66%</strong>\n</h4>\n</body>\n</html>"
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff0000;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <h4 class=\"special-offer\">  <strong>Save $80 Today with Code: BLACK</br>\nGrab Two Bundles & Save 66%</strong>\n</h4>\n</body>\n</html>"
           }
         },
         "buy_buttons_6KMFT6": {
