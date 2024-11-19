@@ -37,9 +37,9 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Ministry Official Shells",
+            "text": "*New* Nightwish Official Shells",
             "behaviour_type": "link",
-            "link": "shopify://products/ministry-heavys-headphones",
+            "link": "shopify://products/nightwish-x-heavys",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
