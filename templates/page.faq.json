@@ -126,6 +126,15 @@
             "row_content": "<p>Heavys Immersive Sound will be perfect for Gaming, we've received endless positiver feedback about this experience.  <br/><br/>Note that the built in mics of the H1H are digital, so only work over bluetooth. <br/><br/>You will need an <a href=\"https://www.heavys.com/products/premium-gaming-cable-with-boom-mic\" target=\"_blank\" title=\"https://www.heavys.com/products/premium-gaming-cable-with-boom-mic\">analog zero latency cable </a>and mic to connect to most consoles or if you want a wired experience with a mic. <br/><br/> we offer all of this included in our <a href=\"/products/heavys-gaming\" target=\"_blank\" title=\"HEAVYS Gaming Headset Bundle\">Gaming Bundle HERE</a></p><p>make sure to properly insert cable all the way for best sound. </p>",
             "page": ""
           }
+        },
+        "collapsible_row_B3NqVR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I cant hear well with the audio or gaming cable.",
+            "icon": "none",
+            "row_content": "<p>Make sure the cable is properly inserted all the way in. and that the shoulder of the connector fits the shoulder of the headphones around the jack in the right angle</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -140,7 +149,8 @@
         "79ca05cd-f122-46f7-9c23-f1a2bf2862b4",
         "0cd5c109-17fd-485b-bc12-a762e66a3f0b",
         "collapsible_row_jryczQ",
-        "collapsible_row_6EVwkC"
+        "collapsible_row_6EVwkC",
+        "collapsible_row_B3NqVR"
       ],
       "settings": {
         "caption": "",
