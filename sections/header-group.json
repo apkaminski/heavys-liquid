@@ -27,7 +27,7 @@
         "announcement_Dqc6iz": {
           "type": "announcement",
           "settings": {
-            "text": "Free Expedited Shipping on $200+ USD",
+            "text": "Free Expedited Shipping on orders over $200",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
