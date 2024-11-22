@@ -676,9 +676,9 @@
         "collapsible_row_tPW9J7": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Im having tro",
+            "heading": "Im having issues with the app",
             "icon": "none",
-            "row_content": "<p>for all app FAQ please visit this page: </p><p>https://www.heavys.com/pages/heavys-mobile-app-faq</p>",
+            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
             "page": ""
           }
         }
