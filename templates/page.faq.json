@@ -676,6 +676,15 @@
         "collapsible_row_tPW9J7": {
           "type": "collapsible_row",
           "settings": {
+            "heading": "What is included with Heavys Mobile App?",
+            "icon": "none",
+            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FQ78Cr": {
+          "type": "collapsible_row",
+          "settings": {
             "heading": "Im having issues with the app",
             "icon": "none",
             "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
@@ -684,7 +693,8 @@
         }
       },
       "block_order": [
-        "collapsible_row_tPW9J7"
+        "collapsible_row_tPW9J7",
+        "collapsible_row_FQ78Cr"
       ],
       "settings": {
         "caption": "",
