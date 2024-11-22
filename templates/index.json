@@ -664,11 +664,10 @@
         },
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
-            "heading": "When will the mobile app go live?",
+            "heading": "I have a question about Heavys APP",
             "icon": "none",
-            "row_content": "<p>We are currently developing an app to pair with our headphones, which will include EQ, firmware updates and enable the management of specific headphone features which will be added over time. The app will launch towards the end of 2024. </p><p>*Send an email to partnerships@heavys.com and tell us what is most important for you in an app. </p>",
+            "row_content": "<p>Heavys new app pairs with our headphones, and includes EQ, firmware updates and enable the management of enhanced  features which will be added over time. </p><p>The App is now live on mobile app stores. </p><p>For all questions regarding the app please see this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
             "page": ""
           }
         },
