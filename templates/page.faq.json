@@ -653,8 +653,42 @@
         "template--14885345820746__fa49ee80-ce51-4335-9f65-e9373287c723-1689329197ec6dd353-1"
       ],
       "settings": {
-        "caption": "FAQ",
+        "caption": "",
         "heading": "Service / Warranty",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
+    },
+    "collapsible_content_nAVUDk": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_tPW9J7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Im having tro",
+            "icon": "none",
+            "row_content": "<p>for all app FAQ please visit this page: </p><p>https://www.heavys.com/pages/heavys-mobile-app-faq</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_tPW9J7"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Mobile App (Now Available on App Stores)",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "row",
@@ -746,6 +780,7 @@
     "collapsible_content_q6fTPN",
     "0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c",
     "fa49ee80-ce51-4335-9f65-e9373287c723",
+    "collapsible_content_nAVUDk",
     "a7352f93-1895-43bf-863f-663ea6d0a386",
     "bcaaf802-60f6-4a0f-aa33-1e679409301e"
   ]
