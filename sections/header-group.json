@@ -39,7 +39,7 @@
           "settings": {
             "text": "*New* Opeth Official Shells",
             "behaviour_type": "link",
-            "link": "https://www.heavys.com/products/opeth-heavys-headphones-shells",
+            "link": "shopify://collections/all",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
