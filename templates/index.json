@@ -65,7 +65,7 @@
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 14px;}",
         ".banner__text:nth-child(4) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
         ".banner__box {background-color: #000000; padding-top: 5px; padding-bottom: 10px;}",
-        ".js-timer {font-size: 18px; font-weight: bold; color: #ff8a1a;}"
+        ".js-timer {font-size: 18px; font-weight: bold; color: #ff0000;}"
       ],
       "settings": {
         "image": "shopify://shop_images/header-heavys_on_woman_in_festival_e3f669d3-bb44-48e9-8938-94bccc9d5207.png",
