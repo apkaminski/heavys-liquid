@@ -105,9 +105,16 @@
         },
         "text_LPyfpg": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>  Save $80 on All Bundles + Free Expedited Shipping with Code: BLACK</strong>",
             "text_style": "body"
+          }
+        },
+        "custom_liquid_Le6Ljx": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff0000;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <h4 class=\"special-offer\">  <strong>Save $80 Today + Get FREE Expedited Shipping with Code: BLACK</strong>\n</h4>\n</body>\n</html>"
           }
         },
         "variant_picker": {
@@ -187,6 +194,7 @@
         "title",
         "price",
         "text_LPyfpg",
+        "custom_liquid_Le6Ljx",
         "variant_picker",
         "buy_buttons",
         "sc_back_in_stock_app_block_Xreb6D",
