@@ -494,7 +494,8 @@
       "contact": {
         "address1_label": "Address - We Do-Not ship to P.O. boxes",
         "phone_label": "Phone - Receive offers and shopping cart reminders via text messages",
-        "optional_phone_label": "Phone - Receive offers and shopping cart reminders via text messages"
+        "optional_phone_label": "Phone - Receive offers and shopping cart reminders via text messages",
+        "address2_label": "Please Check Accuracy of Shipping Address"
       },
       "marketing": {
         "accept_marketing_checkbox_label": "Email me news, exclusive offers, and new products from Heavys per the privacy policy."
