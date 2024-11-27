@@ -501,7 +501,7 @@
         "accept_marketing_checkbox_label": "Email me news, exclusive offers, and new products from Heavys per the privacy policy."
       },
       "payment": {
-        "klarna_label": "Klarna | Buy Now Pay Later"
+        "klarna_label": "Klarna"
       }
     }
   },
