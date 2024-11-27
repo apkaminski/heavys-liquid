@@ -23,7 +23,7 @@
         "template--14891902632010__8f841c1a-bd33-4b45-b1f4-40d72c436423-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Downloads & Guides",
+            "heading": "Mobile App, Downloads & Guides",
             "heading_size": "h1"
           }
         },
@@ -48,6 +48,36 @@
         "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_RcNE43": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rL6qQT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Heavys App is now Available on App Stores",
+            "heading_size": "h1"
+          }
+        },
+        "text_LXQ8P4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HEAVYS App to pair with your Headphones is now available on apple and google mobile app stores. </p><p>The app will include firmware updates and an EQ.</p><p>Send an email to partnerships@heavys.com and tell us what you would like to see in the app the most and why it is important to you.</p><p><strong>for all FAQ regarding the APP please visit this page:</strong><br/><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p><p></p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rL6qQT",
+        "text_LXQ8P4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -132,36 +162,6 @@
         "scroll_anchor": ""
       }
     },
-    "rich_text_RcNE43": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_rL6qQT": {
-          "type": "heading",
-          "settings": {
-            "heading": "Heavys App is now Available on App Stores",
-            "heading_size": "h1"
-          }
-        },
-        "text_LXQ8P4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>HEAVYS App to pair with your Headphones is now available on apple and google mobile app stores. </p><p>The app will include firmware updates and an EQ.</p><p>Send an email to partnerships@heavys.com and tell us what you would like to see in the app the most and why it is important to you.</p><p><strong>for all FAQ regarding the APP please visit this page:</strong><br/><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p><p></p><p></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rL6qQT",
-        "text_LXQ8P4"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured_collection_Jt69hM": {
       "type": "featured-collection",
       "settings": {
@@ -194,8 +194,8 @@
   "order": [
     "main",
     "8f841c1a-bd33-4b45-b1f4-40d72c436423",
-    "a439b6cb-ad69-4957-912b-0ed7fb6964d9",
     "rich_text_RcNE43",
+    "a439b6cb-ad69-4957-912b-0ed7fb6964d9",
     "featured_collection_Jt69hM"
   ]
 }
