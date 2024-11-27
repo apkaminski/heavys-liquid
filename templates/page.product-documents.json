@@ -59,14 +59,14 @@
         "heading_rL6qQT": {
           "type": "heading",
           "settings": {
-            "heading": "Heavys App is now Available on App Stores",
+            "heading": "Heavys App is now Available on Mobile App Stores",
             "heading_size": "h1"
           }
         },
         "text_LXQ8P4": {
           "type": "text",
           "settings": {
-            "text": "<p>HEAVYS App to pair with your Headphones is now available on apple and google mobile app stores. </p><p>The app will include firmware updates and an EQ.</p><p>Send an email to partnerships@heavys.com and tell us what you would like to see in the app the most and why it is important to you.</p><p><strong>for all FAQ regarding the APP please visit this page:</strong><br/><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p><p></p><p></p>"
+            "text": "<p>Pair the app (now on Apple + Google Play stores) with your Headphones. </p><p>The app includes firmware updates and an EQ. <br/><br/><strong>For all FAQ regarding the APP please visit this page:</strong><br/><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p><p><br/>Send any App feedback to <a href=\"mailto:support@heavys.com\" target=\"_blank\" title=\"mailto:support@heavys.com\">support@heavys.com</a></p>"
           }
         }
       },
@@ -79,8 +79,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "a439b6cb-ad69-4957-912b-0ed7fb6964d9": {
@@ -157,8 +157,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 32,
+        "padding_bottom": 32,
         "scroll_anchor": ""
       }
     },
