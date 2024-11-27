@@ -388,9 +388,16 @@
         },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Save $80 Today + Free Expedited Shipping with Code: BLACK</strong>",
             "text_style": "uppercase"
+          }
+        },
+        "custom_liquid_kkUenP": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff0000;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <h4 class=\"special-offer\">  <strong>Save $80 USD Today with Code: BLACK</br>\nFREE Expedited Shipping </br>\n</strong>\n</h4>\n</body>\n</html>"
           }
         },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3": {
@@ -459,6 +466,7 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
         "judge_me_reviews_preview_badge_homepage_hBpGnN",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
+        "custom_liquid_kkUenP",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
         "466a3438-7ac9-4d52-9bdc-41fd9ab3a652",
