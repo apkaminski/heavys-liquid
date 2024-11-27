@@ -37,9 +37,9 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Bullet for My Valentine Shells",
+            "text": "*New* Cannibal Corpse Shells",
             "behaviour_type": "link",
-            "link": "shopify://products/opeth-heavys-headphones-shells",
+            "link": "shopify://products/cannibal-corpse-x-heavys",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
