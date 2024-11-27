@@ -91,7 +91,7 @@
         "enable_quick_add": true,
         "enable_filtering": true,
         "filter_type": "horizontal",
-        "enable_sorting": false,
+        "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 12,
         "padding_bottom": 20
@@ -99,6 +99,7 @@
     },
     "featured_collection_6Brddr": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
