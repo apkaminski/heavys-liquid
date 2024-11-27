@@ -173,11 +173,10 @@
         },
         "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Let Us Know",
-            "button_link": "mailto:support@heavys.com",
-            "button_style_secondary": false,
+            "button_label": "Shop Shells",
+            "button_link": "#top",
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
