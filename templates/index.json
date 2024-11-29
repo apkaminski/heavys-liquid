@@ -656,6 +656,15 @@
             "page": ""
           }
         },
+        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Questions about Mobile APP?",
+            "icon": "none",
+            "row_content": "<p>Heavys new Mobile App pairs with includes EQ, firmware updates and enables the management of enhanced features which will be added over time. </p><p>The App is now live on mobile app stores. </p><p>For all questions and guides regarding the app please see this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
+            "page": ""
+          }
+        },
         "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6": {
           "type": "video_collapsible_row",
           "disabled": true,
@@ -667,15 +676,6 @@
             "autoplay": false,
             "video": "shopify://files/videos/1206 (1).mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
-          }
-        },
-        "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Questions about Mobile APP?",
-            "icon": "none",
-            "row_content": "<p>Heavys new app pairs with our headphones, and includes EQ, firmware updates and enable the management of enhanced  features which will be added over time. </p><p>The App is now live on mobile app stores. </p><p>For all questions regarding the app please see this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
-            "page": ""
           }
         },
         "collapsible_row_JYiQjf": {
@@ -710,8 +710,8 @@
         "b4a1429a-224f-48fd-a2b7-0c4b808e42f8",
         "collapsible_row_fyUQ9q",
         "f983dcff-ff20-43c4-8c52-596455709ebd",
-        "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-0",
+        "2b03a27a-65f9-4628-a2c1-558c9fbb7fe6",
         "collapsible_row_JYiQjf",
         "collapsible_row_Uz9EXw"
       ],
