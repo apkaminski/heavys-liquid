@@ -301,6 +301,94 @@
         "scroll_anchor": ""
       }
     },
+    "fa49ee80-ce51-4335-9f65-e9373287c723": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14885345820746__fa49ee80-ce51-4335-9f65-e9373287c723-1689329197ec6dd353-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is included in my Warranty?",
+            "icon": "none",
+            "row_content": "<p>We offer a one-year limited warranty on all of our headphones, please review our full warranty page.</p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__fa49ee80-ce51-4335-9f65-e9373287c723-1689329197ec6dd353-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What replacement parts are available ?",
+            "icon": "none",
+            "row_content": "<p>Shells are available for replacement.</p><p>The ear pads will be replaceable in the future. Additionally, the headpad is also planned to be replaceable. Please note that these replacement parts are not yet available, but soon</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14885345820746__fa49ee80-ce51-4335-9f65-e9373287c723-1689329197ec6dd353-0",
+        "template--14885345820746__fa49ee80-ce51-4335-9f65-e9373287c723-1689329197ec6dd353-1"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Service / Warranty",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
+    },
+    "collapsible_content_nAVUDk": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_tPW9J7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is included with Heavys Mobile App?",
+            "icon": "none",
+            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FQ78Cr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Im having issues with the app",
+            "icon": "none",
+            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_tPW9J7",
+        "collapsible_row_FQ78Cr"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Mobile App (Now Available)",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
+    },
     "d57daec0-b334-4704-81c6-4018c4dbec41": {
       "type": "collapsible-content",
       "blocks": {
@@ -626,94 +714,6 @@
         "scroll_anchor": ""
       }
     },
-    "fa49ee80-ce51-4335-9f65-e9373287c723": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--14885345820746__fa49ee80-ce51-4335-9f65-e9373287c723-1689329197ec6dd353-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is included in my Warranty?",
-            "icon": "none",
-            "row_content": "<p>We offer a one-year limited warranty on all of our headphones, please review our full warranty page.</p>",
-            "page": ""
-          }
-        },
-        "template--14885345820746__fa49ee80-ce51-4335-9f65-e9373287c723-1689329197ec6dd353-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What replacement parts are available ?",
-            "icon": "none",
-            "row_content": "<p>Shells are available for replacement.</p><p>The ear pads will be replaceable in the future. Additionally, the headpad is also planned to be replaceable. Please note that these replacement parts are not yet available, but soon</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14885345820746__fa49ee80-ce51-4335-9f65-e9373287c723-1689329197ec6dd353-0",
-        "template--14885345820746__fa49ee80-ce51-4335-9f65-e9373287c723-1689329197ec6dd353-1"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Service / Warranty",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "footer_button_label": "Button label",
-        "footer_button_link": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      }
-    },
-    "collapsible_content_nAVUDk": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_tPW9J7": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is included with Heavys Mobile App?",
-            "icon": "none",
-            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_FQ78Cr": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Im having issues with the app",
-            "icon": "none",
-            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_tPW9J7",
-        "collapsible_row_FQ78Cr"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Mobile App (Now Available on App Stores)",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "footer_button_label": "Button label",
-        "footer_button_link": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      }
-    },
     "a7352f93-1895-43bf-863f-663ea6d0a386": {
       "type": "rich-text",
       "blocks": {
@@ -786,11 +786,11 @@
     "13db89f4-7cd1-4e43-85a2-b8c0a616da49",
     "e58bbbcb-3cfb-4130-8683-b5d4b3338a01",
     "05a222a6-4024-4a56-a83f-4c517de5457f",
+    "fa49ee80-ce51-4335-9f65-e9373287c723",
+    "collapsible_content_nAVUDk",
     "d57daec0-b334-4704-81c6-4018c4dbec41",
     "collapsible_content_q6fTPN",
     "0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c",
-    "fa49ee80-ce51-4335-9f65-e9373287c723",
-    "collapsible_content_nAVUDk",
     "a7352f93-1895-43bf-863f-663ea6d0a386",
     "bcaaf802-60f6-4a0f-aa33-1e679409301e"
   ]
