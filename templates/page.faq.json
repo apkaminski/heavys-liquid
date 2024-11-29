@@ -491,7 +491,7 @@
           "settings": {
             "heading": "The EQ is not Showing up",
             "icon": "none",
-            "row_content": "<p>1.  Make sure you're headphones are connected to the Heavys app</p><p></p><p>2. Make sure you are playing music in one of your music apps. EQ will only be visible when music is actively playing</p>",
+            "row_content": "<p>1.  Make sure your headphones are connected to the Heavys app</p><p>2. Make sure you are playing music in one of your music apps. EQ will only be visible when music is actively playing</p>",
             "page": ""
           }
         },
