@@ -479,6 +479,7 @@
       "blocks": {
         "collapsible_row_hbBPTM": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "My app is not Pairing?",
             "icon": "none",
@@ -488,6 +489,7 @@
         },
         "collapsible_row_rbGpDx": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "The EQ is not Showing up",
             "icon": "none",
@@ -495,18 +497,9 @@
             "page": ""
           }
         },
-        "collapsible_row_CqaTgc": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "I did not receive a tracking number for a Pre-Order I made.",
-            "icon": "none",
-            "row_content": "<p>For Pre-Orders, you'll receive an email with tracking info once we ship your order. </p>",
-            "page": ""
-          }
-        },
         "collapsible_row_qpxeEJ": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Can I save my EQ settings",
             "icon": "none",
@@ -527,7 +520,6 @@
       "block_order": [
         "collapsible_row_hbBPTM",
         "collapsible_row_rbGpDx",
-        "collapsible_row_CqaTgc",
         "collapsible_row_qpxeEJ",
         "collapsible_row_r4qMda"
       ],
