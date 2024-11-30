@@ -114,6 +114,7 @@
         },
         "price_kbjrXb": {
           "type": "price",
+          "disabled": true,
           "settings": {}
         },
         "text_E8yrpp": {
