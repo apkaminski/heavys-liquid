@@ -114,7 +114,7 @@
         "custom_liquid_Le6Ljx": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff0000;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <h4 class=\"special-offer\">  <strong>Save $80 Today + Free Exp Shipping: </br>NO Code Needed </br>Save 20% on Shells: w/Code: SHELLFEST</strong>\n</h4>\n</body>\n</html>"
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ffffff;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <h4 class=\"special-offer\">  <strong>Save $80 Today + Free Exp Shipping: </br>NO Code Needed </br>Save 20% on Shells: w/Code: SHELLFEST</strong>\n</h4>\n</body>\n</html>"
           }
         },
         "variant_picker": {
