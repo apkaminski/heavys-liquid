@@ -39,9 +39,9 @@
           "type": "timer",
           "settings": {
             "year": "2024",
-            "month": "11",
-            "day": "30",
-            "hour": "5",
+            "month": "12",
+            "day": "1",
+            "hour": "6",
             "minute": "1",
             "cycle": false
           }
