@@ -66,19 +66,18 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
-          "settings": {}
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
           "settings": {}
         },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n          color: #ffffff;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <s> $299</s>  <h3>ONLY $219 USD  </h3> <h4>+ Free Expedited Shipping </br>\n+ Save 60% on the 2nd Bundle\n</h4>\n</body>\n</html>"
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ffffff;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n    <h3 class=\"special-offer\"><strong>Save $80 Today with Code: BLACK</br>\nSave 60% on the 2nd Bundle</strong>\n</h3>\n</body>\n</html>"
           }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
         },
         "caption": {
           "type": "text",
@@ -140,8 +139,8 @@
         "title",
         "judge_me_reviews_preview_badge_DqtYdT",
         "price",
-        "quantity_selector",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
+        "quantity_selector",
         "caption",
         "buy_buttons",
         "collapsible_tab_PmKyjY",
