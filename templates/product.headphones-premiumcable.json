@@ -112,6 +112,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_LPmdQy": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Premium Silver Coated AUX Cable",
+            "icon": "lightning_bolt",
+            "content": "<h1>Premium Silver Coated AUX Cable</h1><p>Designed the get the most out of you Heavys headphones. Our Premium Silver Boated AUX Cable ensures a lossless listening experience. Its robust build and high-quality materials provide premium sound transmission, perfect for an immersive audio session. </p><h2>Key Features:</h2><p>High-quality silver coated for superior sound transmission</p><p>Durable and flexible design for ease of use and longevity</p><p>Universal compatibility with 3.5mm audio jacks</p><p>Minimalist and sleek aesthetic</p><h2>Connectors</h2><p>Headphone side2.5 mm TRRSAmplifier side3.5 mm with screw on adapter to 6.3 mm</p><h2>Cable Material and Length</h2><p>Leads4 leads, silver cladded copper strandsReinforcementKevlarJacket materialBlack TPUBraidBlack PolyesterLength1.8 meters (approximately 5.9 feet)<strong>Get 15% off Premium Cable when adding to a Headphones Bundle</strong></p>",
+            "page": ""
+          }
+        },
         "collapsible_tab_VxhV37": {
           "type": "collapsible_tab",
           "settings": {
@@ -145,6 +154,7 @@
         "buy_buttons",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
+        "collapsible_tab_LPmdQy",
         "collapsible_tab_VxhV37",
         "complementary_z4cWLg"
       ],
