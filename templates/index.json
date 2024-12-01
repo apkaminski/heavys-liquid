@@ -109,12 +109,11 @@
         "custom_liquid_6pR3JF": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n          color: #ffffff;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <s> $299</s>  <h3>ONLY $219 USD  </h3> <h4>+ Free Expedited Shipping </br>\n+ Save 60% on the 2nd Bundle\n</h4>\n</body>\n</html>"
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff0000;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n    <h3 class=\"special-offer\"><strong>Save $80 Today with Code: BLACK</br>\nSave 60% on the 2nd Bundle</strong>\n</h3>\n</body>\n</html>"
           }
         },
         "price_kbjrXb": {
           "type": "price",
-          "disabled": true,
           "settings": {}
         },
         "text_E8yrpp": {
