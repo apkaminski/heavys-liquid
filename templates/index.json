@@ -22,7 +22,7 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "SAVE $80 USD on All Bundles + Free Exp Shipping (No Code Needed)",
+            "heading": "SAVE $80 USD on All Bundles + Free Exp Shipping With Code: BLACK",
             "heading_size": "h1"
           }
         },
@@ -397,7 +397,7 @@
         "custom_liquid_kkUenP": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff0000;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <h4 class=\"special-offer\">  <strong>Save $80 USD Today: NO Code Needed</br>\n+FREE Expedited Shipping </br>\n</strong>\n</h4>\n</body>\n</html>"
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ff0000;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n <h4 class=\"special-offer\">  <strong>Save $80 USD Today with Code: BLACK</br>\n+FREE Expedited Shipping </br>\n</strong>\n</h4>\n</body>\n</html>"
           }
         },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3": {
