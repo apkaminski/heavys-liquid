@@ -24,7 +24,7 @@
         "text_G7qq6N": {
           "type": "text",
           "settings": {
-            "text": "<strong>BLACK FRIDAY EXTENDED!</strong>",
+            "text": "<strong>CYBER MONDAY SALE EXTENDED!</strong>",
             "text_style": "body"
           }
         },
@@ -40,7 +40,7 @@
           "settings": {
             "year": "2024",
             "month": "12",
-            "day": "3",
+            "day": "4",
             "hour": "6",
             "minute": "1",
             "cycle": false
