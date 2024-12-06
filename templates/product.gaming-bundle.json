@@ -14,6 +14,7 @@
       "blocks": {
         "template--14884059381834__140ffd4e-59cc-42be-82cf-cf3274153e91-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Become A HEAVY(S) Gamer!",
             "heading_size": "h2"
@@ -22,7 +23,7 @@
         "text_8NEkDn": {
           "type": "text",
           "settings": {
-            "text": "<p>Dive into the action with 8-speaker surround sound and dual-frequency range! Get up close to the action with our premium mic for crystal-clear communication.</p>"
+            "text": "<h4>Dive into the action with 8-speaker surround sound and dual-frequency range! Get up close to the action with our premium mic for crystal-clear communication.</h4>"
           }
         },
         "text_VNxU3Q": {
