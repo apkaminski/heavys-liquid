@@ -81,9 +81,8 @@
         },
         "caption": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<strong>Add Shells for Free Express Shipping</strong>",
+            "text": "(Orders between Dec 1st and Dec 31st can be Returned by Jan 31st 2025)",
             "text_style": "body"
           }
         },
