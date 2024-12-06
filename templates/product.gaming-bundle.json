@@ -57,9 +57,16 @@
         },
         "caption": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
+          }
+        },
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ffffff;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n    <h3 class=\"special-offer\"><strong>Save $80 Today with Code: BLACK</br>\nOrder Today & Get It Before Xmas\n</strong>\n</h3>\n</body>\n</html>"
           }
         },
         "vendor": {
@@ -152,18 +159,12 @@
           "settings": {
             "custom_liquid": "<center><a href=\"#reviewshp\"><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/tp2.png?v=1714911342\" width=\"300px\"></img></a></center>"
           }
-        },
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #63d48a;\n            \n            font-size: 11px;\n        }\n    </style>\n</head>\n<body>\n    <h1 class=\"special-offer\">Metal Madness Holiday Special</h1>\n</body>\n</html>"
-          }
         }
       },
       "block_order": [
         "title",
         "caption",
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "vendor",
         "price",
         "variant_picker_qPDMbV",
@@ -174,8 +175,7 @@
         "collapsible_tab_fex7nB",
         "collapsible_tab_VxhV37",
         "complementary_z4cWLg",
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
-        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8"
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d"
       ],
       "settings": {
         "color_scheme": "inverse",
