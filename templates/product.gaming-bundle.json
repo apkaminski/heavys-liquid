@@ -64,6 +64,7 @@
         },
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Save $80 Today with code: BLACK</strong>",
             "text_style": "subtitle"
@@ -71,11 +72,6 @@
         },
         "price": {
           "type": "price",
-          "settings": {}
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
           "settings": {}
         },
         "variant_picker_qPDMbV": {
@@ -90,19 +86,6 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
-        },
-        "text_8z8adk": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "This is a <strong>PREORDER</strong> which will ship in November 2024.  PLEASE EMAIL <a href=\"mailto:PARTNERSHIPS@HEAVYS.COM\" target=\"_blank\" title=\"mailto:PARTNERSHIPS@HEAVYS.COM\">PARTNERSHIPS@HEAVYS.COM</a> to be notified when product is LIVE",
-            "text_style": "body"
-          }
-        },
-        "description_37BJTB": {
-          "type": "description",
-          "disabled": true,
-          "settings": {}
         },
         "collapsible_tab_PmKyjY": {
           "type": "collapsible_tab",
@@ -183,11 +166,8 @@
         "caption",
         "vendor",
         "price",
-        "quantity_selector",
         "variant_picker_qPDMbV",
         "buy_buttons",
-        "text_8z8adk",
-        "description_37BJTB",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_YU4fpp",
@@ -258,34 +238,14 @@
         "padding_bottom": 20
       }
     },
-    "image_with_text_HtwVc9": {
+    "image_with_text_Nfi9Uh": {
       "type": "image-with-text",
-      "blocks": {
-        "heading_KUBzg8": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em>\" Other gaming headsets don't come close \"</em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_7tqatr": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em><strong>“</strong></em><em> I needed a good set of headphones to use for PC gaming...</em></p><p><em>Heavys arrived packed well, fully charged battery in a nice travel case.  Sound quality is top notch, with very clear vocals, microphone pickup is clear, tight bass response, and more than adequate volume without distortion. The build is very solid too, and battery has up to 50 hours at high volumes.<br/><br/>I found that many other gaming headsets have poor sound quality, cheap builds, and short battery life.<br/><br/>Don't hesitate, Heavys easily beat  higher priced brands, I am very impressed and have already recommended to several friends</em><em><strong>”   - J.C.</strong></em></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_KUBzg8",
-        "text_7tqatr"
-      ],
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2024-10-14_at_17.14.30.png",
+        "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
@@ -293,8 +253,8 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 12,
-        "padding_bottom": 12,
+        "padding_top": 24,
+        "padding_bottom": 24,
         "scroll_anchor": ""
       }
     },
@@ -435,14 +395,34 @@
         "scroll_anchor": ""
       }
     },
-    "image_with_text_Nfi9Uh": {
+    "image_with_text_HtwVc9": {
       "type": "image-with-text",
+      "blocks": {
+        "heading_KUBzg8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>\" Other gaming headsets don't come close \"</em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_7tqatr": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>“</strong></em><em> I needed a good set of headphones to use for PC gaming...</em></p><p><em>Heavys arrived packed well, fully charged battery in a nice travel case.  Sound quality is top notch, with very clear vocals, microphone pickup is clear, tight bass response, and more than adequate volume without distortion. The build is very solid too, and battery has up to 50 hours at high volumes.<br/><br/>I found that many other gaming headsets have poor sound quality, cheap builds, and short battery life.<br/><br/>Don't hesitate, Heavys easily beat  higher priced brands, I am very impressed and have already recommended to several friends</em><em><strong>”   - J.C.</strong></em></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KUBzg8",
+        "text_7tqatr"
+      ],
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
+        "image": "shopify://shop_images/Screenshot_2024-10-14_at_17.14.30.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
@@ -450,8 +430,8 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 24,
-        "padding_bottom": 24,
+        "padding_top": 12,
+        "padding_bottom": 12,
         "scroll_anchor": ""
       }
     },
