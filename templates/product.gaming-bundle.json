@@ -304,7 +304,7 @@
           "type": "column",
           "settings": {
             "icon": "barcode",
-            "title": "50 hours battery play time",
+            "title": "50 Hours Battery Playtime",
             "text": "",
             "link_label": "",
             "link": ""
@@ -364,7 +364,7 @@
           "type": "column",
           "settings": {
             "icon": "lightning_bolt",
-            "title": "USB-C for charging",
+            "title": "USB-C Rapid Charging",
             "text": "",
             "link_label": "",
             "link": ""
@@ -374,7 +374,7 @@
           "type": "column",
           "settings": {
             "icon": "build",
-            "title": "Engineered by Axel Grell",
+            "title": "Multi-Platform Compatibility",
             "text": "",
             "link_label": "",
             "link": ""
