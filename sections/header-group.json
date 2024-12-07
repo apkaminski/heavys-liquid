@@ -39,7 +39,7 @@
           "settings": {
             "text": "*New* Type O Negative Shells",
             "behaviour_type": "link",
-            "link": "shopify://products/cannibal-corpse-x-heavys",
+            "link": "shopify://products/type-o-negative-heavys-shells",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -53,24 +53,13 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
-        },
-        "announcement_CJFQej": {
-          "type": "announcement",
-          "settings": {
-            "text": "Save 60% On Your 2nd Bundle",
-            "behaviour_type": "link",
-            "link": "shopify://products/2x-headphones-2x-case-2x-aux-1",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
         }
       },
       "block_order": [
         "announcement-bar-0",
         "announcement_Dqc6iz",
         "announcement_ekbCtT",
-        "announcement_JeBx4p",
-        "announcement_CJFQej"
+        "announcement_JeBx4p"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
