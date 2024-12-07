@@ -24,22 +24,22 @@
             "klavyo_mobile_id": ""
           }
         },
-        "announcement_Dqc6iz": {
-          "type": "announcement",
-          "settings": {
-            "text": "Get It By Xmas With Free Exp Shipping",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
             "text": "*New* Type O Negative Shells",
             "behaviour_type": "link",
             "link": "shopify://products/type-o-negative-heavys-shells",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
+        },
+        "announcement_Dqc6iz": {
+          "type": "announcement",
+          "settings": {
+            "text": "Get It By Xmas With Free Exp Shipping",
+            "behaviour_type": "link",
+            "link": "",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -57,8 +57,8 @@
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_Dqc6iz",
         "announcement_ekbCtT",
+        "announcement_Dqc6iz",
         "announcement_JeBx4p"
       ],
       "custom_css": [
