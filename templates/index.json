@@ -34,23 +34,23 @@
             "button_style_secondary": false
           }
         },
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Order Today & Get It By Christmas</strong>",
+            "text_style": "body"
+          }
+        },
         "timer_cXQ8W3": {
           "type": "timer",
           "disabled": true,
           "settings": {
             "year": "2024",
             "month": "12",
-            "day": "4",
+            "day": "12",
             "hour": "6",
             "minute": "01",
             "cycle": false
-          }
-        },
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Order Today & Get It By Christmas</strong>",
-            "text_style": "body"
           }
         }
       },
@@ -58,8 +58,8 @@
         "text_bitp7e",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
-        "timer_cXQ8W3",
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1"
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
+        "timer_cXQ8W3"
       ],
       "custom_css": [
         ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: bold; color: #ff0000; font-size: 16px;}",
