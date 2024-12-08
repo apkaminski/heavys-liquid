@@ -55,12 +55,10 @@
           "type": "title",
           "settings": {}
         },
-        "caption": {
-          "type": "text",
-          "disabled": true,
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
+          "type": "custom_liquid",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
+            "custom_liquid": "<a href=\"#reviewshp\"><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/tp2.png?v=1714911342\" width=\"300px\"></img></a>"
           }
         },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
@@ -154,16 +152,15 @@
             "enable_quick_add": true
           }
         },
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<center><a href=\"#reviewshp\"><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/tp2.png?v=1714911342\" width=\"300px\"></img></a></center>"
-          }
+        "judge_me_reviews_preview_badge_N7qrzR": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {}
         }
       },
       "block_order": [
         "title",
-        "caption",
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "vendor",
         "price",
@@ -175,7 +172,7 @@
         "collapsible_tab_fex7nB",
         "collapsible_tab_VxhV37",
         "complementary_z4cWLg",
-        "5a774aeb-b98a-4bc2-8059-4589168eaa2d"
+        "judge_me_reviews_preview_badge_N7qrzR"
       ],
       "settings": {
         "color_scheme": "inverse",
