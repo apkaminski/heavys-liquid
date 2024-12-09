@@ -565,13 +565,6 @@
     "featured_product_CUhk6p": {
       "type": "featured-product",
       "blocks": {
-        "text_kEV76w": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title_ezKWCa": {
           "type": "title",
           "settings": {
@@ -585,12 +578,8 @@
         "variant_picker_HHHMpa": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
-        },
-        "quantity_selector_JNnB3m": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons_dUhWbQ": {
           "type": "buy_buttons",
@@ -598,26 +587,17 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
-        },
-        "share_NzrCLb": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
-        "text_kEV76w",
         "title_ezKWCa",
         "price_jFPqrF",
         "variant_picker_HHHMpa",
-        "quantity_selector_JNnB3m",
-        "buy_buttons_dUhWbQ",
-        "share_NzrCLb"
+        "buy_buttons_dUhWbQ"
       ],
       "settings": {
         "product": "heavys-gaming",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
