@@ -595,6 +595,7 @@
         "variant_picker_HHHMpa",
         "buy_buttons_dUhWbQ"
       ],
+      "disabled": true,
       "settings": {
         "product": "heavys-gaming",
         "color_scheme": "inverse",
