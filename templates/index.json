@@ -562,6 +562,76 @@
         "padding_bottom": 12
       }
     },
+    "featured_product_CUhk6p": {
+      "type": "featured-product",
+      "blocks": {
+        "text_kEV76w": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_ezKWCa": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_jFPqrF": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_HHHMpa": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_JNnB3m": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_dUhWbQ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_NzrCLb": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_kEV76w",
+        "title_ezKWCa",
+        "price_jFPqrF",
+        "variant_picker_HHHMpa",
+        "quantity_selector_JNnB3m",
+        "buy_buttons_dUhWbQ",
+        "share_NzrCLb"
+      ],
+      "settings": {
+        "product": "heavys-gaming",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "gallery_layout": "stacked",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
+    },
     "a259a103-10d9-404b-84c4-de542413e278": {
       "type": "collapsible-content",
       "blocks": {
@@ -791,6 +861,7 @@
     "featured_collection",
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
+    "featured_product_CUhk6p",
     "a259a103-10d9-404b-84c4-de542413e278",
     "rich_text_bC6VTR"
   ]
