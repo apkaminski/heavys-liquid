@@ -777,85 +777,6 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "testimonial_grid_4EYENU": {
-      "type": "testimonial-grid",
-      "blocks": {
-        "column_tE6AWx": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Soundguys-review-heavys-headphones_e9fc8a18-62e7-4d29-9ad3-6b23f5ff5d3e.png",
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>\" </strong></em><em>These New Wireless Headphones Are Designed with Heavy Metal Fans In Mind</em><em><strong> \" </strong></em><em>- FORBES</em></p>"
-          }
-        },
-        "column_ebDWcw": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ </strong></em><em>Fantastic sound, built with care for users comfort. Nothing better than truly listen to how songs were intended to be heard. Heavy's made it possible and changed the songs I listen to </em><em><strong>”</strong></em><em> - Christian Rodriguez</em></p>"
-          }
-        },
-        "column_yptKyF": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em>Just received my Heavys and let me tell you, these are killer 😱 Perfect for heavy music and outstanding customer service👌🏻 - Sebastien C.</em></p>"
-          }
-        },
-        "column_PQNGkU": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ </strong></em><em>Best pair of headphones I’ve ever owned </em><em><strong>”</strong></em><em> -  Mayon A.</em></p>"
-          }
-        },
-        "column_V9Niaz": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ </strong></em><em>Heavy AF! The Heavys experience is unlike any I’ve had, I started living in my headphones at a young age. You can hear each and every aspect, as intended, 666/10, recommended 🤘 </em><em><strong>”</strong></em><em> - </em>Levi Yockey</p>"
-          }
-        },
-        "column_94rxY4": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ </strong></em><em>No matter what genre of music you listen to, whether metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was great </em><em><strong>”</strong></em><em>                        - David Sandate</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "column_tE6AWx",
-        "column_ebDWcw",
-        "column_yptKyF",
-        "column_PQNGkU",
-        "column_V9Niaz",
-        "column_94rxY4"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "button_label": "Start Listening Now",
-        "button_link": "shopify://products/heavys-h1h-headphones-bundle-case",
-        "color_scheme": "background-1",
-        "padding_top": 4,
-        "padding_bottom": 4,
-        "scroll_anchor": "5starreviews"
-      }
     }
   },
   "order": [
@@ -871,7 +792,6 @@
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278",
-    "rich_text_bC6VTR",
-    "testimonial_grid_4EYENU"
+    "rich_text_bC6VTR"
   ]
 }
