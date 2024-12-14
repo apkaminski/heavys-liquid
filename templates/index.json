@@ -109,7 +109,7 @@
         "custom_liquid_6pR3JF": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": ""
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Special Offer</title>\n    <style>\n        .special-offer {\n            color: #ffffff;\n            font-size: 14px;\n        }\n    </style>\n</head>\n<body>\n    <h3 class=\"special-offer\"><strong>Save $80 Today with Code: BLACK</br>\nOrder Express For Holiday Delivery\n </strong>\n</h3>\n</body>\n</html>"
           }
         },
         "price_kbjrXb": {
