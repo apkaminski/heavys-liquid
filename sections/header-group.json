@@ -36,6 +36,7 @@
         },
         "announcement_Dqc6iz": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Get It By Holidays W/Express Shipping",
             "behaviour_type": "link",
