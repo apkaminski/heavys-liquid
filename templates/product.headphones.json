@@ -82,7 +82,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "(Orders between Dec 1st and Dec 31st can be Returned by Jan 31st 2025)",
+            "text": "(Dec 1 to Dec 31 orders can be Returned by Jan 31)",
             "text_style": "body"
           }
         },
