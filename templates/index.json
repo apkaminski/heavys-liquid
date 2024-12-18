@@ -109,7 +109,7 @@
         "custom_liquid_6pR3JF": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<h4 font-color=\"#5fc884\">Save $80 Today with Code: BLACK\n</h4>"
+            "custom_liquid": "<font-color=\"#5fc884\">Save $80 Today with Code: BLACK </font>"
           }
         },
         "price_kbjrXb": {
