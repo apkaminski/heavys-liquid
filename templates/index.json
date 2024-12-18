@@ -43,11 +43,10 @@
         },
         "timer_cXQ8W3": {
           "type": "timer",
-          "disabled": true,
           "settings": {
             "year": "2024",
             "month": "12",
-            "day": "15",
+            "day": "19",
             "hour": "6",
             "minute": "01",
             "cycle": false
