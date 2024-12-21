@@ -457,7 +457,7 @@
         "custom_liquid_UkYX3D": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/soundguys-review-heavys-new-box.png?v=1726055677\"></img></center>"
+            "custom_liquid": "<div style=\"text-align: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/soundguys-review-heavys-new-box.png?v=1726055677\" \n         alt=\"SoundGuys Review - Heavy's New Box\" \n         style=\"max-width: 100%; height: auto;\">\n</div>"
           }
         }
       },
