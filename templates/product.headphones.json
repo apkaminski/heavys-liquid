@@ -148,7 +148,9 @@
         "collapsible_tab_VxhV37",
         "complementary_z4cWLg"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".product__tax {font-size: 14px;}"
+      ],
       "settings": {
         "color_scheme": "inverse",
         "enable_sticky_info": true,
