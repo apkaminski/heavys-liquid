@@ -14,16 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_ekbCtT": {
-          "type": "announcement",
-          "settings": {
-            "text": "*New* Asking Alexandria Shells",
-            "behaviour_type": "link",
-            "link": "https://www.heavys.com/products/asking-alexandria-official-shells-copy",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -31,6 +21,16 @@
             "behaviour_type": "klavyo_popup",
             "link": "",
             "klavyo_desktop_id": "VaqSGG",
+            "klavyo_mobile_id": ""
+          }
+        },
+        "announcement_ekbCtT": {
+          "type": "announcement",
+          "settings": {
+            "text": "*New* Asking Alexandria Shells",
+            "behaviour_type": "link",
+            "link": "https://www.heavys.com/products/asking-alexandria-official-shells-copy",
+            "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
         },
@@ -56,8 +56,8 @@
         }
       },
       "block_order": [
-        "announcement_ekbCtT",
         "announcement-bar-0",
+        "announcement_ekbCtT",
         "announcement_Dqc6iz",
         "announcement_JeBx4p"
       ],
