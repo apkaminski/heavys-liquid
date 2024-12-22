@@ -206,6 +206,9 @@
         "custom_liquid_6txmL4",
         "description"
       ],
+      "custom_css": [
+        ".product__tax {font-size: 14px;}"
+      ],
       "settings": {
         "color_scheme": "inverse",
         "enable_sticky_info": true,
