@@ -81,6 +81,7 @@
         },
         "caption": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "(Dec 1 to Dec 31 orders can be Returned by Jan 31)",
             "text_style": "body"
