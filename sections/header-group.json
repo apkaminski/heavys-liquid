@@ -28,7 +28,7 @@
           "type": "announcement",
           "settings": {
             "text": "*New* Asking Alexandria Shells",
-            "behaviour_type": "link",
+            "behaviour_type": "klavyo_popup",
             "link": "shopify://products/asking-alexandria-official-shells-copy",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
