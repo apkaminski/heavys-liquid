@@ -28,7 +28,7 @@
             <a
               {% if section.blocks.first.settings.behaviour_type == "klavyo_popup" and section.blocks.first.settings.klavyo_desktop_id != blank %}
                 onclick="launchKlavyoPopup(event,'{{section.blocks.first.settings.klavyo_desktop_id | strip | default:null}}','{{section.blocks.first.settings.klavyo_mobile_id | strip | default:null}}')"
-            
+            href="/"
               {% else %}
                href="{{ section.blocks.first.settings.link }}"
               {% endif %}
