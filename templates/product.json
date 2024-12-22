@@ -63,6 +63,9 @@
         "sc_back_in_stock_app_block_GC7cUe",
         "description"
       ],
+      "custom_css": [
+        ".product__tax {font-size: 14px;}"
+      ],
       "settings": {
         "color_scheme": "inverse",
         "enable_sticky_info": true,
