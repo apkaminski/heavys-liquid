@@ -193,7 +193,8 @@
         "icon_with_text_nwJ9JL"
       ],
       "custom_css": [
-        ".product__text {text-align: center;}"
+        ".product__text {text-align: center;}",
+        ".product__tax caption rte {font-size: 18px;}"
       ],
       "settings": {
         "product": "heavys-h1h-headphones-bundle-case",
