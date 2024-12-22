@@ -100,7 +100,7 @@
     "4c128cdd-7b09-4958-a9c3-24a9f4c2bd5e": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h2 style=\"text-align: center;\">Trusted by 50,000 Music Fans</h2>\n<div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
+        "custom_liquid": "<h2 style=\"text-align: center;\">Trusted by 50,000+ Music Fans</h2>\n<div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
         "color_scheme": "",
         "padding_top": 12,
         "padding_bottom": 12
