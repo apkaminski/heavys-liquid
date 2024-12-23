@@ -17,9 +17,9 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Asking Alexandria Shells",
+            "text": "*New* Type O Negative Shells",
             "behaviour_type": "link",
-            "link": "https://www.heavys.com/products/asking-alexandria-official-shells-copy",
+            "link": "",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
