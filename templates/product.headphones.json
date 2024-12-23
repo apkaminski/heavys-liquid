@@ -79,14 +79,6 @@
           "disabled": true,
           "settings": {}
         },
-        "caption": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "(Dec 1 to Dec 31 orders can be Returned by Jan 31)",
-            "text_style": "body"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -133,6 +125,13 @@
             "image_ratio": "portrait",
             "enable_quick_add": true
           }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"/pages/heavies-specifications\" target=\"_blank\" title=\"Heavys Specifications\"><em><strong>HEAVYS PRODUCT SPECIFICATIONS</strong></em></a>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -141,12 +140,12 @@
         "price",
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
         "quantity_selector",
-        "caption",
         "buy_buttons",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_VxhV37",
-        "complementary_z4cWLg"
+        "complementary_z4cWLg",
+        "caption"
       ],
       "custom_css": [
         ".product__tax {font-size: 14px;}"
