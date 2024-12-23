@@ -654,8 +654,8 @@
         "open_first_collapsible_row": false,
         "footer_button_label": "Add to Cart Now",
         "footer_button_link": "https://www.heavys.com/cart/add/40746106323018",
-        "padding_top": 80,
-        "padding_bottom": 80
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "16f898dd-b420-419f-a03d-a8d3092e6811": {
