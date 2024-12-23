@@ -14,18 +14,15 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "judge_me_reviews_preview_badge_4pqjRr": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
           "type": "custom_liquid",
@@ -56,8 +53,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "custom_liquid_kMjNiz": {
           "type": "custom_liquid",
@@ -115,7 +111,7 @@
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<h2><center>Trusted by 50,000+ Music fans</center></h2></br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
+        "custom_liquid": "<h2><center>Trusted by 60,000+ Music fans</center></h2></br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
         "color_scheme": "background-2",
         "padding_top": 40,
         "padding_bottom": 40
@@ -183,9 +179,7 @@
       "block_order": [
         "template--14884059381834__140ffd4e-59cc-42be-82cf-cf3274153e91-heading-1"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -772,8 +766,7 @@
         },
         "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-2": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3": {
           "type": "variant_picker",
