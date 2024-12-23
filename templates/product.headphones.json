@@ -129,7 +129,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"/pages/heavies-specifications\" target=\"_blank\" title=\"Heavys Specifications\"><em><strong>See Complete RODUCT SPECIFICATIONS</strong></em></a>",
+            "text": "<a href=\"/pages/heavies-specifications\" target=\"_blank\" title=\"Heavys Specifications\"><em><strong>See Complete PRODUCT SPECIFICATIONS</strong></em></a>",
             "text_style": "body"
           }
         }
@@ -163,7 +163,7 @@
         "hide_variants": true,
         "enable_video_looping": true,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 36
       }
     },
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa": {
@@ -641,6 +641,7 @@
         "0640185d-f352-442b-9b4e-ce6844cc6853",
         "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "caption": "Crafted for Music Lovers",
