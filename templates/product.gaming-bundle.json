@@ -746,7 +746,7 @@
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<h2><center>Trusted By 50,000+ Gamers & Music Fans</center></h2></br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
+        "custom_liquid": "<h2><center>Trusted By 60,000+ Gamers & Music Fans</center></h2></br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
         "color_scheme": "background-2",
         "padding_top": 40,
         "padding_bottom": 40
