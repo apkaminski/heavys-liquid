@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -45,8 +54,7 @@
         },
         "template--14883183099978__2ef10c05-50bb-4395-b76b-910b427275f2-price-1": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--14883183099978__2ef10c05-50bb-4395-b76b-910b427275f2-variant_picker-1": {
           "type": "variant_picker",
@@ -57,8 +65,7 @@
         "template--14883183099978__2ef10c05-50bb-4395-b76b-910b427275f2-quantity_selector-1": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "template--14883183099978__2ef10c05-50bb-4395-b76b-910b427275f2-buy_buttons-1": {
           "type": "buy_buttons",
@@ -113,8 +120,7 @@
         },
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-price-1": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--14883183099978__ff7faaaa-f37f-4b2c-93ef-81eec11fc362-variant_picker-1": {
           "type": "variant_picker",
@@ -139,14 +145,14 @@
         "text_nWd7cB": {
           "type": "text",
           "settings": {
-            "text": "Personalize your headphones with our 'mix & match' <a href=\"https:\/\/www.heavys.com\/collections\/shells\" title=\"HEAVYS Shells™\"><em><strong>collection of ear-cups<\/strong><\/em><\/a> featuring official & limited designs by your favorite artists.",
+            "text": "Personalize your headphones with our 'mix & match' <a href=\"https://www.heavys.com/collections/shells\" title=\"HEAVYS Shells™\"><em><strong>collection of ear-cups</strong></em></a> featuring official & limited designs by your favorite artists.",
             "text_style": "body"
           }
         },
         "text_JkTyFR": {
           "type": "text",
           "settings": {
-            "text": "<strong>Inside the Shells Bundle <\/strong>: Heavys H1H Headphones, 2 shells of selected design, 2 Heavys original shells, AUX Cable, USB-C Charging Cable, premium  travel case",
+            "text": "<strong>Inside the Shells Bundle </strong>: Heavys H1H Headphones, 2 shells of selected design, 2 Heavys original shells, AUX Cable, USB-C Charging Cable, premium  travel case",
             "text_style": "body"
           }
         },
@@ -166,7 +172,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<a href=\"\/collections\/shells\" target=\"_blank\" title=\"Shells\">Shop our complete series of Shells here<\/a>",
+            "text": "<a href=\"/collections/shells\" target=\"_blank\" title=\"Shells\">Shop our complete series of Shells here</a>",
             "text_style": "subtitle"
           }
         }
@@ -206,7 +212,7 @@
         ".pad {padding-right: 5px; padding-left: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"pad\"><P style=\"font-family:montserrat;font-size:14px;color:#b9b9b9;\" ><center><b>Join our community, use #HEAVYS<\/b><\/center><\/p>\n<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script><\/div>",
+        "custom_liquid": "<div class=\"pad\"><P style=\"font-family:montserrat;font-size:14px;color:#b9b9b9;\" ><center><b>Join our community, use #HEAVYS</b></center></p>\n<div id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script></div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40
@@ -217,16 +223,16 @@
       "settings": {
         "title": "Personalize with Shells",
         "heading_size": "h2",
-        "description": "<p>Top Shells Designs fans are buying today:<\/p>",
+        "description": "<p>Top Shells Designs fans are buying today:</p>",
         "show_description": false,
         "description_style": "subtitle",
         "collection": "shells",
-        "products_to_show": 8,
+        "products_to_show": 25,
         "columns_desktop": 3,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "portrait",
         "image_shape": "default",
@@ -235,7 +241,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -254,7 +260,7 @@
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "outline",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "inverse",
         "image_ratio": "adapt",
         "image_shape": "default",
@@ -272,7 +278,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n<\/img>\n<\/center>",
+        "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2023-12-04_at_15.53.47.png?v=1701698113\" width=\"230px\">\n</img>\n</center>",
         "color_scheme": "",
         "padding_top": 16,
         "padding_bottom": 16
