@@ -113,8 +113,9 @@
         },
         "custom_liquid_Le6Ljx": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
-            "custom_liquid": "<h4>$80 Off + Free Shipping on Shell Bundles w/code: BLACK </h4>"
+            "custom_liquid": "<h4>Free Shipping on Shell Bundles w/code: BLACK </h4>"
           }
         },
         "variant_picker": {
