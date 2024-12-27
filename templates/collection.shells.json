@@ -21,18 +21,18 @@
     "55782d96-8b7d-40a9-8370-87b6338da840": {
       "type": "image-banner",
       "blocks": {
-        "text_G7qq6N": {
-          "type": "text",
-          "settings": {
-            "text": "20% on All Shells with Code: SHELLFEST",
-            "text_style": "body"
-          }
-        },
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0": {
           "type": "heading",
           "settings": {
-            "heading": "SAVE 23% on All Shell Bundles - No Code Needed",
+            "heading": "SAVE 23% on All Shell Bundles",
             "heading_size": "h1"
+          }
+        },
+        "text_G7qq6N": {
+          "type": "text",
+          "settings": {
+            "text": "No Code Needed",
+            "text_style": "body"
           }
         },
         "timer_fHMQNp": {
@@ -55,8 +55,8 @@
         }
       },
       "block_order": [
-        "text_G7qq6N",
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-0",
+        "text_G7qq6N",
         "timer_fHMQNp",
         "template--14884895096906__55782d96-8b7d-40a9-8370-87b6338da840-1689327374613790ec-1"
       ],
