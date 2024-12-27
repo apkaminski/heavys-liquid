@@ -26,6 +26,13 @@
             "heading_size": "h1"
           }
         },
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<em>NO CODE NEEDED</em>",
+            "text_style": "body"
+          }
+        },
         "92710901-502d-46f4-ad7f-15409e0614f2": {
           "type": "button",
           "settings": {
@@ -44,21 +51,14 @@
             "minute": "01",
             "cycle": false
           }
-        },
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<em>\" A Must Have for Every Music Fan \" David L.</em>",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
         "text_bitp7e",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
-        "timer_cXQ8W3",
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1"
+        "timer_cXQ8W3"
       ],
       "custom_css": [
         ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: bold; color: #ffffff; font-size: 14px;}",
