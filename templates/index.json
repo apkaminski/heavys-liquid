@@ -399,7 +399,7 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "<h4 style=\"color: #ffffff; font-size: 14px; background-color: #000; padding: 10px; text-align: center; font-weight: bold;\">\n    Save $80 USD Today with Code: <span style=\"text-transform: uppercase;\">BLACK</span>\n</h4>"
+            "custom_liquid": "<h4 style=\"color: #ffffff; font-size: 14px; background-color: #000; padding: 10px; text-align: center; font-weight: bold;\">\n    Save 23% Today + Free Shipping <span style=\"text-transform: uppercase;\">BLACK</span>\n</h4>"
           }
         },
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3": {
