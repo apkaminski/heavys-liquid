@@ -106,15 +106,15 @@
             "product": "heavys-h1h-headphones-bundle-case"
           }
         },
-        "price_kbjrXb": {
-          "type": "price",
-          "settings": {}
-        },
         "custom_liquid_6pR3JF": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<h4 style=\"color: #5fc884;\">Limited New Years Deal:</br>Save 23% Today + Free Ship\n</h4>"
           }
+        },
+        "price_kbjrXb": {
+          "type": "price",
+          "settings": {}
         },
         "text_E8yrpp": {
           "type": "text",
@@ -183,8 +183,8 @@
       "block_order": [
         "title_w8KRiE",
         "judge_me_reviews_preview_badge_homepage_cniEQr",
-        "price_kbjrXb",
         "custom_liquid_6pR3JF",
+        "price_kbjrXb",
         "text_E8yrpp",
         "buy_buttons_6KMFT6",
         "icon_with_text_NBiFjE",
