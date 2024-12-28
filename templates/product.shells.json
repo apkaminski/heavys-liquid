@@ -113,9 +113,8 @@
         },
         "custom_liquid_Le6Ljx": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "<h4>Limited NY Deal:</br>\nSave 23% on all shell bundles + free Shipping</h4>"
+            "custom_liquid": "<h4>Limited NY Deal:</br>\nSave 23% on shell bundles + free Ship</h4>"
           }
         },
         "variant_picker": {
