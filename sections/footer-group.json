@@ -45,7 +45,7 @@
     "custom_liquid_NtmXKT": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"text-align: center;\">\n    <a href=\"https://www.trustpilot.com/review/www.heavys.com?stars=5\" target=\"_blank\" id=\"5starreviews\" style=\"text-decoration: none;\">\n        <img  src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/trustpilot2-grey.png?v=1735473356\" \n            alt=\"Trustpilot 5-Star Reviews\" \n            width=\"330\" \n            height=\"50\" \n            style=\"display: inline-block;\">\n    </a>\n</div>",
+        "custom_liquid": "<div style=\"text-align: center;\">\n    <a href=\"https://www.trustpilot.com/review/www.heavys.com?stars=5\" target=\"_blank\" id=\"5starreviews\" style=\"text-decoration: none;\">\n        <img  src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/trustpilot2-grey.png?v=1735473356\" \n            alt=\"Trustpilot 5-Star Reviews\" \n            width=\"340\" \n            height=\"50\" \n            style=\"display: inline-block;\">\n    </a>\n</div>",
         "color_scheme": "inverse",
         "padding_top": 20,
         "padding_bottom": 20
