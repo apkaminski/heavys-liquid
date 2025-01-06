@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "parent": "product.headphones.json",
   "context": {
@@ -15,8 +15,7 @@
   "sections": {
     "main": {
       "disabled": false,
-      "settings": {
-      },
+      "settings": {},
       "blocks": {
         "79448f8e-d74e-40c5-b92f-e0662f5f578b": {
           "type": "preorder_buttons",
@@ -27,13 +26,11 @@
         },
         "buy_buttons": {
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
         "title",
-        "caption",
         "price",
         "quantity_selector",
         "79448f8e-d74e-40c5-b92f-e0662f5f578b",
