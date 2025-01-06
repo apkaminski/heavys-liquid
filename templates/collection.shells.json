@@ -37,6 +37,7 @@
         },
         "timer_fHMQNp": {
           "type": "timer",
+          "disabled": true,
           "settings": {
             "year": "2025",
             "month": "1",
