@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Sign Up to Save $70 Today!",
+            "text": "Click to Save $70 Today!",
             "behaviour_type": "klavyo_popup",
             "link": "",
             "klavyo_desktop_id": "VaqSGG",
@@ -27,7 +27,7 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Type O Negative Shells",
+            "text": "*New* OPETH Shells",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
