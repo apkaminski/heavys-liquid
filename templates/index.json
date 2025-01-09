@@ -107,12 +107,6 @@
             "product": "heavys-h1h-headphones-bundle-case"
           }
         },
-        "custom_liquid_6pR3JF": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<h4 style=\"color: #5fc884;\">Signup to save $70 USD Today\n</h4>"
-          }
-        },
         "price_kbjrXb": {
           "type": "price",
           "settings": {}
@@ -123,6 +117,12 @@
           "settings": {
             "text": "<em><strong>Limited Time Bonus: FREE 'Horns Up' Shells with Every Bundle (Available to Redeem at Checkout)</strong></em>",
             "text_style": "body"
+          }
+        },
+        "custom_liquid_6pR3JF": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"https://www.heavys.com/pages/heavys-newsletter\"><h4 style=\"color: #5fc884;\">Signup to save $70 USD Today\n</h4></a>"
           }
         },
         "buy_buttons_6KMFT6": {
@@ -184,9 +184,9 @@
       "block_order": [
         "title_w8KRiE",
         "judge_me_reviews_preview_badge_homepage_cniEQr",
-        "custom_liquid_6pR3JF",
         "price_kbjrXb",
         "text_E8yrpp",
+        "custom_liquid_6pR3JF",
         "buy_buttons_6KMFT6",
         "icon_with_text_NBiFjE",
         "icon_with_text_B43Pra",
