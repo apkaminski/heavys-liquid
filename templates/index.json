@@ -43,7 +43,6 @@
         },
         "timer_cXQ8W3": {
           "type": "timer",
-          "disabled": true,
           "settings": {
             "year": "2025",
             "month": "1",
