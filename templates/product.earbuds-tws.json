@@ -37,6 +37,7 @@
         "text_8NEkDn",
         "text_VNxU3Q"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "desktop_content_position": "center",
@@ -386,7 +387,7 @@
         "h2 {margin: 0 auto 2rem auto; text-align: center;}"
       ],
       "settings": {
-        "title": "Making Gaming Better",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -405,6 +406,7 @@
     },
     "image_with_text_Nfi9Uh": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
         "enable_video_looping": false,
@@ -464,12 +466,12 @@
         "97d7e663-5012-430b-885c-4e2beb3dafb5": {
           "type": "row-with-video",
           "settings": {
-            "video": "shopify://files/videos/explosion earcup for black background 60fps v1.mp4",
+            "video": "shopify://files/videos/WhatsAppVideo2025-01-12at23.28.27.mp4",
             "video_url": "",
             "enable_video_looping": true,
             "autoplay": true,
             "caption": "",
-            "heading": "Multi-Driver Design",
+            "heading": "Heavys Signature sound profile",
             "text": "<p>Experience 3 dimensional immersive surround audio powered by 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth</p>",
             "button_label": "",
             "button_link": ""
