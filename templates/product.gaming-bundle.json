@@ -21,12 +21,14 @@
         },
         "text_8NEkDn": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<h4>Immerse yourself into the game with an 8-speaker sound field & crystal-clear zero latency communications</h4>"
           }
         },
         "text_VNxU3Q": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><em><strong>\" These are the real deal. I use them daily for gaming & highly recommend it \"  - Lionel R. </strong></em></p>"
           }
@@ -74,7 +76,7 @@
         "variant_picker_qPDMbV": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "buy_buttons": {
