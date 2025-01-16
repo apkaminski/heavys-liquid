@@ -29,7 +29,7 @@
         "text_VNxU3Q": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\" These are the real deal for Gaming\"  -Lionel R. </em></p>"
+            "text": "<p><em>\" These are the real deal\"  -Lionel R. </em></p>"
           }
         }
       },
@@ -182,35 +182,14 @@
         "padding_bottom": 28
       }
     },
-    "image_with_text_HtwVc9": {
+    "image_with_text_Nfi9Uh": {
       "type": "image-with-text",
-      "blocks": {
-        "heading_KUBzg8": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em>\" Other gaming headsets don't come close \"</em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_7tqatr": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p><em><strong>“</strong></em><em> I needed a good set of headphones to use for PC gaming...</em></p><p><em>Heavys arrived packed well, fully charged in a super cool travel case.  <br/>Sound quality is top notch, with very clear vocals, microphone pickup is clear, tight bass response, and more than adequate volume without distortion. build is very solid too, and battery has up to 50 hours!<br/><br/>Don't hesitate, Heavys easily beat  higher priced brands, I am very impressed and have already recommended to several friends</em><em><strong>”   - J.C.</strong></em></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_KUBzg8",
-        "text_7tqatr"
-      ],
       "settings": {
-        "image": "shopify://shop_images/man-playing-gaming-with-heavys.jpg",
+        "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
@@ -218,54 +197,9 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 12,
-        "padding_bottom": 12,
+        "padding_top": 24,
+        "padding_bottom": 24,
         "scroll_anchor": ""
-      }
-    },
-    "rich_text_bNMLc4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_aAPEVN": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<em>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.</em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_wfCT44": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><em><strong>\"These are the real deal. I love these headphones and use them daily for gaming Highly recommend \"  - Lionel R.</strong></em></h4>"
-          }
-        },
-        "button_qyYn6W": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_aAPEVN",
-        "text_wfCT44",
-        "button_qyYn6W"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d": {
@@ -405,14 +339,35 @@
         "scroll_anchor": ""
       }
     },
-    "image_with_text_Nfi9Uh": {
+    "image_with_text_HtwVc9": {
       "type": "image-with-text",
+      "blocks": {
+        "heading_KUBzg8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>\" Other gaming headsets don't come close \"</em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_7tqatr": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><em><strong>“</strong></em><em> I needed a good set of headphones to use for PC gaming...</em></p><p><em>Heavys arrived packed well, fully charged in a super cool travel case.  <br/>Sound quality is top notch, with very clear vocals, microphone pickup is clear, tight bass response, and more than adequate volume without distortion. build is very solid too, and battery has up to 50 hours!<br/><br/>Don't hesitate, Heavys easily beat  higher priced brands, I am very impressed and have already recommended to several friends</em><em><strong>”   - J.C.</strong></em></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KUBzg8",
+        "text_7tqatr"
+      ],
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
+        "image": "shopify://shop_images/man-playing-gaming-with-heavys.jpg",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
@@ -420,8 +375,8 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 24,
-        "padding_bottom": 24,
+        "padding_top": 12,
+        "padding_bottom": 12,
         "scroll_anchor": ""
       }
     },
@@ -846,10 +801,9 @@
   "order": [
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "main",
-    "image_with_text_HtwVc9",
-    "rich_text_bNMLc4",
-    "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "image_with_text_Nfi9Uh",
+    "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
+    "image_with_text_HtwVc9",
     "rich_text_QqzA46",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
