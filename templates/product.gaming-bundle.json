@@ -227,7 +227,7 @@
           "type": "column",
           "settings": {
             "icon": "disc",
-            "title": "8 Drivers Surround Sound",
+            "title": "8 Drivers Immersive Sound",
             "text": "",
             "link_label": "",
             "link": ""
@@ -247,7 +247,7 @@
           "type": "column",
           "settings": {
             "icon": "mic",
-            "title": "Zero latency Analog Mic +boom arm",
+            "title": "Zero Latency Boom MIc",
             "text": "",
             "link_label": "",
             "link": ""
