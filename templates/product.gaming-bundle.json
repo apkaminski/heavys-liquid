@@ -21,13 +21,13 @@
         },
         "text_8NEkDn": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<h4>Immerse yourself into the game with an 8-speaker sound field & crystal-clear zero latency communications</h4>"
           }
         },
         "text_VNxU3Q": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p><em>\" These are the real deal\"  -Lionel R. </em></p>"
           }
@@ -83,6 +83,13 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
+          }
+        },
+        "text_Mxcyz9": {
+          "type": "text",
+          "settings": {
+            "text": "Immerse yourself into the game with an 8-speaker sound field & clear zero latency communication",
+            "text_style": "body"
           }
         },
         "collapsible_tab_PmKyjY": {
@@ -158,6 +165,7 @@
         "price",
         "variant_picker_qPDMbV",
         "buy_buttons",
+        "text_Mxcyz9",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_YU4fpp",
