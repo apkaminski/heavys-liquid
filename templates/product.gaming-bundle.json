@@ -193,6 +193,7 @@
         },
         "text_7tqatr": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><em><strong>“</strong></em><em> I needed a good set of headphones to use for PC gaming...</em></p><p><em>Heavys arrived packed well, fully charged in a super cool travel case.  <br/>Sound quality is top notch, with very clear vocals, microphone pickup is clear, tight bass response, and more than adequate volume without distortion. build is very solid too, and battery has up to 50 hours!<br/><br/>Don't hesitate, Heavys easily beat  higher priced brands, I am very impressed and have already recommended to several friends</em><em><strong>”   - J.C.</strong></em></p>",
             "text_style": "body"
@@ -204,7 +205,7 @@
         "text_7tqatr"
       ],
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2024-10-14_at_17.14.30.png",
+        "image": "shopify://shop_images/man-playing-gaming-with-heavys.jpg",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
