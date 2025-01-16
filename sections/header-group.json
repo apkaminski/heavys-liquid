@@ -53,13 +53,24 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
+        },
+        "announcement_33qLkx": {
+          "type": "announcement",
+          "settings": {
+            "text": "Join 70,000+ Happy Customers",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
         "announcement_ekbCtT",
         "announcement_Dqc6iz",
-        "announcement_JeBx4p"
+        "announcement_JeBx4p",
+        "announcement_33qLkx"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
