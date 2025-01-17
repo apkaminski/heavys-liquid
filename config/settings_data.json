@@ -183,11 +183,6 @@
           "subscription_policy_url": ""
         }
       },
-      "6992340522935486548": {
-        "type": "shopify://apps/subscription-plus/blocks/app/79c17119-154e-465c-8480-a7e0399512ff",
-        "disabled": false,
-        "settings": {}
-      },
       "12643349056429947648": {
         "type": "shopify://apps/sticky-add-to-cart-booster-pro/blocks/satcb/2d1e1d5d-e947-4201-9a4f-8b73ff50f821",
         "disabled": false,
@@ -203,9 +198,19 @@
         "disabled": true,
         "settings": {}
       },
+      "16216491870256628967": {
+        "type": "shopify://apps/bss-labels-badges/blocks/bss-pl-config-data/91bfe765-b604-49a1-805e-3599fa600b24",
+        "disabled": false,
+        "settings": {}
+      },
       "10142937387702430166": {
         "type": "shopify://apps/preorder-notify-me-timesact/blocks/app-embed/bf6c109b-79b5-457c-8752-0e5e9e9676e7",
-        "disabled": false,
+        "disabled": true,
+        "settings": {}
+      },
+      "6992340522935486548": {
+        "type": "shopify://apps/subscription-plus/blocks/app/79c17119-154e-465c-8480-a7e0399512ff",
+        "disabled": true,
         "settings": {}
       }
     },
