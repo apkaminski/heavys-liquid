@@ -73,6 +73,10 @@
             "page": ""
           }
         },
+        "vitals_ub_volume_discounts_8JQQPb": {
+          "type": "shopify://apps/vitals/blocks/ub-volume-discounts/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
         "complementary_TtUpje": {
           "type": "complementary",
           "settings": {
@@ -104,6 +108,7 @@
         "description",
         "collapsible_tab_eDV3RV",
         "collapsible_tab_zX7nK3",
+        "vitals_ub_volume_discounts_8JQQPb",
         "complementary_TtUpje",
         "custom_liquid_rUyfbA"
       ],
