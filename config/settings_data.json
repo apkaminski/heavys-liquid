@@ -183,19 +183,9 @@
           "subscription_policy_url": ""
         }
       },
-      "12643349056429947648": {
-        "type": "shopify://apps/sticky-add-to-cart-booster-pro/blocks/satcb/2d1e1d5d-e947-4201-9a4f-8b73ff50f821",
-        "disabled": false,
-        "settings": {}
-      },
       "17428600031447253342": {
         "type": "shopify://apps/attentive/blocks/attn-tag/8df62c72-8fe4-407e-a5b3-72132be30a0d",
         "disabled": false,
-        "settings": {}
-      },
-      "3847134708050210359": {
-        "type": "shopify://apps/transcy/blocks/switcher_embed_block/bce4f1c0-c18c-43b0-b0b2-a1aefaa44573",
-        "disabled": true,
         "settings": {}
       },
       "16216491870256628967": {
@@ -211,6 +201,11 @@
       "6992340522935486548": {
         "type": "shopify://apps/subscription-plus/blocks/app/79c17119-154e-465c-8480-a7e0399512ff",
         "disabled": true,
+        "settings": {}
+      },
+      "5134484470793087125": {
+        "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+        "disabled": false,
         "settings": {}
       }
     },
