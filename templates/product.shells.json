@@ -99,6 +99,12 @@
           "type": "title",
           "settings": {}
         },
+        "custom_liquid_PejiAW": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"#reviewshp\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/4.5_starts_judege_e.png?v=1737190381\" \n    width=\"180px\" \n    alt=\"4.5-star rating\" />\n</a>"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -187,15 +193,12 @@
         "vitals_trust_jMeUdA": {
           "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {}
-        },
-        "vitals_all_reviews_badge_ttCeFg": {
-          "type": "shopify://apps/vitals/blocks/all-reviews-badge/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {}
         }
       },
       "block_order": [
         "vendor",
         "title",
+        "custom_liquid_PejiAW",
         "price",
         "text_LPyfpg",
         "custom_liquid_Le6Ljx",
@@ -208,8 +211,7 @@
         "collapsible_tab_Yew6Fz",
         "collapsible_tab_adTPt9",
         "custom_liquid_6txmL4",
-        "vitals_trust_jMeUdA",
-        "vitals_all_reviews_badge_ttCeFg"
+        "vitals_trust_jMeUdA"
       ],
       "custom_css": [
         ".product__tax {font-size: 14px;}"
