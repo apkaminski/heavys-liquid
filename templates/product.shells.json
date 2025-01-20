@@ -188,7 +188,7 @@
           "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {}
         },
-        "vitals_all_reviews_badge_wxnykn": {
+        "vitals_all_reviews_badge_ttCeFg": {
           "type": "shopify://apps/vitals/blocks/all-reviews-badge/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {}
         }
@@ -209,7 +209,7 @@
         "collapsible_tab_adTPt9",
         "custom_liquid_6txmL4",
         "vitals_trust_jMeUdA",
-        "vitals_all_reviews_badge_wxnykn"
+        "vitals_all_reviews_badge_ttCeFg"
       ],
       "custom_css": [
         ".product__tax {font-size: 14px;}"
