@@ -136,10 +136,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "sc_back_in_stock_app_block_Xreb6D": {
-          "type": "shopify://apps/sc-back-in-stock/blocks/app-block/839cbcb7-0406-4c2b-8e74-a54d987b90ab",
-          "settings": {}
-        },
         "text_JUQV4T": {
           "type": "text",
           "settings": {
@@ -204,7 +200,6 @@
         "custom_liquid_Le6Ljx",
         "variant_picker",
         "buy_buttons",
-        "sc_back_in_stock_app_block_Xreb6D",
         "text_JUQV4T",
         "collapsible_tab_L8dKVa",
         "collapsible_tab_x7CWVA",

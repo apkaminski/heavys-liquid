@@ -44,10 +44,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "sc_back_in_stock_app_block_GC7cUe": {
-          "type": "shopify://apps/sc-back-in-stock/blocks/app-block/839cbcb7-0406-4c2b-8e74-a54d987b90ab",
-          "settings": {}
-        },
         "description": {
           "type": "description",
           "settings": {}
@@ -60,7 +56,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "sc_back_in_stock_app_block_GC7cUe",
         "description"
       ],
       "custom_css": [
