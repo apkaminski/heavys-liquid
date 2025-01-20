@@ -58,7 +58,7 @@
         "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<a href=\"#reviewshp\"><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/4.5_starts_judege_e.png?v=1737190381\" width=\"180px\"></img></a>"
+            "custom_liquid": "<a href=\"#reviewshp\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/4.5_starts_judege_e.png?v=1737190381\" \n    width=\"180px\" \n    alt=\"4.5-star rating\" />\n</a>"
           }
         },
         "price": {
