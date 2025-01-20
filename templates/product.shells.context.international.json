@@ -14,13 +14,11 @@
   },
   "sections": {
     "main": {
-      "settings": {
-      },
+      "settings": {},
       "blocks": {
         "buy_buttons": {
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "d193cd1b-c1e9-435e-bd9b-92c049795294": {
           "type": "preorder_buttons",
@@ -37,7 +35,6 @@
         "price",
         "variant_picker",
         "buy_buttons",
-        "description",
         "d193cd1b-c1e9-435e-bd9b-92c049795294"
       ]
     }
