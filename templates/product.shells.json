@@ -183,9 +183,12 @@
             "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/trustpillot_1500_reviews_heavys.png?v=1724505982\" width=\"300px\"></img></center>"
           }
         },
-        "description": {
-          "type": "description",
-          "disabled": true,
+        "vitals_trust_jMeUdA": {
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
+        "vitals_all_reviews_badge_wxnykn": {
+          "type": "shopify://apps/vitals/blocks/all-reviews-badge/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {}
         }
       },
@@ -204,7 +207,8 @@
         "collapsible_tab_Yew6Fz",
         "collapsible_tab_adTPt9",
         "custom_liquid_6txmL4",
-        "description"
+        "vitals_trust_jMeUdA",
+        "vitals_all_reviews_badge_wxnykn"
       ],
       "custom_css": [
         ".product__tax {font-size: 14px;}"
