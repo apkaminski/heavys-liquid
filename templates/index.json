@@ -128,11 +128,11 @@
           "settings": {
             "layout": "vertical",
             "icon_1": "check_mark",
-            "heading_1": "World’s first headphones built for Heavy Music & mimicking the live experience",
+            "heading_1": "World’s first headphones built for Heavy Metal & more, mimicking the live experience",
             "icon_2": "check_mark",
             "heading_2": "8 Drivers with patented speaker placement creating an natural immersive sound field",
-            "icon_3": "check_mark",
-            "heading_3": "Hear all music elements as intended by artist"
+            "icon_3": "none",
+            "heading_3": ""
           }
         },
         "icon_with_text_B43Pra": {
