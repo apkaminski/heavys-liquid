@@ -324,41 +324,6 @@
         "padding_bottom": 32
       }
     },
-    "1822983c-d804-432b-b929-cf75b46b294e": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Rep Your Band & Save</h2>"
-          }
-        },
-        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-text-1",
-        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-button-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "70bfa058-95e2-422e-9d16-7ffff8e8e689": {
       "type": "featured-product",
       "blocks": {
@@ -485,6 +450,41 @@
         "padding_top": 20,
         "padding_bottom": 20,
         "scroll_anchor": ""
+      }
+    },
+    "1822983c-d804-432b-b929-cf75b46b294e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Rep Your Band & Save</h2>"
+          }
+        },
+        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-text-1",
+        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "featured_collection": {
@@ -838,10 +838,10 @@
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "featured_product_BUEUam",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
-    "afe8820a-9e66-4dc8-9751-860686858282",
-    "rich_text_dpckBJ",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
+    "afe8820a-9e66-4dc8-9751-860686858282",
+    "rich_text_dpckBJ",
     "featured_collection",
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
