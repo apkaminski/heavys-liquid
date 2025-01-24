@@ -79,6 +79,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -95,10 +96,50 @@
         "padding_bottom": 28
       }
     },
+    "collection_list_G6anfb": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_pU8dwP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shells"
+          }
+        },
+        "featured_collection_3R4pM3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "non-artist-designs"
+          }
+        },
+        "featured_collection_9qcNUG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "heavys-headphones-shop"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_pU8dwP",
+        "featured_collection_3R4pM3",
+        "featured_collection_9qcNUG"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "4c128cdd-7b09-4958-a9c3-24a9f4c2bd5e": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"margin: 0 10px;\">\n  <h2 style=\"text-align: center;\">Trusted by 60,000+ Music Fans</h2>\n  <div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n  <script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>\n</div>",
+        "custom_liquid": "<div style=\"margin: 0 10px;\">\n  <h2 style=\"text-align: center;\">Trusted by 70,000+ Music Fans</h2>\n  <div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n  <script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>\n</div>",
         "color_scheme": "",
         "padding_top": 12,
         "padding_bottom": 12
@@ -108,6 +149,7 @@
   "order": [
     "main",
     "related-products",
+    "collection_list_G6anfb",
     "4c128cdd-7b09-4958-a9c3-24a9f4c2bd5e"
   ]
 }
