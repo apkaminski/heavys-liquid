@@ -84,6 +84,7 @@
     },
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"As Seen On\" \n      style=\"width: 300px; height: 23px;\"\n    >\n  </a>\n</div>",
         "color_scheme": "inverse",
@@ -216,88 +217,16 @@
         "padding_bottom": 40
       }
     },
-    "afe8820a-9e66-4dc8-9751-860686858282": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Making Metal Heavier</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "locate",
-            "heading_1": "Multi-Driver Tech",
-            "description_1": "Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth"
-          }
-        },
-        "66e14d12-5ecf-4694-ae84-78bddc050c66": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "bulb",
-            "heading_1": "MasterMind Design",
-            "description_1": "Feel the lifetime of dedication delivered to the Metal Community by Axel Grell, known as the “Godfather of German Sound”, with over 30 years in audio and 40+ patents"
-          }
-        },
-        "c641f485-c30e-4ac3-822e-7caa35a87b2f": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "radio",
-            "heading_1": "Natural Sound Field",
-            "description_1": "Heavys patented technology is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres"
-          }
-        },
-        "39bf155e-c4c1-488e-b59e-b28704d805a4": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "diamond",
-            "heading_1": "Top Notch Features",
-            "description_1": "EQ in Mobile App, Hell Blocker™ active noise cancellation, Bluetooth 5.1, a wired option, 50 hours of play time, 5 microphones, transparency mode, ultra-soft ear-cups, custom designs"
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
-        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
-        "66e14d12-5ecf-4694-ae84-78bddc050c66",
-        "c641f485-c30e-4ac3-822e-7caa35a87b2f",
-        "39bf155e-c4c1-488e-b59e-b28704d805a4"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Screenshot_2024-02-12_at_0.24.57.png",
-        "enable_video_looping": true,
-        "autoplay": true,
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 32,
-        "padding_bottom": 20,
-        "scroll_anchor": "heavys-info"
-      }
-    },
-    "rich_text_dpckBJ": {
+    "1822983c-d804-432b-b929-cf75b46b294e": {
       "type": "rich-text",
       "blocks": {
-        "text_9DfqE6": {
+        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3><em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.</em></h3>"
+            "text": "<h2>Rep Your Band & Save</h2>"
           }
         },
-        "button_zAqwEW": {
+        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-button-1": {
           "type": "button",
           "disabled": true,
           "settings": {
@@ -311,17 +240,16 @@
         }
       },
       "block_order": [
-        "text_9DfqE6",
-        "button_zAqwEW"
+        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-text-1",
+        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-button-1"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "color_scheme": "inverse",
         "full_width": true,
-        "padding_top": 32,
-        "padding_bottom": 32
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "70bfa058-95e2-422e-9d16-7ffff8e8e689": {
@@ -452,16 +380,88 @@
         "scroll_anchor": ""
       }
     },
-    "1822983c-d804-432b-b929-cf75b46b294e": {
-      "type": "rich-text",
+    "afe8820a-9e66-4dc8-9751-860686858282": {
+      "type": "image-with-text",
       "blocks": {
-        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-text-1": {
-          "type": "text",
+        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
+          "type": "heading",
           "settings": {
-            "text": "<h2>Rep Your Band & Save</h2>"
+            "heading": "<strong>Making Metal Heavier</strong>",
+            "heading_size": "h1"
           }
         },
-        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-button-1": {
+        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "locate",
+            "heading_1": "Multi-Driver Tech",
+            "description_1": "Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth"
+          }
+        },
+        "66e14d12-5ecf-4694-ae84-78bddc050c66": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "bulb",
+            "heading_1": "MasterMind Design",
+            "description_1": "Feel the lifetime of dedication delivered to the Metal Community by Axel Grell, known as the “Godfather of German Sound”, with over 30 years in audio and 40+ patents"
+          }
+        },
+        "c641f485-c30e-4ac3-822e-7caa35a87b2f": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "radio",
+            "heading_1": "Natural Sound Field",
+            "description_1": "Heavys patented technology is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres"
+          }
+        },
+        "39bf155e-c4c1-488e-b59e-b28704d805a4": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "diamond",
+            "heading_1": "Top Notch Features",
+            "description_1": "EQ in Mobile App, Hell Blocker™ active noise cancellation, Bluetooth 5.1, a wired option, 50 hours of play time, 5 microphones, transparency mode, ultra-soft ear-cups, custom designs"
+          }
+        }
+      },
+      "block_order": [
+        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
+        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
+        "66e14d12-5ecf-4694-ae84-78bddc050c66",
+        "c641f485-c30e-4ac3-822e-7caa35a87b2f",
+        "39bf155e-c4c1-488e-b59e-b28704d805a4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-02-12_at_0.24.57.png",
+        "enable_video_looping": true,
+        "autoplay": true,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 32,
+        "padding_bottom": 20,
+        "scroll_anchor": "heavys-info"
+      }
+    },
+    "rich_text_dpckBJ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9DfqE6": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.</em></h3>"
+          }
+        },
+        "button_zAqwEW": {
           "type": "button",
           "disabled": true,
           "settings": {
@@ -475,16 +475,17 @@
         }
       },
       "block_order": [
-        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-text-1",
-        "template--14883182903370__1822983c-d804-432b-b929-cf75b46b294e-button-1"
+        "text_9DfqE6",
+        "button_zAqwEW"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "inverse",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     },
     "featured_collection": {
