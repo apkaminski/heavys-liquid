@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -23,14 +23,14 @@
         "template--14886113804362__34920aac-e1d7-4dcc-87ab-aac4b4536d0a-168959064190b9e274-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>🤘 Horns up Horns up Horns up 🤘<\/strong>",
+            "heading": "<strong>🤘 Horns up Horns up Horns up 🤘</strong>",
             "heading_size": "h1"
           }
         },
         "template--14886113804362__34920aac-e1d7-4dcc-87ab-aac4b4536d0a-168959064190b9e274-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our quest for domination of the ultimate metal listening experience is finally realized!<br\/>‍<br\/>From the bottom of our black hearts, we thank the heavys community for your mind-blowing support.<br\/><br\/>As a token of our appreciation we wanted to <strong>give something back<\/strong>, and support our metal partners while doing so. <\/p><p><\/p><p>Participate and be featured on our <a href=\"\/pages\/social-wall\" title=\"Trusted by Over 30,000 Heavy Music Fans\">Social Wall<\/a><\/p>"
+            "text": "<p>Our quest for domination of the ultimate metal listening experience is finally realized!<br/>‍<br/>From the bottom of our black hearts, we thank the heavys community for your mind-blowing support.<br/><br/>As a token of our appreciation we wanted to <strong>give something back</strong>, and support our metal partners while doing so. </p><p></p><p>Participate and be featured on our <a href=\"/pages/social-wall\" title=\"Trusted by Over 30,000 Heavy Music Fans\">Social Wall</a></p>"
           }
         },
         "8f53a533-0ecf-41da-8984-c45a296c698d": {
@@ -69,7 +69,7 @@
         "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-1": {
           "type": "text",
           "settings": {
-            "text": "<p>All you need to do is to share on social media a video\/image of you and your Heavys, tag us and use the hashtag of the campaign.<\/p><p>1. Share a video of your experience on social media<\/p><p>2. Tag <strong>@Heavysaudio<\/strong> in the post<\/p><p>3. Post the hashtags in the post:<strong>#HeavysHeadphones<\/strong><\/p><p><strong>4. we will add you to our <\/strong><a href=\"\/pages\/social-wall\" title=\"Trusted by Over 30,000 Heavy Music Fans\"><strong>Social Wall<\/strong><\/a><\/p>",
+            "text": "<p>All you need to do is to share on social media a video/image of you and your Heavys, tag us and use the hashtag of the campaign.</p><p>1. Share a video of your experience on social media</p><p>2. Tag <strong>@Heavysaudio</strong> in the post</p><p>3. Post the hashtags in the post:<strong>#HeavysHeadphones</strong></p><p><strong>4. we will add you to our </strong><a href=\"/pages/social-wall\" title=\"Trusted by Over 30,000 Heavy Music Fans\"><strong>Social Wall</strong></a></p>",
             "text_style": "body"
           }
         }
@@ -79,7 +79,7 @@
         "template--14886113804362__d01e6e52-b9dd-4681-8026-33398244ad2b-1689590807ab909563-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-12-13_at_18.18.52.png",
+        "image": "shopify://shop_images/Screenshot_2023-12-13_at_18.18.52.png",
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
@@ -102,7 +102,7 @@
         "template--14886113804362__6d20f2ab-29b5-4869-aa13-742e67c3a817-168959064190b9e274-1": {
           "type": "text",
           "settings": {
-            "text": "<p>CHECK OUT<\/p>"
+            "text": "<p>CHECK OUT</p>"
           }
         },
         "template--14886113804362__6d20f2ab-29b5-4869-aa13-742e67c3a817-168959064190b9e274-0": {
@@ -132,10 +132,10 @@
         "template--14886113804362__b0928976-b8e9-41f5-a3ca-54f76ad4b17f-16895909772107956b-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/img-1.png",
+            "image": "shopify://shop_images/img-1.png",
             "icon": "none",
             "title": "Reaction video",
-            "text": "<p>of your first time experiencing Heavys<\/p>",
+            "text": "<p>of your first time experiencing Heavys</p>",
             "link_label": "",
             "link": ""
           }
@@ -143,10 +143,10 @@
         "template--14886113804362__b0928976-b8e9-41f5-a3ca-54f76ad4b17f-16895909772107956b-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/img-2.png",
+            "image": "shopify://shop_images/img-2.png",
             "icon": "none",
-            "title": "Before \/ after",
-            "text": "<p>Heavys videos<\/p>",
+            "title": "Before / after",
+            "text": "<p>Heavys videos</p>",
             "link_label": "",
             "link": ""
           }
@@ -154,10 +154,10 @@
         "template--14886113804362__b0928976-b8e9-41f5-a3ca-54f76ad4b17f-16895909772107956b-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/img-3.png",
+            "image": "shopify://shop_images/img-3.png",
             "icon": "none",
             "title": "Unboxing",
-            "text": "<p>videos<\/p>",
+            "text": "<p>videos</p>",
             "link_label": "",
             "link": ""
           }
@@ -165,10 +165,10 @@
         "51d1e6f7-a29c-4d60-b0e5-50b1d21af714": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/img-4.png",
+            "image": "shopify://shop_images/img-4.png",
             "icon": "none",
-            "title": "Any other Video\/Image",
-            "text": "<p>you come up with<\/p>",
+            "title": "Any other Video/Image",
+            "text": "<p>you come up with</p>",
             "link_label": "",
             "link": ""
           }
@@ -204,7 +204,7 @@
         "template--14886113804362__1b5a4b14-bd61-4f49-8134-9b3cf60a163c-168959064190b9e274-1": {
           "type": "text",
           "settings": {
-            "text": "<p>25 WINNERS<\/p>"
+            "text": "<p>25 WINNERS</p>"
           }
         },
         "template--14886113804362__1b5a4b14-bd61-4f49-8134-9b3cf60a163c-168959064190b9e274-0": {
@@ -235,10 +235,10 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/prize-1_2472fdce-0b10-4ae5-86d8-a4cdb34c778f.png",
+            "image": "shopify://shop_images/prize-1_2472fdce-0b10-4ae5-86d8-a4cdb34c778f.png",
             "icon": "none",
-            "title": "<strong>$100 Voucher<\/strong>",
-            "text": "<p><strong>BlastbeatsVinylOwned <\/strong><\/p><p>and operated by a true hardcore metal head shipping all across the US<\/p>",
+            "title": "<strong>$100 Voucher</strong>",
+            "text": "<p><strong>BlastbeatsVinylOwned </strong></p><p>and operated by a true hardcore metal head shipping all across the US</p>",
             "link_label": "",
             "link": ""
           }
@@ -246,10 +246,10 @@
         "template--14886113804362__ceb01346-9f93-48d8-adbf-ab68978ea4d5-16895909772107956b-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/prize-2_f1109265-0519-4bdd-aaae-aec6069509d4.png",
+            "image": "shopify://shop_images/prize-2_f1109265-0519-4bdd-aaae-aec6069509d4.png",
             "icon": "none",
-            "title": "<strong>$100 Voucher<\/strong>",
-            "text": "<p><strong>Heavys Store<\/strong><\/p><p>on your next purchase at Heavys!<\/p>",
+            "title": "<strong>$100 Voucher</strong>",
+            "text": "<p><strong>Heavys Store</strong></p><p>on your next purchase at Heavys!</p>",
             "link_label": "",
             "link": ""
           }
@@ -258,10 +258,10 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/prize-3_9d0ca3c1-29a3-44dc-8296-e99ea6b7dc77.png",
+            "image": "shopify://shop_images/prize-3_9d0ca3c1-29a3-44dc-8296-e99ea6b7dc77.png",
             "icon": "none",
-            "title": "<strong>$100 Voucher<\/strong>",
-            "text": "<p><strong>Revolver Magazine<\/strong><\/p><p>With the cool dudes at Rev M's online store<\/p>",
+            "title": "<strong>$100 Voucher</strong>",
+            "text": "<p><strong>Revolver Magazine</strong></p><p>With the cool dudes at Rev M's online store</p>",
             "link_label": "",
             "link": ""
           }
@@ -294,6 +294,15 @@
         "scroll_anchor": ""
       }
     },
+    "custom_liquid_aRHAFU": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"flockler-embed-18eeda49bc70cc00054e479709f3f477\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18eeda49bc70cc00054e479709f3f477\" async></script>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "54dc4b7c-6696-43ba-89e9-a23f3fe19b59": {
       "type": "rich-text",
       "blocks": {
@@ -307,7 +316,7 @@
         "template--14886113804362__54dc4b7c-6696-43ba-89e9-a23f3fe19b59-168959064190b9e274-1": {
           "type": "text",
           "settings": {
-            "text": "<p>NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE DOES NOT INCREASE YOUR CHANCES OF WINNING. VOID WHERE PROHIBITED.<br\/><br\/>1) Eligibility: The Heavy's Audio Unboxing Video Contest (\"Contest\") is open only to individuals who are legal residents of the countries where this Contest is permitted by law and who are eighteen (18) years of age or older at the time of entry. Employees, officers, directors, agents, representatives of Heavy's Audio (\"Sponsor\"), its affiliates, subsidiaries, advertising, promotion, and fulfillment agencies, and immediate family members and those living in the same household of such individuals are not eligible to participate in the Contest.<br\/><br\/>2) Contest Period: The Contest begins on May 10 2023, and ends on December 31 2023, as mentioned on the Contest page on the Sponsor's website. Sponsor's computer is the official time-keeping device for the Contest.<br\/><br\/>3) How to Enter: To enter the Contest, participants must follow the instructions mentioned on the Contest page on the Sponsor's website. Participants must create and upload a video of the unboxing of the product or any other creative video or image with the product to their social media account(s) and tag the Sponsor @heavysaudio in the post and use the hashtags #Heavysheadphones. Only posts and videos that follow these guidelines will be considered valid entries. By entering the Contest, participants agree to be bound by these Official Rules and Regulations.<br\/><br\/>4) Original Content: The content of the videos must be original material and must not contain any copyrighted material or material which is not owned by the owner. The videos must not have been previously published, distributed, or submitted in any other contest. By entering the Contest, participants represent and warrant that their videos are their original work and do not infringe upon the intellectual property or other rights of any third party.<br\/><br\/>5) Prohibited Content: Videos that contain illegal material, including but not limited to defamatory, obscene, vulgar, or offensive content, or content that is sexually explicit or racially offensive, will not be considered valid entries. The Sponsor reserves the right to disqualify any entry that violates these guidelines.<br\/><br\/>6) Winner Selection: The Sponsor will select the winners based on the best videos submitted by participants. The criteria for selecting the winners will be based on creativity, originality, and adherence to the Contest guidelines. The decisions of the Sponsor are final and binding on all matters relating to the Contest.<br\/><br\/>7) Prizes: The winners will receive digital voucher codes that can be used once to reduce the cost of a cart at one of the three online stores mentioned on the Contest page on the Sponsor's website. The winners will choose one of the three vouchers available. The prize can only be used once, and the voucher is time-limited to a month after it's been sent. The voucher cannot be combined with other discount codes or promotions. No substitution or transfer of the prize is permitted.<br\/><br\/>8) Use of Videos: By entering the Contest, participants agree that the Sponsor may use their videos for marketing material and promotional videos. The Sponsor may use the videos in any media or format, whether now known or hereafter devised, including but not limited to print, television, radio, online, and social media, without further compensation or notice to the participant.<br\/><br\/>9) Release and Indemnity: By entering the Contest, participants agree to release, discharge, and hold harmless the Sponsor, its affiliates, subsidiaries, advertising, promotion, and fulfillment agencies, and their respective directors, officers, employees, and agents from any and all claims, losses, damages, and liabilities arising out of their participation in the Contest or the acceptance or use of any prize. Participants agree to indemnify and hold harmless.<br\/><br\/>10) Partner delivery and responsibility: Sponsor is not responsible for the delivery and availability of our Partners' vouchers. The products , services or good Winners might acquire through Partner's store , their delivery and your satisfaction therefore, are the sole responsibility of the Partner. Sponsor has no control or responsibility as for the products and delivery of these good and services that are to be purchased in Partners' store.<br\/><br\/>11) Partner Restrictions: One of the digital voucher codes is provided by BlastBeatsVinyl, which only ships within the United States. If a winner chooses the BlastBeatsVinyl voucher code, the Sponsor will not be responsible for any issues related to shipping outside of the United States. The Sponsor reserves the right to substitute a prize of equal or greater value if the prize is unavailable for any reason.<br\/><br\/>12) Prize Restrictions: The prize is not transferable, and the winner must use the voucher code themselves. The Sponsor is not responsible for any unauthorized use or redemption of the voucher code by any person other than the winner.<br\/><br\/>13) General Conditions: By participating in the Contest, participants agree to be bound by these Official Rules and Regulations and the decisions of the Sponsor, which are final and binding in all matters relating to the Contest. The Sponsor reserves the right to cancel, suspend, or modify the Contest, or any part of it, for any reason, including but not limited to fraud, technical failures, or any other factor beyond the reasonable control of the Sponsor that impairs the integrity or proper functioning of the Contest. In such an event, the Sponsor may select the winners from among all eligible entries received prior to and\/or after the action taken by the Sponsor. The Sponsor's failure to enforce any term of these Official Rules and Regulations shall not constitute a waiver of that provision.<br\/><br\/>14) Privacy: By entering the Contest, participants agree that their personal information may be collected, used, and disclosed by the Sponsor for the purposes of administering the Contest and fulfilling the prize. The Sponsor may share the winner's email address with its partners to fulfill the prize. Participants' personal information will be treated in accordance with the Sponsor's privacy policy, which can be found on the Sponsor's website.<br\/><br\/>15) Governing Law and Jurisdiction: The Contest is governed by and shall be construed in accordance with the laws of the state of New York without regard to its conflict of law provisions. Any dispute arising out of or relating to the Contest shall be resolved in the state or federal courts located in New York City, New York, and the participants consent to the exclusive jurisdiction of such courts.<\/p>"
+            "text": "<p>NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE DOES NOT INCREASE YOUR CHANCES OF WINNING. VOID WHERE PROHIBITED.<br/><br/>1) Eligibility: The Heavy's Audio Unboxing Video Contest (\"Contest\") is open only to individuals who are legal residents of the countries where this Contest is permitted by law and who are eighteen (18) years of age or older at the time of entry. Employees, officers, directors, agents, representatives of Heavy's Audio (\"Sponsor\"), its affiliates, subsidiaries, advertising, promotion, and fulfillment agencies, and immediate family members and those living in the same household of such individuals are not eligible to participate in the Contest.<br/><br/>2) Contest Period: The Contest begins on May 10 2023, and ends on December 31 2023, as mentioned on the Contest page on the Sponsor's website. Sponsor's computer is the official time-keeping device for the Contest.<br/><br/>3) How to Enter: To enter the Contest, participants must follow the instructions mentioned on the Contest page on the Sponsor's website. Participants must create and upload a video of the unboxing of the product or any other creative video or image with the product to their social media account(s) and tag the Sponsor @heavysaudio in the post and use the hashtags #Heavysheadphones. Only posts and videos that follow these guidelines will be considered valid entries. By entering the Contest, participants agree to be bound by these Official Rules and Regulations.<br/><br/>4) Original Content: The content of the videos must be original material and must not contain any copyrighted material or material which is not owned by the owner. The videos must not have been previously published, distributed, or submitted in any other contest. By entering the Contest, participants represent and warrant that their videos are their original work and do not infringe upon the intellectual property or other rights of any third party.<br/><br/>5) Prohibited Content: Videos that contain illegal material, including but not limited to defamatory, obscene, vulgar, or offensive content, or content that is sexually explicit or racially offensive, will not be considered valid entries. The Sponsor reserves the right to disqualify any entry that violates these guidelines.<br/><br/>6) Winner Selection: The Sponsor will select the winners based on the best videos submitted by participants. The criteria for selecting the winners will be based on creativity, originality, and adherence to the Contest guidelines. The decisions of the Sponsor are final and binding on all matters relating to the Contest.<br/><br/>7) Prizes: The winners will receive digital voucher codes that can be used once to reduce the cost of a cart at one of the three online stores mentioned on the Contest page on the Sponsor's website. The winners will choose one of the three vouchers available. The prize can only be used once, and the voucher is time-limited to a month after it's been sent. The voucher cannot be combined with other discount codes or promotions. No substitution or transfer of the prize is permitted.<br/><br/>8) Use of Videos: By entering the Contest, participants agree that the Sponsor may use their videos for marketing material and promotional videos. The Sponsor may use the videos in any media or format, whether now known or hereafter devised, including but not limited to print, television, radio, online, and social media, without further compensation or notice to the participant.<br/><br/>9) Release and Indemnity: By entering the Contest, participants agree to release, discharge, and hold harmless the Sponsor, its affiliates, subsidiaries, advertising, promotion, and fulfillment agencies, and their respective directors, officers, employees, and agents from any and all claims, losses, damages, and liabilities arising out of their participation in the Contest or the acceptance or use of any prize. Participants agree to indemnify and hold harmless.<br/><br/>10) Partner delivery and responsibility: Sponsor is not responsible for the delivery and availability of our Partners' vouchers. The products , services or good Winners might acquire through Partner's store , their delivery and your satisfaction therefore, are the sole responsibility of the Partner. Sponsor has no control or responsibility as for the products and delivery of these good and services that are to be purchased in Partners' store.<br/><br/>11) Partner Restrictions: One of the digital voucher codes is provided by BlastBeatsVinyl, which only ships within the United States. If a winner chooses the BlastBeatsVinyl voucher code, the Sponsor will not be responsible for any issues related to shipping outside of the United States. The Sponsor reserves the right to substitute a prize of equal or greater value if the prize is unavailable for any reason.<br/><br/>12) Prize Restrictions: The prize is not transferable, and the winner must use the voucher code themselves. The Sponsor is not responsible for any unauthorized use or redemption of the voucher code by any person other than the winner.<br/><br/>13) General Conditions: By participating in the Contest, participants agree to be bound by these Official Rules and Regulations and the decisions of the Sponsor, which are final and binding in all matters relating to the Contest. The Sponsor reserves the right to cancel, suspend, or modify the Contest, or any part of it, for any reason, including but not limited to fraud, technical failures, or any other factor beyond the reasonable control of the Sponsor that impairs the integrity or proper functioning of the Contest. In such an event, the Sponsor may select the winners from among all eligible entries received prior to and/or after the action taken by the Sponsor. The Sponsor's failure to enforce any term of these Official Rules and Regulations shall not constitute a waiver of that provision.<br/><br/>14) Privacy: By entering the Contest, participants agree that their personal information may be collected, used, and disclosed by the Sponsor for the purposes of administering the Contest and fulfilling the prize. The Sponsor may share the winner's email address with its partners to fulfill the prize. Participants' personal information will be treated in accordance with the Sponsor's privacy policy, which can be found on the Sponsor's website.<br/><br/>15) Governing Law and Jurisdiction: The Contest is governed by and shall be construed in accordance with the laws of the state of New York without regard to its conflict of law provisions. Any dispute arising out of or relating to the Contest shall be resolved in the state or federal courts located in New York City, New York, and the participants consent to the exclusive jurisdiction of such courts.</p>"
           }
         }
       },
@@ -338,14 +347,14 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         },
         "template--14886113804362__52738f41-55ed-4e2d-bb9f-72b0e3bcc831-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/heavys-headphones-shop",
+            "button_link": "shopify://collections/heavys-headphones-shop",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -376,6 +385,7 @@
     "b0928976-b8e9-41f5-a3ca-54f76ad4b17f",
     "1b5a4b14-bd61-4f49-8134-9b3cf60a163c",
     "ceb01346-9f93-48d8-adbf-ab68978ea4d5",
+    "custom_liquid_aRHAFU",
     "54dc4b7c-6696-43ba-89e9-a23f3fe19b59",
     "52738f41-55ed-4e2d-bb9f-72b0e3bcc831"
   ]
