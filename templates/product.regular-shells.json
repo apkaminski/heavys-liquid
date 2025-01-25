@@ -97,6 +97,7 @@
         },
         "custom_liquid_rUyfbA": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-28_at_20.09.01.png?v=1711649364\" width=\"300px\"></img></center>"
           }
