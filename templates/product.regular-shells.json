@@ -91,6 +91,10 @@
           "type": "shopify://apps/judge-me-reviews/blocks/review_snippet_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
         },
+        "vitals_related_products_efbamN": {
+          "type": "shopify://apps/vitals/blocks/related-products/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
         "vitals_trust_q4rtre": {
           "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {}
@@ -116,6 +120,7 @@
         "collapsible_tab_zX7nK3",
         "complementary_TtUpje",
         "judge_me_reviews_review_snippet_widget_eieVgN",
+        "vitals_related_products_efbamN",
         "vitals_trust_q4rtre",
         "custom_liquid_rUyfbA"
       ],
