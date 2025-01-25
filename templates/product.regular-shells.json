@@ -71,6 +71,7 @@
         },
         "complementary_TtUpje": {
           "type": "complementary",
+          "disabled": true,
           "settings": {
             "block_heading": "Save 20% on your 2nd Design",
             "make_collapsible_row": true,
@@ -81,6 +82,14 @@
             "image_ratio": "square",
             "enable_quick_add": true
           }
+        },
+        "vitals_related_products_FjUJG9": {
+          "type": "shopify://apps/vitals/blocks/related-products/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
+        "vitals_product_reviews_nhM9f7": {
+          "type": "shopify://apps/vitals/blocks/product-reviews/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
         },
         "vitals_trust_q4rtre": {
           "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
@@ -104,6 +113,8 @@
         "collapsible_tab_eDV3RV",
         "collapsible_tab_zX7nK3",
         "complementary_TtUpje",
+        "vitals_related_products_FjUJG9",
+        "vitals_product_reviews_nhM9f7",
         "vitals_trust_q4rtre",
         "custom_liquid_rUyfbA"
       ],
