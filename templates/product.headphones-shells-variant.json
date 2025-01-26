@@ -54,12 +54,9 @@
           "type": "description",
           "settings": {}
         },
-        "custom_liquid_kMjNiz": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/tp2.png?v=1714911342\" width=\"330px\"></img></center>"
-          }
+        "judge_me_reviews_review_snippet_widget_WGzKPy": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_snippet_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "complementary_yPQxbc": {
           "type": "complementary",
@@ -85,7 +82,7 @@
         "buy_buttons",
         "text_wjrcR9",
         "description",
-        "custom_liquid_kMjNiz",
+        "judge_me_reviews_review_snippet_widget_WGzKPy",
         "complementary_yPQxbc"
       ],
       "settings": {
