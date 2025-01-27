@@ -152,6 +152,10 @@
             "enable_quick_add": true
           }
         },
+        "vitals_trust_mGEQCq": {
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
         "judge_me_reviews_preview_badge_N7qrzR": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "disabled": true,
@@ -172,6 +176,7 @@
         "collapsible_tab_fex7nB",
         "collapsible_tab_VxhV37",
         "complementary_z4cWLg",
+        "vitals_trust_mGEQCq",
         "judge_me_reviews_preview_badge_N7qrzR"
       ],
       "settings": {
