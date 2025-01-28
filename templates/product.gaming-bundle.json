@@ -87,7 +87,14 @@
         "text_Mxcyz9": {
           "type": "text",
           "settings": {
-            "text": "Immerse yourself into the game with an 8-speaker sound field & clear zero latency communication",
+            "text": "Immerse yourself into the game with an 8-speaker sound field & clear zero latency communication.",
+            "text_style": "body"
+          }
+        },
+        "text_BBPzMn": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>PERFECT FOR CALLS AND MULTI-PARTICIPANT COMMUNICATIONS</strong>",
             "text_style": "body"
           }
         },
@@ -173,6 +180,7 @@
         "variant_picker_qPDMbV",
         "buy_buttons",
         "text_Mxcyz9",
+        "text_BBPzMn",
         "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_YU4fpp",
