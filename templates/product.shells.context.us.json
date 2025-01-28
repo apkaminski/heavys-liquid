@@ -12,8 +12,7 @@
   "context": {
     "market": "us"
   },
-  "sections": {
-  },
+  "sections": {},
   "order": [
     "23bdb07e-77f8-419c-9568-b7766935372a",
     "be4805c2-025c-4ff7-be0e-c9a17287274f",
@@ -26,7 +25,6 @@
     "rich_text_ijPtUA",
     "243990a3-4122-461a-b6d3-04139fdb26fc",
     "463cf269-3e55-4128-838b-822482a855bf",
-    "related-products",
-    "testimonial_grid_JFjyAb"
+    "related-products"
   ]
 }
