@@ -397,6 +397,53 @@
         "scroll_anchor": ""
       }
     },
+    "image_with_text_G69JcL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GPaLLg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_yyYfGw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_h7EXhe": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_GPaLLg",
+        "text_yyYfGw",
+        "button_h7EXhe"
+      ],
+      "settings": {
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
+    },
     "e836ee92-247c-4b1b-a750-8b108bc417dd": {
       "type": "rich-text",
       "blocks": {
@@ -530,81 +577,8 @@
         "padding_bottom": 60
       }
     },
-    "testimonial_grid_JFjyAb": {
-      "type": "testimonial-grid",
-      "blocks": {
-        "column_WteqXH": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>\" </strong></em><em>These New Wireless Headphones Are Designed with Heavy Metal Fans In Mind</em><em><strong> \" </strong></em><em>- FORBES</em></p>"
-          }
-        },
-        "column_zXcWgA": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ </strong></em><em>Fantastic sound, built with care for the users comfort. There's nothing better than being able to truly listen to how the songs were intended to be heard. Heavy's made it possible and it actually changes the songs I listen to </em><em><strong>”</strong></em><em> - Christian Rodrigue</em></p>"
-          }
-        },
-        "column_QaQiEY": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em>“Epic as written about! After hours of use it is still very comfortable - feels like they are not there. You can hear all notes of songs high and super deep” </em></p><p><em>- Turner McLeod</em></p>"
-          }
-        },
-        "column_677tYA": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ </strong></em><em>Best pair of headphones I’ve ever owned </em><em><strong>”</strong></em><em> - Mayon A</em></p>"
-          }
-        },
-        "column_ncWw3w": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ </strong></em><em>Heavy AF! The Heavy’s experience is unlike any I’ve had, since I started living in my headphones at a young age. You can hear each and every aspect, as it is intended, and not distorted. 666/10, would recommend 🤘 </em><em><strong>”</strong></em><em> - </em>Levi Yocke</p>"
-          }
-        },
-        "column_WK4pi8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "label": "",
-            "text": "<p><em><strong>“ </strong></em><em>No matter what genre of music you listen to, whether it be metal, pop, or rap the music comes out clearly and you feel the bass. Customer service was also great </em><em><strong>”</strong></em><em> - David Sandat</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "column_WteqXH",
-        "column_zXcWgA",
-        "column_QaQiEY",
-        "column_677tYA",
-        "column_ncWw3w",
-        "column_WK4pi8"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "<em>Rated 4.7 Out of 5 Stars</em>",
-        "heading_size": "h2",
-        "button_label": "Start Listening Now",
-        "button_link": "#top",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
-      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h1",
@@ -630,11 +604,11 @@
     "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
     "e3ca781b-9d44-4c07-909d-7da66958b19c",
+    "image_with_text_G69JcL",
     "e836ee92-247c-4b1b-a750-8b108bc417dd",
     "rich_text_ijPtUA",
     "243990a3-4122-461a-b6d3-04139fdb26fc",
     "463cf269-3e55-4128-838b-822482a855bf",
-    "testimonial_grid_JFjyAb",
     "related-products"
   ]
 }
