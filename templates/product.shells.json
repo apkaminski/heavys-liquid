@@ -300,24 +300,12 @@
             "button_label": "",
             "button_link": ""
           }
-        },
-        "row_3Hx4qH": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/soundguys-review-heavys-new-box.png",
-            "caption": "",
-            "heading": "Top Rating from SoundGuys!",
-            "text": "<p>Heavys scored over all competitors in the Over-Ear Headphones Category</p>",
-            "button_label": "Elevate my Sound",
-            "button_link": "#top"
-          }
         }
       },
       "block_order": [
         "2e53b314-bb46-48ce-8c15-ddce6bbec802",
         "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-2",
-        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-3",
-        "row_3Hx4qH"
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-3"
       ],
       "settings": {
         "image_height": "adapt",
@@ -333,6 +321,54 @@
         "mobile_content_alignment": "center",
         "padding_top": 8,
         "padding_bottom": 8,
+        "scroll_anchor": ""
+      }
+    },
+    "image_with_text_G69JcL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GPaLLg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top Rating from SoundGuys!",
+            "heading_size": "h1"
+          }
+        },
+        "text_yyYfGw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Heavys scored over all competitors in the Over-Ear Headphones Category</p>",
+            "text_style": "body"
+          }
+        },
+        "button_h7EXhe": {
+          "type": "button",
+          "settings": {
+            "button_label": "Elevate My Sound",
+            "button_link": "#top"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GPaLLg",
+        "text_yyYfGw",
+        "button_h7EXhe"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/soundguys-review-heavys-new-box_6df95cc9-4ca2-48fc-ac7e-b009f559194f.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
         "scroll_anchor": ""
       }
     },
@@ -379,53 +415,6 @@
         "color_scheme": "",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      }
-    },
-    "image_with_text_G69JcL": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_GPaLLg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Top Rating from SoundGuys!",
-            "heading_size": "h1"
-          }
-        },
-        "text_yyYfGw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Heavys scored over all competitors in the Over-Ear Headphones Category</p>",
-            "text_style": "body"
-          }
-        },
-        "button_h7EXhe": {
-          "type": "button",
-          "settings": {
-            "button_label": "Elevate My Sound",
-            "button_link": "#top"
-          }
-        }
-      },
-      "block_order": [
-        "heading_GPaLLg",
-        "text_yyYfGw",
-        "button_h7EXhe"
-      ],
-      "settings": {
-        "enable_video_looping": false,
-        "autoplay": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36,
         "scroll_anchor": ""
@@ -590,8 +579,8 @@
     "60421194-02d3-4142-a101-cab229136e5b",
     "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
-    "e3ca781b-9d44-4c07-909d-7da66958b19c",
     "image_with_text_G69JcL",
+    "e3ca781b-9d44-4c07-909d-7da66958b19c",
     "e836ee92-247c-4b1b-a750-8b108bc417dd",
     "rich_text_ijPtUA",
     "243990a3-4122-461a-b6d3-04139fdb26fc",
