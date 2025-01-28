@@ -360,24 +360,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-3": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "{{ product.metafields.heavys_custom.band.value.shells_out_of_box.value }}",
-            "icon": "none",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-1",
-        "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-2",
-        "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-3"
+        "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-2"
       ],
       "settings": {
         "title": "Enhance Your Listening Experience Inside & Out",
@@ -403,22 +390,22 @@
         "heading_GPaLLg": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Top Rating from SoundGuys!",
             "heading_size": "h1"
           }
         },
         "text_yyYfGw": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Heavys scored over all competitors in the Over-Ear Headphones Category</p>",
             "text_style": "body"
           }
         },
         "button_h7EXhe": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Elevate My Sound",
+            "button_link": "#top"
           }
         }
       },
