@@ -533,9 +533,9 @@
     "463cf269-3e55-4128-838b-822482a855bf": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Heavys Shells™ Collection</strong>",
+        "title": "<strong>You May Also Like</strong>",
         "heading_size": "h2",
-        "description": "<p>Check out top Shells options Metal fans are buying</p>",
+        "description": "<p>Check out top Shells Designs metal fans are grabbing now</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
@@ -560,6 +560,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h1",
