@@ -109,7 +109,7 @@
           "settings": {
             "heading": "'Shells + Headphones Bundle' Includes:",
             "icon": "box",
-            "content": "<p>+ Heavys H1H Headphones</p><p>+ 2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells</p><p>+ 2 Heavys Original Shells</p><p>+ AUX Cable</p><p>+ USB-C Charging Cable</p><p>+ FREE Premium Hard-Shell Travel Case</p>",
+            "content": "<p>+ Heavys H1H Headphones</p><p>+ 2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells</p><p>+ 2 Heavys Original Shells</p><p>+ Band Branded Velvet Carry Case</p><p>+ AUX Cable</p><p>+ USB-C Charging Cable</p><p>+ Premium Hard-Shell Travel Case</p>",
             "page": ""
           }
         },
@@ -118,7 +118,7 @@
           "settings": {
             "heading": "'Shells Only' Includes:",
             "icon": "fire",
-            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells for Heavys H1H Headphones</p><p></p><p></p><p>*Shells snap on the external side of the ear cup</p>",
+            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells for Heavys H1H Headphones</p><p>+ Band Branded Velvet Carry Case</p><p></p><p>*Shells snap on the external side of the ear cup</p>",
             "page": ""
           }
         },
