@@ -1,0 +1,596 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "be4805c2-025c-4ff7-be0e-c9a17287274f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Personalize & Upgrade your HEAVYS with the Official {{ product.metafields.heavys_custom.band.value.name.value }} Shells</p>"
+          }
+        },
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "button_link": "shopify://products/kamelot-shells",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-text-1",
+        "template--14884059414602__be4805c2-025c-4ff7-be0e-c9a17287274f-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "custom_liquid_PejiAW": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"#reviewshp\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/4.5_starts_judege_e.png?v=1737190381\" \n    width=\"180px\" \n    alt=\"4.5-star rating\" />\n</a>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "text_LPyfpg": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<strong>  Save $80 on All Bundles + Free Expedited Shipping with Code: BLACK</strong>",
+            "text_style": "body"
+          }
+        },
+        "custom_liquid_Le6Ljx": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Popup with Klaviyo Form</title>\n  <style>\n    /* Style for the popup overlay */\n    #popup-overlay {\n      display: none;\n      position: fixed;\n      top: 0;\n      left: 0;\n      width: 100%;\n      height: 100%;\n      background-color: rgba(0, 0, 0, 0.5);\n      z-index: 1000;\n    }\n\n    /* Style for the popup content */\n    #popup-content {\n      position: fixed;\n      top: 50%;\n      left: 50%;\n      transform: translate(-50%, -50%);\n      width: 90%;\n      max-width: 500px;\n      background: white;\n      border-radius: 4px;\n      box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);\n      padding: 5px;\n      text-align: center;\n    }\n\n    /* Close button */\n    #close-popup {\n      cursor: pointer;\n      padding: 5px 5px;\n      background: #5fc884;\n      color: white;\n      border: none;\n      border-radius: 4px;\n      margin-top: 5px;\n    }\n  </style>\n</head>\n<body>\n  <!-- Trigger link -->\n  <a href=\"#\" id=\"trigger-popup\">\n    <h4 style=\"color: #5fc884;\">Click to save an extra $40 USD Today </h4>\n  </a>\n\n  <!-- Popup structure -->\n  <div id=\"popup-overlay\">\n    <div id=\"popup-content\">\n      <h4>Signup to save $40 USD Today</h4>\n      <!-- Klaviyo form -->\n      <div class=\"klaviyo-form-Vhcff4\"></div>\n      <!-- Close button -->\n      <button id=\"close-popup\">Close</button>\n    </div>\n  </div>\n\n  <script>\n    document.addEventListener(\"DOMContentLoaded\", function () {\n      // Elements\n      const triggerLink = document.getElementById(\"trigger-popup\");\n      const popupOverlay = document.getElementById(\"popup-overlay\");\n      const closePopupButton = document.getElementById(\"close-popup\");\n\n      // Show popup on click\n      triggerLink.addEventListener(\"click\", function (event) {\n        event.preventDefault(); // Prevent default link behavior\n        popupOverlay.style.display = \"block\";\n      });\n\n      // Close popup\n      closePopupButton.addEventListener(\"click\", function () {\n        popupOverlay.style.display = \"none\";\n      });\n    });\n  </script>\n\n  <!-- Klaviyo form script -->\n  \n</body>\n</html>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "text_JUQV4T": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Shells</strong> are officially licensed from and approved by the artists and bands. Designs are available in Limited quantities. Mix & Match as many as you'd like to style & personalize your Headphones.",
+            "text_style": "body"
+          }
+        },
+        "collapsible_tab_L8dKVa": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "'Shells + Headphones Bundle' Includes:",
+            "icon": "box",
+            "content": "<p>+ Heavys H1H Headphones</p><p>+ 2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells</p><p>+ 2 Heavys Original Shells</p><p>+ AUX Cable</p><p>+ USB-C Charging Cable</p><p>+ FREE Premium Hard-Shell Travel Case</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_x7CWVA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "'Shells Only' Includes:",
+            "icon": "fire",
+            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells for Heavys H1H Headphones</p><p></p><p></p><p>*Shells snap on the external side of the ear cup</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_Yew6Fz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Headphones Product Details",
+            "icon": "star",
+            "content": "<p>+ World’s first headphones built for Metalheads</p><p>+ 8 Drivers with patented placement creating optimal sound fields & frequency range coverage</p><p>+ Immerse in a Concert-like sound & feeling</p><p>+ 5 microphones<br/>+ 50 hours of battery life<br/>+ Bluetooth 5.1 plus a wired option<br/>+ HellBlocker™ active noise cancellation<br/>+ Transparent mode for speaking<br/>+ Designed for comfort</p><p>+ Mobile app with EQ, Firmware upgrades & Benefits</p><p></p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_adTPt9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Free Global Shipping",
+            "icon": "truck",
+            "content": "<p>+ 14 Day easy return policy</p><p>+ Free Standard Global Shipping on $200+ Orders</p><p></p>",
+            "page": ""
+          }
+        },
+        "custom_liquid_6txmL4": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/trustpillot_1500_reviews_heavys.png?v=1724505982\" width=\"300px\"></img></center>"
+          }
+        },
+        "judge_me_reviews_review_snippet_widget_9PffyQ": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_snippet_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "vitals_trust_jMeUdA": {
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "custom_liquid_PejiAW",
+        "price",
+        "text_LPyfpg",
+        "custom_liquid_Le6Ljx",
+        "variant_picker",
+        "buy_buttons",
+        "text_JUQV4T",
+        "collapsible_tab_L8dKVa",
+        "collapsible_tab_x7CWVA",
+        "collapsible_tab_Yew6Fz",
+        "collapsible_tab_adTPt9",
+        "custom_liquid_6txmL4",
+        "judge_me_reviews_review_snippet_widget_9PffyQ",
+        "vitals_trust_jMeUdA"
+      ],
+      "custom_css": [
+        ".product__tax {font-size: 14px;}"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "enable_sticky_info": true,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "60421194-02d3-4142-a101-cab229136e5b": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".pad {padding-right: 5px; padding-left: 5px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h1><center>Trusted By 80,000+ Music Fans</center></h1>\n</br>\n\n<div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
+        "color_scheme": "accent-2",
+        "padding_top": 60,
+        "padding_bottom": 40
+      }
+    },
+    "9df63e1f-45c9-48f7-a296-1f017f30a212": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14884059414602__9df63e1f-45c9-48f7-a296-1f017f30a212-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Experience Metal Like Never Before",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__9df63e1f-45c9-48f7-a296-1f017f30a212-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 20
+      }
+    },
+    "7bdbd5c0-c846-4438-9b98-823f59d10006": {
+      "type": "multirow",
+      "blocks": {
+        "2e53b314-bb46-48ce-8c15-ddce6bbec802": {
+          "type": "row-with-video",
+          "settings": {
+            "video": "shopify://files/videos/explosion.mp4",
+            "video_url": "",
+            "enable_video_looping": true,
+            "autoplay": true,
+            "caption": "",
+            "heading": "Multi-Driver Tech",
+            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Untitled.jpg",
+            "caption": "",
+            "heading": "Natural Sound Field",
+            "text": "<p>Heavys patented technology built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/heavys_headphone_2.png",
+            "caption": "",
+            "heading": "World Class Features",
+            "text": "<p>Equipped with active noise cancellation, transparent mode, super soft earcups, wired/wireless options, prolonged play time, 5 built-in microphones, USB-C</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "2e53b314-bb46-48ce-8c15-ddce6bbec802",
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-2",
+        "template--14884059414602__7bdbd5c0-c846-4438-9b98-823f59d10006-row-3"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "row_color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "mobile_content_alignment": "center",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "scroll_anchor": ""
+      }
+    },
+    "image_with_text_G69JcL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GPaLLg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top Rating from SoundGuys!",
+            "heading_size": "h2"
+          }
+        },
+        "text_yyYfGw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Heavys outscored competitors in the Over-Ear Headphones Category</p>",
+            "text_style": "body"
+          }
+        },
+        "button_h7EXhe": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Elevate My Sound",
+            "button_link": "#top"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GPaLLg",
+        "text_yyYfGw",
+        "button_h7EXhe"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/soundguys-review-heavys-new-box_6df95cc9-4ca2-48fc-ac7e-b009f559194f.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 28,
+        "padding_bottom": 12,
+        "scroll_anchor": ""
+      }
+    },
+    "23bdb07e-77f8-419c-9568-b7766935372a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Enhance Your Listening Experience",
+            "heading_size": "h2"
+          }
+        },
+        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1": {
+          "type": "text",
+          "settings": {
+            "text": "Personalize your headphones with limited-edition {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0",
+        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.heavys_custom.band.value.image.value }}",
+        "image_overlay_opacity": 50,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true,
+        "scroll_anchor": ""
+      }
+    },
+    "e3ca781b-9d44-4c07-909d-7da66958b19c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "{{ product.metafields.heavys_custom.band.value.shells_in_box.value }}",
+            "icon": "none",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "{{ product.metafields.heavys_custom.band.value.shells_on_headphones.value }}",
+            "icon": "none",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-1",
+        "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
+    },
+    "e836ee92-247c-4b1b-a750-8b108bc417dd": {
+      "type": "rich-text",
+      "blocks": {
+        "0013955e-afe9-424b-9c91-bf7988f0704f": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>{{ product.metafields.heavys_custom.band.value.band_description.value }}</em></p>"
+          }
+        },
+        "94d76b70-4141-496c-b683-487490dcb35e": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "button_link": "#buy",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "0013955e-afe9-424b-9c91-bf7988f0704f",
+        "94d76b70-4141-496c-b683-487490dcb35e"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_ijPtUA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rj3DrC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.</em>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rj3DrC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "243990a3-4122-461a-b6d3-04139fdb26fc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How HEAVYS Shells™ work?",
+            "heading_size": "h2"
+          }
+        },
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Collect <strong>Shells</strong> to style & personalize your Heavys Headphones</p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps:</p><p>Detach -&gt; Attach New -&gt; Headbang 🤘</p>",
+            "text_style": "body"
+          }
+        },
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "button_link": "#top"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-0",
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1",
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/shellshowto_copy.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "scroll_anchor": ""
+      }
+    },
+    "463cf269-3e55-4128-838b-822482a855bf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>You May Also Like</strong>",
+        "heading_size": "h2",
+        "description": "<p>Check out top Shells Designs metal fans are grabbing now</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shells",
+        "products_to_show": 24,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "be4805c2-025c-4ff7-be0e-c9a17287274f",
+    "main",
+    "60421194-02d3-4142-a101-cab229136e5b",
+    "9df63e1f-45c9-48f7-a296-1f017f30a212",
+    "7bdbd5c0-c846-4438-9b98-823f59d10006",
+    "image_with_text_G69JcL",
+    "23bdb07e-77f8-419c-9568-b7766935372a",
+    "e3ca781b-9d44-4c07-909d-7da66958b19c",
+    "e836ee92-247c-4b1b-a750-8b108bc417dd",
+    "rich_text_ijPtUA",
+    "243990a3-4122-461a-b6d3-04139fdb26fc",
+    "463cf269-3e55-4128-838b-822482a855bf",
+    "related-products"
+  ]
+}
