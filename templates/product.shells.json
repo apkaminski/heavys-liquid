@@ -297,18 +297,19 @@
           "type": "heading",
           "settings": {
             "heading": "Top Rating from SoundGuys!",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_yyYfGw": {
           "type": "text",
           "settings": {
-            "text": "<p>Heavys scored over all competitors in the Over-Ear Headphones Category</p>",
+            "text": "<p>Heavys outscored competitors in the Over-Ear Headphones Category</p>",
             "text_style": "body"
           }
         },
         "button_h7EXhe": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Elevate My Sound",
             "button_link": "#top"
