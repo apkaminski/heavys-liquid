@@ -352,7 +352,7 @@
         "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1": {
           "type": "text",
           "settings": {
-            "text": "Enhance Your Listening Experience with {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "text": "Enhance your listening experience with the limited edition {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
             "text_style": "subtitle"
           }
         }
