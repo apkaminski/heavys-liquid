@@ -171,9 +171,6 @@
                                     </dd>
                                   </div>
                                 {%- endfor -%}
-
-                                <!-- Custom Message -->
-<p class="cart-message">Great choice! Your items are reserved for 10 minutes.</p>
                               {%- endif -%}
 
                               {%- for property in item.properties -%}
@@ -214,6 +211,10 @@
                                 {{ discount.title }}
                               </li>
                             {%- endfor -%}
+
+                                                            <!-- Custom Message -->
+<h4 >Great choice! Your items are reserved for 10 minutes.</h4>
+                            
                           </ul>
                         </td>
 
