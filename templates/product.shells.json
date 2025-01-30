@@ -9,45 +9,6 @@
  */
 {
   "sections": {
-    "23bdb07e-77f8-419c-9568-b7766935372a": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "{{ product.metafields.heavys_custom.band.value.name.value }}",
-            "heading_size": "h2"
-          }
-        },
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ product.metafields.heavys_custom.band.value.band_description.value }}",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0",
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1"
-      ],
-      "settings": {
-        "image": "{{ product.metafields.heavys_custom.band.value.image.value }}",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "top-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "scroll_anchor": ""
-      }
-    },
     "be4805c2-025c-4ff7-be0e-c9a17287274f": {
       "type": "rich-text",
       "blocks": {
@@ -377,6 +338,44 @@
         "scroll_anchor": ""
       }
     },
+    "23bdb07e-77f8-419c-9568-b7766935372a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Enhance Your Listening Experience",
+            "heading_size": "h2"
+          }
+        },
+        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1": {
+          "type": "text",
+          "settings": {
+            "text": "Enhance Your Listening Experience with {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0",
+        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.heavys_custom.band.value.image.value }}",
+        "image_overlay_opacity": 20,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "scroll_anchor": ""
+      }
+    },
     "e3ca781b-9d44-4c07-909d-7da66958b19c": {
       "type": "multicolumn",
       "blocks": {
@@ -408,7 +407,7 @@
         "template--14884059414602__e3ca781b-9d44-4c07-909d-7da66958b19c-column-2"
       ],
       "settings": {
-        "title": "Enhance Your Listening Experience Inside & Out",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -420,7 +419,7 @@
         "color_scheme": "",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 12,
         "padding_bottom": 36,
         "scroll_anchor": ""
       }
@@ -579,13 +578,13 @@
     }
   },
   "order": [
-    "23bdb07e-77f8-419c-9568-b7766935372a",
     "be4805c2-025c-4ff7-be0e-c9a17287274f",
     "main",
     "60421194-02d3-4142-a101-cab229136e5b",
     "9df63e1f-45c9-48f7-a296-1f017f30a212",
     "7bdbd5c0-c846-4438-9b98-823f59d10006",
     "image_with_text_G69JcL",
+    "23bdb07e-77f8-419c-9568-b7766935372a",
     "e3ca781b-9d44-4c07-909d-7da66958b19c",
     "e836ee92-247c-4b1b-a750-8b108bc417dd",
     "rich_text_ijPtUA",
