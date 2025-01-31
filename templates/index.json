@@ -61,7 +61,7 @@
         "timer_cXQ8W3"
       ],
       "custom_css": [
-        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: bold; color: #ffffff; font-size: 14px;}",
+        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: bold; color: #ffffff; font-size: 16px;}",
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
         ".banner__text:nth-child(4) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
         ".banner__box {background-color: #000000; padding-top: 10px; padding-bottom: 10px;}",
