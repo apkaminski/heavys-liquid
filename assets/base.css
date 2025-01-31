@@ -3553,3 +3553,19 @@ details-disclosure > details {
   list-style: disc;
   margin-bottom: 1rem;
 }
+@media screen and (max-width: 749px) {
+  .product-popup-modal__content {
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 90% !important;
+    max-height: 85vh !important; /* Gives more room for content */
+    overflow-y: auto !important;
+    padding: 2rem !important;
+  }
+
+  body.modal-open {
+    overflow: hidden !important; /* Prevents background from scrolling */
+  }
+}
