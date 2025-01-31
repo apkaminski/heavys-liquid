@@ -16,11 +16,22 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Click to Save an Extra $40 Today!",
             "behaviour_type": "klavyo_popup",
             "link": "",
             "klavyo_desktop_id": "VaqSGG",
+            "klavyo_mobile_id": ""
+          }
+        },
+        "announcement_pxeWJ8": {
+          "type": "announcement",
+          "settings": {
+            "text": "Who Needs Cupid? Save w/Code: VDAY",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
         },
@@ -67,6 +78,7 @@
       },
       "block_order": [
         "announcement-bar-0",
+        "announcement_pxeWJ8",
         "announcement_ekbCtT",
         "announcement_Dqc6iz",
         "announcement_JeBx4p",
