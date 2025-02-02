@@ -536,22 +536,12 @@
             "scroll_anchor": ""
           }
         },
-        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Drivers per side",
-            "icon": "none",
-            "row_content": "<p>4 (2 low / mid range speakers, 2 high frequency tweeter)</p>",
-            "page": "",
-            "scroll_anchor": ""
-          }
-        },
         "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-3": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Frequency range",
             "icon": "none",
-            "row_content": "<p>5 Hz to 46 kHz / 5 Hz to 24 kHz as Bluetooth headset<br/>THD at 100 dB SPL, 1 kHz: &gt;0.05%</p>",
+            "row_content": "<p>20 Hz - 20 kHz</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -561,7 +551,7 @@
           "settings": {
             "heading": "Weight",
             "icon": "none",
-            "row_content": "<p>410 g / 14.5 oz</p>",
+            "row_content": "<p>?</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -571,7 +561,7 @@
           "settings": {
             "heading": "BT Version",
             "icon": "none",
-            "row_content": "<p>5.1</p>",
+            "row_content": "<p>5.3</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -591,7 +581,7 @@
           "settings": {
             "heading": "Battery lifetime",
             "icon": "none",
-            "row_content": "<p>up to 50 h</p>",
+            "row_content": "<p>Up to 8-Hours earbuds</p><p>24 hours with case</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -651,7 +641,7 @@
           "settings": {
             "heading": "USB",
             "icon": "none",
-            "row_content": "<p>USB-C socket for charging and digital in</p>",
+            "row_content": "<p>USB-C socket for charging</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -670,7 +660,6 @@
       "block_order": [
         "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-0",
         "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-1",
-        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-2",
         "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-3",
         "97e71b43-c3f6-4ed2-a4b5-1b83dc76095c",
         "bae46afd-53ac-45c9-b84e-a55a7f94ea3f",
