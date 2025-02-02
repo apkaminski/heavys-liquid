@@ -294,7 +294,7 @@
           "type": "column",
           "settings": {
             "icon": "radio",
-            "title": "Noise Cancelling",
+            "title": "Act. Noise Cancelling",
             "text": "",
             "link_label": "",
             "link": ""
@@ -377,7 +377,7 @@
         "h2 {margin: 0 auto 2rem auto; text-align: center;}"
       ],
       "settings": {
-        "title": "",
+        "title": "High-Quality Sound. Portable.",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
