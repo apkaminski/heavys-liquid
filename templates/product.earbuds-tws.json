@@ -610,6 +610,7 @@
         },
         "97e71b43-c3f6-4ed2-a4b5-1b83dc76095c": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Weight",
             "icon": "none",
@@ -620,6 +621,7 @@
         },
         "2d3347e7-bf1e-4cfe-91fc-354014fa8734": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Max SPL",
             "icon": "none",
@@ -640,6 +642,7 @@
         },
         "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Voice Pick up",
             "icon": "none",
