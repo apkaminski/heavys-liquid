@@ -88,9 +88,9 @@
         "collapsible_tab_PmKyjY": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "What's in the H1E Box",
+            "heading": "What's in the Box",
             "icon": "box",
-            "content": "<p>+ Heavys H1H Headphones</p><p>+ Analog Dynamic Mic & Premium  Cable + Splitter</p><p>+ Audio AUX Premium Cable 2.5mm -&gt; 3.5mm with adapters for Xbox One, Xbox Series S, Xbox Series X, PC, and PS4, PS5</p><p>+ Heavys HeX Shells + Heavys Original Shells</p><p>+ USB-C Cable for Charging & Listening</p><p>+ Premium Protective Travel Case</p>",
+            "content": "<p>+ Heavys Earbuds</p><p>+ Analog Dynamic Mic & Premium  Cable + Splitter</p><p>+ Audio AUX Premium Cable 2.5mm -&gt; 3.5mm with adapters for Xbox One, Xbox Series S, Xbox Series X, PC, and PS4, PS5</p><p>+ Heavys HeX Shells + Heavys Original Shells</p><p>+ USB-C Cable for Charging & Listening</p><p>+ Premium Protective Travel Case</p>",
             "page": ""
           }
         },
@@ -264,7 +264,7 @@
           "type": "column",
           "settings": {
             "icon": "barcode",
-            "title": "50 Hours Battery Playtime",
+            "title": "24 Hours Case Charge",
             "text": "",
             "link_label": "",
             "link": ""
@@ -274,17 +274,7 @@
           "type": "column",
           "settings": {
             "icon": "disc",
-            "title": "8 Drivers Surround Sound",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "a98f09b9-f13e-43fe-8e23-76fa02548618": {
-          "type": "column",
-          "settings": {
-            "icon": "headset",
-            "title": "Ergonomic Design for Long Use",
+            "title": "Heavys Signature Sound",
             "text": "",
             "link_label": "",
             "link": ""
@@ -314,7 +304,7 @@
           "type": "column",
           "settings": {
             "icon": "bluetooth",
-            "title": "Bluetooth & Digital Mic",
+            "title": "Bluetooth 5.3",
             "text": "",
             "link_label": "",
             "link": ""
@@ -334,7 +324,7 @@
           "type": "column",
           "settings": {
             "icon": "build",
-            "title": "Multi-Platform Compatible",
+            "title": "Mobile App with EQ",
             "text": "",
             "link_label": "",
             "link": ""
@@ -344,17 +334,7 @@
           "type": "column",
           "settings": {
             "icon": "diamond",
-            "title": "Protective Travel  Case",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_WUmry4": {
-          "type": "column",
-          "settings": {
-            "icon": "fire",
-            "title": "Custom Designs",
+            "title": "Portable Durable Case",
             "text": "",
             "link_label": "",
             "link": ""
@@ -364,14 +344,12 @@
       "block_order": [
         "9a8acc7b-e800-4375-babb-b1db42f5ecb1",
         "25ebce84-0801-436c-ac34-74ace415f590",
-        "a98f09b9-f13e-43fe-8e23-76fa02548618",
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2",
         "column_drjTi9",
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0",
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1",
         "8041cf07-1630-4520-9b8c-916dc33762d7",
-        "65b42d82-acc4-41e8-aa6b-9a65cf151134",
-        "column_WUmry4"
+        "65b42d82-acc4-41e8-aa6b-9a65cf151134"
       ],
       "custom_css": [
         "h2 {margin: 0 auto 2rem auto; text-align: center;}"
@@ -381,7 +359,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -389,8 +367,8 @@
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_top": 32,
+        "padding_bottom": 32,
         "scroll_anchor": ""
       }
     },
