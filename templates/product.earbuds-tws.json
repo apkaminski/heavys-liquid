@@ -274,7 +274,7 @@
           "type": "column",
           "settings": {
             "icon": "disc",
-            "title": "Heavys Signature Sound",
+            "title": "Dynamic Drivers",
             "text": "",
             "link_label": "",
             "link": ""
@@ -339,6 +339,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_6mazN3": {
+          "type": "column",
+          "settings": {
+            "icon": "snowflake",
+            "title": "IPX 5 Rating",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RhJnMh": {
+          "type": "column",
+          "settings": {
+            "icon": "stopwatch",
+            "title": "Low-Latency",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -349,7 +369,9 @@
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0",
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1",
         "8041cf07-1630-4520-9b8c-916dc33762d7",
-        "65b42d82-acc4-41e8-aa6b-9a65cf151134"
+        "65b42d82-acc4-41e8-aa6b-9a65cf151134",
+        "column_6mazN3",
+        "column_RhJnMh"
       ],
       "custom_css": [
         "h2 {margin: 0 auto 2rem auto; text-align: center;}"
