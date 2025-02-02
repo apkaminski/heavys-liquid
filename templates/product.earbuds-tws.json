@@ -314,7 +314,7 @@
           "type": "column",
           "settings": {
             "icon": "lightning_bolt",
-            "title": "USB-C Rapid Charging",
+            "title": "USBC Rapid Charging",
             "text": "",
             "link_label": "",
             "link": ""
