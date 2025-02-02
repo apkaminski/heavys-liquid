@@ -641,7 +641,7 @@
           "settings": {
             "heading": "USB",
             "icon": "none",
-            "row_content": "<p>USB-C socket for charging</p>",
+            "row_content": "<p>USB-C for charging case</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -649,9 +649,19 @@
         "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Learn More:",
+            "heading": "Water Resistance",
             "icon": "none",
-            "row_content": "<p><a href=\"/blogs/testimonials/heavys-h1h-headphones-product-info\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">H1H Headphones Product Overview</a></p>",
+            "row_content": "<p>IPX5 rated</p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "collapsible_row_RigTGP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Charging Case",
+            "icon": "none",
+            "row_content": "<p>Compact, durable case with magnetic closure</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -671,7 +681,8 @@
         "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b",
         "28c887b6-3d0d-45fb-bbd9-260a24339e8f",
         "0640185d-f352-442b-9b4e-ce6844cc6853",
-        "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3"
+        "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3",
+        "collapsible_row_RigTGP"
       ],
       "custom_css": [],
       "settings": {
