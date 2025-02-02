@@ -744,7 +744,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 4,
+        "padding_bottom": 12,
         "scroll_anchor": ""
       }
     },
