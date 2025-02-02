@@ -264,7 +264,7 @@
           "type": "column",
           "settings": {
             "icon": "barcode",
-            "title": "24 Hours Case Charge",
+            "title": "8-24 Hour Playtime",
             "text": "",
             "link_label": "",
             "link": ""
