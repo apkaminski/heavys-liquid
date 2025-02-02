@@ -633,7 +633,7 @@
           "settings": {
             "heading": "Controls",
             "icon": "none",
-            "row_content": "<p>?</p>",
+            "row_content": "<p>Touch controls for play, pause, and volume</p>",
             "page": "",
             "scroll_anchor": ""
           }
