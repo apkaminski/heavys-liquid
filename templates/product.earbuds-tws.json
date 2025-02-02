@@ -122,15 +122,6 @@
             "page": ""
           }
         },
-        "collapsible_tab_VxhV37": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Free Shipping on $200+ Orders",
-            "icon": "truck",
-            "content": "<ul><li>+Free Shipping on 200+ USD Orders</li></ul><p></p><ul><li>+14 Day 'No Questions Asked' Return Policy after received date<br/></li><li>+ One Year Warranty</li></ul>",
-            "page": ""
-          }
-        },
         "complementary_z4cWLg": {
           "type": "complementary",
           "disabled": true,
@@ -145,9 +136,8 @@
             "enable_quick_add": true
           }
         },
-        "judge_me_reviews_preview_badge_N7qrzR": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
+        "vitals_trust_m9FL6U": {
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {}
         }
       },
@@ -162,9 +152,8 @@
         "collapsible_tab_ERVzCQ",
         "collapsible_tab_YU4fpp",
         "collapsible_tab_fex7nB",
-        "collapsible_tab_VxhV37",
         "complementary_z4cWLg",
-        "judge_me_reviews_preview_badge_N7qrzR"
+        "vitals_trust_m9FL6U"
       ],
       "settings": {
         "color_scheme": "inverse",
