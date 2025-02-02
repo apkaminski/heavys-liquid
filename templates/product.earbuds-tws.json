@@ -573,7 +573,7 @@
           "settings": {
             "heading": "Codecs",
             "icon": "none",
-            "row_content": "<p>SBC, AAC, aptX adaptive</p>",
+            "row_content": "<p>SBC, AAC, AptX, AptX Adaptive, AptX HD</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -623,7 +623,7 @@
           "settings": {
             "heading": "Max SPL",
             "icon": "none",
-            "row_content": "<p>According to IEC 62368-1</p>",
+            "row_content": "<p>?</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -643,7 +643,7 @@
           "settings": {
             "heading": "Controls",
             "icon": "none",
-            "row_content": "<p>Volume up / down, play / pause, next / previous song, take / decline / end a call</p>",
+            "row_content": "<p>?</p>",
             "page": "",
             "scroll_anchor": ""
           }
