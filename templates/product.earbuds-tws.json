@@ -603,7 +603,7 @@
           "settings": {
             "heading": "Noise Cancelling",
             "icon": "none",
-            "row_content": "<p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance</p>",
+            "row_content": "<p>Passive Noise Isolation combined with ANC</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -658,6 +658,16 @@
             "scroll_anchor": ""
           }
         },
+        "collapsible_row_w4cKJN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Software",
+            "icon": "none",
+            "row_content": "<p>Pairs with  Mobile App for EQ & Firmware Upgrades</p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
         "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3": {
           "type": "collapsible_row",
           "settings": {
@@ -694,6 +704,7 @@
         "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b",
         "28c887b6-3d0d-45fb-bbd9-260a24339e8f",
         "0640185d-f352-442b-9b4e-ce6844cc6853",
+        "collapsible_row_w4cKJN",
         "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3",
         "collapsible_row_RigTGP"
       ],
