@@ -91,7 +91,7 @@
           "settings": {
             "heading": "What's in the Box",
             "icon": "box",
-            "content": "<p>+ Heavys Earbuds</p><p>+ Premium Protective Charging Case</p><p>+ USB-C Cable for Charging</p><p>+ Multiple ear-tip sizes</p><p>+ 1 Year Warranty</p>",
+            "content": "<p>+ Heavys Earbuds</p><p>+ Compact Protective Charging Case</p><p>+ USB-C Cable for Charging</p><p>+ Multiple ear-tip sizes</p><p>+ 1 Year Warranty</p>",
             "page": ""
           }
         },
@@ -108,9 +108,9 @@
         "collapsible_tab_YU4fpp": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Features Crafted for Music Lovers",
+            "heading": "Crafted for Music Lovers",
             "icon": "star",
-            "content": "<p><strong>Immersive Audio</strong>: 8 premium speakers for lifelike sound, hear every move</p><p><strong>Clear Communication</strong>: Crystal clear dynamic mic and tangle-free detachable cable.</p><p><strong>Flexible Connectivity</strong>: Zero Latency Wired or low-latency Bluetooth options.</p><p><strong>Comfort for Hours</strong>: Long battery life and ergonomic design.</p><p><strong>Versatile Compatibility</strong>: Works with PC, mobile, and major consoles (Xbox One, Series X, PS4, PS5).</p><p><strong>Personalized Look</strong>: Interchangeable shells to match your style.</p><p><strong>Active Noise Cancellation</strong>: Focus on the game, anywhere.</p><p><strong>Future-Proof</strong>: Software updates with customizable sound profiles.</p><p><strong>Travel-Ready</strong>: Stylish premium travel case included.</p><p><strong>Highly Recommended</strong>: Trusted by gamers worldwide!</p>",
+            "content": "<p><strong>Immersive Audio</strong>: Wide-soundstage delivering a HEAVYS signature concert-like experience optimized for clarity and punch</p><p><strong>Clear Communication</strong>: Crystal clear dynamic dual-mic system & dynamic drivers for on the go, workout or casual listening</p><p><strong>Connectivity</strong>: Low-Latency  Wireless Bluetooth 5.3</p><p><strong>Ultra - Comfortable</strong>: Ergonomically designed to fit securely and comfortably.</p><p><strong>Noise Cancellation</strong>: Focus on the game, anywhere.</p><p></p><p></p><p><strong>Daily Use:</strong> Ideal for commuting, working, and casual listening.</p><p><strong>Concert Simulation:</strong> Delivers a concert-like experience for metal fans.</p><p><strong>Workout-Friendly:</strong> Sweat-resistant and secure fit for workouts.</p><p><strong>Phone Calls:</strong> Dual-mic system for clear phone calls.<strong>Future-Proof</strong>: Software updates with customizable sound profiles via mobile app</p><p><strong>Protected</strong>: Compact, Durable Charging Case (Rapid Charge)</p><p><strong>Mobile app</strong> with EQ sound personalization App personalization</p><p><strong>Highly Recommended</strong>: Praised sound quality and fit by customers</p>",
             "page": ""
           }
         },
@@ -588,6 +588,16 @@
             "scroll_anchor": ""
           }
         },
+        "collapsible_row_LCiHcD": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Microphone",
+            "icon": "none",
+            "row_content": "<p>Dual-mic system</p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
         "81e7d9a4-097f-43fc-ae29-369ba5279d73": {
           "type": "collapsible_row",
           "settings": {
@@ -700,6 +710,7 @@
         "79321c10-0039-4431-9e91-49bb9a38d1af",
         "e2e4d849-dd34-4954-920f-6f389b7fe144",
         "collapsible_row_zEWWBP",
+        "collapsible_row_LCiHcD",
         "81e7d9a4-097f-43fc-ae29-369ba5279d73",
         "4e02c51b-77f2-4550-bbb4-ace39c555df5",
         "97e71b43-c3f6-4ed2-a4b5-1b83dc76095c",
