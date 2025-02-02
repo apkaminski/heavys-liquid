@@ -548,16 +548,6 @@
             "scroll_anchor": ""
           }
         },
-        "97e71b43-c3f6-4ed2-a4b5-1b83dc76095c": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Weight",
-            "icon": "none",
-            "row_content": "<p>?</p>",
-            "page": "",
-            "scroll_anchor": ""
-          }
-        },
         "bae46afd-53ac-45c9-b84e-a55a7f94ea3f": {
           "type": "collapsible_row",
           "settings": {
@@ -618,10 +608,30 @@
             "scroll_anchor": ""
           }
         },
+        "97e71b43-c3f6-4ed2-a4b5-1b83dc76095c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Weight",
+            "icon": "none",
+            "row_content": "<p>?</p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
         "2d3347e7-bf1e-4cfe-91fc-354014fa8734": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Max SPL",
+            "icon": "none",
+            "row_content": "<p>?</p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "28c887b6-3d0d-45fb-bbd9-260a24339e8f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Controls",
             "icon": "none",
             "row_content": "<p>?</p>",
             "page": "",
@@ -634,16 +644,6 @@
             "heading": "Voice Pick up",
             "icon": "none",
             "row_content": "<p>2 microphone end-fire array</p>",
-            "page": "",
-            "scroll_anchor": ""
-          }
-        },
-        "28c887b6-3d0d-45fb-bbd9-260a24339e8f": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Controls",
-            "icon": "none",
-            "row_content": "<p>?</p>",
             "page": "",
             "scroll_anchor": ""
           }
@@ -693,16 +693,16 @@
         "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-0",
         "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-1",
         "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-3",
-        "97e71b43-c3f6-4ed2-a4b5-1b83dc76095c",
         "bae46afd-53ac-45c9-b84e-a55a7f94ea3f",
         "79321c10-0039-4431-9e91-49bb9a38d1af",
         "e2e4d849-dd34-4954-920f-6f389b7fe144",
         "collapsible_row_zEWWBP",
         "81e7d9a4-097f-43fc-ae29-369ba5279d73",
         "4e02c51b-77f2-4550-bbb4-ace39c555df5",
+        "97e71b43-c3f6-4ed2-a4b5-1b83dc76095c",
         "2d3347e7-bf1e-4cfe-91fc-354014fa8734",
-        "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b",
         "28c887b6-3d0d-45fb-bbd9-260a24339e8f",
+        "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b",
         "0640185d-f352-442b-9b4e-ce6844cc6853",
         "collapsible_row_w4cKJN",
         "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3",
