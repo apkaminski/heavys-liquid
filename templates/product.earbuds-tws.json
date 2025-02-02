@@ -588,6 +588,16 @@
             "scroll_anchor": ""
           }
         },
+        "collapsible_row_zEWWBP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Charging Time",
+            "icon": "none",
+            "row_content": "<p>1.5 hours for earbuds and 2 hours for case</p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
         "81e7d9a4-097f-43fc-ae29-369ba5279d73": {
           "type": "collapsible_row",
           "settings": {
@@ -677,6 +687,7 @@
         "bae46afd-53ac-45c9-b84e-a55a7f94ea3f",
         "79321c10-0039-4431-9e91-49bb9a38d1af",
         "e2e4d849-dd34-4954-920f-6f389b7fe144",
+        "collapsible_row_zEWWBP",
         "81e7d9a4-097f-43fc-ae29-369ba5279d73",
         "4e02c51b-77f2-4550-bbb4-ace39c555df5",
         "2d3347e7-bf1e-4cfe-91fc-354014fa8734",
