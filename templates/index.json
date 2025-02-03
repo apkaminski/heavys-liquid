@@ -696,7 +696,7 @@
           "settings": {
             "heading": "Do you offer split payments?",
             "icon": "none",
-            "row_content": "<p>Yes! You can use Shop Pay for payments in the US starting at $27 for 12 months or starting at $49 with 0% APR for 6 months. , you can also use Klarna for payments around the world outside the US. Paypal is available as well with payment options in some countries</p>",
+            "row_content": "<p>Yes! You can use Shop Pay for payments in the US starting at $20 for 12 months or starting at $49 with 0% APR for 6 months. , you can also use Klarna for payments around the world outside the US. Paypal is available as well with payment options in some countries</p>",
             "page": ""
           }
         },
