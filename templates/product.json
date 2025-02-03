@@ -47,6 +47,19 @@
         "description": {
           "type": "description",
           "settings": {}
+        },
+        "complementary_HFkhRJ": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 8,
+            "products_per_page": 2,
+            "pagination_style": "dots",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
         }
       },
       "block_order": [
@@ -56,7 +69,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "complementary_HFkhRJ"
       ],
       "custom_css": [
         ".product__tax {font-size: 14px;}"
@@ -75,25 +89,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "disabled": true,
-      "settings": {
-        "heading": "You may also like",
-        "heading_size": "h2",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 28,
-        "padding_bottom": 28
       }
     },
     "collection_list_G6anfb": {
@@ -136,6 +131,25 @@
         "padding_bottom": 36
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
     "4c128cdd-7b09-4958-a9c3-24a9f4c2bd5e": {
       "type": "custom-liquid",
       "settings": {
@@ -148,8 +162,8 @@
   },
   "order": [
     "main",
-    "related-products",
     "collection_list_G6anfb",
+    "related-products",
     "4c128cdd-7b09-4958-a9c3-24a9f4c2bd5e"
   ]
 }
