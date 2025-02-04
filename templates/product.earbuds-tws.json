@@ -86,29 +86,28 @@
             "show_gift_card_recipient": false
           }
         },
-        "collapsible_tab_PmKyjY": {
+        "collapsible_tab_ERVzCQ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "What's in the Box",
-            "icon": "box",
-            "content": "<p>+ Heavys Earbuds</p><p>+ Compact Protective Charging Case</p><p>+ USB-C Cable for Charging</p><p>+ Multiple ear-tip sizes</p><p>+ 1 Year Warranty</p>",
+            "heading": "Money Back Guarantee",
+            "icon": "return",
+            "content": "<p>14 Day Money Back Guarantee after product delivery</p>",
             "page": ""
           }
         },
-        "collapsible_tab_ERVzCQ": {
+        "collapsible_tab_tMTHha": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Features Crafted for Gamers",
-            "icon": "star",
-            "content": "<p>+ Immersive natural surround sound field powered by 8 speakers with patented placement optimized for in-game sound effects.</p><p>+ 50 hours of battery play time</p><p>+ Zero-latency sound connections with premium AUX cable. </p><p>+<strong> </strong>High-quality, detacheable wired omni-directional & noise-canceling microphone with adjustable boom arm</p><p>+  Seamless wireless gaming with low-latency Bluetooth or 2.4 GHz connections.</p><p>+ HellBlocker™ active noise cancellation</p><p>+ Super comfortable ergonomic design for long sessions, reducing fatigue during extended use.</p><p>+ Upcoming software for custom sound profiles and equalizer settings</p>",
+            "heading": "Ships in August 2025",
+            "icon": "truck",
+            "content": "<p>+ Heavys Earbuds</p><p>+ Compact Protective Charging Case</p><p>+ USB-C Cable for Charging</p><p>+ Multiple ear-tip sizes</p><p>+ 1 Year Warranty</p>",
             "page": ""
           }
         },
         "collapsible_tab_YU4fpp": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Crafted for Music Lovers",
+            "heading": "Features for Music Lovers",
             "icon": "star",
             "content": "<p><strong>+ Experience Immersive Audio On the Go</strong>: Wide-soundstage delivering the HEAVYS signature concert-like experience, optimized for high-output, clarity & punch without distortion<br/></p><p><strong><br/>+ Clear Communications</strong>: Crystal clear dynamic dual-mic system & dynamic drivers for on the go, calls, work or casual listening</p><p><strong><br/>+ Connectivity</strong>: Low-Latency  Wireless Bluetooth 5.3</p><p><strong><br/>+ Ultra-Comfortable</strong>: Ergonomically designed to fit securely and comfortably. sweat resistant</p><p><strong><br/>+ Noise Cancellation</strong>:  Passive noise isolation with superior ear tip fit + Active noise cancellation</p><p><strong><br/>+ Easy Controls:</strong> Touch controls for play, pause, and volume adjustments.</p><p><strong><br/>+ Workout-Friendly:</strong> Sweat-resistant and secure fit for workouts<br/><br/><strong>+ Portable</strong>: Compact, Durable Rapid-Charging Case,</p>",
             "page": ""
@@ -123,18 +122,13 @@
             "page": ""
           }
         },
-        "complementary_z4cWLg": {
-          "type": "complementary",
-          "disabled": true,
+        "collapsible_tab_PmKyjY": {
+          "type": "collapsible_tab",
           "settings": {
-            "block_heading": "Save 25% on Custom Shells",
-            "make_collapsible_row": true,
-            "icon": "fire",
-            "product_list_limit": 8,
-            "products_per_page": 2,
-            "pagination_style": "dots",
-            "image_ratio": "portrait",
-            "enable_quick_add": true
+            "heading": "What's in the Box",
+            "icon": "box",
+            "content": "<p>+ Heavys Earbuds</p><p>+ Compact Protective Charging Case</p><p>+ USB-C Cable for Charging</p><p>+ Multiple ear-tip sizes</p><p>+ 1 Year Warranty</p>",
+            "page": ""
           }
         },
         "vitals_trust_m9FL6U": {
@@ -150,11 +144,11 @@
         "price",
         "variant_picker_qPDMbV",
         "buy_buttons",
-        "collapsible_tab_PmKyjY",
         "collapsible_tab_ERVzCQ",
+        "collapsible_tab_tMTHha",
         "collapsible_tab_YU4fpp",
         "collapsible_tab_fex7nB",
-        "complementary_z4cWLg",
+        "collapsible_tab_PmKyjY",
         "vitals_trust_m9FL6U"
       ],
       "settings": {
