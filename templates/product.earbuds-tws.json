@@ -167,6 +167,23 @@
         "padding_bottom": 28
       }
     },
+    "video_jdURJp": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/Axel_Short_Video.mp4",
+        "autoplay": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "axel grell heavys headphones",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 16,
+        "scroll_anchor": ""
+      }
+    },
     "image_with_text_HtwVc9": {
       "type": "image-with-text",
       "blocks": {
@@ -796,23 +813,6 @@
         "padding_bottom": 40
       }
     },
-    "video_jdURJp": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "enable_video_looping": false,
-        "video": "shopify://files/videos/Axel_Short_Video.mp4",
-        "autoplay": false,
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "axel grell heavys headphones",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 16,
-        "scroll_anchor": ""
-      }
-    },
     "89a118c0-27aa-4e50-a67f-aca584e69125": {
       "type": "featured-product",
       "blocks": {
@@ -896,6 +896,7 @@
   "order": [
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "main",
+    "video_jdURJp",
     "image_with_text_HtwVc9",
     "rich_text_bNMLc4",
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
@@ -905,7 +906,6 @@
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
     "image_with_text_KgRqHL",
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
-    "video_jdURJp",
     "89a118c0-27aa-4e50-a67f-aca584e69125",
     "related-products"
   ]
