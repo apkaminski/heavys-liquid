@@ -86,24 +86,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "collapsible_tab_ERVzCQ": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Money Back Guarantee",
-            "icon": "return",
-            "content": "<p>14 Day Money Back Guarantee after product delivery</p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_tMTHha": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Ships in August 2025",
-            "icon": "truck",
-            "content": "<p>+ Heavys Earbuds</p><p>+ Compact Protective Charging Case</p><p>+ USB-C Cable for Charging</p><p>+ Multiple ear-tip sizes</p><p>+ 1 Year Warranty</p>",
-            "page": ""
-          }
-        },
         "collapsible_tab_YU4fpp": {
           "type": "collapsible_tab",
           "settings": {
@@ -131,6 +113,24 @@
             "page": ""
           }
         },
+        "collapsible_tab_tMTHha": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ships in August 2025",
+            "icon": "truck",
+            "content": "<p>+ Heavys Earbuds</p><p>+ Compact Protective Charging Case</p><p>+ USB-C Cable for Charging</p><p>+ Multiple ear-tip sizes</p><p>+ 1 Year Warranty</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_ERVzCQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Money Back Guarantee",
+            "icon": "return",
+            "content": "<p>14 Day Money Back Guarantee after product delivery</p>",
+            "page": ""
+          }
+        },
         "vitals_trust_m9FL6U": {
           "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "disabled": true,
@@ -144,11 +144,11 @@
         "price",
         "variant_picker_qPDMbV",
         "buy_buttons",
-        "collapsible_tab_ERVzCQ",
-        "collapsible_tab_tMTHha",
         "collapsible_tab_YU4fpp",
         "collapsible_tab_fex7nB",
         "collapsible_tab_PmKyjY",
+        "collapsible_tab_tMTHha",
+        "collapsible_tab_ERVzCQ",
         "vitals_trust_m9FL6U"
       ],
       "settings": {
@@ -162,7 +162,7 @@
         "image_zoom": "none",
         "mobile_thumbnails": "show",
         "hide_variants": true,
-        "enable_video_looping": false,
+        "enable_video_looping": true,
         "padding_top": 28,
         "padding_bottom": 28
       }
