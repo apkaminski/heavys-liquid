@@ -276,16 +276,6 @@
             "link": ""
           }
         },
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2": {
-          "type": "column",
-          "settings": {
-            "icon": "build",
-            "title": "Ergonomic Design",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_drjTi9": {
           "type": "column",
           "settings": {
@@ -301,6 +291,16 @@
           "settings": {
             "icon": "bluetooth",
             "title": "Bluetooth 5.3",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2": {
+          "type": "column",
+          "settings": {
+            "icon": "build",
+            "title": "Ergonomic Design",
             "text": "",
             "link_label": "",
             "link": ""
@@ -360,9 +360,9 @@
       "block_order": [
         "9a8acc7b-e800-4375-babb-b1db42f5ecb1",
         "25ebce84-0801-436c-ac34-74ace415f590",
-        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2",
         "column_drjTi9",
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0",
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2",
         "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1",
         "8041cf07-1630-4520-9b8c-916dc33762d7",
         "65b42d82-acc4-41e8-aa6b-9a65cf151134",
