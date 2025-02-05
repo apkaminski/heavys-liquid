@@ -155,14 +155,14 @@
         "color_scheme": "inverse",
         "enable_sticky_info": true,
         "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
+        "constrain_to_viewport": false,
+        "media_fit": "cover",
         "gallery_layout": "thumbnail_slider",
         "media_position": "left",
         "image_zoom": "none",
         "mobile_thumbnails": "show",
         "hide_variants": true,
-        "enable_video_looping": true,
+        "enable_video_looping": false,
         "padding_top": 28,
         "padding_bottom": 28
       }
