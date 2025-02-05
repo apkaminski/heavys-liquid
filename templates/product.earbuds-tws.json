@@ -175,10 +175,10 @@
         "enable_video_looping": false,
         "video": "shopify://files/videos/Axel_Short_Video.mp4",
         "autoplay": false,
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_url": "",
         "description": "axel grell heavys headphones",
         "full_width": false,
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "padding_top": 24,
         "padding_bottom": 16,
         "scroll_anchor": ""
