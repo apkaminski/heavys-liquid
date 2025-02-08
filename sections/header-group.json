@@ -27,6 +27,7 @@
         },
         "announcement_pxeWJ8": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Who Needs Cupid? Save w/Code: VDAY",
             "behaviour_type": "link",
