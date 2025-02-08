@@ -15,14 +15,14 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "For Hearts That Shred",
+            "text": "Listen to Metal the Way You Should",
             "text_style": "subtitle"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "$40 Off All Headphones with Code: VDAY",
+            "heading": "Headphones For Heavy Music",
             "heading_size": "h1"
           }
         },
@@ -68,7 +68,7 @@
         ".js-timer {font-size: 16px; font-weight: bold; color: #ffffff;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2025-01-31_at_22.54.56.png",
+        "image": "shopify://shop_images/header-heavys_on_woman_in_festival_e3f669d3-bb44-48e9-8938-94bccc9d5207.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
