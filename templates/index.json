@@ -192,7 +192,7 @@
         "color_scheme": "inverse",
         "secondary_background": false,
         "media_size": "medium",
-        "constrain_to_viewport": true,
+        "constrain_to_viewport": false,
         "media_fit": "contain",
         "media_position": "left",
         "gallery_layout": "thumbnail_slider",
