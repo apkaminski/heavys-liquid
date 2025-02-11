@@ -1,0 +1,144 @@
+.sl-brandstyle-3ce3461e-b1f9-4972-9736-691a95578aa5 .sl-font-style--title {
+font-family: "Montserrat";
+font-weight: 800;
+font-style: normal;
+}
+.sl-brandstyle-3ce3461e-b1f9-4972-9736-691a95578aa5 .sl-font-style--body {
+font-family: "Roboto Condensed";
+font-weight: 400;
+font-style: normal;
+}
+.sl-brandstyle-3ce3461e-b1f9-4972-9736-691a95578aa5 .sl-font-style--button {
+font-family: "Roboto Condensed";
+font-weight: 400;
+font-style: normal;
+}
+.sl-brandstyle-3ce3461e-b1f9-4972-9736-691a95578aa5 .sl-font-style--label {
+font-family: "Roboto Condensed";
+font-weight: 400;
+font-style: normal;
+text-transform: uppercase;
+}
+.sl-pattern-7f243121-1601-4c31-8d90-f861268a9012 {
+background-color: #141414;
+border-style: none;
+--sl-gv-bg-color: #141414;
+--sl-gv-btn-txt-color: #ffffff;
+--sl-gv-btn-bg-color: #141414;
+}
+.sl-pattern-7f243121-1601-4c31-8d90-f861268a9012 .sl-font-style--title { color: #ffffff; }
+.sl-pattern-7f243121-1601-4c31-8d90-f861268a9012 .sl-font-style--body { color: #ffffff; }
+.sl-pattern-7f243121-1601-4c31-8d90-f861268a9012 .sl-font-style--button { color: #ffffff; }
+.sl-pattern-7f243121-1601-4c31-8d90-f861268a9012 .sl-font-style--label { color: #ffffff; }
+.sl-pattern-7f243121-1601-4c31-8d90-f861268a9012 .sl-button--brand-style {
+color: #ffffff;
+background-color: #141414;
+}
+.sl-pattern-74011e70-8a04-41a6-b7f5-9c2199f93304 {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #ffffff;
+--sl-gv-btn-bg-color: #ffffff;
+}
+.sl-pattern-74011e70-8a04-41a6-b7f5-9c2199f93304 .sl-font-style--title { color: #ffffff; }
+.sl-pattern-74011e70-8a04-41a6-b7f5-9c2199f93304 .sl-font-style--body { color: #ffffff; }
+.sl-pattern-74011e70-8a04-41a6-b7f5-9c2199f93304 .sl-font-style--button { color: #ffffff; }
+.sl-pattern-74011e70-8a04-41a6-b7f5-9c2199f93304 .sl-font-style--label { color: #ffffff; }
+.sl-pattern-74011e70-8a04-41a6-b7f5-9c2199f93304 .sl-button--brand-style {
+color: #ffffff;
+background-color: #ffffff;
+}
+.sl-pattern-15c6b401-aca0-438f-9dc8-e6d07884dba9 {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #63d48a;
+--sl-gv-btn-radius: 40px;
+}
+.sl-pattern-15c6b401-aca0-438f-9dc8-e6d07884dba9 .sl-font-style--title { color: #ffffff; }
+.sl-pattern-15c6b401-aca0-438f-9dc8-e6d07884dba9 .sl-font-style--body { color: #ffffff; }
+.sl-pattern-15c6b401-aca0-438f-9dc8-e6d07884dba9 .sl-font-style--button { color: #000000; }
+.sl-pattern-15c6b401-aca0-438f-9dc8-e6d07884dba9 .sl-font-style--label { color: #ffffff; }
+.sl-pattern-15c6b401-aca0-438f-9dc8-e6d07884dba9 .sl-button--brand-style {
+color: #000000;
+background-color: #63d48a;
+}
+.sl-pattern-15c6b401-aca0-438f-9dc8-e6d07884dba9 .sl-button--border-radius { border-radius: 40px; }
+.sl-pattern-6862a99e-b2ac-49ec-816e-8057de1802eb {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #121212;
+--sl-gv-btn-bg-color: #ffffff;
+}
+.sl-pattern-6862a99e-b2ac-49ec-816e-8057de1802eb .sl-font-style--title { color: #121212; }
+.sl-pattern-6862a99e-b2ac-49ec-816e-8057de1802eb .sl-font-style--body { color: #121212; }
+.sl-pattern-6862a99e-b2ac-49ec-816e-8057de1802eb .sl-font-style--button { color: #121212; }
+.sl-pattern-6862a99e-b2ac-49ec-816e-8057de1802eb .sl-font-style--label { color: #121212; }
+.sl-pattern-6862a99e-b2ac-49ec-816e-8057de1802eb .sl-button--brand-style {
+color: #121212;
+background-color: #ffffff;
+}
+.sl-pattern-bbd247d0-9372-48c9-8c59-82489bbbf4db {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #121212;
+--sl-gv-btn-bg-color: #ffffff;
+}
+.sl-pattern-bbd247d0-9372-48c9-8c59-82489bbbf4db .sl-font-style--title { color: #121212; }
+.sl-pattern-bbd247d0-9372-48c9-8c59-82489bbbf4db .sl-font-style--body { color: #121212; }
+.sl-pattern-bbd247d0-9372-48c9-8c59-82489bbbf4db .sl-font-style--button { color: #121212; }
+.sl-pattern-bbd247d0-9372-48c9-8c59-82489bbbf4db .sl-font-style--label { color: #121212; }
+.sl-pattern-bbd247d0-9372-48c9-8c59-82489bbbf4db .sl-button--brand-style {
+color: #121212;
+background-color: #ffffff;
+}
+.sl-pattern-b1f74047-de9a-4c0b-bc1f-3a55781fc25f {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #ffffff;
+--sl-gv-btn-bg-color: #ffffff;
+--sl-gv-btn-radius: 40px;
+}
+.sl-pattern-b1f74047-de9a-4c0b-bc1f-3a55781fc25f .sl-font-style--title { color: #ffffff; }
+.sl-pattern-b1f74047-de9a-4c0b-bc1f-3a55781fc25f .sl-font-style--body { color: #ffffff; }
+.sl-pattern-b1f74047-de9a-4c0b-bc1f-3a55781fc25f .sl-font-style--button { color: #ffffff; }
+.sl-pattern-b1f74047-de9a-4c0b-bc1f-3a55781fc25f .sl-font-style--label { color: #ffffff; }
+.sl-pattern-b1f74047-de9a-4c0b-bc1f-3a55781fc25f .sl-button--brand-style {
+color: #ffffff;
+background-color: #ffffff;
+}
+.sl-pattern-b1f74047-de9a-4c0b-bc1f-3a55781fc25f .sl-button--border-radius { border-radius: 40px; }
+.sl-pattern-8d66d568-bc8f-4ce1-8abc-59b7739a8c92 {
+background-color: #141414;
+border-style: none;
+--sl-gv-bg-color: #141414;
+--sl-gv-btn-bg-color: #141414;
+}
+.sl-pattern-8d66d568-bc8f-4ce1-8abc-59b7739a8c92 .sl-font-style--title { color: #000000; }
+.sl-pattern-8d66d568-bc8f-4ce1-8abc-59b7739a8c92 .sl-font-style--body { color: #000000; }
+.sl-pattern-8d66d568-bc8f-4ce1-8abc-59b7739a8c92 .sl-font-style--label { color: #000000; }
+.sl-pattern-8d66d568-bc8f-4ce1-8abc-59b7739a8c92 .sl-button--brand-style {
+background-color: #141414;
+}
+.sl-pattern-da7b03e4-bef9-4682-a14b-5b4f7de9d41b {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #121212;
+--sl-gv-btn-bg-color: #ffffff;
+--sl-gv-btn-radius: 40px;
+}
+.sl-pattern-da7b03e4-bef9-4682-a14b-5b4f7de9d41b .sl-font-style--title { color: #121212; }
+.sl-pattern-da7b03e4-bef9-4682-a14b-5b4f7de9d41b .sl-font-style--body { color: #121212; }
+.sl-pattern-da7b03e4-bef9-4682-a14b-5b4f7de9d41b .sl-font-style--button { color: #121212; }
+.sl-pattern-da7b03e4-bef9-4682-a14b-5b4f7de9d41b .sl-font-style--label { color: #121212; }
+.sl-pattern-da7b03e4-bef9-4682-a14b-5b4f7de9d41b .sl-button--brand-style {
+color: #121212;
+background-color: #ffffff;
+}
+.sl-pattern-da7b03e4-bef9-4682-a14b-5b4f7de9d41b .sl-button--border-radius { border-radius: 40px; }
