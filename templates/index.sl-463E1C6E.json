@@ -42,7 +42,7 @@
             "mobile_text_size": 32,
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
-            "text_color": "transparent"
+            "text_color": "rgba(0,0,0,0)"
           }
         },
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3": {
@@ -58,7 +58,7 @@
             "mobile_text_size": 14,
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
-            "text_color": "transparent"
+            "text_color": "rgba(0,0,0,0)"
           }
         },
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-4": {
@@ -80,36 +80,8 @@
             "mobile_benefits_layout": "stacked",
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
-            "text_color": "transparent",
-            "icon_color": "transparent"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-5": {
-          "type": "button",
-          "settings": {
-            "devices": "all",
-            "button_size": "medium",
-            "button_rounding": "brand_style",
-            "font_style": "button",
-            "icon_position": "right",
-            "hover_effect": "brand_style",
-            "button_text": "Shop Now",
-            "button_style": "brand_style",
-            "button_link": "#heavys-featured",
-            "icon_name": "arrow-right",
-            "button_subtext": "Start Listening to Music the Way You Should",
-            "second_button_text": "",
-            "second_button_style": "outline",
-            "second_button_link": "",
-            "second_icon_name": "icon-name",
-            "mobile_button_size": "match",
-            "mobile_button_width": "wide",
-            "anchor_bottom": false,
-            "button_color": "transparent",
-            "text_color": "transparent",
-            "button_hover_color": "transparent",
-            "text_hover_color": "transparent",
-            "subtext_color": "transparent"
+            "text_color": "rgba(0,0,0,0)",
+            "icon_color": "rgba(0,0,0,0)"
           }
         },
         "overline_kFRYUM": {
@@ -128,8 +100,8 @@
             "mobile_text_size": 14,
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
-            "text_color": "transparent",
-            "badge_color": "transparent"
+            "text_color": "rgba(0,0,0,0)",
+            "badge_color": "rgba(0,0,0,0)"
           }
         },
         "countdown_GdGzP4": {
@@ -157,6 +129,34 @@
             "number_color": "#121212",
             "label_color": "#ffffff"
           }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-5": {
+          "type": "button",
+          "settings": {
+            "devices": "all",
+            "button_size": "medium",
+            "button_rounding": "brand_style",
+            "font_style": "button",
+            "icon_position": "right",
+            "hover_effect": "brand_style",
+            "button_text": "Shop Now",
+            "button_style": "brand_style",
+            "button_link": "#heavys-featured",
+            "icon_name": "arrow-right",
+            "button_subtext": "Start Listening he Way You Should",
+            "second_button_text": "",
+            "second_button_style": "outline",
+            "second_button_link": "",
+            "second_icon_name": "icon-name",
+            "mobile_button_size": "match",
+            "mobile_button_width": "wide",
+            "anchor_bottom": false,
+            "button_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "button_hover_color": "rgba(0,0,0,0)",
+            "text_hover_color": "rgba(0,0,0,0)",
+            "subtext_color": "#f3f3f3"
+          }
         }
       },
       "block_order": [
@@ -164,27 +164,26 @@
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2",
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3",
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-4",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-5",
         "overline_kFRYUM",
-        "countdown_GdGzP4"
+        "countdown_GdGzP4",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-5"
       ],
       "settings": {
         "devices": "all",
         "image": "shopify://shop_images/davidbitzan_nr24-4_orig-9665-1920x1280__photo_x3_37393e07-a1d6-485f-974d-c201650845dc.jpg",
-        "image_position": "background",
-        "image_overlay_opacity": 10,
+        "image_position": "right",
+        "image_overlay_opacity": 15,
         "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
-        "section_height": "xlarge",
-        "section_width": "medium",
+        "section_height": "medium",
+        "section_width": "large",
         "content_position": "middle_left",
         "section_border": "brand_style",
-        "mobile_image": "shopify://shop_images/sarahgibson-heavysheadphones_52ebe6db-bbea-462d-87c9-b3bd13a937b0.png",
         "mobile_image_position": "split",
         "mobile_image_overlay_opacity": 0,
         "mobile_section_height": "medium",
         "mobile_content_position": "match",
         "background_color": "#121212",
-        "border_color": "transparent"
+        "border_color": "rgba(0,0,0,0)"
       }
     },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
