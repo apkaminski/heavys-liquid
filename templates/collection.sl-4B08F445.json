@@ -34,7 +34,7 @@
           "type": "collection_block",
           "settings": {
             "show_on": "all_devices",
-            "collection": "heavys-headphones-shop",
+            "collection": "gaming",
             "title": "Gaming",
             "overlay_opacity": 10
           }
@@ -43,7 +43,7 @@
           "type": "collection_block",
           "settings": {
             "show_on": "all_devices",
-            "collection": "heavys-headphones-shop",
+            "collection": "cables",
             "title": "Cables",
             "overlay_opacity": 10
           }
