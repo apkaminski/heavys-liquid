@@ -63,6 +63,16 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
+        },
+        "announcement_iUArd4": {
+          "type": "announcement",
+          "settings": {
+            "text": "Who Needs Cupid? $40 Off w/Code: VDAY",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
         }
       },
       "block_order": [
@@ -70,7 +80,8 @@
         "announcement_ekbCtT",
         "announcement_Dqc6iz",
         "announcement_JeBx4p",
-        "announcement_33qLkx"
+        "announcement_33qLkx",
+        "announcement_iUArd4"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
