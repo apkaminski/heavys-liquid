@@ -181,7 +181,7 @@
         "mobile_image": "shopify://shop_images/davidbitzan_nr24-4_orig-9665-1920x1280__photo_x3_37393e07-a1d6-485f-974d-c201650845dc.jpg",
         "mobile_image_position": "split",
         "mobile_image_overlay_opacity": 0,
-        "mobile_section_height": "medium",
+        "mobile_section_height": "small",
         "mobile_content_position": "match",
         "background_color": "#121212",
         "border_color": "rgba(0,0,0,0)"
