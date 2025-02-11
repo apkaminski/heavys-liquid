@@ -68,9 +68,9 @@
         ".js-timer {font-size: 16px; font-weight: bold; color: #ffffff;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2025-02-11_at_18.24.49.png",
+        "image": "shopify://shop_images/Screenshot_2025-02-11_at_18.28.05.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
