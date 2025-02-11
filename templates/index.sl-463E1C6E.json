@@ -9,6 +9,184 @@
  */
 {
   "sections": {
+    "wWzA9FCKemdeJBUr6Kcwy5": {
+      "type": "sl-image-hero-1-2",
+      "blocks": {
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1": {
+          "type": "reviews",
+          "settings": {
+            "devices": "all",
+            "stars": 5,
+            "reviews_text": "4.7 based on 3000+ Reviews",
+            "text_size": "medium",
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "stars_color": "#63d48a",
+            "reviews_color": "#ffffff"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
+          "type": "headline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>Headphones For Heavy Music</p>",
+            "strike_text": "150/300",
+            "text_size": 48,
+            "font_style": "title",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 32,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "transparent"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3": {
+          "type": "subheadline",
+          "settings": {
+            "devices": "all",
+            "text": "<p><em>\"A Must Have for Every Music Fan\" -David L.</em></p>",
+            "strike_text": "",
+            "text_size": 20,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 14,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "transparent"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-4": {
+          "type": "benefits",
+          "settings": {
+            "devices": "all",
+            "text_size": "medium",
+            "benefits_layout": "adjacent",
+            "font_style": "body",
+            "first_text": "Powered by 8 Speakers & Advanced Software",
+            "first_icon_name": "check-circle",
+            "second_text": "Natural Immersive Sound Field",
+            "second_icon_name": "check-circle",
+            "third_text": "50 Hour Battery Play Time + Rapid Charge",
+            "third_icon_name": "check-circle",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": "match",
+            "mobile_benefits_layout": "stacked",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "transparent",
+            "icon_color": "transparent"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-5": {
+          "type": "button",
+          "settings": {
+            "devices": "all",
+            "button_size": "medium",
+            "button_rounding": "brand_style",
+            "font_style": "button",
+            "icon_position": "right",
+            "hover_effect": "brand_style",
+            "button_text": "Shop Now",
+            "button_style": "brand_style",
+            "button_link": "",
+            "icon_name": "arrow-right",
+            "button_subtext": "",
+            "second_button_text": "",
+            "second_button_style": "outline",
+            "second_button_link": "",
+            "second_icon_name": "icon-name",
+            "mobile_button_size": "match",
+            "mobile_button_width": "wide",
+            "anchor_bottom": false,
+            "button_color": "transparent",
+            "text_color": "transparent",
+            "button_hover_color": "transparent",
+            "text_hover_color": "transparent",
+            "subtext_color": "transparent"
+          }
+        },
+        "overline_kFRYUM": {
+          "type": "overline",
+          "disabled": true,
+          "settings": {
+            "devices": "all",
+            "text": "<p>Limited Time Offer</p>",
+            "text_size": 12,
+            "letter_spacing": 3,
+            "font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "badge_style": "filled",
+            "badge_rounding": "round",
+            "mobile_text_size": 14,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "transparent",
+            "badge_color": "transparent"
+          }
+        },
+        "countdown_GdGzP4": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "devices": "all",
+            "countdown_date_day": "31",
+            "countdown_date_month": "12",
+            "countdown_date_year": "2025",
+            "countdown_time_minute_timezone": "-05:00",
+            "countdown_time_hour": "12",
+            "countdown_time_minute": "00",
+            "countdown_time_minute_am_pm": "PM",
+            "timer_size": "large",
+            "rounding": "none",
+            "number_font_style": "body",
+            "label_font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_timer_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "background_color": "#f3f3f3",
+            "number_color": "#121212",
+            "label_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-4",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-5",
+        "overline_kFRYUM",
+        "countdown_GdGzP4"
+      ],
+      "settings": {
+        "devices": "all",
+        "image": "shopify://shop_images/davidbitzan_nr24-4_orig-9665-1920x1280__photo_x3_37393e07-a1d6-485f-974d-c201650845dc.jpg",
+        "image_position": "background",
+        "image_overlay_opacity": 10,
+        "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
+        "section_height": "xlarge",
+        "section_width": "medium",
+        "content_position": "middle_left",
+        "section_border": "brand_style",
+        "mobile_image": "shopify://shop_images/sarahgibson-heavysheadphones_52ebe6db-bbea-462d-87c9-b3bd13a937b0.png",
+        "mobile_image_position": "split",
+        "mobile_image_overlay_opacity": 0,
+        "mobile_section_height": "medium",
+        "mobile_content_position": "match",
+        "background_color": "#121212",
+        "border_color": "transparent"
+      }
+    },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
@@ -60,6 +238,7 @@
         "92710901-502d-46f4-ad7f-15409e0614f2",
         "timer_cXQ8W3"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/header-heavys_on_woman_in_festival_e3f669d3-bb44-48e9-8938-94bccc9d5207.png",
         "image_overlay_opacity": 0,
@@ -77,8 +256,9 @@
     },
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"As Seen On\" \n      style=\"width: 300px; height: 23px;\"\n    >\n  </a>\n</div>",
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"As Seen On\" \n      style=\"width: 260px; height: 20px;\"\n    >\n  </a>\n</div>",
         "color_scheme": "inverse",
         "padding_top": 12,
         "padding_bottom": 12
@@ -811,66 +991,6 @@
         "color_scheme": "inverse",
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "wWzA9FCKemdeJBUr6Kcwy5": {
-      "type": "sl-image-hero-1-2",
-      "blocks": {
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1": {
-          "type": "reviews",
-          "settings": {
-            "stars": 5,
-            "reviews_text": "15,000+ 5 Star Reviews"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
-          "type": "headline",
-          "settings": {
-            "text": "<p>Explain the unique value you provide</p>"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3": {
-          "type": "subheadline",
-          "settings": {
-            "text": "<p>Explain how you provide this value</p>"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-4": {
-          "type": "benefits",
-          "settings": {
-            "first_text": "Free shipping",
-            "first_icon_name": "check-circle",
-            "second_text": "Free returns",
-            "second_icon_name": "check-circle",
-            "third_text": "Satisfaction guaranteed",
-            "third_icon_name": "check-circle"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-5": {
-          "type": "button",
-          "settings": {
-            "button_text": "Shop Now",
-            "button_link": "",
-            "icon_name": "arrow-right",
-            "button_subtext": "",
-            "second_button_text": "",
-            "anchor_bottom": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-4",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-5"
-      ],
-      "settings": {
-        "devices": "all",
-        "image_position": "left",
-        "section_height": "large",
-        "section_width": "large",
-        "content_position": "middle_left"
       }
     }
   },
