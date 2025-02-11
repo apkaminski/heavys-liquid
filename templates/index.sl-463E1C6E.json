@@ -34,8 +34,8 @@
           "settings": {
             "devices": "all",
             "text": "<p>Headphones For Heavy Music</p>",
-            "strike_text": "150/300",
-            "text_size": 48,
+            "strike_text": "",
+            "text_size": 54,
             "font_style": "title",
             "top_padding": 0,
             "bottom_padding": 0,
