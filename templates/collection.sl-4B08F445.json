@@ -101,11 +101,11 @@
         "mobile_card_format": "match_desktop",
         "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
         "title_color": "#121212",
-        "border_color": "#E7E7E7",
+        "border_color": "#141414",
         "background_color": "#E7E7E7",
         "hover_color": "transparent",
-        "selected_color": "transparent",
-        "section_background_color": "transparent",
+        "selected_color": "rgba(0,0,0,0)",
+        "section_background_color": "rgba(0,0,0,0)",
         "section_border_color": "transparent"
       }
     },
