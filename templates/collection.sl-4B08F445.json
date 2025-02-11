@@ -30,15 +30,6 @@
             "overlay_opacity": 10
           }
         },
-        "0859508e-8894-4a16-ae91-94a1e52c8acb-3": {
-          "type": "collection_block",
-          "settings": {
-            "show_on": "all_devices",
-            "collection": "non-artist-designs",
-            "title": "Heavys Designs",
-            "overlay_opacity": 10
-          }
-        },
         "0859508e-8894-4a16-ae91-94a1e52c8acb-5": {
           "type": "collection_block",
           "settings": {
@@ -57,6 +48,15 @@
             "overlay_opacity": 10
           }
         },
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-3": {
+          "type": "collection_block",
+          "settings": {
+            "show_on": "all_devices",
+            "collection": "non-artist-designs",
+            "title": "Heavys Designs",
+            "overlay_opacity": 10
+          }
+        },
         "0859508e-8894-4a16-ae91-94a1e52c8acb-4": {
           "type": "collection_block",
           "settings": {
@@ -70,9 +70,9 @@
       "block_order": [
         "0859508e-8894-4a16-ae91-94a1e52c8acb-1",
         "0859508e-8894-4a16-ae91-94a1e52c8acb-2",
-        "0859508e-8894-4a16-ae91-94a1e52c8acb-3",
         "0859508e-8894-4a16-ae91-94a1e52c8acb-5",
         "collection_block_m3Tyxf",
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-3",
         "0859508e-8894-4a16-ae91-94a1e52c8acb-4"
       ],
       "settings": {
