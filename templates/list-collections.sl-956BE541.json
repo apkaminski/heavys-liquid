@@ -1,0 +1,96 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "columns_mobile": "2"
+      }
+    },
+    "fehWR88A4gF3ENC1DKJPgZ": {
+      "type": "sl-quick-nav-1-1",
+      "blocks": {
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-1": {
+          "type": "collection_block",
+          "settings": {
+            "show_on": "all_devices",
+            "collection": "",
+            "title": ""
+          }
+        },
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-2": {
+          "type": "collection_block",
+          "settings": {
+            "show_on": "all_devices",
+            "collection": "",
+            "title": ""
+          }
+        },
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-3": {
+          "type": "collection_block",
+          "settings": {
+            "show_on": "all_devices",
+            "collection": "",
+            "title": ""
+          }
+        },
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-4": {
+          "type": "collection_block",
+          "settings": {
+            "show_on": "all_devices",
+            "collection": "",
+            "title": ""
+          }
+        },
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-5": {
+          "type": "collection_block",
+          "settings": {
+            "show_on": "all_devices",
+            "collection": "",
+            "title": ""
+          }
+        },
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-6": {
+          "type": "collection_block",
+          "settings": {
+            "show_on": "all_devices",
+            "collection": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-1",
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-2",
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-3",
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-4",
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-5",
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-6"
+      ],
+      "settings": {
+        "card_format": "no_image",
+        "show_card_border": true,
+        "show_card_bg": false,
+        "image_rounding": "round",
+        "card_ratio": "adapt_to_image",
+        "use_padding": false
+      }
+    }
+  },
+  "order": [
+    "fehWR88A4gF3ENC1DKJPgZ",
+    "main"
+  ]
+}
