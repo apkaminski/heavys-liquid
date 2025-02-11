@@ -48,15 +48,6 @@
             "overlay_opacity": 10
           }
         },
-        "collection_block_xUNY98": {
-          "type": "collection_block",
-          "settings": {
-            "show_on": "all_devices",
-            "collection": "",
-            "title": "",
-            "overlay_opacity": 10
-          }
-        },
         "0859508e-8894-4a16-ae91-94a1e52c8acb-3": {
           "type": "collection_block",
           "settings": {
@@ -81,7 +72,6 @@
         "0859508e-8894-4a16-ae91-94a1e52c8acb-2",
         "0859508e-8894-4a16-ae91-94a1e52c8acb-5",
         "collection_block_m3Tyxf",
-        "collection_block_xUNY98",
         "0859508e-8894-4a16-ae91-94a1e52c8acb-3",
         "0859508e-8894-4a16-ae91-94a1e52c8acb-4"
       ],
