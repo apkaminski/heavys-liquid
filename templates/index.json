@@ -29,7 +29,7 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "Experience Metal the Right Way. 8 Speakers. Advanced Software. Legendary Engineering",
+            "text": "<strong>Experience Metal the Right Way. 8 Speakers. Advanced Software. Legendary Engineering</strong>",
             "text_style": "body"
           }
         },
@@ -61,7 +61,7 @@
         "timer_cXQ8W3"
       ],
       "custom_css": [
-        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: bold; color: #ffffff; font-size: 11px;}",
+        ".banner__text:first-child {font-family: \"Montserrat\", sans-serif; font-weight: ; color: #ffffff; font-size: 12px;}",
         ".banner__text:nth-child(3) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 11px;}",
         ".banner__text:nth-child(4) {font-family: \"Montserrat\", sans-serif; font-weight: 400; color: #ffffff; font-size: 12px;}",
         ".banner__box {background-color: #000000; padding-top: 15px; padding-bottom: 15px;}",
