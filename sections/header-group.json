@@ -14,16 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Click to Save an Extra $40 Today!",
-            "behaviour_type": "klavyo_popup",
-            "link": "",
-            "klavyo_desktop_id": "VaqSGG",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
@@ -54,6 +44,16 @@
             "klavyo_mobile_id": ""
           }
         },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Click to Save an Extra $40 Today!",
+            "behaviour_type": "klavyo_popup",
+            "link": "",
+            "klavyo_desktop_id": "VaqSGG",
+            "klavyo_mobile_id": ""
+          }
+        },
         "announcement_33qLkx": {
           "type": "announcement",
           "settings": {
@@ -66,10 +66,10 @@
         }
       },
       "block_order": [
-        "announcement-bar-0",
         "announcement_ekbCtT",
         "announcement_Dqc6iz",
         "announcement_JeBx4p",
+        "announcement-bar-0",
         "announcement_33qLkx"
       ],
       "custom_css": [
