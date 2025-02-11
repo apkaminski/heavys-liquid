@@ -87,7 +87,7 @@
       ],
       "settings": {
         "devices": "mobile",
-        "card_format": "image",
+        "card_format": "thumbnail",
         "show_card_border": true,
         "show_card_bg": true,
         "image_rounding": "round",
@@ -102,11 +102,11 @@
         "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
         "title_color": "#121212",
         "border_color": "#141414",
-        "background_color": "#E7E7E7",
-        "hover_color": "transparent",
+        "background_color": "#e7e7e7",
+        "hover_color": "rgba(0,0,0,0)",
         "selected_color": "rgba(0,0,0,0)",
         "section_background_color": "rgba(0,0,0,0)",
-        "section_border_color": "transparent"
+        "section_border_color": "rgba(0,0,0,0)"
       }
     },
     "banner": {
