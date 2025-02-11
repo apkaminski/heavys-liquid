@@ -14,16 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_ekbCtT": {
-          "type": "announcement",
-          "settings": {
-            "text": "*New* Dream Theater Shells",
-            "behaviour_type": "link",
-            "link": "shopify://products/dream-theater-official-shells",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -31,6 +21,16 @@
             "behaviour_type": "klavyo_popup",
             "link": "",
             "klavyo_desktop_id": "VaqSGG",
+            "klavyo_mobile_id": ""
+          }
+        },
+        "announcement_ekbCtT": {
+          "type": "announcement",
+          "settings": {
+            "text": "*New* Dream Theater Shells",
+            "behaviour_type": "link",
+            "link": "shopify://products/dream-theater-official-shells",
+            "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
         },
@@ -47,7 +47,7 @@
         "announcement_JeBx4p": {
           "type": "announcement",
           "settings": {
-            "text": "Flex Payments Starting at $20/Month",
+            "text": "Buy Now Pay Later Starting at $20",
             "behaviour_type": "link",
             "link": "",
             "klavyo_desktop_id": "",
@@ -66,8 +66,8 @@
         }
       },
       "block_order": [
-        "announcement_ekbCtT",
         "announcement-bar-0",
+        "announcement_ekbCtT",
         "announcement_Dqc6iz",
         "announcement_JeBx4p",
         "announcement_33qLkx"
