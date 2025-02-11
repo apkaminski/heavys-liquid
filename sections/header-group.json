@@ -14,23 +14,12 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_pxeWJ8": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Who Needs Cupid? Save w/Code: VDAY",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
-        },
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Bullet For My Valentine Shells",
+            "text": "*New* Dream Theater Shells",
             "behaviour_type": "link",
-            "link": "shopify://products/bullet-for-my-valentine-x-heavys",
+            "link": "shopify://products/dream-theater-official-shells",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -77,7 +66,6 @@
         }
       },
       "block_order": [
-        "announcement_pxeWJ8",
         "announcement_ekbCtT",
         "announcement-bar-0",
         "announcement_Dqc6iz",
