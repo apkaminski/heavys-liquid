@@ -66,7 +66,7 @@
           "settings": {
             "devices": "all",
             "text_size": "medium",
-            "benefits_layout": "adjacent",
+            "benefits_layout": "stacked",
             "font_style": "body",
             "first_text": "Powered by 8 Speakers & Advanced Software",
             "first_icon_name": "check-circle",
