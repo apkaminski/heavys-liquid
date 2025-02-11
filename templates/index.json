@@ -12,10 +12,10 @@
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
+        "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "<em>” A Must Have For Every Music Fan” - David L.</em>",
+            "text": "<strong>Listen to Metal the Way You Should</strong>",
             "text_style": "body"
           }
         },
@@ -26,10 +26,10 @@
             "heading_size": "h1"
           }
         },
-        "text_bitp7e": {
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
           "settings": {
-            "text": "<strong>Experience Metal the Right Way Powered by 8 Speakers & Advanced Software</strong>",
+            "text": "<em>” A Must Have For Every Music Fan” - David L.</em>",
             "text_style": "body"
           }
         },
@@ -54,9 +54,9 @@
         }
       },
       "block_order": [
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
-        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "text_bitp7e",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
+        "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
         "timer_cXQ8W3"
       ],
