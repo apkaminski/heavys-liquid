@@ -14,12 +14,12 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_iUArd4": {
+        "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "Who Needs Cupid? $40 Off Code: VDAY",
+            "text": "*New* Dream Theater Shells",
             "behaviour_type": "link",
-            "link": "",
+            "link": "shopify://products/dream-theater-official-shells",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
@@ -31,16 +31,6 @@
             "behaviour_type": "klavyo_popup",
             "link": "",
             "klavyo_desktop_id": "VaqSGG",
-            "klavyo_mobile_id": ""
-          }
-        },
-        "announcement_ekbCtT": {
-          "type": "announcement",
-          "settings": {
-            "text": "*New* Dream Theater Shells",
-            "behaviour_type": "link",
-            "link": "shopify://products/dream-theater-official-shells",
-            "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
         },
@@ -76,9 +66,8 @@
         }
       },
       "block_order": [
-        "announcement_iUArd4",
-        "announcement-bar-0",
         "announcement_ekbCtT",
+        "announcement-bar-0",
         "announcement_Dqc6iz",
         "announcement_JeBx4p",
         "announcement_33qLkx"
