@@ -147,10 +147,10 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "<h4>Heavys Shell Designs</h4>",
+        "description": "<h2><strong>Official Artist Collabs</strong></h2>",
         "show_description": false,
         "description_style": "body",
-        "collection": "non-artist-designs",
+        "collection": "shells",
         "products_to_show": 25,
         "columns_desktop": 3,
         "full_width": false,
