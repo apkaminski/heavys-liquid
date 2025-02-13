@@ -60,6 +60,24 @@
             "image_ratio": "square",
             "enable_quick_add": true
           }
+        },
+        "collapsible_tab_kczGTL": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Product Features:",
+            "icon": "check_mark",
+            "content": "<h2>Key Features:</h2><ul><li>High-quality silver coated for superior sound transmission</li><li>Durable and flexible design for ease of use and longevity</li><li>Universal compatibility with 3.5mm audio jacks</li><li>Minimalist and sleek aesthetic</li></ul><h2>Connectors</h2><p>Headphone side: 2.5 mm TRRS </p><p>Amplifier side: 3.5 mm with screw on adapter to 6.3 mm</p><h2>Cable Material and Length</h2><p>Leads: 4 leads, silver cladded copper strands</p><p>Reinforcement:Kevlar</p><p>Jacket material:Black TPU<br/></p><p>Braid: Black Polyester</p><p>Length:1.8 meters (approximately 5.9 feet)</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_btnzxw": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -70,7 +88,9 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "complementary_HFkhRJ"
+        "complementary_HFkhRJ",
+        "collapsible_tab_kczGTL",
+        "collapsible_tab_btnzxw"
       ],
       "custom_css": [
         ".product__tax {font-size: 14px;}"
