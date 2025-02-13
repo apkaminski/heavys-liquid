@@ -370,7 +370,7 @@
         "constrain_to_viewport": false,
         "media_fit": "cover",
         "media_position": "left",
-        "gallery_layout": "thumbnail_slider",
+        "gallery_layout": "stacked",
         "image_zoom": "none",
         "mobile_thumbnails": "show",
         "enable_video_looping": false,
