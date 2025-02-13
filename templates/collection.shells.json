@@ -169,11 +169,12 @@
         "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com</a> & let us know which design you are waiting for.<br/><br/><a href=\"/pages/metal-allegiance-namm\" target=\"_blank\" title=\"Signup to HEAVYS Newsletter\">Sign Up Here </a> to know when new Shells Drop!</p><p>____________________________________________<br/><br/>Build Your Collection; Buy 2 & Save 15%</p>"
+            "text": "<p>Send an email to <a href=\"mailto:partnerships@heavys.com\" title=\"mailto:partnerships@heavys.com\">partnerships@heavys.com</a> & let us know which design you are waiting for.<br/><br/><a href=\"/pages/metal-allegiance-namm\" target=\"_blank\" title=\"Signup to HEAVYS Newsletter\">Sign Up Here </a> to know when new Shells Drop!<br/>_____</p>"
           }
         },
         "template--14884895096906__bcde66c3-9962-4a71-9872-554e060a4611-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Shop Shells",
             "button_link": "#top",
