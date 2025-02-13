@@ -68,8 +68,8 @@
       "settings": {
         "devices": "all",
         "sticky_on_scroll": true,
-        "desktop_layout": "inline",
-        "timer_length": 5,
+        "desktop_layout": "alternate_timer",
+        "timer_length": 2,
         "pattern_select": "7f243121-1601-4c31-8d90-f861268a9012",
         "bar_height": "medium",
         "font_style": "body",
