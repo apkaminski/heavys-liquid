@@ -9,6 +9,79 @@
  */
 {
   "sections": {
+    "28BdLWy3jub5EC4UoDLaCo": {
+      "type": "sl-benefit-bar",
+      "blocks": {
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-1": {
+          "type": "benefit_linktext",
+          "settings": {
+            "devices": "all",
+            "text": "Free shipping",
+            "message_link": "",
+            "message_icon": "truck"
+          }
+        },
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-2": {
+          "type": "benefit_linktext",
+          "settings": {
+            "devices": "all",
+            "text": "New Dream Theater Shells",
+            "message_link": "shopify://products/dream-theater-official-shells",
+            "message_icon": "headphones-alt"
+          }
+        },
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-3": {
+          "type": "benefit_linktext",
+          "settings": {
+            "devices": "all",
+            "text": "Easy returns",
+            "message_link": "",
+            "message_icon": "usd-circle"
+          }
+        },
+        "benefit_linktext_QVVwPV": {
+          "type": "benefit_linktext",
+          "settings": {
+            "devices": "all",
+            "text": "Buy Now Pay Later Options",
+            "message_link": "",
+            "message_icon": "icon-name"
+          }
+        },
+        "benefit_linktext_MhYxei": {
+          "type": "benefit_linktext",
+          "settings": {
+            "devices": "all",
+            "text": "Join over 80,000 Happy Customers",
+            "message_link": "",
+            "message_icon": "icon-name"
+          }
+        }
+      },
+      "block_order": [
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-1",
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-2",
+        "0859508e-8894-4a16-ae91-94a1e52c8acb-3",
+        "benefit_linktext_QVVwPV",
+        "benefit_linktext_MhYxei"
+      ],
+      "settings": {
+        "devices": "all",
+        "sticky_on_scroll": true,
+        "desktop_layout": "inline",
+        "timer_length": 5,
+        "pattern_select": "7f243121-1601-4c31-8d90-f861268a9012",
+        "bar_height": "medium",
+        "font_style": "body",
+        "text_size": "medium",
+        "border_type": "brand_style",
+        "mobile_bar_height": "small",
+        "mobile_text_size": "match_desktop",
+        "background_color": "#000000",
+        "text_color": "transparent",
+        "border_color": "transparent"
+      }
+    },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
@@ -812,38 +885,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "28BdLWy3jub5EC4UoDLaCo": {
-      "type": "sl-benefit-bar",
-      "blocks": {
-        "0859508e-8894-4a16-ae91-94a1e52c8acb-1": {
-          "type": "benefit_linktext",
-          "settings": {
-            "text": "Free shipping",
-            "message_icon": "truck"
-          }
-        },
-        "0859508e-8894-4a16-ae91-94a1e52c8acb-2": {
-          "type": "benefit_linktext",
-          "settings": {
-            "text": "24/7 support",
-            "message_icon": "phone"
-          }
-        },
-        "0859508e-8894-4a16-ae91-94a1e52c8acb-3": {
-          "type": "benefit_linktext",
-          "settings": {
-            "text": "Easy returns",
-            "message_icon": "usd-circle"
-          }
-        }
-      },
-      "block_order": [
-        "0859508e-8894-4a16-ae91-94a1e52c8acb-1",
-        "0859508e-8894-4a16-ae91-94a1e52c8acb-2",
-        "0859508e-8894-4a16-ae91-94a1e52c8acb-3"
-      ],
-      "settings": {}
     }
   },
   "order": [
