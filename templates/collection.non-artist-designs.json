@@ -145,9 +145,9 @@
     "featured_collection_6Brddr": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Official Best Selling Artist Collabs</strong>",
+        "title": "",
         "heading_size": "h1",
-        "description": "",
+        "description": "<h3><strong>Official Best Selling Artist Collabs</strong></h3>",
         "show_description": false,
         "description_style": "body",
         "collection": "shells",
