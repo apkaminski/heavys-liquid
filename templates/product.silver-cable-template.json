@@ -44,10 +44,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
         "collapsible_tab_kczGTL": {
           "type": "collapsible_tab",
           "settings": {
@@ -57,18 +53,9 @@
             "page": ""
           }
         },
-        "complementary_HFkhRJ": {
-          "type": "complementary",
-          "settings": {
-            "block_heading": "Pairs well with",
-            "make_collapsible_row": false,
-            "icon": "price_tag",
-            "product_list_limit": 8,
-            "products_per_page": 2,
-            "pagination_style": "dots",
-            "image_ratio": "square",
-            "enable_quick_add": true
-          }
+        "description": {
+          "type": "description",
+          "settings": {}
         },
         "vitals_trust_aQQeEj": {
           "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
@@ -82,9 +69,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "collapsible_tab_kczGTL",
-        "complementary_HFkhRJ",
+        "description",
         "vitals_trust_aQQeEj"
       ],
       "custom_css": [
