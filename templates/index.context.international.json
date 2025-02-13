@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "parent": "index.json",
   "context": {
@@ -6,8 +15,7 @@
   "sections": {
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "disabled": false,
-      "settings": {
-      },
+      "settings": {},
       "blocks": {
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "settings": {
@@ -42,24 +50,21 @@
       "settings": {
         "scroll_anchor": "product-features"
       },
-      "blocks": {
-      }
+      "blocks": {}
     },
     "a259a103-10d9-404b-84c4-de542413e278": {
       "disabled": false,
-      "settings": {
-      },
+      "settings": {},
       "blocks": {
         "template--14883182903370__a259a103-10d9-404b-84c4-de542413e278-168908528146227d56-1": {
           "settings": {
             "heading": "Why are Heavys not available in my country?",
-            "row_content": "<p>At present, Heavys are only available in the US, Australia, and Japan. However, we are excited to announce that the list of countries will expand within the next 30 days. For the latest updates on availability, please subscribe to our newsletter. Stay tuned!<\/p>"
+            "row_content": "<p>At present, Heavys are only available in the US, Australia, and Japan. However, we are excited to announce that the list of countries will expand within the next 30 days. For the latest updates on availability, please subscribe to our newsletter. Stay tuned!</p>"
           }
         },
         "e63ec509-8cc2-42f8-8422-902902dc18d7": {
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -74,13 +79,11 @@
       ]
     },
     "70bfa058-95e2-422e-9d16-7ffff8e8e689": {
-      "settings": {
-      },
+      "settings": {},
       "blocks": {
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5": {
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "1ab86361-6a49-416d-90a0-d27bc19cafc2": {
           "type": "preorder_buttons",
@@ -110,7 +113,6 @@
     "afe8820a-9e66-4dc8-9751-860686858282",
     "video",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
-    "featured_collection",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "a259a103-10d9-404b-84c4-de542413e278"
