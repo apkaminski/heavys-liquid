@@ -271,14 +271,6 @@
             "product": "heavys-h1h-headphones-bundle-case"
           }
         },
-        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<strong>Save $80 Today + Free Expedited Shipping with Code: BLACK</strong>",
-            "text_style": "uppercase"
-          }
-        },
         "custom_liquid_kkUenP": {
           "type": "custom_liquid",
           "disabled": true,
@@ -351,7 +343,6 @@
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-1",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-2",
         "judge_me_reviews_preview_badge_homepage_hBpGnN",
-        "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-0",
         "custom_liquid_kkUenP",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-3",
         "template--14883182903370__70bfa058-95e2-422e-9d16-7ffff8e8e689-168924221031e42c1b-5",
