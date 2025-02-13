@@ -69,7 +69,7 @@
         "devices": "all",
         "sticky_on_scroll": true,
         "desktop_layout": "alternate_timer",
-        "timer_length": 2,
+        "timer_length": 3,
         "pattern_select": "7f243121-1601-4c31-8d90-f861268a9012",
         "bar_height": "medium",
         "font_style": "body",
