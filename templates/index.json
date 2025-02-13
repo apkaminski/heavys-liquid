@@ -195,7 +195,7 @@
         "constrain_to_viewport": false,
         "media_fit": "contain",
         "media_position": "left",
-        "gallery_layout": "columns",
+        "gallery_layout": "thumbnail_slider",
         "image_zoom": "none",
         "mobile_thumbnails": "show",
         "enable_video_looping": false,
