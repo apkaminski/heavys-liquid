@@ -363,16 +363,16 @@
       "blocks": {
         "heading_KUBzg8": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "<em>\" They're superbly well-made, properly punchy, nicely detailed, multi-talented, rather gorgeous headphones and a pleasure for wireless day-to-day fun.\" </em>- PC Gamer Mag",
+            "heading": "<em><strong>\" They're superbly well-made, properly punchy, nicely detailed, multi-talented, rather gorgeous headphones and a pleasure for wireless day-to-day fun.\" </strong></em><strong>- PC Gamer Mag</strong>",
             "heading_size": "h2"
           }
         },
         "text_7tqatr": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p><em><strong>“</strong></em><em> I needed a good set of headphones to use for PC gaming...</em></p><p><em>Heavys arrived packed well, fully charged in a super cool travel case.  <br/>Sound quality is top notch, with very clear vocals, microphone pickup is clear, tight bass response, and more than adequate volume without distortion. build is very solid too, and battery has up to 50 hours!<br/><br/>Don't hesitate, Heavys easily beat  higher priced brands, I am very impressed and have already recommended to several friends</em><em><strong>”   - J.C.</strong></em></p>",
+            "text": "<h3><em>\" They're superbly well-made, properly punchy, nicely detailed, multi-talented, rather gorgeous headphones and a pleasure for wireless day-to-day fun\" </em>- PC Gamer Mag</h3>",
             "text_style": "body"
           }
         }
