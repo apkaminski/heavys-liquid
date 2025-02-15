@@ -76,7 +76,7 @@
         "0859508e-8894-4a16-ae91-94a1e52c8acb-4"
       ],
       "settings": {
-        "devices": "all",
+        "devices": "mobile",
         "card_format": "thumbnail",
         "show_card_border": true,
         "show_card_bg": true,
