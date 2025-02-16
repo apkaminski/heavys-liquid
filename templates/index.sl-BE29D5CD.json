@@ -125,6 +125,9 @@
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3",
         "reviews_zjzbxE"
       ],
+      "custom_css": [
+        "@media screen and (max-width: 767px) {.shoplift--template--16896957087818__c6ojb5GNmKwAtLXRpLytqM--content-inner {padding: 20px 10%; margin: 0; min-height: auto; }}"
+      ],
       "settings": {
         "devices": "all",
         "image": "shopify://shop_images/davidbitzan_nr24-4_orig-9665-1920x1280__photo_x3_072ee761-8886-4971-b8ae-b6ba314a605d.jpg",
@@ -132,14 +135,14 @@
         "image_overlay_opacity": 30,
         "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
         "section_height": "xlarge",
-        "section_width": "large",
+        "section_width": "medium",
         "content_position": "middle_center",
         "section_border": "brand_style",
-        "mobile_image_position": "match_desktop",
-        "mobile_image_overlay_opacity": 50,
+        "mobile_image_position": "split",
+        "mobile_image_overlay_opacity": 28,
         "mobile_section_height": "match",
         "mobile_content_position": "match",
-        "background_color": "transparent",
+        "background_color": "#000000",
         "border_color": "transparent"
       }
     },
