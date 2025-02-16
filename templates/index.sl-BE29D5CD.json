@@ -84,7 +84,7 @@
             "hover_effect": "brand_style",
             "button_text": "Shop Now",
             "button_style": "brand_style",
-            "button_link": "",
+            "button_link": "#heavys-featured",
             "icon_name": "arrow-right",
             "button_subtext": "",
             "second_button_text": "",
