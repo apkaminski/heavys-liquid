@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_jxrJVE": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Who Needs Cupid? $40 Off w/Code VDAY",
             "behaviour_type": "link",
