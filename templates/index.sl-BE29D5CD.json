@@ -9,6 +9,140 @@
  */
 {
   "sections": {
+    "c6ojb5GNmKwAtLXRpLytqM": {
+      "type": "sl-image-hero-1-2",
+      "blocks": {
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-0": {
+          "type": "overline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>For Hearts That Shred</p>",
+            "text_size": 14,
+            "letter_spacing": 3,
+            "font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "badge_style": "filled",
+            "badge_rounding": "none",
+            "mobile_text_size": 14,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "transparent",
+            "badge_color": "transparent"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1": {
+          "type": "headline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>$40 Off all Headphones with Code: VDAY</p>",
+            "strike_text": "",
+            "text_size": 48,
+            "font_style": "title",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 32,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "transparent"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
+          "type": "countdown",
+          "settings": {
+            "devices": "all",
+            "countdown_date_day": "23",
+            "countdown_date_month": "02",
+            "countdown_date_year": "2025",
+            "countdown_time_minute_timezone": "-05:00",
+            "countdown_time_hour": "12",
+            "countdown_time_minute": "00",
+            "countdown_time_minute_am_pm": "PM",
+            "timer_size": "small",
+            "rounding": "rounded",
+            "number_font_style": "body",
+            "label_font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_timer_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "background_color": "#ffffff",
+            "number_color": "#121212",
+            "label_color": "#ffffff"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3": {
+          "type": "button",
+          "settings": {
+            "devices": "all",
+            "button_size": "medium",
+            "button_rounding": "brand_style",
+            "font_style": "button",
+            "icon_position": "right",
+            "hover_effect": "brand_style",
+            "button_text": "Shop Now",
+            "button_style": "brand_style",
+            "button_link": "",
+            "icon_name": "arrow-right",
+            "button_subtext": "",
+            "second_button_text": "",
+            "second_button_style": "outline",
+            "second_button_link": "",
+            "second_icon_name": "",
+            "mobile_button_size": "match",
+            "mobile_button_width": "wide",
+            "anchor_bottom": false,
+            "button_color": "transparent",
+            "text_color": "transparent",
+            "button_hover_color": "transparent",
+            "text_hover_color": "transparent",
+            "subtext_color": "transparent"
+          }
+        },
+        "reviews_zjzbxE": {
+          "type": "reviews",
+          "settings": {
+            "devices": "all",
+            "stars": 5,
+            "reviews_text": "3000+ 5 Star Reviews",
+            "text_size": "medium",
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "stars_color": "#63d48a",
+            "reviews_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-0",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3",
+        "reviews_zjzbxE"
+      ],
+      "settings": {
+        "devices": "all",
+        "image": "shopify://shop_images/davidbitzan_nr24-4_orig-9665-1920x1280__photo_x3_072ee761-8886-4971-b8ae-b6ba314a605d.jpg",
+        "image_position": "background",
+        "image_overlay_opacity": 30,
+        "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
+        "section_height": "xlarge",
+        "section_width": "large",
+        "content_position": "middle_center",
+        "section_border": "brand_style",
+        "mobile_image_position": "match_desktop",
+        "mobile_image_overlay_opacity": 50,
+        "mobile_section_height": "match",
+        "mobile_content_position": "match",
+        "background_color": "transparent",
+        "border_color": "transparent"
+      }
+    },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
@@ -60,6 +194,7 @@
         "92710901-502d-46f4-ad7f-15409e0614f2",
         "timer_cXQ8W3"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/header-heavys_on_woman_in_festival_e3f669d3-bb44-48e9-8938-94bccc9d5207.png",
         "image_overlay_opacity": 0,
@@ -774,55 +909,6 @@
         "color_scheme": "inverse",
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "c6ojb5GNmKwAtLXRpLytqM": {
-      "type": "sl-image-hero-1-2",
-      "blocks": {
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-0": {
-          "type": "overline",
-          "settings": {
-            "text": "<p>LIMITED TIME SALE</p>"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1": {
-          "type": "headline",
-          "settings": {
-            "text": "<p>Our bestselling product on sale</p>"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
-          "type": "countdown",
-          "settings": {
-            "background_color": "#fff"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3": {
-          "type": "button",
-          "settings": {
-            "button_text": "Shop Now",
-            "button_style": "brand_style",
-            "button_link": "",
-            "icon_name": "arrow-right",
-            "button_subtext": "",
-            "second_button_text": "",
-            "second_button_link": "",
-            "second_icon_name": "",
-            "anchor_bottom": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-0",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3"
-      ],
-      "settings": {
-        "devices": "all",
-        "image_position": "background",
-        "section_height": "small",
-        "section_width": "large"
       }
     }
   },
