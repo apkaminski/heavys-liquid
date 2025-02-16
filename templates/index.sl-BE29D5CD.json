@@ -49,6 +49,7 @@
         },
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "devices": "all",
             "countdown_date_day": "23",
@@ -215,6 +216,7 @@
     },
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"As Seen On\" \n      style=\"width: 300px; height: 23px;\"\n    >\n  </a>\n</div>",
         "color_scheme": "inverse",
