@@ -365,7 +365,7 @@
       ],
       "settings": {
         "image": "{{ product.metafields.heavys_custom.band.value.image.value }}",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 10,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
