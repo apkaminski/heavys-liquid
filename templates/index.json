@@ -416,6 +416,13 @@
             "heading_1": "Top Notch Features",
             "description_1": "EQ in Mobile App, Hell Blocker™ active noise cancellation, Bluetooth 5.1, AUX wired option, 50 hours of play time, 5 mics, transparency mode, ultra-soft ear-cups, custom designs, USB-C Rapid Charge"
           }
+        },
+        "button_B3bpNh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Elevate My Sound Now",
+            "button_link": "#product-feature"
+          }
         }
       },
       "block_order": [
@@ -423,7 +430,8 @@
         "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
         "66e14d12-5ecf-4694-ae84-78bddc050c66",
         "c641f485-c30e-4ac3-822e-7caa35a87b2f",
-        "39bf155e-c4c1-488e-b59e-b28704d805a4"
+        "39bf155e-c4c1-488e-b59e-b28704d805a4",
+        "button_B3bpNh"
       ],
       "settings": {
         "image": "shopify://shop_images/Screenshot_2024-02-12_at_0.24.57.png",
