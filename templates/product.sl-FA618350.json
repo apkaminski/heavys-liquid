@@ -1,0 +1,285 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_7EidXr": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "text_XATn8C": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "NO TRICKS JUST TREATS THIS HALLOWEEN Save $40 with code: SPOOKY",
+            "text_style": "body"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible_tab_eDV3RV": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Save $50 with code: LABOR",
+            "icon": "price_tag",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible_tab_zX7nK3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Free Shipping over $200 USD",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        },
+        "complementary_TtUpje": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Save 15% on your 2nd Design",
+            "make_collapsible_row": true,
+            "icon": "fire",
+            "product_list_limit": 10,
+            "products_per_page": 2,
+            "pagination_style": "dots",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
+        },
+        "judge_me_reviews_review_snippet_widget_eieVgN": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_snippet_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "vitals_trust_q4rtre": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
+        "custom_liquid_rUyfbA": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2024-03-28_at_20.09.01.png?v=1711649364\" width=\"300px\"><\/img><\/center>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judge_me_reviews_preview_badge_7EidXr",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "text_XATn8C",
+        "buy_buttons",
+        "description",
+        "collapsible_tab_eDV3RV",
+        "collapsible_tab_zX7nK3",
+        "complementary_TtUpje",
+        "judge_me_reviews_review_snippet_widget_eieVgN",
+        "vitals_trust_q4rtre",
+        "custom_liquid_rUyfbA"
+      ],
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "inverse",
+        "enable_sticky_info": true,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_PqfCJw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fT8YLe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>“ These headphones are incredible and have changed the way I listen to music ”  - Josh M.<\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_PFgHAd": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_kkpwcC": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fT8YLe",
+        "text_PFgHAd",
+        "button_kkpwcC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "463cf269-3e55-4128-838b-822482a855bf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Enhance Your Style & Save<\/strong>",
+        "heading_size": "h2",
+        "description": "<p>Top Shell designs metal fans are looking at right now<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shells",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "243990a3-4122-461a-b6d3-04139fdb26fc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How HEAVYS Shells™ work?",
+            "heading_size": "h1"
+          }
+        },
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Collect <strong>Shells<\/strong> to style & personalize your Heavys Headphones<\/p><p>Our innovative snap-on shells are the world's first replaceable headphone earcups, allowing you to easily mix and match designs in three simple steps:<\/p><p>Detach -&gt; Attach New -&gt; Headbang 🤘<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
+            "button_link": "#buy"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-0",
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-1",
+        "template--14884059414602__243990a3-4122-461a-b6d3-04139fdb26fc-168931862933bfc491-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shellshowto_copy.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "scroll_anchor": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_PqfCJw",
+    "463cf269-3e55-4128-838b-822482a855bf",
+    "243990a3-4122-461a-b6d3-04139fdb26fc",
+    "related-products"
+  ]
+}
