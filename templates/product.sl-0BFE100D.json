@@ -1,0 +1,824 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "140ffd4e-59cc-42be-82cf-cf3274153e91": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14884059381834__140ffd4e-59cc-42be-82cf-cf3274153e91-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Become A HEAVY(S) Gamer!",
+            "heading_size": "h2"
+          }
+        },
+        "text_8NEkDn": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<h4>Immerse yourself into the game with an 8-speaker sound field & crystal-clear zero latency communications<\/h4>"
+          }
+        },
+        "text_VNxU3Q": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><em>\" These are the real deal\"  -Lionel R. <\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059381834__140ffd4e-59cc-42be-82cf-cf3274153e91-heading-1",
+        "text_8NEkDn",
+        "text_VNxU3Q"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"#reviewshp\">\n  <img \n  src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0565\/7097\/0186\/files\/Screenshot_2025-02-10_at_17.58.04.png?v=1739203105\" \n    width=\"260px\" \n    alt=\"4.5-star rating\" \/>\n<\/a>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Popup with Klaviyo Form<\/title>\n  <style>\n    \/* Style for the popup overlay *\/\n    #popup-overlay {\n      display: none;\n      position: fixed;\n      top: 0;\n      left: 0;\n      width: 100%;\n      height: 100%;\n      background-color: rgba(0, 0, 0, 0.5);\n      z-index: 1000;\n    }\n\n    \/* Style for the popup content *\/\n    #popup-content {\n      position: fixed;\n      top: 50%;\n      left: 50%;\n      transform: translate(-50%, -50%);\n      width: 90%;\n      max-width: 500px;\n      background: white;\n      border-radius: 4px;\n      box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);\n      padding: 5px;\n      text-align: center;\n    }\n\n    \/* Close button *\/\n    #close-popup {\n      cursor: pointer;\n      padding: 5px 5px;\n      background: #5fc884;\n      color: white;\n      border: none;\n      border-radius: 4px;\n      margin-top: 5px;\n    }\n  <\/style>\n<\/head>\n<body>\n  <!-- Trigger link -->\n  <a href=\"#\" id=\"trigger-popup\">\n    <h4 style=\"color: #5fc884;\">Click to save an extra $40 USD Today <\/h4>\n  <\/a>\n\n  <!-- Popup structure -->\n  <div id=\"popup-overlay\">\n    <div id=\"popup-content\">\n      <h4>Signup to save $40 USD Today<\/h4>\n      <!-- Klaviyo form -->\n      <div class=\"klaviyo-form-Vhcff4\"><\/div>\n      <!-- Close button -->\n      <button id=\"close-popup\">Close<\/button>\n    <\/div>\n  <\/div>\n\n  <script>\n    document.addEventListener(\"DOMContentLoaded\", function () {\n      \/\/ Elements\n      const triggerLink = document.getElementById(\"trigger-popup\");\n      const popupOverlay = document.getElementById(\"popup-overlay\");\n      const closePopupButton = document.getElementById(\"close-popup\");\n\n      \/\/ Show popup on click\n      triggerLink.addEventListener(\"click\", function (event) {\n        event.preventDefault(); \/\/ Prevent default link behavior\n        popupOverlay.style.display = \"block\";\n      });\n\n      \/\/ Close popup\n      closePopupButton.addEventListener(\"click\", function () {\n        popupOverlay.style.display = \"none\";\n      });\n    });\n  <\/script>\n\n  <!-- Klaviyo form script -->\n  \n<\/body>\n<\/html>"
+          }
+        },
+        "variant_picker_qPDMbV": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "text_Mxcyz9": {
+          "type": "text",
+          "settings": {
+            "text": "Immerse yourself into the game with an 8-speaker sound field & crystal clear zero-latency microphone",
+            "text_style": "body"
+          }
+        },
+        "text_BBPzMn": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Ideal for Games, Calls & Group Communications<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "collapsible_tab_YU4fpp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Features Crafted for Gamers",
+            "icon": "star",
+            "content": "<p><strong>Immersive Audio<\/strong>: 8 premium speakers for lifelike sound, hear every move<\/p><p><strong><br\/>Clear Communication<\/strong>: Crystal clear dynamic mic and tangle-free detachable cable.<\/p><p><\/p><p><strong>Flexible Connectivity<\/strong>: Zero Latency Wired or low-latency Bluetooth options.<\/p><p><strong><br\/>Comfort for Hours<\/strong>: Long battery life and ergonomic design.<\/p><p><strong><br\/>Versatile Compatibility<\/strong>: Works with PC, mobile, and major consoles (Xbox One, Series X, PS4, PS5).<\/p><p><strong><br\/>Personalized Look<\/strong>: Interchangeable shells to match your style.<\/p><p><strong><br\/>Active Noise Cancellation<\/strong>: Focus on the game, anywhere.<\/p><p><strong><br\/>Future-Proof<\/strong>: Software updates with customizable sound profiles.<\/p><p><\/p><p><strong>Travel-Ready<\/strong>: Stylish premium travel case included.<\/p><p><strong><br\/>Highly Recommended<\/strong>: Trusted by gamers worldwide!<br\/><br\/><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_PmKyjY": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What's in the Bundle Box",
+            "icon": "box",
+            "content": "<p>+ Top Rated Heavys H1H Headphones<\/p><p><br\/>+ Omni-Directional Analog Dynamic Microphone & boom arm<\/p><p><br\/>+ Audio AUX Premium Cable with 2.5mm -&gt; 3.5mm jacks for Xbox One, Xbox Series S, Xbox Series X, PC, and PS4, PS5<\/p><p><br\/>+ 2 Heavys Custom Shells Designs + 2 Heavys Original Shells<\/p><p><br\/>+ USB-C Cable for Charging & Listening<\/p><p><br\/>+ Premium Foldable Durable Travel Case<br\/><br\/><br\/>+ Cable Splitter to 2 3.5mm Jacks<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_fex7nB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "HeX Mic + Cable Spec",
+            "icon": "lightning_bolt",
+            "content": "<p><span style=\"text-decoration:underline\">Cable Length:<\/span> 150 cm (~5ft) 2.5mm to 3.5mm. <\/p><p>+ Cable Splitter to two 3.5mm ports<\/p><p><span style=\"text-decoration:underline\">Omni-Directional Dynamic Microphone<\/span> for clear voice capture Adjustable arm for optimal positioning<\/p><p><span style=\"text-decoration:underline\">Compatibility<\/span>: Xbox One, X , S Controller, PlayStation PS4, PS5 Controller, PC<\/p><p><span style=\"text-decoration:underline\">Detachable cable Materia<\/span>l: Durable, tangle-free cable High-quality connectors for optimal sound transfer<\/p><p><strong>PERFECT FOR CALLS AND MULTI-PARTICIPANT COMMUNICATIONS<\/strong><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_VxhV37": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Free Shipping on $200+ Orders",
+            "icon": "truck",
+            "content": "<ul><li>+Free Shipping on 200+ USD Orders<\/li><\/ul><p><\/p><ul><li>+14 Day 'No Questions Asked' Return Policy after received date<br\/><\/li><li>+ One Year Warranty<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "complementary_z4cWLg": {
+          "type": "complementary",
+          "disabled": true,
+          "settings": {
+            "block_heading": "Save 25% on Custom Shells",
+            "make_collapsible_row": true,
+            "icon": "fire",
+            "product_list_limit": 8,
+            "products_per_page": 2,
+            "pagination_style": "dots",
+            "image_ratio": "portrait",
+            "enable_quick_add": true
+          }
+        },
+        "judge_me_reviews_review_snippet_widget_JGa3Eg": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_snippet_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "vitals_trust_mGEQCq": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "5a774aeb-b98a-4bc2-8059-4589168eaa2d",
+        "price",
+        "ba96c4d5-2c01-46a7-be6a-e3d52724eeb8",
+        "variant_picker_qPDMbV",
+        "buy_buttons",
+        "text_Mxcyz9",
+        "text_BBPzMn",
+        "collapsible_tab_YU4fpp",
+        "collapsible_tab_PmKyjY",
+        "collapsible_tab_fex7nB",
+        "collapsible_tab_VxhV37",
+        "complementary_z4cWLg",
+        "judge_me_reviews_review_snippet_widget_JGa3Eg",
+        "vitals_trust_mGEQCq"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "enable_sticky_info": true,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_Nfi9Uh": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-07-28_at_23.04.03.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "scroll_anchor": ""
+      }
+    },
+    "3bc6e762-d1fe-466d-b7f0-232eab03d17d": {
+      "type": "multicolumn",
+      "blocks": {
+        "9a8acc7b-e800-4375-babb-b1db42f5ecb1": {
+          "type": "column",
+          "settings": {
+            "icon": "barcode",
+            "title": "50 Hours Battery Playtime",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "25ebce84-0801-436c-ac34-74ace415f590": {
+          "type": "column",
+          "settings": {
+            "icon": "disc",
+            "title": "8 Drivers Immersive Sound",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a98f09b9-f13e-43fe-8e23-76fa02548618": {
+          "type": "column",
+          "settings": {
+            "icon": "headset",
+            "title": "Ergonomic Design for Long Use",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2": {
+          "type": "column",
+          "settings": {
+            "icon": "mic",
+            "title": "Zero Latency Boom MIc",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_drjTi9": {
+          "type": "column",
+          "settings": {
+            "icon": "radio",
+            "title": "Active Noise Cancellation",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0": {
+          "type": "column",
+          "settings": {
+            "icon": "bluetooth",
+            "title": "Bluetooth & Digital Mic",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1": {
+          "type": "column",
+          "settings": {
+            "icon": "lightning_bolt",
+            "title": "USB-C Rapid Charging",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8041cf07-1630-4520-9b8c-916dc33762d7": {
+          "type": "column",
+          "settings": {
+            "icon": "build",
+            "title": "Multi-Platform Compatible",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "65b42d82-acc4-41e8-aa6b-9a65cf151134": {
+          "type": "column",
+          "settings": {
+            "icon": "diamond",
+            "title": "Durable Travel  Case",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WUmry4": {
+          "type": "column",
+          "settings": {
+            "icon": "fire",
+            "title": "Custom Designs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "9a8acc7b-e800-4375-babb-b1db42f5ecb1",
+        "25ebce84-0801-436c-ac34-74ace415f590",
+        "a98f09b9-f13e-43fe-8e23-76fa02548618",
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-2",
+        "column_drjTi9",
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-0",
+        "template--14884059381834__3bc6e762-d1fe-466d-b7f0-232eab03d17d-1689688595daac9260-1",
+        "8041cf07-1630-4520-9b8c-916dc33762d7",
+        "65b42d82-acc4-41e8-aa6b-9a65cf151134",
+        "column_WUmry4"
+      ],
+      "custom_css": [
+        "h2 {margin: 0 auto 2rem auto; text-align: center;}"
+      ],
+      "settings": {
+        "title": "Making Gaming Better",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "scroll_anchor": ""
+      }
+    },
+    "image_with_text_HtwVc9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KUBzg8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<em><strong>\" They're superbly well-made, properly punchy, nicely detailed, multi-talented, rather gorgeous headphones and a pleasure for wireless day-to-day fun.\" <\/strong><\/em><strong>- PC Gamer Mag<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_7tqatr": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em>\" They're superbly well-made, properly punchy, nicely detailed, multi-talented, rather gorgeous headphones and a pleasure for day-to-day fun\" <\/em>- PC Gamer Mag<\/h3>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KUBzg8",
+        "text_7tqatr"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/man-playing-gaming-with-heavys.jpg",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "scroll_anchor": ""
+      }
+    },
+    "rich_text_QqzA46": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KypCJr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Game <a href=\"\/products\/headphones-case-aux\" title=\"Heavys H1H Headphones Bundle\">Like Never Before<\/a>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KypCJr"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "38a080f0-6b69-497b-9ef6-70faa02de6c7": {
+      "type": "multirow",
+      "blocks": {
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/explosion_earcup_for_black_background_v1_247.png",
+            "caption": "",
+            "heading": "Multi - Drivers",
+            "text": "<p>Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges. Enjoy a superior listening experience characterized by exceptional clarity, richness, and depth. Feel a lifetime of dedication brought to you by Axel Grell the 'Godfather of Sound'<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "97d7e663-5012-430b-885c-4e2beb3dafb5": {
+          "type": "row-with-video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/explosion earcup for black background 60fps v1.mp4",
+            "video_url": "",
+            "enable_video_looping": true,
+            "autoplay": true,
+            "caption": "",
+            "heading": "Multi-Driver Design",
+            "text": "<p>Experience 3 dimensional immersive surround audio powered by 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heavys_headphone_sound_wave_1_white_2.png",
+            "caption": "",
+            "heading": "Natural Sound Field",
+            "text": "<p>Heavys patented technology, built by legend Axel Grell, is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for gaming & sound effects<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heavys_headphone_2.png",
+            "caption": "",
+            "heading": "World Class Features",
+            "text": "<p>Fully equipped with Hell Blocker™ active noise cancellation, transparent mode, 50 hours of play time, 5 microphones, analog mic + boom arm cable with 0 latency, ultra-soft ear-cups, Wireless Bluetooth 5.1, interchangeable designs & more<\/p>",
+            "button_label": "Elevate My Sound",
+            "button_link": "#top"
+          }
+        },
+        "row_cwixtN": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/soundguys-review-heavys-new-box_825ee89f-f745-4f99-a3ed-3c2ca5cae8c5.png",
+            "caption": "",
+            "heading": "Top Rating from SoundGuys!",
+            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category<\/p>",
+            "button_label": "Experience Immersive Gaming",
+            "button_link": "#top"
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0",
+        "97d7e663-5012-430b-885c-4e2beb3dafb5",
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1",
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2",
+        "row_cwixtN"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "row_color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": "prod-details"
+      }
+    },
+    "9ee22153-1421-49ae-ae56-fe473b7fbe10": {
+      "type": "table",
+      "blocks": {
+        "collapsible_row_B8BhWz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Type",
+            "icon": "none",
+            "row_content": "<p>Full size around-the-ear headphone, wired and wireless<\/p>",
+            "page": "",
+            "scroll_anchor": "heavys-specs"
+          }
+        },
+        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Drivers",
+            "icon": "none",
+            "row_content": "<p>Dynamic<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Drivers per side",
+            "icon": "none",
+            "row_content": "<p>4 (2 low \/ mid range speakers, 2 high frequency tweeter)<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Frequency range",
+            "icon": "none",
+            "row_content": "<p>5 Hz to 46 kHz \/ 5 Hz to 24 kHz as Bluetooth headset<br\/>THD at 100 dB SPL, 1 kHz: &gt;0.05%<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "97e71b43-c3f6-4ed2-a4b5-1b83dc76095c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Weight",
+            "icon": "none",
+            "row_content": "<p>410 g \/ 14.5 oz<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "bae46afd-53ac-45c9-b84e-a55a7f94ea3f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "BT Version",
+            "icon": "none",
+            "row_content": "<p>5.1<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "79321c10-0039-4431-9e91-49bb9a38d1af": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Codecs",
+            "icon": "none",
+            "row_content": "<p>SBC, AAC, aptX adaptive<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "e2e4d849-dd34-4954-920f-6f389b7fe144": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Battery lifetime",
+            "icon": "none",
+            "row_content": "<p>up to 50 h<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "81e7d9a4-097f-43fc-ae29-369ba5279d73": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Noise Cancelling",
+            "icon": "none",
+            "row_content": "<p>High efficiency PNC combined with a mild ANC for lowest levels of perceived disturbance<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "4e02c51b-77f2-4550-bbb4-ace39c555df5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Modes",
+            "icon": "none",
+            "row_content": "<p>Wired Pure Passive, BT Passive, BT ANC, BT Transparent<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "2d3347e7-bf1e-4cfe-91fc-354014fa8734": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Max SPL",
+            "icon": "none",
+            "row_content": "<p>According to IEC 62368-1<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Voice Pick up",
+            "icon": "none",
+            "row_content": "<p>2 microphone end-fire array<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "28c887b6-3d0d-45fb-bbd9-260a24339e8f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Controls",
+            "icon": "none",
+            "row_content": "<p>Volume up \/ down, play \/ pause, next \/ previous song, take \/ decline \/ end a call<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "0640185d-f352-442b-9b4e-ce6844cc6853": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "USB",
+            "icon": "none",
+            "row_content": "<p>USB-C socket for charging and digital in<\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        },
+        "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Learn More:",
+            "icon": "none",
+            "row_content": "<p><a href=\"\/blogs\/testimonials\/heavys-h1h-headphones-product-info\" title=\"HEAVYS H1H Multi-Driver Headphones Product Overview\">H1H Headphones Product Overview<\/a><\/p>",
+            "page": "",
+            "scroll_anchor": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_B8BhWz",
+        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-0",
+        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-1",
+        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-2",
+        "template--14884059381834__9ee22153-1421-49ae-ae56-fe473b7fbe10-16892522585c43addf-3",
+        "97e71b43-c3f6-4ed2-a4b5-1b83dc76095c",
+        "bae46afd-53ac-45c9-b84e-a55a7f94ea3f",
+        "79321c10-0039-4431-9e91-49bb9a38d1af",
+        "e2e4d849-dd34-4954-920f-6f389b7fe144",
+        "81e7d9a4-097f-43fc-ae29-369ba5279d73",
+        "4e02c51b-77f2-4550-bbb4-ace39c555df5",
+        "2d3347e7-bf1e-4cfe-91fc-354014fa8734",
+        "e96b0cea-f5f2-4eaf-95ff-6e9c6e891d3b",
+        "28c887b6-3d0d-45fb-bbd9-260a24339e8f",
+        "0640185d-f352-442b-9b4e-ce6844cc6853",
+        "2e9eb5b1-4d10-4647-97e2-4e0f80bc90a3"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "caption": "For MetalHeads By MetalHeads",
+        "heading": "Heavys <strong>Specification<\/strong>",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-2",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "footer_button_label": "Add to Cart Now",
+        "footer_button_link": "https:\/\/www.heavys.com\/cart\/add\/40746106323018",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "4a021e85-b1fd-402a-812a-5f2fcc0920fa": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".pad {padding-right: 5px; padding-left: 5px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h2><center>Trusted By 80,000+ Gamers & Fans<\/center><\/h2><\/br><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"><\/div>\n<script src=\"https:\/\/plugins.flockler.com\/embed\/18b86b286fe0280e9e9571c39b02c6e9\/18b86e8a412058b2d212b4bc4e6873c1\" async><\/script>",
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "video_jdURJp": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Axel_Short_Video.mp4",
+        "autoplay": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 32,
+        "padding_bottom": 16,
+        "scroll_anchor": ""
+      }
+    },
+    "89a118c0-27aa-4e50-a67f-aca584e69125": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-2": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-0",
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-1",
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-2",
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-3",
+        "template--14884059381834__89a118c0-27aa-4e50-a67f-aca584e69125-1689245585b2e19855-5"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "shell-bundle-1",
+        "color_scheme": "inverse",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "secondary_image": "shopify:\/\/shop_images\/HAEVYSfamilybundle-1_b2bd94a8-401a-4f25-945f-6a7c34f848cb.png",
+        "media_fit": "contain",
+        "media_position": "left",
+        "gallery_layout": "stacked",
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
+        "enable_video_looping": false,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "scroll_anchor": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "140ffd4e-59cc-42be-82cf-cf3274153e91",
+    "main",
+    "image_with_text_Nfi9Uh",
+    "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
+    "image_with_text_HtwVc9",
+    "rich_text_QqzA46",
+    "38a080f0-6b69-497b-9ef6-70faa02de6c7",
+    "9ee22153-1421-49ae-ae56-fe473b7fbe10",
+    "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
+    "video_jdURJp",
+    "89a118c0-27aa-4e50-a67f-aca584e69125",
+    "related-products"
+  ]
+}
