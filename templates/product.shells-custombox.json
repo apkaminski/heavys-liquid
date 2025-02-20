@@ -118,7 +118,7 @@
           "settings": {
             "heading": "'Shells + Velvet Only' Includes:",
             "icon": "fire",
-            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells for Heavys H1H Headphones</p><p>+ Band Branded Velvet Carry Case for Headphones</p><p></p><p>*Shells snap on the external side of the ear cup</p>",
+            "content": "<p>2 {{ product.metafields.heavys_custom.band.value.name.value }} Limited Edition Shells for Heavys H1H Headphones</p><p>+ Band Branded Velvet Carry Case for Headphones</p><p>*Shells snap on the external side of the ear cup</p>",
             "page": ""
           }
         },
