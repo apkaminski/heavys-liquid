@@ -462,25 +462,13 @@
             "button_label": "Elevate My Sound",
             "button_link": "#top"
           }
-        },
-        "row_cwixtN": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/soundguys-review-heavys-new-box_825ee89f-f745-4f99-a3ed-3c2ca5cae8c5.png",
-            "caption": "",
-            "heading": "Top Rating from SoundGuys!",
-            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category</p>",
-            "button_label": "Experience Immersive Gaming",
-            "button_link": "#top"
-          }
         }
       },
       "block_order": [
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0",
         "97d7e663-5012-430b-885c-4e2beb3dafb5",
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1",
-        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2",
-        "row_cwixtN"
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2"
       ],
       "settings": {
         "image_height": "adapt",
@@ -526,7 +514,7 @@
         "enable_video_looping": false,
         "autoplay": false,
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
@@ -535,7 +523,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 12,
-        "padding_bottom": 12,
+        "padding_bottom": 4,
         "scroll_anchor": ""
       }
     },
