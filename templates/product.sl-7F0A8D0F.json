@@ -232,26 +232,6 @@
         "scroll_anchor": ""
       }
     },
-    "image_with_text_Nfi9Uh": {
-      "type": "image-with-text",
-      "settings": {
-        "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
-        "enable_video_looping": false,
-        "autoplay": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 24,
-        "padding_bottom": 24,
-        "scroll_anchor": ""
-      }
-    },
     "3bc6e762-d1fe-466d-b7f0-232eab03d17d": {
       "type": "multicolumn",
       "blocks": {
@@ -389,6 +369,26 @@
         "scroll_anchor": ""
       }
     },
+    "image_with_text_Nfi9Uh": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-07-28_at_23.04.03.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "scroll_anchor": ""
+      }
+    },
     "rich_text_QqzA46": {
       "type": "rich-text",
       "blocks": {
@@ -459,7 +459,7 @@
             "caption": "",
             "heading": "World Class Features",
             "text": "<p>Fully equipped with Hell Blocker™ active noise cancellation, transparent mode, 50 hours of play time, 5 microphones, analog mic + boom arm cable with 0 latency, ultra-soft ear-cups, Wireless Bluetooth 5.1, interchangeable designs & more</p>",
-            "button_label": "Elevate My Sound",
+            "button_label": "Experience Immersive Gaming",
             "button_link": "#top"
           }
         },
