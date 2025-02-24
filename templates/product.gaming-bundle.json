@@ -493,8 +493,8 @@
         "heading_ezp7dJ": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Top Rated by the SoundGuys!</strong></em>",
-            "heading_size": "h2"
+            "heading": "<strong>Top Rated by the SoundGuys!</strong>",
+            "heading_size": "h1"
           }
         },
         "text_gQdL8G": {
