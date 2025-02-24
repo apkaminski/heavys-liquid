@@ -462,25 +462,13 @@
             "button_label": "Experience Immersive Gaming",
             "button_link": "#top"
           }
-        },
-        "row_cwixtN": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/soundguys-review-heavys-new-box_825ee89f-f745-4f99-a3ed-3c2ca5cae8c5.png",
-            "caption": "",
-            "heading": "Top Rating from SoundGuys!",
-            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category</p>",
-            "button_label": "Experience Immersive Gaming",
-            "button_link": "#top"
-          }
         }
       },
       "block_order": [
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-0",
         "97d7e663-5012-430b-885c-4e2beb3dafb5",
         "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-1",
-        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2",
-        "row_cwixtN"
+        "template--14884059381834__38a080f0-6b69-497b-9ef6-70faa02de6c7-168923679715303851-2"
       ],
       "settings": {
         "image_height": "adapt",
@@ -497,6 +485,46 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "scroll_anchor": "prod-details"
+      }
+    },
+    "image_with_text_EawJDc": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pVLF4x": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top Rated by the SoundGuys!",
+            "heading_size": "h1"
+          }
+        },
+        "text_K6tPMt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pVLF4x",
+        "text_K6tPMt"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/soundguys-review-heavys-new-box_6df95cc9-4ca2-48fc-ac7e-b009f559194f.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "scroll_anchor": ""
       }
     },
     "9ee22153-1421-49ae-ae56-fe473b7fbe10": {
@@ -815,6 +843,7 @@
     "image_with_text_Nfi9Uh",
     "rich_text_QqzA46",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
+    "image_with_text_EawJDc",
     "9ee22153-1421-49ae-ae56-fe473b7fbe10",
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa",
     "video_jdURJp",
