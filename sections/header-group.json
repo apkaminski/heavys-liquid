@@ -28,9 +28,9 @@
         "announcement_ekbCtT": {
           "type": "announcement",
           "settings": {
-            "text": "*New* Dream Theater Shells",
+            "text": "*New* Motörhead Exclusive Edition",
             "behaviour_type": "link",
-            "link": "shopify://products/dream-theater-official-shells",
+            "link": "https://www.heavys.com/products/motorhead-official-shells?variant=41826695446602",
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
