@@ -435,7 +435,7 @@
           "settings": {
             "heading": "Shipping Address",
             "icon": "none",
-            "row_content": "<p>We ship to both residential and commercial addresses within the United States and internationally.</p><p>Please take note that we don't ship to P.O. boxes.</p><p></p>",
+            "row_content": "<p>We ship to both residential and commercial addresses within the United States and internationally.</p><p>Please take note that we do NOT ship to P.O. boxes and FPO/FPO addresses will require a special delivery service and fee</p><p></p>",
             "page": ""
           }
         },
