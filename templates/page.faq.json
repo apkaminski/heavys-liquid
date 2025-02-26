@@ -170,6 +170,124 @@
         "scroll_anchor": ""
       }
     },
+    "05a222a6-4024-4a56-a83f-4c517de5457f": {
+      "type": "collapsible-content",
+      "blocks": {
+        "c4f841f6-9d4c-4b45-b215-cafdfdf3d619": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When will my order ship and be delivered",
+            "icon": "none",
+            "row_content": "<p>Good news! Heavys are in stock and ready for immediate shipment! As soon as you place your order, we'll process it swiftly within 1-2 business days</p><p>Actual delivery times vary between countries. Please note that while our couriers will deliver the package as fast as possible, the import and customs process within your country may delay the delivery date and is out of our control</p>",
+            "page": ""
+          }
+        },
+        "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does shipping costs cover local taxes and fees?",
+            "icon": "none",
+            "row_content": "<p>We include tax, duties and VAT for most countries for most orders, and it will be specified during checkout. In some cases, specific country duties, if applicable, will need to be reconciled directly as with any consumer electronic goods ordered online since every country has its own taxes and procedures.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_C4YbWw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you ship internationally?",
+            "icon": "none",
+            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. Wherever you are, we've got you covered! full list is available on the checkout page dropdown. </p>",
+            "page": ""
+          }
+        },
+        "63c90da5-968f-415c-942b-2f07ac954a94": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will you ship to Russia or Ukraine?",
+            "icon": "none",
+            "row_content": "<p>Unfortunately we currently can not ship to Russia and Ukraine.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "c4f841f6-9d4c-4b45-b215-cafdfdf3d619",
+        "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0",
+        "collapsible_row_C4YbWw",
+        "63c90da5-968f-415c-942b-2f07ac954a94"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Shipping & Taxes",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
+    },
+    "collapsible_content_nAVUDk": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_CcP4Ti": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How to use the EQ in the app",
+            "icon": "none",
+            "row_content": "<p>1.  Make sure your headphones are connected to the Heavys app</p><p>2. Make sure you are playing music in one of your music apps. (EQ will only be visible when music is actively playing)<br/></p><p>for all app FAQ and how to use the EQ please visit this page:</p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tPW9J7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is included with Heavys Mobile App?",
+            "icon": "none",
+            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FQ78Cr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Im having issues with the app",
+            "icon": "none",
+            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_CcP4Ti",
+        "collapsible_row_tPW9J7",
+        "collapsible_row_FQ78Cr"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Mobile App (Now Available)",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "footer_button_label": "Button label",
+        "footer_button_link": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "scroll_anchor": ""
+      }
+    },
     "e58bbbcb-3cfb-4130-8683-b5d4b3338a01": {
       "type": "collapsible-content",
       "blocks": {
@@ -237,70 +355,6 @@
         "scroll_anchor": ""
       }
     },
-    "05a222a6-4024-4a56-a83f-4c517de5457f": {
-      "type": "collapsible-content",
-      "blocks": {
-        "c4f841f6-9d4c-4b45-b215-cafdfdf3d619": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "When will my order ship and be delivered",
-            "icon": "none",
-            "row_content": "<p>Good news! Heavys are in stock and ready for immediate shipment! As soon as you place your order, we'll process it swiftly within 1-2 business days</p><p>Actual delivery times vary between countries. Please note that while our couriers will deliver the package as fast as possible, the import and customs process within your country may delay the delivery date and is out of our control</p>",
-            "page": ""
-          }
-        },
-        "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Does shipping costs cover local taxes and fees?",
-            "icon": "none",
-            "row_content": "<p>We include tax, duties and VAT for most countries for most orders, and it will be specified during checkout. In some cases, specific country duties, if applicable, will need to be reconciled directly as with any consumer electronic goods ordered online since every country has its own taxes and procedures.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_C4YbWw": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Do you ship internationally?",
-            "icon": "none",
-            "row_content": "<p>Absolutely! We offer shipping to many countries worldwide. Wherever you are, we've got you covered! full list is available on the checkout page dropdown. </p>",
-            "page": ""
-          }
-        },
-        "63c90da5-968f-415c-942b-2f07ac954a94": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Will you ship to Russia or Ukraine?",
-            "icon": "none",
-            "row_content": "<p>Unfortunately we currently can not ship to Russia and Ukraine.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "c4f841f6-9d4c-4b45-b215-cafdfdf3d619",
-        "template--14885345820746__05a222a6-4024-4a56-a83f-4c517de5457f-1689329197ec6dd353-0",
-        "collapsible_row_C4YbWw",
-        "63c90da5-968f-415c-942b-2f07ac954a94"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Shipping & Taxes",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "footer_button_label": "Button label",
-        "footer_button_link": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      }
-    },
     "fa49ee80-ce51-4335-9f65-e9373287c723": {
       "type": "collapsible-content",
       "blocks": {
@@ -330,60 +384,6 @@
       "settings": {
         "caption": "",
         "heading": "Service / Warranty",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "footer_button_label": "Button label",
-        "footer_button_link": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "scroll_anchor": ""
-      }
-    },
-    "collapsible_content_nAVUDk": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_tPW9J7": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is included with Heavys Mobile App?",
-            "icon": "none",
-            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_FQ78Cr": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Im having issues with the app",
-            "icon": "none",
-            "row_content": "<p>for all app FAQ please visit this page: </p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_CcP4Ti": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How to use the EQ in the app",
-            "icon": "none",
-            "row_content": "<p>1.  Make sure your headphones are connected to the Heavys app</p><p>2. Make sure you are playing music in one of your music apps. (EQ will only be visible when music is actively playing)<br/></p><p>for all app FAQ and how to use the EQ please visit this page:</p><p><a href=\"https://www.heavys.com/pages/heavys-mobile-app-faq\" target=\"_blank\" title=\"https://www.heavys.com/pages/heavys-mobile-app-faq\">https://www.heavys.com/pages/heavys-mobile-app-faq</a></p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_tPW9J7",
-        "collapsible_row_FQ78Cr",
-        "collapsible_row_CcP4Ti"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Mobile App (Now Available)",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "row",
@@ -435,7 +435,7 @@
           "settings": {
             "heading": "Shipping Address",
             "icon": "none",
-            "row_content": "<p>We ship to both residential and commercial addresses within the United States and internationally.</p><p></p><p>Please take note that we don't ship to P.O. boxes or APO/FPO addresses.</p><p></p>",
+            "row_content": "<p>We ship to both residential and commercial addresses within the United States and internationally.</p><p>Please take note that we don't ship to P.O. boxes.</p><p></p>",
             "page": ""
           }
         },
@@ -786,10 +786,10 @@
   "order": [
     "main",
     "13db89f4-7cd1-4e43-85a2-b8c0a616da49",
-    "e58bbbcb-3cfb-4130-8683-b5d4b3338a01",
     "05a222a6-4024-4a56-a83f-4c517de5457f",
-    "fa49ee80-ce51-4335-9f65-e9373287c723",
     "collapsible_content_nAVUDk",
+    "e58bbbcb-3cfb-4130-8683-b5d4b3338a01",
+    "fa49ee80-ce51-4335-9f65-e9373287c723",
     "d57daec0-b334-4704-81c6-4018c4dbec41",
     "collapsible_content_q6fTPN",
     "0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c",
