@@ -734,17 +734,6 @@
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         },
-        "template--14885345820746__a7352f93-1895-43bf-863f-663ea6d0a386-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get Heavys Headphones Bundles",
-            "button_link": "shopify://products/heavys-h1h-headphones-bundle-case",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
         "button_Q7qjgx": {
           "type": "button",
           "settings": {
@@ -755,21 +744,32 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "template--14885345820746__a7352f93-1895-43bf-863f-663ea6d0a386-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Heavys Headphones Bundles",
+            "button_link": "shopify://products/heavys-h1h-headphones-bundle-case",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "template--14885345820746__a7352f93-1895-43bf-863f-663ea6d0a386-heading-1",
         "template--14885345820746__a7352f93-1895-43bf-863f-663ea6d0a386-text-1",
-        "template--14885345820746__a7352f93-1895-43bf-863f-663ea6d0a386-button-1",
-        "button_Q7qjgx"
+        "button_Q7qjgx",
+        "template--14885345820746__a7352f93-1895-43bf-863f-663ea6d0a386-button-1"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 12,
+        "padding_bottom": 20
       }
     },
     "bcaaf802-60f6-4a0f-aa33-1e679409301e": {
