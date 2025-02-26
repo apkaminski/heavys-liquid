@@ -545,12 +545,21 @@
     "0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c": {
       "type": "collapsible-content",
       "blocks": {
-        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-0": {
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I wear my glasses when using the Heavys Headphones?",
+            "heading": "How is the battery life?",
             "icon": "none",
-            "row_content": "<p>Yes, you can wear your glasses with the headphones. </p>",
+            "row_content": "<p>Our battery is one of the top in the market - it lasts 50 hours without ANC (Noise-canceling, aka Hell Blocker), and 40hrs with ANC.Like any electrical device, extreme cold may damage the battery, so we do not recommend taking the headphones out to temperatures below -20℃.</p>",
+            "page": ""
+          }
+        },
+        "4d1357ba-f0ee-4b05-b1da-f557f42264da": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will they connect to a PC using the USB-C cable?",
+            "icon": "none",
+            "row_content": "<p>Yes.</p>",
             "page": ""
           }
         },
@@ -560,15 +569,6 @@
             "heading": "Are you going to implement LDAC support?",
             "icon": "none",
             "row_content": "<p>LDAC is not supported.</p>",
-            "page": ""
-          }
-        },
-        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How is the battery life?",
-            "icon": "none",
-            "row_content": "<p>Our battery is one of the top in the market - it lasts 50 hours without ANC (Noise-canceling, aka Hell Blocker), and 40hrs with ANC.Like any electrical device, extreme cold may damage the battery, so we do not recommend taking the headphones out to temperatures below -20℃.</p>",
             "page": ""
           }
         },
@@ -608,6 +608,15 @@
             "page": ""
           }
         },
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I wear my glasses when using the Heavys Headphones?",
+            "icon": "none",
+            "row_content": "<p>Yes, you can wear your glasses with the headphones. </p>",
+            "page": ""
+          }
+        },
         "f032f6c0-7267-4ade-9286-2654f74e534a": {
           "type": "collapsible_row",
           "settings": {
@@ -623,15 +632,6 @@
             "heading": "What Codecs are supported?",
             "icon": "none",
             "row_content": "<p>SBC, AAC, aptX adaptive</p>",
-            "page": ""
-          }
-        },
-        "4d1357ba-f0ee-4b05-b1da-f557f42264da": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Will they connect to a PC using the USB-C cable?",
-            "icon": "none",
-            "row_content": "<p>Yes.</p>",
             "page": ""
           }
         },
@@ -682,16 +682,16 @@
         }
       },
       "block_order": [
-        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-0",
-        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-1",
         "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-3",
+        "4d1357ba-f0ee-4b05-b1da-f557f42264da",
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-1",
         "290681a0-1cd5-4692-a622-331bf732aeed",
         "42fd642e-0529-44e3-b84b-ff50d513fcd1",
         "8cb2d958-da05-451c-8665-4e07843dbdae",
         "9e97d138-2974-4b88-bb60-8bd2170d6b86",
+        "template--14885345820746__0ca64cfa-540b-47a1-a4d0-bd3a83b2fb1c-1689329197ec6dd353-0",
         "f032f6c0-7267-4ade-9286-2654f74e534a",
         "b312d676-f2a2-42e9-825e-6cc24ae1c0af",
-        "4d1357ba-f0ee-4b05-b1da-f557f42264da",
         "0de8b74c-0669-476c-84f9-2c43e26913f8",
         "651ce809-f810-4a98-8052-e6b5ab36143a",
         "dbd6db4f-7106-45b1-8cae-f8ae04ab2ce6",
