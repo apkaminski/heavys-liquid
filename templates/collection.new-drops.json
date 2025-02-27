@@ -175,7 +175,7 @@
       "type": "custom-liquid",
       "custom_css": [
         ".pad {padding-right: 10px; padding-left: 10px;}",
-        "@media (min-width: 600px) {/* Adjust breakpoint as needed */ #flockler-embed-18b86e8a412058b2d212b4bc4e6873c1 {width: 85%; margin: 0 auto; /* Centers the div */ }}"
+        "@media (min-width: 600px) {/* Adjust breakpoint as needed */ #flockler-embed-18b86e8a412058b2d212b4bc4e6873c1 {width: 85%; margin: 0px auto; /* Centers the div */ }}"
       ],
       "settings": {
         "custom_liquid": "<h2><center>Trusted By 80,000+ Music Fans</center></h2><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
