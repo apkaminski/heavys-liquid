@@ -144,6 +144,7 @@
     },
     "featured_collection_6Brddr": {
       "type": "featured-collection",
+      "custom_css": [],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -173,7 +174,7 @@
     "custom_liquid_T8MQqJ": {
       "type": "custom-liquid",
       "custom_css": [
-        ".pad {padding-right: 5px; padding-left: 5px;}",
+        ".pad {padding-right: 10px; padding-left: 10px;}",
         "@media (min-width: 600px) {/* Adjust breakpoint as needed */ #flockler-embed-18b86e8a412058b2d212b4bc4e6873c1 {width: 85%; margin: 0 auto; /* Centers the div */ }}"
       ],
       "settings": {
