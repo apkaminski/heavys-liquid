@@ -151,7 +151,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "non-artist-designs",
-        "products_to_show": 25,
+        "products_to_show": 13,
         "columns_desktop": 3,
         "full_width": false,
         "show_view_all": true,
@@ -160,7 +160,7 @@
         "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "default",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
@@ -173,7 +173,8 @@
     "custom_liquid_T8MQqJ": {
       "type": "custom-liquid",
       "custom_css": [
-        ".pad {padding-right: 5px; padding-left: 5px;}"
+        ".pad {padding-right: 5px; padding-left: 5px;}",
+        "@media (min-width: 600px) {/* Adjust breakpoint as needed */ #flockler-embed-18b86e8a412058b2d212b4bc4e6873c1 {width: 85%; margin: 0 auto; /* Centers the div */ }}"
       ],
       "settings": {
         "custom_liquid": "<h2><center>Trusted By 80,000+ Music Fans</center></h2><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
