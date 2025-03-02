@@ -729,10 +729,10 @@
     "4a021e85-b1fd-402a-812a-5f2fcc0920fa": {
       "type": "custom-liquid",
       "custom_css": [
-        ".pad {padding-right: 5px; padding-left: 5px;}"
+        ".pad {padding-right: 10px; padding-left: 10px;}"
       ],
       "settings": {
-        "custom_liquid": "<h2><center>Trusted By 80,000+ Gamers & Fans</center></h2><div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
+        "custom_liquid": "<h2 class=\"center-text\">Trusted By 80,000+ Gamers & Fans</h2>\n\n<div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>\n\n<style>\n    .center-text {\n        text-align: center;\n    }\n</style>",
         "color_scheme": "background-2",
         "padding_top": 20,
         "padding_bottom": 20
