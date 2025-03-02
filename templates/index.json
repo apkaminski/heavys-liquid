@@ -489,7 +489,10 @@
     },
     "video": {
       "type": "video",
-      "custom_css": [],
+      "custom_css": [
+        "h2 {text-align: center;}",
+        "@media screen and (min-width: 750px) {.video-section {max-width: 980px; margin: 0 auto; }}"
+      ],
       "settings": {
         "heading": "",
         "heading_size": "h2",
