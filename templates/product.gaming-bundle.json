@@ -191,6 +191,47 @@
         "padding_bottom": 28
       }
     },
+    "image_with_text_HtwVc9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KUBzg8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<em><strong>\" They're superbly well-made, properly punchy, nicely detailed, multi-talented, rather gorgeous headphones and a pleasure for wireless day-to-day fun.\" </strong></em><strong>- PC Gamer Mag</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_7tqatr": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em>\" They're superbly well-made, properly punchy, nicely detailed, multi-talented, rather gorgeous headphones and a pleasure for day-to-day fun\" </em>- PC Gamer Mag</h3>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KUBzg8",
+        "text_7tqatr"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/man-playing-gaming-with-heavys.jpg",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "scroll_anchor": ""
+      }
+    },
     "image_with_text_Nfi9Uh": {
       "type": "image-with-text",
       "settings": {
@@ -345,47 +386,6 @@
         "swipe_on_mobile": false,
         "padding_top": 60,
         "padding_bottom": 60,
-        "scroll_anchor": ""
-      }
-    },
-    "image_with_text_HtwVc9": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_KUBzg8": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<em><strong>\" They're superbly well-made, properly punchy, nicely detailed, multi-talented, rather gorgeous headphones and a pleasure for wireless day-to-day fun.\" </strong></em><strong>- PC Gamer Mag</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_7tqatr": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><em>\" They're superbly well-made, properly punchy, nicely detailed, multi-talented, rather gorgeous headphones and a pleasure for day-to-day fun\" </em>- PC Gamer Mag</h3>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_KUBzg8",
-        "text_7tqatr"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/man-playing-gaming-with-heavys.jpg",
-        "enable_video_looping": false,
-        "autoplay": false,
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 12,
-        "padding_bottom": 12,
         "scroll_anchor": ""
       }
     },
@@ -839,9 +839,9 @@
   "order": [
     "140ffd4e-59cc-42be-82cf-cf3274153e91",
     "main",
-    "image_with_text_Nfi9Uh",
-    "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
     "image_with_text_HtwVc9",
+    "3bc6e762-d1fe-466d-b7f0-232eab03d17d",
+    "image_with_text_Nfi9Uh",
     "rich_text_QqzA46",
     "38a080f0-6b69-497b-9ef6-70faa02de6c7",
     "image_with_text_HhinVH",
