@@ -373,55 +373,6 @@
         "scroll_anchor": ""
       }
     },
-    "afe8820a-9e66-4dc8-9751-860686858282": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Top Rated by The SoundGuys!</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_VNhDH4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category</p>",
-            "text_style": "body"
-          }
-        },
-        "button_B3bpNh": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Elevate My Sound Now",
-            "button_link": "#heavys-featured"
-          }
-        }
-      },
-      "block_order": [
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
-        "text_VNhDH4",
-        "button_B3bpNh"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/soundguys-review-heavys-new-box_6df95cc9-4ca2-48fc-ac7e-b009f559194f.png",
-        "enable_video_looping": false,
-        "autoplay": false,
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 16,
-        "padding_bottom": 8,
-        "scroll_anchor": "heavys-info"
-      }
-    },
     "image_with_text_UndTzq": {
       "type": "image-with-text",
       "blocks": {
@@ -498,6 +449,56 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 24,
+        "padding_bottom": 8,
+        "scroll_anchor": "heavys-info"
+      }
+    },
+    "afe8820a-9e66-4dc8-9751-860686858282": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Top Rated by The SoundGuys!</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_VNhDH4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category</p>",
+            "text_style": "body"
+          }
+        },
+        "button_B3bpNh": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Elevate My Sound Now",
+            "button_link": "#heavys-featured"
+          }
+        }
+      },
+      "block_order": [
+        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
+        "text_VNhDH4",
+        "button_B3bpNh"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/soundguys-review-heavys-new-box_6df95cc9-4ca2-48fc-ac7e-b009f559194f.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 16,
         "padding_bottom": 8,
         "scroll_anchor": "heavys-info"
       }
@@ -862,8 +863,8 @@
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
-    "afe8820a-9e66-4dc8-9751-860686858282",
     "image_with_text_UndTzq",
+    "afe8820a-9e66-4dc8-9751-860686858282",
     "rich_text_dpckBJ",
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
