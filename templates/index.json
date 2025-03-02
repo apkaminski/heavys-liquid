@@ -379,17 +379,15 @@
         "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "<strong>Top Rated by The SoundGuys!</strong>",
             "heading_size": "h2"
           }
         },
-        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967": {
-          "type": "icon-with-text",
+        "text_VNhDH4": {
+          "type": "text",
           "settings": {
-            "layout": "vertical",
-            "icon_1": "none",
-            "heading_1": "<strong>Top Rated by Soundguys</strong>",
-            "description_1": "Heavys outscored all competitors in the Over-Ear Headphones Category"
+            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category</p>",
+            "text_style": "body"
           }
         },
         "button_B3bpNh": {
@@ -403,7 +401,7 @@
       },
       "block_order": [
         "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
-        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
+        "text_VNhDH4",
         "button_B3bpNh"
       ],
       "settings": {
