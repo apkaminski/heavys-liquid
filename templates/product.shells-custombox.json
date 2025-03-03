@@ -321,6 +321,9 @@
         "text_yyYfGw",
         "button_h7EXhe"
       ],
+      "custom_css": [
+        "@media (min-width: 700px) {/* Desktop only */ .image-with-text {width: 85%; margin: 0 auto; /* Centers the content */ }}"
+      ],
       "settings": {
         "image": "shopify://shop_images/soundguys-review-heavys-new-box_6df95cc9-4ca2-48fc-ac7e-b009f559194f.png",
         "enable_video_looping": false,
@@ -331,11 +334,11 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 28,
-        "padding_bottom": 12,
+        "padding_top": 20,
+        "padding_bottom": 20,
         "scroll_anchor": ""
       }
     },
