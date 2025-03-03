@@ -492,7 +492,7 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "address1_label": "Address - We Do-Not ship to P.O. boxes",
+        "address1_label": "Address - We Do-Not ship to APO/FPO or P.O. Box",
         "phone_label": "Phone - Receive offers and shopping cart reminders via text messages",
         "optional_phone_label": "Phone - Receive offers and shopping cart reminders via text messages",
         "address2_label": "Please Check Accuracy of Shipping Address"
