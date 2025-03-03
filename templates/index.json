@@ -460,7 +460,7 @@
         "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Top Rated by The SoundGuys!</strong>",
+            "heading": "<strong>Top Rated by SoundGuys!</strong>",
             "heading_size": "h1"
           }
         },
@@ -486,7 +486,7 @@
         "button_B3bpNh"
       ],
       "custom_css": [
-        "{width: 90%; margin: 0px auto; /* Centers the div */}"
+        "{width: 95%; margin: 0px auto; /* Centers the div */ }"
       ],
       "settings": {
         "image": "shopify://shop_images/soundguys-review-heavys-new-box_6df95cc9-4ca2-48fc-ac7e-b009f559194f.png",
