@@ -486,7 +486,7 @@
         "button_B3bpNh"
       ],
       "custom_css": [
-        "{width: 95%; margin: 0px auto; /* Centers the div */ }"
+        "@media (min-width: 700px) {/* Desktop only */ .image-with-text {width: 75%; margin: 0 auto; /* Centers the content */ }}"
       ],
       "settings": {
         "image": "shopify://shop_images/soundguys-review-heavys-new-box_6df95cc9-4ca2-48fc-ac7e-b009f559194f.png",
