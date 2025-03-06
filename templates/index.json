@@ -9,6 +9,15 @@
  */
 {
   "sections": {
+    "custom_liquid_nXTHxm": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; border: none;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bandlogos-blackbg.png?v=1741296137\" \n      alt=\"band logos heavys partners\"\n      style=\"width: auto; max-width: 100%; height: auto; border: none; outline: none; display: block;\"\n    >\n  </a>\n</div>",
+        "color_scheme": "inverse",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
       "type": "image-banner",
       "blocks": {
@@ -105,7 +114,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/heavys_bands_partners_logos.png?v=1741295435\" \n      alt=\"band logos heavys partners\"\n      style=\"width: auto; max-width: 100%; height: auto;\"\n    >\n  </a>\n</div>",
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/heayvs_partners_band_logos_grey_2.png?v=1741296190\" \n      alt=\"band logos heavys partners\"\n      style=\"width: auto; max-width: 100%; height: auto;\"\n    >\n  </a>\n</div>",
         "color_scheme": "inverse",
         "padding_top": 4,
         "padding_bottom": 4
@@ -879,6 +888,7 @@
     }
   },
   "order": [
+    "custom_liquid_nXTHxm",
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "custom_liquid_3k7kbH",
