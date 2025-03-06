@@ -105,7 +105,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n    src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"trustpilot heavys\" \n      style=\"width: 300px; height: 23px;\"\n    >\n  </a>\n</div>",
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2025-03-06_at_22.57.19.png?v=1741294727\" \n      alt=\"band logos heavys partners\"\n      style=\"width: auto; max-width: 100%; height: auto;\"\n    >\n  </a>\n</div>",
         "color_scheme": "inverse",
         "padding_top": 12,
         "padding_bottom": 12
