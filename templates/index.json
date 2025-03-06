@@ -101,6 +101,16 @@
         "padding_bottom": 12
       }
     },
+    "custom_liquid_3k7kbH": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n    src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"trustpilot heavys\" \n      style=\"width: 300px; height: 23px;\"\n    >\n  </a>\n</div>",
+        "color_scheme": "inverse",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "featured_product_BUEUam": {
       "type": "featured-product",
       "blocks": {
@@ -871,6 +881,7 @@
   "order": [
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
+    "custom_liquid_3k7kbH",
     "featured_product_BUEUam",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "1822983c-d804-432b-b929-cf75b46b294e",
