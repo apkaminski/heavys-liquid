@@ -78,7 +78,7 @@
         ".js-timer {font-size: 16px; font-weight: bold; color: #ffffff;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/header_with_logogs.png",
+        "image": "shopify://shop_images/header-blue-headphones-heavys.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
