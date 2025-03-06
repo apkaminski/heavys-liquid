@@ -357,18 +357,10 @@
             "heading": "Enhance Your Listening Experience",
             "heading_size": "h2"
           }
-        },
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1": {
-          "type": "text",
-          "settings": {
-            "text": "Personalize your headphones with limited-edition {{ product.metafields.heavys_custom.band.value.name.value }} Shells",
-            "text_style": "subtitle"
-          }
         }
       },
       "block_order": [
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0",
-        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-1"
+        "template--14884059414602__23bdb07e-77f8-419c-9568-b7766935372a-16892555700b663188-0"
       ],
       "settings": {
         "image": "{{ product.metafields.heavys_custom.band.value.image.value }}",
