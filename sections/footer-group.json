@@ -31,6 +31,7 @@
         },
         "judge_me_reviews_medals_3Yf8qz": {
           "type": "shopify://apps/judge-me-reviews/blocks/medals/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
           "settings": {}
         }
       },
@@ -40,6 +41,18 @@
       ],
       "settings": {
         "include_margins": false
+      }
+    },
+    "custom_liquid_wJGedy": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".image-container {display: flex; justify-content: center; align-items: center;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"image-container\">\n    <img \n        src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2025-03-07_at_14.39.54.png?v=1741351221\" \n        id=\"badges-judge-me\" \n        width=\"560px\"\n    />\n</div>",
+        "color_scheme": "inverse",
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "custom_liquid_NtmXKT": {
@@ -143,6 +156,7 @@
   "order": [
     "custom_liquid_rXFjkp",
     "1721129207ff5d1763",
+    "custom_liquid_wJGedy",
     "custom_liquid_NtmXKT",
     "76ffe667-d89c-4967-9e77-454b74fef48b",
     "footer"
