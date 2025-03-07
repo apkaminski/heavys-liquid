@@ -49,7 +49,7 @@
         ".image-container {display: flex; justify-content: center; align-items: center;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"image-container\">\n    <img \n        src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2025-03-07_at_14.39.54.png?v=1741351221\" \n        id=\"badges-judge-me\" \n        width=\"560px\"\n    />\n</div>",
+        "custom_liquid": "<div class=\"image-container\">\n  <a href=\"https://www.heavys.com/pages/verified-customers-reviews-heavys-headphones\" target=\"_blank\">    \n<img    src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2025-03-07_at_14.39.54.png?v=1741351221\" \n        id=\"badges-judge-me\" \n        width=\"560px\"\n    />\n</a>\n</div>",
         "color_scheme": "inverse",
         "padding_top": 4,
         "padding_bottom": 4
