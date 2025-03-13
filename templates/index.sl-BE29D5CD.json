@@ -228,13 +228,39 @@
             "stars_color": "#63d48a",
             "reviews_color": ""
           }
+        },
+        "countdown_gBm8Uk": {
+          "type": "countdown",
+          "settings": {
+            "devices": "mobile",
+            "countdown_date_day": "31",
+            "countdown_date_month": "08",
+            "countdown_date_year": "2025",
+            "countdown_time_minute_timezone": "-05:00",
+            "countdown_time_hour": "12",
+            "countdown_time_minute": "00",
+            "countdown_time_minute_am_pm": "PM",
+            "timer_size": "medium",
+            "rounding": "none",
+            "number_font_style": "body",
+            "label_font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_timer_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "background_color": "#fff",
+            "number_color": "#121212",
+            "label_color": "transparent"
+          }
         }
       },
       "block_order": [
         "overline_aW98Ne",
         "headline_F73GQQ",
         "button_dNA43J",
-        "reviews_UeLU4A"
+        "reviews_UeLU4A",
+        "countdown_gBm8Uk"
       ],
       "custom_css": [
         ".shoplift--template--16896957087818__sl_image_hero_1_2_9BaAyW--content-inner {padding: 15px;}"
