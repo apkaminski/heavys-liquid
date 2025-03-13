@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "custom_css": [],
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; border: none;\">\n    <img \n      class=\"responsive-img\"\n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\" \n      alt=\"band logos heavys partners\"\n      style=\"\n        width: 85%;\n        max-width: 100%;\n        height: auto;\n        border: none;\n        outline: none;\n        display: block;\n        margin: 0 auto;\n      \">\n  </a>\n</div>\n\n<style>\n  @media (max-width: 768px) {\n    .responsive-img {\n      width: 100% !important;\n    }\n  }\n</style>",
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; border: none;\">\n    <img \n      class=\"responsive-img\"\n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\" \n      alt=\"band logos heavys partners\"\n      style=\"\n        width: 80%;\n        max-width: 100%;\n        height: auto;\n        border: none;\n        outline: none;\n        display: block;\n        margin: 0 auto;\n      \">\n  </a>\n</div>\n\n<style>\n  @media (max-width: 768px) {\n    .responsive-img {\n      width: 100% !important;\n    }\n  }\n</style>",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "padding_top": 4,
         "padding_bottom": 4
