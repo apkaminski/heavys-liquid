@@ -24,9 +24,8 @@
       "blocks": {
         "text_bitp7e": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<strong> 🍀 YOU'RE IN LUCK! 🍀</strong>",
+            "text": "<strong>Listen to Music The Way You Should</strong>",
             "text_style": "body"
           }
         },
