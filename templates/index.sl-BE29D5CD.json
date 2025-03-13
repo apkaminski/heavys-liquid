@@ -145,7 +145,7 @@
         "@media screen and (max-width: 767px) {.shoplift--template--16896957087818__c6ojb5GNmKwAtLXRpLytqM--content-inner {padding: 20px 10%; margin: 0; min-height: auto; }}"
       ],
       "settings": {
-        "devices": "desktop",
+        "devices": "all",
         "image": "shopify://shop_images/header-blue-headphones-heavys.png",
         "image_position": "background",
         "image_overlay_opacity": 0,
@@ -278,6 +278,7 @@
         "reviews_UeLU4A",
         "countdown_gBm8Uk"
       ],
+      "disabled": true,
       "custom_css": [
         ".shoplift--template--16896957087818__sl_image_hero_1_2_9BaAyW--content-inner {padding: 15px;}"
       ],
