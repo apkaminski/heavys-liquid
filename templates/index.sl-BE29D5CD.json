@@ -76,14 +76,14 @@
             "countdown_time_minute_am_pm": "PM",
             "timer_size": "small",
             "rounding": "rounded",
-            "number_font_style": "body",
+            "number_font_style": "title",
             "label_font_style": "label",
             "top_padding": 0,
             "bottom_padding": 0,
             "mobile_timer_size": "match",
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
-            "background_color": "#ffffff",
+            "background_color": "#141414",
             "number_color": "#ffffff",
             "label_color": "#ffffff"
           }
