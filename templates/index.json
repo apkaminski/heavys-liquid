@@ -14,8 +14,8 @@
       "custom_css": [
         ".center-container {display: flex; justify-content: center;}",
         ".no-border {text-decoration: none; border: none;}",
-        ".responsive-img {width: 85% !important; /* Ensure desktop width is enforced */ max-width: 100%; height: auto; border: none; outline: none; display: block; margin: 0 auto;}",
-        "/* Override width for mobile */@media (max-width: 768px) {.responsive-img {width: 100% !important; /* Ensure mobile width is enforced */ }}"
+        ".responsive-img {width: 82% !important; /* Ensure desktop width is enforced */ max-width: 100%; height: auto; border: none; outline: none; display: block; margin: 0 auto;}",
+        " /* Override width for mobile */@media (max-width: 768px) {.responsive-img {width: 100% !important; /* Ensure mobile width is enforced */ }}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"center-container\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"no-border\">\n    <img \n      class=\"responsive-img\"\n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\" \n      alt=\"band logos heavys partners\">\n  </a>\n</div>",
