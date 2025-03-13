@@ -9,294 +9,13 @@
  */
 {
   "sections": {
-    "custom_liquid_bHBxYF": {
+    "custom_liquid_nXTHxm": {
       "type": "custom-liquid",
-      "custom_css": [
-        "@media screen and (max-width: 768px) {.responsive-img {width: 100% !important; /* Override for mobile */ max-width: 100% !important; }}",
-        ".center-container {display: flex; justify-content: center;}",
-        ".no-border {text-decoration: none; border: none;}",
-        ".responsive-img {width: 80%; /* Default width for desktop */ max-width: 100%; height: auto; border: none; outline: none; display: block; margin: 0 auto;}",
-        " /* Make mobile image 100% width */"
-      ],
       "settings": {
         "custom_liquid": "<div class=\"center-container\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"no-border\">\n    <picture>\n      <!-- Desktop Image (80% Width) -->\n      <source media=\"(min-width: 769px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2025-03-13_at_21.52.18.png?v=1741895606\">\n      \n      <!-- Mobile Image (100% Width) -->\n      <source media=\"(max-width: 768px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands_logbig_mobile_blackbg.png?v=1741895751\">\n\n      <img \n        class=\"responsive-img\"\n        src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\" \n        alt=\"band logos heavys partners\">\n    </picture>\n  </a>\n</div>",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "padding_top": 4,
         "padding_bottom": 4
-      }
-    },
-    "c6ojb5GNmKwAtLXRpLytqM": {
-      "type": "sl-image-hero-1-2",
-      "blocks": {
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-0": {
-          "type": "overline",
-          "settings": {
-            "devices": "all",
-            "text": "<p>For Hearts That Shred [ desktop</p>",
-            "text_size": 14,
-            "letter_spacing": 3,
-            "font_style": "label",
-            "top_padding": 0,
-            "bottom_padding": 0,
-            "badge_style": "filled",
-            "badge_rounding": "none",
-            "mobile_text_size": 14,
-            "mobile_top_padding": 0,
-            "mobile_bottom_padding": 0,
-            "text_color": "rgba(0,0,0,0)",
-            "badge_color": "rgba(0,0,0,0)"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1": {
-          "type": "headline",
-          "settings": {
-            "devices": "all",
-            "text": "<p>$40 Off all Headphones with Code: VDAY</p>",
-            "strike_text": "",
-            "text_size": 48,
-            "font_style": "title",
-            "top_padding": 0,
-            "bottom_padding": 0,
-            "mobile_text_size": 32,
-            "mobile_top_padding": 0,
-            "mobile_bottom_padding": 0,
-            "text_color": "rgba(0,0,0,0)"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
-          "type": "countdown",
-          "settings": {
-            "devices": "all",
-            "countdown_date_day": "14",
-            "countdown_date_month": "03",
-            "countdown_date_year": "2025",
-            "countdown_time_minute_timezone": "-05:00",
-            "countdown_time_hour": "12",
-            "countdown_time_minute": "00",
-            "countdown_time_minute_am_pm": "PM",
-            "timer_size": "large",
-            "rounding": "no_background",
-            "number_font_style": "body",
-            "label_font_style": "label",
-            "top_padding": 0,
-            "bottom_padding": 0,
-            "mobile_timer_size": "match",
-            "mobile_top_padding": 0,
-            "mobile_bottom_padding": 0,
-            "background_color": "#ffffff",
-            "number_color": "#ffffff",
-            "label_color": "#ffffff"
-          }
-        },
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3": {
-          "type": "button",
-          "settings": {
-            "devices": "all",
-            "button_size": "medium",
-            "button_rounding": "brand_style",
-            "font_style": "button",
-            "icon_position": "right",
-            "hover_effect": "brand_style",
-            "button_text": "Shop Now",
-            "button_style": "brand_style",
-            "button_link": "#heavys-featured",
-            "icon_name": "arrow-right",
-            "button_subtext": "",
-            "second_button_text": "",
-            "second_button_style": "outline",
-            "second_button_link": "",
-            "second_icon_name": "",
-            "mobile_button_size": "match",
-            "mobile_button_width": "wide",
-            "anchor_bottom": false,
-            "button_color": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "button_hover_color": "rgba(0,0,0,0)",
-            "text_hover_color": "rgba(0,0,0,0)",
-            "subtext_color": "rgba(0,0,0,0)"
-          }
-        },
-        "reviews_zjzbxE": {
-          "type": "reviews",
-          "settings": {
-            "devices": "all",
-            "stars": 5,
-            "reviews_text": "3000+ 5 Star Reviews",
-            "text_size": "medium",
-            "font_style": "body",
-            "top_padding": 0,
-            "bottom_padding": 0,
-            "mobile_text_size": "match",
-            "mobile_top_padding": 0,
-            "mobile_bottom_padding": 0,
-            "stars_color": "#63d48a",
-            "reviews_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-0",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2",
-        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3",
-        "reviews_zjzbxE"
-      ],
-      "custom_css": [
-        "@media screen and (max-width: 767px) {.shoplift--template--16896957087818__c6ojb5GNmKwAtLXRpLytqM--content-inner {padding: 20px 10%; margin: 0; min-height: auto; }}"
-      ],
-      "settings": {
-        "devices": "desktop",
-        "image": "shopify://shop_images/header-blue-headphones-heavys.png",
-        "image_position": "background",
-        "image_overlay_opacity": 0,
-        "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
-        "section_height": "xlarge",
-        "section_width": "medium",
-        "content_position": "middle_left",
-        "section_border": "brand_style",
-        "mobile_image_position": "split",
-        "mobile_image_overlay_opacity": 27,
-        "mobile_section_height": "match",
-        "mobile_content_position": "match",
-        "background_color": "#000000",
-        "border_color": "rgba(0,0,0,0)"
-      }
-    },
-    "sl_image_hero_1_2_9BaAyW": {
-      "type": "sl-image-hero-1-2",
-      "blocks": {
-        "overline_aW98Ne": {
-          "type": "overline",
-          "settings": {
-            "devices": "all",
-            "text": "<p>For Hearts That Shred mobilde</p>",
-            "text_size": 14,
-            "letter_spacing": 3,
-            "font_style": "label",
-            "top_padding": 0,
-            "bottom_padding": 0,
-            "badge_style": "filled",
-            "badge_rounding": "none",
-            "mobile_text_size": 14,
-            "mobile_top_padding": 0,
-            "mobile_bottom_padding": 0,
-            "text_color": "rgba(0,0,0,0)",
-            "badge_color": "rgba(0,0,0,0)"
-          }
-        },
-        "headline_F73GQQ": {
-          "type": "headline",
-          "settings": {
-            "devices": "all",
-            "text": "<p>$40 Off all Headphones with Code: VDAY</p>",
-            "strike_text": "",
-            "text_size": 48,
-            "font_style": "title",
-            "top_padding": 0,
-            "bottom_padding": 0,
-            "mobile_text_size": 32,
-            "mobile_top_padding": 0,
-            "mobile_bottom_padding": 0,
-            "text_color": "rgba(0,0,0,0)"
-          }
-        },
-        "button_dNA43J": {
-          "type": "button",
-          "settings": {
-            "devices": "all",
-            "button_size": "medium",
-            "button_rounding": "brand_style",
-            "font_style": "button",
-            "icon_position": "right",
-            "hover_effect": "brand_style",
-            "button_text": "Shop Now",
-            "button_style": "brand_style",
-            "button_link": "#heavys-featured",
-            "icon_name": "arrow-right",
-            "button_subtext": "",
-            "second_button_text": "",
-            "second_button_style": "outline",
-            "second_button_link": "",
-            "second_icon_name": "",
-            "mobile_button_size": "match",
-            "mobile_button_width": "wide",
-            "anchor_bottom": false,
-            "button_color": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "button_hover_color": "rgba(0,0,0,0)",
-            "text_hover_color": "rgba(0,0,0,0)",
-            "subtext_color": "rgba(0,0,0,0)"
-          }
-        },
-        "reviews_UeLU4A": {
-          "type": "reviews",
-          "settings": {
-            "devices": "all",
-            "stars": 5,
-            "reviews_text": "3000+ 5 Star Reviews",
-            "text_size": "medium",
-            "font_style": "body",
-            "top_padding": 0,
-            "bottom_padding": 0,
-            "mobile_text_size": "match",
-            "mobile_top_padding": 0,
-            "mobile_bottom_padding": 0,
-            "stars_color": "#63d48a",
-            "reviews_color": ""
-          }
-        },
-        "countdown_gBm8Uk": {
-          "type": "countdown",
-          "settings": {
-            "devices": "mobile",
-            "countdown_date_day": "31",
-            "countdown_date_month": "08",
-            "countdown_date_year": "2025",
-            "countdown_time_minute_timezone": "-05:00",
-            "countdown_time_hour": "12",
-            "countdown_time_minute": "00",
-            "countdown_time_minute_am_pm": "PM",
-            "timer_size": "medium",
-            "rounding": "none",
-            "number_font_style": "body",
-            "label_font_style": "label",
-            "top_padding": 0,
-            "bottom_padding": 25,
-            "mobile_timer_size": "large",
-            "mobile_top_padding": 0,
-            "mobile_bottom_padding": 0,
-            "background_color": "#ffffff",
-            "number_color": "#121212",
-            "label_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "overline_aW98Ne",
-        "headline_F73GQQ",
-        "button_dNA43J",
-        "reviews_UeLU4A",
-        "countdown_gBm8Uk"
-      ],
-      "custom_css": [
-        ".shoplift--template--16896957087818__sl_image_hero_1_2_9BaAyW--content-inner {padding: 15px;}"
-      ],
-      "settings": {
-        "devices": "mobile",
-        "image": "shopify://shop_images/header-blue-headphones-heavys.png",
-        "image_position": "background",
-        "image_overlay_opacity": 30,
-        "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
-        "section_height": "xlarge",
-        "section_width": "medium",
-        "content_position": "middle_center",
-        "section_border": "brand_style",
-        "mobile_image_position": "split",
-        "mobile_image_overlay_opacity": 28,
-        "mobile_section_height": "match",
-        "mobile_content_position": "match",
-        "background_color": "#000000",
-        "border_color": "rgba(0,0,0,0)"
       }
     },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
@@ -305,19 +24,20 @@
         "text_bitp7e": {
           "type": "text",
           "settings": {
-            "text": "<strong>Listen to Metal the Way You Should</strong>",
+            "text": "<strong>🍀 You're In Luck! 🍀</strong>",
             "text_style": "body"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Headphones For Heavy Music",
+            "heading": "Save $50 on All Headphones with Code: SHAMROCK",
             "heading_size": "h1"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<em>” A Must Have For Every Music Fan” - David L.</em>",
             "text_style": "body"
@@ -331,12 +51,21 @@
             "button_style_secondary": false
           }
         },
+        "button_bKTQnW": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Dream Theater Bundle",
+            "button_link": "https://www.heavys.com/products/shell-bundle?variant=41893289918538",
+            "button_style_secondary": false
+          }
+        },
         "timer_cXQ8W3": {
           "type": "timer",
           "settings": {
             "year": "2025",
-            "month": "2",
-            "day": "8",
+            "month": "3",
+            "day": "14",
             "hour": "6",
             "minute": "01",
             "cycle": false
@@ -348,11 +77,11 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1",
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1",
         "92710901-502d-46f4-ad7f-15409e0614f2",
+        "button_bKTQnW",
         "timer_cXQ8W3"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/header-heavys_on_woman_in_festival_e3f669d3-bb44-48e9-8938-94bccc9d5207.png",
+        "image": "shopify://shop_images/header-blue-headphones-heavys.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
@@ -366,11 +95,20 @@
         "scroll_anchor": ""
       }
     },
-    "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
+    "custom_liquid_3k7kbH": {
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"As Seen On\" \n      style=\"width: 300px; height: 23px;\"\n    >\n  </a>\n</div>",
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/heayvs_partners_band_logos_grey_2.png?v=1741296190\" \n      alt=\"band logos heavys partners\"\n\n        style=\"width: auto; max-width: 100%; height: auto; border: none; outline: none; display: block;\"\n  margin: 0;\n  padding: 0;\n  border: none;\n >\n  </a>\n</div>",
+        "color_scheme": "inverse",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n    src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"trustpilot heavys\" \n      style=\"width: 300px; height: 23px;\"\n    >\n  </a>\n</div>",
         "color_scheme": "inverse",
         "padding_top": 12,
         "padding_bottom": 12
@@ -489,10 +227,10 @@
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h2 style=\"text-align: center;\">Trusted By 80,000+ Music Fans</h2>\n<div style=\"margin-top: 20px;\" class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
+        "custom_liquid": "<h2 class=\"center-text\">Trusted By 80,000+ Music Fans</h2>\n\n<div class=\"pad\" id=\"flockler-embed-18b86e8a412058b2d212b4bc4e6873c1\"></div>\n\n<script src=\"https://plugins.flockler.com/embed/18b86b286fe0280e9e9571c39b02c6e9/18b86e8a412058b2d212b4bc4e6873c1\" async></script>",
         "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 40
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
     "1822983c-d804-432b-b929-cf75b46b294e": {
@@ -579,7 +317,7 @@
         "34192509-a141-444e-8c17-ddc78b10c075": {
           "type": "text",
           "settings": {
-            "text": "<strong>Inside the Shells Bundle </strong>: Heavys H1H Headphones, your selected pair of designed Shells, pair of Heavys original shells, AUX Audio Cable, USB-C Charging Cable, premium protective travel case",
+            "text": "<strong>Inside the Shells Bundle </strong>: Heavys H1H Headphones, your selected pair of designed Shells, pair of Heavys original shells, AUX Audio Cable, USB-C Charging Cable, premium travel-ready case",
             "text_style": "body"
           }
         },
@@ -612,6 +350,7 @@
         },
         "custom_liquid_UkYX3D": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div style=\"text-align: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/soundguys-review-heavys-new-box.png?v=1726055677\" \n         alt=\"SoundGuys Review - Heavy's New Box\" \n         style=\"max-width: 100%; height: auto;\">\n</div>"
           }
@@ -648,17 +387,17 @@
         "scroll_anchor": ""
       }
     },
-    "afe8820a-9e66-4dc8-9751-860686858282": {
+    "image_with_text_UndTzq": {
       "type": "image-with-text",
       "blocks": {
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
+        "heading_ee9AfA": {
           "type": "heading",
           "settings": {
             "heading": "<strong>Making Metal Heavier</strong>",
             "heading_size": "h1"
           }
         },
-        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967": {
+        "icon_with_text_PEWqct": {
           "type": "icon-with-text",
           "settings": {
             "layout": "vertical",
@@ -667,7 +406,7 @@
             "description_1": "Experience immersive audio with the precision of 8 drivers, covering multiple frequency ranges for superior listening of exceptional clarity, richness, and depth"
           }
         },
-        "66e14d12-5ecf-4694-ae84-78bddc050c66": {
+        "icon_with_text_hixR7m": {
           "type": "icon-with-text",
           "settings": {
             "layout": "vertical",
@@ -676,7 +415,7 @@
             "description_1": "Feel the lifetime of dedication delivered to the Metal Community by Axel Grell, known as the “Godfather of German Sound”, with over 30 years in audio and 40+ patents"
           }
         },
-        "c641f485-c30e-4ac3-822e-7caa35a87b2f": {
+        "icon_with_text_JfD43T": {
           "type": "icon-with-text",
           "settings": {
             "layout": "vertical",
@@ -685,22 +424,30 @@
             "description_1": "Heavys patented technology is powered by 8 speakers with unique placement, generating the most optimal sound experience possible for all music genres"
           }
         },
-        "39bf155e-c4c1-488e-b59e-b28704d805a4": {
+        "icon_with_text_99HVT3": {
           "type": "icon-with-text",
           "settings": {
             "layout": "vertical",
             "icon_1": "diamond",
             "heading_1": "Top Notch Features",
-            "description_1": "EQ in Mobile App, Hell Blocker™ active noise cancellation, Bluetooth 5.1, AUX wired option, 50 hours of play time, 5 microphones, transparency mode, ultra-soft ear-cups, custom designs, USB-C Rapid Charge"
+            "description_1": "EQ in Mobile App, Hell Blocker™ active noise cancellation, Bluetooth 5.1, AUX wired option, 50 hours of play time, 5 mics, transparency mode, ultra-soft ear-cups, custom designs, USB-C Rapid Charge, foldable & travel ready"
+          }
+        },
+        "button_bFJ3hF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Elevate My Sound Now",
+            "button_link": "#heavys-featured"
           }
         }
       },
       "block_order": [
-        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
-        "a11bf05c-2d53-4fa8-b9ef-38c3aca61967",
-        "66e14d12-5ecf-4694-ae84-78bddc050c66",
-        "c641f485-c30e-4ac3-822e-7caa35a87b2f",
-        "39bf155e-c4c1-488e-b59e-b28704d805a4"
+        "heading_ee9AfA",
+        "icon_with_text_PEWqct",
+        "icon_with_text_hixR7m",
+        "icon_with_text_JfD43T",
+        "icon_with_text_99HVT3",
+        "button_bFJ3hF"
       ],
       "settings": {
         "image": "shopify://shop_images/Screenshot_2024-02-12_at_0.24.57.png",
@@ -715,8 +462,57 @@
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 32,
-        "padding_bottom": 20,
+        "padding_top": 24,
+        "padding_bottom": 8,
+        "scroll_anchor": "heavys-info"
+      }
+    },
+    "afe8820a-9e66-4dc8-9751-860686858282": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Top Rated by The SoundGuys!</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_VNhDH4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Heavys outscored all competitors in the Over-Ear Headphones Category</p>",
+            "text_style": "body"
+          }
+        },
+        "button_B3bpNh": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Elevate My Sound Now",
+            "button_link": "#heavys-featured"
+          }
+        }
+      },
+      "block_order": [
+        "template--14883182903370__afe8820a-9e66-4dc8-9751-860686858282-1689099784c188a076-0",
+        "text_VNhDH4",
+        "button_B3bpNh"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/soundguys-review-heavys-new-box_6df95cc9-4ca2-48fc-ac7e-b009f559194f.png",
+        "enable_video_looping": false,
+        "autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 16,
+        "padding_bottom": 8,
         "scroll_anchor": "heavys-info"
       }
     },
@@ -1057,24 +853,84 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "custom_liquid_bHBxYF": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<!-- TrustBox widget - Micro Combo -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6ffb0d04a076446a9af\" data-businessunit-id=\"63204fffc77ae458ac7ef62f\" data-style-height=\"20px\" data-style-width=\"100%\" data-theme=\"dark\">\n  <a href=\"https://www.trustpilot.com/review/www.heavys.com\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>\n<!-- End TrustBox widget -->",
+        "color_scheme": "inverse",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rXhSks6ohGBw6F612fbN5g": {
+      "type": "sl-image-hero-1-2",
+      "blocks": {
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1": {
+          "type": "reviews",
+          "settings": {
+            "stars": 5,
+            "reviews_text": "15,000+ 5 Star Reviews"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
+          "type": "headline",
+          "settings": {
+            "text": "<p>Explain the unique value you provide</p>"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3": {
+          "type": "subheadline",
+          "settings": {
+            "text": "<p>Explain how you provide this value</p>"
+          }
+        },
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-4": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "",
+            "icon_name": "arrow-right",
+            "button_subtext": "",
+            "second_button_text": "",
+            "anchor_bottom": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-3",
+        "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-4"
+      ],
+      "settings": {
+        "devices": "all",
+        "image_position": "left",
+        "section_height": "large",
+        "section_width": "large",
+        "content_position": "middle_left"
+      }
     }
   },
   "order": [
-    "custom_liquid_bHBxYF",
-    "c6ojb5GNmKwAtLXRpLytqM",
-    "sl_image_hero_1_2_9BaAyW",
+    "rXhSks6ohGBw6F612fbN5g",
+    "custom_liquid_nXTHxm",
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
+    "custom_liquid_3k7kbH",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "featured_product_BUEUam",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "1822983c-d804-432b-b929-cf75b46b294e",
     "70bfa058-95e2-422e-9d16-7ffff8e8e689",
+    "image_with_text_UndTzq",
     "afe8820a-9e66-4dc8-9751-860686858282",
     "rich_text_dpckBJ",
     "video",
     "3dac823a-2e87-4eb7-810e-0ec9d4c21325",
     "featured_product_CUhk6p",
     "a259a103-10d9-404b-84c4-de542413e278",
-    "rich_text_bC6VTR"
+    "rich_text_bC6VTR",
+    "custom_liquid_bHBxYF"
   ]
 }
