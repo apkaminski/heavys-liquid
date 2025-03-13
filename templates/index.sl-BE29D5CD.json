@@ -189,7 +189,7 @@
           "settings": {
             "devices": "mobile",
             "countdown_date_day": "15",
-            "countdown_date_month": "04",
+            "countdown_date_month": "03",
             "countdown_date_year": "2025",
             "countdown_time_minute_timezone": "-05:00",
             "countdown_time_hour": "02",
