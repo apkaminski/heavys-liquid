@@ -187,7 +187,7 @@
         "countdown_rmkidM": {
           "type": "countdown",
           "settings": {
-            "devices": "all",
+            "devices": "mobile",
             "countdown_date_day": "15",
             "countdown_date_month": "03",
             "countdown_date_year": "2025",
