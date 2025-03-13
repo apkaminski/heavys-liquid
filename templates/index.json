@@ -11,9 +11,15 @@
   "sections": {
     "custom_liquid_nXTHxm": {
       "type": "custom-liquid",
-      "custom_css": [],
+      "custom_css": [
+        "@media screen and (max-width: 768px) {.responsive-img {width: 100% !important; /* Override for mobile */ max-width: 100% !important; }}",
+        ".center-container {display: flex; justify-content: center;}",
+        ".no-border {text-decoration: none; border: none;}",
+        ".responsive-img {width: 80%; /* Default width for desktop */ max-width: 100%; height: auto; border: none; outline: none; display: block; margin: 0 auto;}",
+        "/* Make mobile image 100% width */"
+      ],
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; border: none;\">\n    <picture>\n      <!-- Desktop Image -->\n      <source media=\"(min-width: 769px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bandlogos-blackbg.png?v=1741296137\">\n      <!-- Mobile Image -->\n      <source media=\"(max-width: 768px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\">\n\n      <img \n        class=\"responsive-img\"\n        src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\" \n        alt=\"band logos heavys partners\"\n        style=\"\n          width: 80%;\n          max-width: 100%;\n          height: auto;\n          border: none;\n          outline: none;\n          display: block;\n          margin: 0 auto;\n        \">\n    </picture>\n  </a>\n</div>",
+        "custom_liquid": "<div class=\"center-container\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"no-border\">\n    <picture>\n      <!-- Desktop Image (80% Width) -->\n      <source media=\"(min-width: 769px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bandlogos-blackbg.png?v=1741296137\">\n      \n      <!-- Mobile Image (100% Width) -->\n      <source media=\"(max-width: 768px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\">\n\n      <img \n        class=\"responsive-img\"\n        src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\" \n        alt=\"band logos heavys partners\">\n    </picture>\n  </a>\n</div>",
         "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
         "padding_top": 4,
         "padding_bottom": 4
