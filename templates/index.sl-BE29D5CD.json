@@ -262,6 +262,9 @@
         "button_dNA43J",
         "reviews_UeLU4A"
       ],
+      "custom_css": [
+        ".shoplift--template--16896957087818__sl_image_hero_1_2_9BaAyW--content-inner {padding: 15px;}"
+      ],
       "settings": {
         "devices": "mobile",
         "image": "shopify://shop_images/header-blue-headphones-heavys.png",
