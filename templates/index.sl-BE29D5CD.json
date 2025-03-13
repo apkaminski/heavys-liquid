@@ -49,6 +49,7 @@
         },
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "devices": "all",
             "countdown_date_day": "14",
@@ -245,8 +246,8 @@
             "number_font_style": "body",
             "label_font_style": "label",
             "top_padding": 0,
-            "bottom_padding": 0,
-            "mobile_timer_size": "match",
+            "bottom_padding": 25,
+            "mobile_timer_size": "large",
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
             "background_color": "#fff",
