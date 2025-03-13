@@ -24,6 +24,16 @@
             "klavyo_mobile_id": ""
           }
         },
+        "announcement_MCfDVt": {
+          "type": "announcement",
+          "settings": {
+            "text": "St Patricks Day Deal! code: SHAMROCK",
+            "behaviour_type": "link",
+            "link": "",
+            "klavyo_desktop_id": "",
+            "klavyo_mobile_id": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "disabled": true,
@@ -64,25 +74,15 @@
             "klavyo_desktop_id": "",
             "klavyo_mobile_id": ""
           }
-        },
-        "announcement_MCfDVt": {
-          "type": "announcement",
-          "settings": {
-            "text": "St Patricks Day Deal! code: SHAMROCK",
-            "behaviour_type": "link",
-            "link": "",
-            "klavyo_desktop_id": "",
-            "klavyo_mobile_id": ""
-          }
         }
       },
       "block_order": [
         "announcement_ekbCtT",
+        "announcement_MCfDVt",
         "announcement-bar-0",
         "announcement_Dqc6iz",
         "announcement_JeBx4p",
-        "announcement_33qLkx",
-        "announcement_MCfDVt"
+        "announcement_33qLkx"
       ],
       "custom_css": [
         ".announcement-bar {height: 32px;}"
