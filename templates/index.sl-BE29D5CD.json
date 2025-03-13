@@ -9,20 +9,14 @@
  */
 {
   "sections": {
-    "custom_liquid_bHBxYF": {
+    "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
       "type": "custom-liquid",
-      "custom_css": [
-        "@media screen and (max-width: 768px) {.responsive-img {width: 100% !important; /* Override for mobile */ max-width: 100% !important; }}",
-        ".center-container {display: flex; justify-content: center;}",
-        ".no-border {text-decoration: none; border: none;}",
-        ".responsive-img {width: 80%; /* Default width for desktop */ max-width: 100%; height: auto; border: none; outline: none; display: block; margin: 0 auto;}",
-        " /* Make mobile image 100% width */"
-      ],
+      "disabled": true,
       "settings": {
-        "custom_liquid": "<div class=\"center-container\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"no-border\">\n    <picture>\n      <!-- Desktop Image (80% Width) -->\n      <source media=\"(min-width: 769px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2025-03-13_at_21.52.18.png?v=1741895606\">\n      \n      <!-- Mobile Image (100% Width) -->\n      <source media=\"(max-width: 768px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands_logbig_mobile_blackbg.png?v=1741895751\">\n\n      <img \n        class=\"responsive-img\"\n        src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\" \n        alt=\"band logos heavys partners\">\n    </picture>\n  </a>\n</div>",
-        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
-        "padding_top": 4,
-        "padding_bottom": 4
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"As Seen On\" \n      style=\"width: 300px; height: 23px;\"\n    >\n  </a>\n</div>",
+        "color_scheme": "inverse",
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "c6ojb5GNmKwAtLXRpLytqM": {
@@ -160,6 +154,22 @@
         "mobile_content_position": "middle_center",
         "background_color": "#000000",
         "border_color": "rgba(0,0,0,0)"
+      }
+    },
+    "custom_liquid_bHBxYF": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "@media screen and (max-width: 768px) {.responsive-img {width: 100% !important; /* Override for mobile */ max-width: 100% !important; }}",
+        ".center-container {display: flex; justify-content: center;}",
+        ".no-border {text-decoration: none; border: none;}",
+        ".responsive-img {width: 80%; /* Default width for desktop */ max-width: 100%; height: auto; border: none; outline: none; display: block; margin: 0 auto;}",
+        " /* Make mobile image 100% width */"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"center-container\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"no-border\">\n    <picture>\n      <!-- Desktop Image (80% Width) -->\n      <source media=\"(min-width: 769px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2025-03-13_at_21.52.18.png?v=1741895606\">\n      \n      <!-- Mobile Image (100% Width) -->\n      <source media=\"(max-width: 768px)\" srcset=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands_logbig_mobile_blackbg.png?v=1741895751\">\n\n      <img \n        class=\"responsive-img\"\n        src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-black.png?v=1741892711\" \n        alt=\"band logos heavys partners\">\n    </picture>\n  </a>\n</div>",
+        "color_scheme": "scheme-ada83d6e-3f97-4fcd-85d5-2a8c56ae3bd4",
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "sl_image_hero_1_2_9BaAyW": {
@@ -365,16 +375,6 @@
         "stack_images_on_mobile": false,
         "show_text_below": true,
         "scroll_anchor": ""
-      }
-    },
-    "36ebfd1b-136c-4a92-b0ad-dfc770c46e19": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"#asseenon\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/Screenshot_2024-03-22_at_16.18.15.png?v=1711117137\" \n      alt=\"As Seen On\" \n      style=\"width: 300px; height: 23px;\"\n    >\n  </a>\n</div>",
-        "color_scheme": "inverse",
-        "padding_top": 12,
-        "padding_bottom": 12
       }
     },
     "featured_product_BUEUam": {
@@ -1061,11 +1061,11 @@
     }
   },
   "order": [
-    "custom_liquid_bHBxYF",
+    "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "c6ojb5GNmKwAtLXRpLytqM",
+    "custom_liquid_bHBxYF",
     "sl_image_hero_1_2_9BaAyW",
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
-    "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "featured_product_BUEUam",
     "fb888f8c-1de6-4e1d-a93d-451ddcd4584f",
     "1822983c-d804-432b-b929-cf75b46b294e",
