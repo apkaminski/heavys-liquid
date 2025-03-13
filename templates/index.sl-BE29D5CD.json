@@ -184,31 +184,6 @@
             "text_color": "rgba(0,0,0,0)"
           }
         },
-        "countdown_rmkidM": {
-          "type": "countdown",
-          "settings": {
-            "devices": "mobile",
-            "countdown_date_day": "15",
-            "countdown_date_month": "03",
-            "countdown_date_year": "2025",
-            "countdown_time_minute_timezone": "-05:00",
-            "countdown_time_hour": "02",
-            "countdown_time_minute": "00",
-            "countdown_time_minute_am_pm": "PM",
-            "timer_size": "large",
-            "rounding": "no_background",
-            "number_font_style": "body",
-            "label_font_style": "label",
-            "top_padding": 0,
-            "bottom_padding": 0,
-            "mobile_timer_size": "match",
-            "mobile_top_padding": 0,
-            "mobile_bottom_padding": 0,
-            "background_color": "#ffffff",
-            "number_color": "#ffffff",
-            "label_color": "#ffffff"
-          }
-        },
         "button_dNA43J": {
           "type": "button",
           "settings": {
@@ -258,7 +233,6 @@
       "block_order": [
         "overline_aW98Ne",
         "headline_F73GQQ",
-        "countdown_rmkidM",
         "button_dNA43J",
         "reviews_UeLU4A"
       ],
