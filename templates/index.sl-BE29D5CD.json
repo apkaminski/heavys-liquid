@@ -27,8 +27,8 @@
             "mobile_text_size": 14,
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
-            "text_color": "transparent",
-            "badge_color": "transparent"
+            "text_color": "rgba(0,0,0,0)",
+            "badge_color": "rgba(0,0,0,0)"
           }
         },
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-1": {
@@ -44,7 +44,7 @@
             "mobile_text_size": 32,
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
-            "text_color": "transparent"
+            "text_color": "rgba(0,0,0,0)"
           }
         },
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
@@ -94,11 +94,11 @@
             "mobile_button_size": "match",
             "mobile_button_width": "wide",
             "anchor_bottom": false,
-            "button_color": "transparent",
-            "text_color": "transparent",
-            "button_hover_color": "transparent",
-            "text_hover_color": "transparent",
-            "subtext_color": "transparent"
+            "button_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "button_hover_color": "rgba(0,0,0,0)",
+            "text_hover_color": "rgba(0,0,0,0)",
+            "subtext_color": "rgba(0,0,0,0)"
           }
         },
         "reviews_zjzbxE": {
@@ -130,8 +130,8 @@
         "@media screen and (max-width: 767px) {.shoplift--template--16896957087818__c6ojb5GNmKwAtLXRpLytqM--content-inner {padding: 20px 10%; margin: 0; min-height: auto; }}"
       ],
       "settings": {
-        "devices": "all",
-        "image": "shopify://shop_images/davidbitzan_nr24-4_orig-9665-1920x1280__photo_x3_072ee761-8886-4971-b8ae-b6ba314a605d.jpg",
+        "devices": "desktop",
+        "image": "shopify://shop_images/header-blue-headphones-heavys.png",
         "image_position": "background",
         "image_overlay_opacity": 30,
         "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
@@ -144,7 +144,142 @@
         "mobile_section_height": "match",
         "mobile_content_position": "match",
         "background_color": "#000000",
-        "border_color": "transparent"
+        "border_color": "rgba(0,0,0,0)"
+      }
+    },
+    "sl_image_hero_1_2_9BaAyW": {
+      "type": "sl-image-hero-1-2",
+      "blocks": {
+        "overline_aW98Ne": {
+          "type": "overline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>For Hearts That Shred</p>",
+            "text_size": 14,
+            "letter_spacing": 3,
+            "font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "badge_style": "filled",
+            "badge_rounding": "none",
+            "mobile_text_size": 14,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "rgba(0,0,0,0)",
+            "badge_color": "rgba(0,0,0,0)"
+          }
+        },
+        "headline_F73GQQ": {
+          "type": "headline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>$40 Off all Headphones with Code: VDAY</p>",
+            "strike_text": "",
+            "text_size": 48,
+            "font_style": "title",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 32,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "countdown_rmkidM": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "devices": "all",
+            "countdown_date_day": "23",
+            "countdown_date_month": "02",
+            "countdown_date_year": "2025",
+            "countdown_time_minute_timezone": "-05:00",
+            "countdown_time_hour": "12",
+            "countdown_time_minute": "00",
+            "countdown_time_minute_am_pm": "PM",
+            "timer_size": "small",
+            "rounding": "rounded",
+            "number_font_style": "body",
+            "label_font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_timer_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "background_color": "#ffffff",
+            "number_color": "#121212",
+            "label_color": "#ffffff"
+          }
+        },
+        "button_dNA43J": {
+          "type": "button",
+          "settings": {
+            "devices": "all",
+            "button_size": "medium",
+            "button_rounding": "brand_style",
+            "font_style": "button",
+            "icon_position": "right",
+            "hover_effect": "brand_style",
+            "button_text": "Shop Now",
+            "button_style": "brand_style",
+            "button_link": "#heavys-featured",
+            "icon_name": "arrow-right",
+            "button_subtext": "",
+            "second_button_text": "",
+            "second_button_style": "outline",
+            "second_button_link": "",
+            "second_icon_name": "",
+            "mobile_button_size": "match",
+            "mobile_button_width": "wide",
+            "anchor_bottom": false,
+            "button_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "button_hover_color": "rgba(0,0,0,0)",
+            "text_hover_color": "rgba(0,0,0,0)",
+            "subtext_color": "rgba(0,0,0,0)"
+          }
+        },
+        "reviews_UeLU4A": {
+          "type": "reviews",
+          "settings": {
+            "devices": "all",
+            "stars": 5,
+            "reviews_text": "3000+ 5 Star Reviews",
+            "text_size": "medium",
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "stars_color": "#63d48a",
+            "reviews_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "overline_aW98Ne",
+        "headline_F73GQQ",
+        "countdown_rmkidM",
+        "button_dNA43J",
+        "reviews_UeLU4A"
+      ],
+      "settings": {
+        "devices": "mobile",
+        "image": "shopify://shop_images/header-blue-headphones-heavys.png",
+        "image_position": "background",
+        "image_overlay_opacity": 30,
+        "pattern_select": "15c6b401-aca0-438f-9dc8-e6d07884dba9",
+        "section_height": "xlarge",
+        "section_width": "medium",
+        "content_position": "middle_center",
+        "section_border": "brand_style",
+        "mobile_image_position": "split",
+        "mobile_image_overlay_opacity": 28,
+        "mobile_section_height": "match",
+        "mobile_content_position": "match",
+        "background_color": "#000000",
+        "border_color": "rgba(0,0,0,0)"
       }
     },
     "448a8e28-57fb-42ea-8901-668a4f53b4f9": {
@@ -919,6 +1054,7 @@
   },
   "order": [
     "c6ojb5GNmKwAtLXRpLytqM",
+    "sl_image_hero_1_2_9BaAyW",
     "448a8e28-57fb-42ea-8901-668a4f53b4f9",
     "36ebfd1b-136c-4a92-b0ad-dfc770c46e19",
     "featured_product_BUEUam",
