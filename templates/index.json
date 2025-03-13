@@ -24,6 +24,7 @@
       "blocks": {
         "text_bitp7e": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong> 🍀 YOU'RE IN LUCK! 🍀</strong>",
             "text_style": "body"
@@ -32,13 +33,12 @@
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Save $50 On All Headphones with Code: SHAMROCK",
+            "heading": "Headphones for Heavy Music",
             "heading_size": "h1"
           }
         },
         "template--14883182903370__448a8e28-57fb-42ea-8901-668a4f53b4f9-text-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<em>” A Must Have For Every Music Fan” - David L.</em>",
             "text_style": "body"
@@ -63,6 +63,7 @@
         },
         "timer_cXQ8W3": {
           "type": "timer",
+          "disabled": true,
           "settings": {
             "year": "2025",
             "month": "3",
