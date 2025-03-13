@@ -49,18 +49,17 @@
         },
         "template--16758221046003__0bc93ccc-e8e0-4c63-95b5-34b4ba03d40c-1682623246232db56c-2": {
           "type": "countdown",
-          "disabled": true,
           "settings": {
             "devices": "all",
-            "countdown_date_day": "23",
-            "countdown_date_month": "02",
+            "countdown_date_day": "14",
+            "countdown_date_month": "03",
             "countdown_date_year": "2025",
             "countdown_time_minute_timezone": "-05:00",
             "countdown_time_hour": "12",
             "countdown_time_minute": "00",
             "countdown_time_minute_am_pm": "PM",
-            "timer_size": "small",
-            "rounding": "rounded",
+            "timer_size": "large",
+            "rounding": "no_background",
             "number_font_style": "body",
             "label_font_style": "label",
             "top_padding": 0,
@@ -69,7 +68,7 @@
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
             "background_color": "#ffffff",
-            "number_color": "#121212",
+            "number_color": "#ffffff",
             "label_color": "#ffffff"
           }
         },
@@ -187,18 +186,17 @@
         },
         "countdown_rmkidM": {
           "type": "countdown",
-          "disabled": true,
           "settings": {
             "devices": "all",
-            "countdown_date_day": "23",
-            "countdown_date_month": "02",
+            "countdown_date_day": "15",
+            "countdown_date_month": "03",
             "countdown_date_year": "2025",
             "countdown_time_minute_timezone": "-05:00",
             "countdown_time_hour": "12",
             "countdown_time_minute": "00",
             "countdown_time_minute_am_pm": "PM",
-            "timer_size": "small",
-            "rounding": "rounded",
+            "timer_size": "large",
+            "rounding": "no_background",
             "number_font_style": "body",
             "label_font_style": "label",
             "top_padding": 0,
@@ -207,7 +205,7 @@
             "mobile_top_padding": 0,
             "mobile_bottom_padding": 0,
             "background_color": "#ffffff",
-            "number_color": "#121212",
+            "number_color": "#ffffff",
             "label_color": "#ffffff"
           }
         },
