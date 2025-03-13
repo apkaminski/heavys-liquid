@@ -64,8 +64,8 @@
           "type": "timer",
           "settings": {
             "year": "2025",
-            "month": "2",
-            "day": "8",
+            "month": "3",
+            "day": "15",
             "hour": "6",
             "minute": "01",
             "cycle": false
