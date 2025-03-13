@@ -12,7 +12,7 @@
     "custom_liquid_nXTHxm": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; border: none;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bandlogos-blackbg.png?v=1741296137\" \n      alt=\"band logos heavys partners\"\n      style=\"width: auto; max-width: 100%; height: auto; border: none; outline: none; display: block;\"\n    >\n  </a>\n</div>",
+        "custom_liquid": "<div style=\"display: flex; justify-content: center;\">\n  <a href=\"https://www.heavys.com/collections/shells\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; border: none;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/bands-logo-bigger.png?v=1741892576\" \n      alt=\"band logos heavys partners\"\n      style=\"width: auto; max-width: 100%; height: auto; border: none; outline: none; display: block;\"\n    >\n  </a>\n</div>",
         "color_scheme": "inverse",
         "padding_top": 4,
         "padding_bottom": 4
