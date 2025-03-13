@@ -157,7 +157,7 @@
         "mobile_image_position": "split",
         "mobile_image_overlay_opacity": 27,
         "mobile_section_height": "match",
-        "mobile_content_position": "match",
+        "mobile_content_position": "middle_center",
         "background_color": "#000000",
         "border_color": "rgba(0,0,0,0)"
       }
