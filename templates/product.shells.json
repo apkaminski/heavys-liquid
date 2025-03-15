@@ -97,7 +97,7 @@
             "show_gift_card_recipient": false
           }
         },
-        "vitals_countdown_B3xgEN": {
+        "vitals_countdown_cQWr3D": {
           "type": "shopify://apps/vitals/blocks/countdown/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {}
         },
@@ -169,7 +169,7 @@
         "custom_liquid_Le6Ljx",
         "variant_picker",
         "buy_buttons",
-        "vitals_countdown_B3xgEN",
+        "vitals_countdown_cQWr3D",
         "text_JUQV4T",
         "collapsible_tab_L8dKVa",
         "collapsible_tab_x7CWVA",
