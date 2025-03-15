@@ -376,6 +376,12 @@
           "settings": {
             "custom_liquid": "<div style=\"text-align: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0565/7097/0186/files/soundguys-review-heavys-new-box.png?v=1726055677\" \n         alt=\"SoundGuys Review - Heavy's New Box\" \n         style=\"max-width: 100%; height: auto;\">\n</div>"
           }
+        },
+        "custom_liquid_7UiYXz": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div id=\"bundle-countdown_box\"></div>"
+          }
         }
       },
       "block_order": [
@@ -390,7 +396,8 @@
         "text_9WeYaE",
         "icon_with_text_APM6BF",
         "35a9e3d3-5d6f-4b64-964c-53cb874465a7",
-        "custom_liquid_UkYX3D"
+        "custom_liquid_UkYX3D",
+        "custom_liquid_7UiYXz"
       ],
       "custom_css": [],
       "settings": {
