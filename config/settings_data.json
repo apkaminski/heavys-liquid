@@ -202,6 +202,11 @@
         "type": "shopify://apps/preorder-notify-me-timesact/blocks/app-embed/bf6c109b-79b5-457c-8752-0e5e9e9676e7",
         "disabled": false,
         "settings": {}
+      },
+      "8616014644677644683": {
+        "type": "shopify://apps/avada-seo-suite/blocks/avada-seo/15507c6e-1aa3-45d3-b698-7e175e033440",
+        "disabled": true,
+        "settings": {}
       }
     },
     "color_schemes": {
