@@ -151,7 +151,7 @@
         "description": "<h3>Heavys Non-Artist Shell Designs</h3>",
         "show_description": false,
         "description_style": "body",
-        "collection": "non-artist-designs",
+        "collection": "heavys-artist-designs-non-music",
         "products_to_show": 13,
         "columns_desktop": 3,
         "full_width": false,

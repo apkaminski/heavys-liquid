@@ -56,10 +56,6 @@
         "description": {
           "type": "description",
           "settings": {}
-        },
-        "vitals_trust_aQQeEj": {
-          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {}
         }
       },
       "block_order": [
@@ -70,8 +66,7 @@
         "quantity_selector",
         "buy_buttons",
         "collapsible_tab_kczGTL",
-        "description",
-        "vitals_trust_aQQeEj"
+        "description"
       ],
       "custom_css": [
         ".product__tax {font-size: 14px;}"
@@ -104,7 +99,7 @@
         "featured_collection_3R4pM3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "non-artist-designs"
+            "collection": "heavys-artist-designs-non-music"
           }
         },
         "featured_collection_9qcNUG": {

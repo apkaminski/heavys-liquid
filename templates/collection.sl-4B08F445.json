@@ -52,7 +52,7 @@
           "type": "collection_block",
           "settings": {
             "show_on": "all_devices",
-            "collection": "non-artist-designs",
+            "collection": "heavys-artist-designs-non-music",
             "title": "Heavys Designs",
             "overlay_opacity": 10
           }

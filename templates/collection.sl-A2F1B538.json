@@ -104,7 +104,7 @@
         "description": "<h2><strong>Non-Artist Designs</strong></h2>",
         "show_description": false,
         "description_style": "body",
-        "collection": "non-artist-designs",
+        "collection": "heavys-artist-designs-non-music",
         "products_to_show": 8,
         "columns_desktop": 3,
         "full_width": false,
