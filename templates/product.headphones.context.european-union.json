@@ -1,8 +1,0 @@
-{
-  "parent": "product.headphones.json",
-  "context": {
-    "market": "european-union"
-  },
-  "sections": {
-  }
-}
